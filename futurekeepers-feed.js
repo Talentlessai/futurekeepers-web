@@ -58,7 +58,10 @@
   // CORS proxy. corsproxy.io is free + no rate limit issues.
   // Long-term upgrade: replace with a Cloudflare Worker on FK's own infra
   // (or n8n webhook) for full control + zero third-party dependency.
-  const CORS_PROXY = 'https://corsproxy.io/?';
+  // codetabs replaces corsproxy.io: corsproxy blocks fetches whose Origin
+  // header is futurekeepers.world / *.webflow.io with HTTP 403, and Origin
+  // can't be suppressed from JS. codetabs doesn't filter by Origin.
+  const CORS_PROXY = 'https://api.codetabs.com/v1/proxy/?quest=';
 
   // FK Brain (Supabase) — events_public REST endpoint.
   // The anon key is the public read-only key, safe to ship in client code.
@@ -138,7 +141,7 @@
   // ============================================================
   // CACHE — localStorage with TTL
   // ============================================================
-  const CACHE_KEY = 'fk_feed_v4_' + CURRENT_LOCALE; // bumped: fetch now sends no-referrer to bypass corsproxy.io 403
+  const CACHE_KEY = 'fk_feed_v5_' + CURRENT_LOCALE; // bumped: switched proxy from corsproxy.io to api.codetabs.com
   const CACHE_TTL_MS = 30 * 60 * 1000;
 
   function readCache() {
@@ -772,5 +775,5 @@
     setSupabaseKey: (key) => { EVENTS_CONFIG.anonKey = key; },
   };
 
-  console.log('[FK Feed] v1.3.0 loaded · locale=' + CURRENT_LOCALE);
+  console.log('[FK Feed] v1.4.0 loaded · locale=' + CURRENT_LOCALE);
 })(window);
