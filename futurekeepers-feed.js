@@ -163,7 +163,7 @@
   // ============================================================
   // CACHE — localStorage with TTL
   // ============================================================
-  const CACHE_KEY = 'fk_feed_v8_' + CURRENT_LOCALE; // bumped: Read now round-robins fkSignal/proElectrica/ccAsia (Signal + Voices always represented)
+  const CACHE_KEY = 'fk_feed_v9_' + CURRENT_LOCALE; // bumped: per-proxy 5s timeout + in-flight fetchAll dedup (page renders ~5s instead of 50s)
   const CACHE_TTL_MS = 30 * 60 * 1000;
 
   function readCache() {
@@ -183,6 +183,18 @@
   // ============================================================
   // FETCH + PARSE (XML)
   // ============================================================
+  // Per-proxy timeout: 5s. If a proxy hasn't responded by then it's hosed and
+  // we should skip to the next one. Without this, allorigins/raw stalling on
+  // proelectrica.substack.com blocks the whole render for 30+ seconds.
+  const PROXY_TIMEOUT_MS = 5000;
+
+  function fetchWithTimeout(url, ms) {
+    if (typeof AbortController === 'undefined') return fetch(url);
+    const ctrl = new AbortController();
+    const t = setTimeout(function () { ctrl.abort(); }, ms);
+    return fetch(url, { signal: ctrl.signal }).finally(function () { clearTimeout(t); });
+  }
+
   async function fetchSource(name, config) {
     let xmlText = null;
     let lastErr = null;
@@ -191,7 +203,7 @@
       const proxy = CORS_PROXIES[i];
       const proxyUrl = proxy.build(config.rss);
       try {
-        const res = await fetch(proxyUrl);
+        const res = await fetchWithTimeout(proxyUrl, PROXY_TIMEOUT_MS);
         if (!res.ok) { lastErr = new Error(proxy.name + ' HTTP ' + res.status); continue; }
         const rawBody = await res.text();
         const body = proxy.unwrap(rawBody);
@@ -199,7 +211,8 @@
         xmlText = body;
         break;
       } catch (e) {
-        lastErr = new Error(proxy.name + ': ' + (e.message || e));
+        const msg = e && e.name === 'AbortError' ? 'timeout' : (e.message || e);
+        lastErr = new Error(proxy.name + ': ' + msg);
       }
     }
     if (xmlText === null) throw lastErr || new Error('All proxies failed');
@@ -368,28 +381,43 @@
   // ============================================================
   // CORE: fetch and merge
   // ============================================================
+  // In-flight de-dup: 5 renderInto calls fire ~simultaneously on page load
+  // and each previously triggered its own full network fetch. Now we share
+  // one in-flight Promise across all callers in the same tick so each source
+  // is hit exactly once per page load.
+  let _inflightFetchAll = null;
+
   async function fetchAll(opts) {
     opts = opts || {};
     if (!opts.skipCache) {
       const cached = readCache();
       if (cached) return cached;
     }
-    const sources = buildSources();
-    const entries = Object.entries(sources)
-      .filter(([_, cfg]) => !cfg.localesOnly || cfg.localesOnly.includes(CURRENT_LOCALE));
-    // allSettled instead of all: one source failing (e.g. proelectrica when
-    // every public proxy times out for its specific URL) shouldn't blow up
-    // the whole render. We log the failures and keep going with what worked.
-    const settled = await Promise.allSettled(entries.map(([name, cfg]) => fetchSource(name, cfg)));
-    const results = settled.map((s, idx) => {
-      if (s.status === 'fulfilled') return s.value;
-      console.warn('[FK Feed] Source dropped: ' + entries[idx][0] + ' — ' + (s.reason && s.reason.message || s.reason));
-      return [];
-    });
-    const merged = results.flat().filter((i) => i.publishDate && !isNaN(i.publishDate));
-    merged.sort((a, b) => b.publishDate - a.publishDate);
-    writeCache(merged);
-    return merged;
+    if (_inflightFetchAll && !opts.forceRefresh) return _inflightFetchAll;
+
+    _inflightFetchAll = (async () => {
+      try {
+        const sources = buildSources();
+        const entries = Object.entries(sources)
+          .filter(([_, cfg]) => !cfg.localesOnly || cfg.localesOnly.includes(CURRENT_LOCALE));
+        // allSettled instead of all: one source failing (e.g. proelectrica when
+        // every public proxy times out for its specific URL) shouldn't blow up
+        // the whole render. We log the failures and keep going with what worked.
+        const settled = await Promise.allSettled(entries.map(([name, cfg]) => fetchSource(name, cfg)));
+        const results = settled.map((s, idx) => {
+          if (s.status === 'fulfilled') return s.value;
+          console.warn('[FK Feed] Source dropped: ' + entries[idx][0] + ' — ' + (s.reason && s.reason.message || s.reason));
+          return [];
+        });
+        const merged = results.flat().filter((i) => i.publishDate && !isNaN(i.publishDate));
+        merged.sort((a, b) => b.publishDate - a.publishDate);
+        writeCache(merged);
+        return merged;
+      } finally {
+        _inflightFetchAll = null;
+      }
+    })();
+    return _inflightFetchAll;
   }
 
   // ============================================================
@@ -852,5 +880,5 @@
     setSupabaseKey: (key) => { EVENTS_CONFIG.anonKey = key; },
   };
 
-  console.log('[FK Feed] v1.7.0 loaded · locale=' + CURRENT_LOCALE);
+  console.log('[FK Feed] v1.8.0 loaded · locale=' + CURRENT_LOCALE);
 })(window);
