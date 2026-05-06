@@ -163,7 +163,7 @@
   // ============================================================
   // CACHE — localStorage with TTL
   // ============================================================
-  const CACHE_KEY = 'fk_feed_v7_' + CURRENT_LOCALE; // bumped: 3-proxy chain + Promise.allSettled (one bad source no longer kills the whole render)
+  const CACHE_KEY = 'fk_feed_v8_' + CURRENT_LOCALE; // bumped: Read now round-robins fkSignal/proElectrica/ccAsia (Signal + Voices always represented)
   const CACHE_TTL_MS = 30 * 60 * 1000;
 
   function readCache() {
@@ -570,8 +570,42 @@
   async function getLatestArticles(n) {
     n = n || 6;
     const all = await fetchAll();
-    // Articles: anything that isn't a YouTube video or short
-    return all.filter((i) => i.format !== 'video' && i.format !== 'short').slice(0, n);
+    // Articles only — exclude YouTube videos and shorts
+    const articles = all.filter((i) => i.format !== 'video' && i.format !== 'short');
+
+    // Editorial rule (Steve, May 6 2026): Read should always feature FutureKeepers Signal
+    // and Danny Kennedy's Voices, not just the date-sort top. Otherwise C&C Asia
+    // crowds them out whenever they publish more frequently than the others.
+    //
+    // Strategy: round-robin pick across sources in priority order, taking the most
+    // recent unseen item from each source per pass. If a source has run out (or never
+    // had items — e.g. proElectrica when its proxy is down), the slot backfills from
+    // whichever source still has content. Net: every source that has anything gets
+    // representation; date-recency only orders within a source.
+    const priority = ['fkSignal', 'proElectrica', 'ccAsia'];
+    const buckets = {};
+    priority.forEach((s) => { buckets[s] = []; });
+    articles.forEach((item) => {
+      const bucket = buckets[item.source];
+      if (bucket) bucket.push(item);
+    });
+    // Each bucket is already sorted desc by publishDate (fetchAll sorts the merged list).
+    const picked = [];
+    let pass = 0;
+    // Keep looping while at least one bucket still has unspent items and we need more picks.
+    while (picked.length < n) {
+      let anyAdded = false;
+      for (const src of priority) {
+        if (picked.length >= n) break;
+        if (buckets[src][pass]) {
+          picked.push(buckets[src][pass]);
+          anyAdded = true;
+        }
+      }
+      if (!anyAdded) break; // every bucket exhausted
+      pass++;
+    }
+    return picked;
   }
 
   // ============================================================
@@ -818,5 +852,5 @@
     setSupabaseKey: (key) => { EVENTS_CONFIG.anonKey = key; },
   };
 
-  console.log('[FK Feed] v1.6.0 loaded · locale=' + CURRENT_LOCALE);
+  console.log('[FK Feed] v1.7.0 loaded · locale=' + CURRENT_LOCALE);
 })(window);
