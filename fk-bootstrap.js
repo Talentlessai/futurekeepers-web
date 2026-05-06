@@ -30,11 +30,26 @@
   window.__fkBootstrapV2Ran = true;
 
   // -----------------------------------------------------------
-  // CDN — pinned to a specific commit SHA so cache busts are
-  // deterministic. Bumped each time futurekeepers-feed.js or
-  // fk-homepage.css changes.
+  // CDN base auto-detected from this script's own URL. Whatever SHA
+  // the Webflow shim loaded fk-bootstrap.js from is the same SHA we
+  // use for fk-homepage.css and futurekeepers-feed.js — so a single
+  // re-pin in the Webflow shim updates everything atomically.
+  // (Bug fixed May 6 2026 — was hardcoded SHA, drifted from the shim
+  // and pinned the feed JS at a stale version.)
   // -----------------------------------------------------------
-  var CDN = 'https://cdn.jsdelivr.net/gh/Talentlessai/futurekeepers-web@fba75771f2cb02f3f67f276a367248db72e576ff';
+  var thisScript = document.currentScript;
+  if (!thisScript) {
+    var allScripts = document.getElementsByTagName('script');
+    for (var k = allScripts.length - 1; k >= 0; k--) {
+      if (allScripts[k].src && allScripts[k].src.indexOf('fk-bootstrap.js') >= 0) {
+        thisScript = allScripts[k];
+        break;
+      }
+    }
+  }
+  var bootSrc = thisScript ? thisScript.src : '';
+  var CDN = bootSrc.replace(/\/fk-bootstrap\.js.*$/, '') ||
+            'https://cdn.jsdelivr.net/gh/Talentlessai/futurekeepers-web@main';
 
   // -----------------------------------------------------------
   // Locale detection. Webflow Localization routes every non-English
