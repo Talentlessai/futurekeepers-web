@@ -69,6 +69,33 @@
     'noise':   { color: '#ed1c24', label: 'Noise' },
     'voices':  { color: '#e65100', label: 'Voices' },
   };
+
+  // YouTube channel IDs per locale (mirrors the map inside futurekeepers-feed.js).
+  // Used to build the "Watch all on YouTube" CTA at the bottom of Signal + Noise
+  // category pages, so the link points to the right localized channel.
+  var YT_CHANNELS = {
+    en: 'UCt-RNZMxKm5FpZITxHYEF3Q',
+    id: 'UCOYDrFMDw0750hmsH3sTa8A',
+    zh: 'UCuGMZ9sP3UQylrFQIQMZNzA',
+    bn: 'UC23IKLcxVT9MtIvy4ivsDyQ',
+    ur: 'UCWDjo1CRdJl66GcKH52by8g',
+    th: 'UCqddPe00oaHHe_EMe5udlRQ',
+    hi: 'UCo54PxsldKwPEHmlcRFAArA',
+  };
+
+  // CTA copy. Steve, May 6 2026: YouTube RSS hard-caps at 15 items per channel
+  // so to "go deeper than the homepage" each category page bottoms out with a
+  // direct link to the canonical source. Signal/Noise → YouTube channel,
+  // Voices → ProElectrica Substack.
+  var CTA = {
+    en: { videos: 'Watch all on YouTube',  shorts: 'Watch all Shorts on YouTube',  voices: "Read all on Danny Kennedy's ProElectrica" },
+    id: { videos: 'Tonton semua di YouTube', shorts: 'Tonton semua Shorts di YouTube', voices: 'Baca semua di ProElectrica' },
+    zh: { videos: '在 YouTube 上观看全部',     shorts: '在 YouTube 上观看全部短视频',      voices: '在 ProElectrica 上阅读全部' },
+    bn: { videos: 'YouTube-এ সব ভিডিও',     shorts: 'YouTube-এ সব শর্টস',           voices: 'ProElectrica-এ সব পড়ুন' },
+    ur: { videos: 'YouTube پر تمام دیکھیں', shorts: 'YouTube پر تمام شارٹس',         voices: 'ProElectrica پر تمام پڑھیں' },
+    th: { videos: 'ดูทั้งหมดบน YouTube',     shorts: 'ดู Shorts ทั้งหมดบน YouTube',      voices: 'อ่านทั้งหมดบน ProElectrica' },
+    hi: { videos: 'YouTube पर सभी देखें',    shorts: 'YouTube पर सभी शॉर्ट्स',        voices: 'ProElectrica पर सभी पढ़ें' },
+  };
   var meta = CATEGORIES[slug];
   if (!meta) return; // unknown slug — leave the page alone
 
@@ -166,8 +193,42 @@
       // engine will fetch up to 15 per source per page, so most
       // categories will have between 6 and 21 items in practice.
       FutureKeepersFeed.renderInto('#fk-category-target', 'category-' + slug, 24);
+      addBottomCTA();
     };
     document.body.appendChild(script);
+  }
+
+  // Append a "go deeper" CTA below the grid linking out to the canonical
+  // source. Signal + Noise point at the right localized YouTube channel;
+  // Voices points at Danny Kennedy's ProElectrica Substack.
+  function addBottomCTA() {
+    var host = document.getElementById('fk-feed-host');
+    if (!host || host.querySelector('.fk-category-cta')) return;
+
+    var ctaText, ctaHref;
+    var copy = (CTA[locale] || CTA.en);
+    if (slug === 'signal') {
+      ctaText = copy.videos;
+      ctaHref = 'https://www.youtube.com/channel/' + (YT_CHANNELS[locale] || YT_CHANNELS.en) + '/videos';
+    } else if (slug === 'noise') {
+      ctaText = copy.shorts;
+      ctaHref = 'https://www.youtube.com/channel/' + (YT_CHANNELS[locale] || YT_CHANNELS.en) + '/shorts';
+    } else if (slug === 'voices') {
+      ctaText = copy.voices;
+      ctaHref = 'https://proelectrica.substack.com/';
+    } else {
+      return;
+    }
+
+    var ctaWrapper = document.createElement('div');
+    ctaWrapper.className = 'container fk-category-cta';
+    ctaWrapper.style.cssText = 'text-align:center;padding-top:0;padding-bottom:60px;';
+    ctaWrapper.innerHTML =
+      '<a href="' + ctaHref + '" target="_blank" rel="noopener" ' +
+      'style="display:inline-block;padding:14px 32px;background:' + meta.color + ';color:#fff;' +
+      'font-weight:700;text-decoration:none;border-radius:999px;font-size:15px;letter-spacing:-0.01em;">' +
+      ctaText + ' →</a>';
+    host.appendChild(ctaWrapper);
   }
 
   if (document.readyState === 'loading') {
