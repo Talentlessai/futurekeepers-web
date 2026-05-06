@@ -26,8 +26,36 @@
  *   6. Calls renderInto for hero / watch / shorts / read / events
  */
 (function () {
-  if (window.__fkBootstrapV2Ran) return;
-  window.__fkBootstrapV2Ran = true;
+  // Versioned guard. Newer guard name lets new bootstraps override old ones
+  // when Webflow stacks multiple shim versions in the rendered HTML
+  // (which it does — old applied scripts can't be cleanly deleted via the
+  // public Custom Code v2 API).
+  if (window.__fkBootstrapV3Ran) return;
+  window.__fkBootstrapV3Ran = true;
+  // Also clear V2 guard so an OLDER concurrent bootstrap doesn't bail out
+  // if it happens to run after this one — but this is best-effort, the
+  // takeover block below is the actual safety net.
+  window.__fkBootstrapV2Ran = false;
+
+  // Takeover: nuke whatever a prior bootstrap version might have injected
+  // before we render. If we run AFTER an older bootstrap, this clears its
+  // host + feed-script + global so we can re-inject fresh. If we run
+  // BEFORE any older one (rare), this is a no-op.
+  var existing = document.getElementById('fk-feed-host');
+  if (existing) existing.remove();
+  Array.prototype.forEach.call(
+    document.querySelectorAll('script[src*="futurekeepers-feed.js"]'),
+    function (s) { s.remove(); }
+  );
+  Array.prototype.forEach.call(
+    document.querySelectorAll('link[href*="fk-homepage.css"]'),
+    function (l) { l.remove(); }
+  );
+  if (window.FutureKeepersFeed) try { delete window.FutureKeepersFeed; } catch (e) {}
+  // Restore Webflow's main.body-content children that older bootstraps hid,
+  // so we can re-hide them cleanly below.
+  var __mainEl = document.querySelector('main.body-content');
+  if (__mainEl) Array.prototype.forEach.call(__mainEl.children, function (c) { c.style.display = ''; });
 
   // -----------------------------------------------------------
   // CDN base auto-detected from this script's own URL. Whatever SHA

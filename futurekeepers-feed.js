@@ -163,7 +163,7 @@
   // ============================================================
   // CACHE — localStorage with TTL
   // ============================================================
-  const CACHE_KEY = 'fk_feed_v11_' + CURRENT_LOCALE; // bumped: tighter timeouts (3s/proxy, 6.5s deadline) + FK-Signal-led Read mix (4+1+1)
+  const CACHE_KEY = 'fk_feed_v12_' + CURRENT_LOCALE; // bumped: hero excludes ccAsia (masthead = FK voice only, not news)
   const CACHE_TTL_MS = 30 * 60 * 1000;
 
   function readCache() {
@@ -596,8 +596,14 @@
   async function getHero(n) {
     n = n || 3;
     const all = await fetchAll();
-    // Hero: ALL formats EXCEPT shorts (Steve's rule). Most recent first across sources.
-    return all.filter((i) => i.format !== 'short').slice(0, n);
+    // Hero / masthead rules (Steve, May 6 2026):
+    //   - No shorts (Steve's earlier rule — shorts read awkwardly large)
+    //   - No C&C Asia. C&C is news (good and bad). FutureKeepers is hope and
+    //     inspiration — the masthead should reflect FK's voice, not the news
+    //     cycle. C&C still appears in Read, just not as the hero feature.
+    return all
+      .filter((i) => i.format !== 'short' && i.source !== 'ccAsia')
+      .slice(0, n);
   }
   async function getLatestVideos(n) {
     n = n || 8;
@@ -959,5 +965,5 @@
     setSupabaseKey: (key) => { EVENTS_CONFIG.anonKey = key; },
   };
 
-  console.log('[FK Feed] v1.10.1 loaded · locale=' + CURRENT_LOCALE);
+  console.log('[FK Feed] v1.11.0 loaded · locale=' + CURRENT_LOCALE);
 })(window);
