@@ -697,8 +697,12 @@
   }
 
   function renderVideoCard(item) {
+    // Absolute position the thumbnail to fill .card-img regardless of the
+    // parent's flex layout. Without `position:absolute;inset:0`, a flex
+    // .card-img with align-items:flex-end shrinks the img to its intrinsic
+    // size and parks it bottom-left — bug Steve caught on category pages.
     const thumb = item.thumbnail
-      ? '<img src="' + escapeHtml(item.thumbnail) + '" alt="" loading="lazy" style="width:100%;height:100%;object-fit:cover;">'
+      ? '<img src="' + escapeHtml(item.thumbnail) + '" alt="" loading="lazy" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;">'
       : '';
     return (
       '<a class="card" href="' + escapeHtml(item.link) + '" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;">' +
@@ -718,7 +722,7 @@
 
   function renderShortCard(item) {
     const thumb = item.thumbnail
-      ? '<img src="' + escapeHtml(item.thumbnail) + '" alt="" loading="lazy" style="width:100%;height:100%;object-fit:cover;">'
+      ? '<img src="' + escapeHtml(item.thumbnail) + '" alt="" loading="lazy" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;">'
       : '';
     return (
       '<a class="short-card" href="' + escapeHtml(item.link) + '" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;">' +
@@ -733,7 +737,7 @@
 
   function renderArticleCard(item) {
     const thumb = item.thumbnail
-      ? '<img src="' + escapeHtml(item.thumbnail) + '" alt="" loading="lazy" style="width:100%;height:100%;object-fit:cover;">'
+      ? '<img src="' + escapeHtml(item.thumbnail) + '" alt="" loading="lazy" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;">'
       : '<span class="card-img-label">' + pillLabel(item.taxonomy) + '</span>';
     const author = item.author ? '<p class="by">by ' + escapeHtml(item.author) + '</p>' : '';
     const attribution = item.format !== 'video' && item.format !== 'short'
@@ -927,5 +931,5 @@
     setSupabaseKey: (key) => { EVENTS_CONFIG.anonKey = key; },
   };
 
-  console.log('[FK Feed] v1.8.0 loaded · locale=' + CURRENT_LOCALE);
+  console.log('[FK Feed] v1.9.0 loaded · locale=' + CURRENT_LOCALE);
 })(window);
