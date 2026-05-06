@@ -60,12 +60,14 @@
   // string is the localized "live feed" badge — we lean on a small
   // subset of the homepage translation table.
   // -----------------------------------------------------------
+  // C&C / Climate & Capital removed by Steve, May 6 2026 — we feature
+  // Climate & Capital articles in the homepage Read mix but don't want
+  // a dedicated category page anymore. The CMS category item is archived,
+  // so /post-category/climate-capital 404s natively in Webflow now.
   var CATEGORIES = {
-    'signal':           { color: '#bc1e75', label: 'Signal' },
-    'noise':            { color: '#ed1c24', label: 'Noise' },
-    'voices':           { color: '#e65100', label: 'Voices' },
-    'climate-capital':  { color: '#00897b', label: 'Climate & Capital' },
-    'cc-asia':          { color: '#00897b', label: 'Climate & Capital' },
+    'signal':  { color: '#bc1e75', label: 'Signal' },
+    'noise':   { color: '#ed1c24', label: 'Noise' },
+    'voices':  { color: '#e65100', label: 'Voices' },
   };
   var meta = CATEGORIES[slug];
   if (!meta) return; // unknown slug — leave the page alone
