@@ -55,13 +55,19 @@
     tl: 'UCX2ZuZ8pVSWPdQDk2jH1KDQ', // Future Keepers Tagalog (channel exists)
   };
 
-  // CORS proxy. corsproxy.io is free + no rate limit issues.
+  // CORS proxy chain — tried in order, first one to return a non-empty body wins.
+  // codetabs handles YouTube + C&C Asia well but silently returns 0 bytes for
+  // Substack. allorigins handles Substack but is slower and less reliable for
+  // YouTube. Ordering codetabs first means the fast path succeeds for ~75% of
+  // sources; allorigins picks up the Substack stragglers.
   // Long-term upgrade: replace with a Cloudflare Worker on FK's own infra
   // (or n8n webhook) for full control + zero third-party dependency.
-  // codetabs replaces corsproxy.io: corsproxy blocks fetches whose Origin
-  // header is futurekeepers.world / *.webflow.io with HTTP 403, and Origin
-  // can't be suppressed from JS. codetabs doesn't filter by Origin.
-  const CORS_PROXY = 'https://api.codetabs.com/v1/proxy/?quest=';
+  const CORS_PROXIES = [
+    function (url) { return 'https://api.codetabs.com/v1/proxy/?quest=' + url; },
+    function (url) { return 'https://api.allorigins.win/raw?url=' + encodeURIComponent(url); },
+  ];
+  // Backwards-compat alias for the diagnostic info object emitted from getStatus().
+  const CORS_PROXY = 'codetabs+allorigins (chain)';
 
   // FK Brain (Supabase) — events_public REST endpoint.
   // The anon key is the public read-only key, safe to ship in client code.
@@ -141,7 +147,7 @@
   // ============================================================
   // CACHE — localStorage with TTL
   // ============================================================
-  const CACHE_KEY = 'fk_feed_v5_' + CURRENT_LOCALE; // bumped: switched proxy from corsproxy.io to api.codetabs.com
+  const CACHE_KEY = 'fk_feed_v6_' + CURRENT_LOCALE; // bumped: codetabs+allorigins chain (Substack feeds need allorigins fallback)
   const CACHE_TTL_MS = 30 * 60 * 1000;
 
   function readCache() {
@@ -162,12 +168,24 @@
   // FETCH + PARSE (XML)
   // ============================================================
   async function fetchSource(name, config) {
-    const url = CORS_PROXY + encodeURIComponent(config.rss);
+    let xmlText = null;
+    let lastErr = null;
+    // Walk the proxy chain. First success (non-empty body) wins.
+    for (let i = 0; i < CORS_PROXIES.length; i++) {
+      const proxyUrl = CORS_PROXIES[i](config.rss);
+      try {
+        const res = await fetch(proxyUrl, { referrerPolicy: 'no-referrer' });
+        if (!res.ok) { lastErr = new Error('HTTP ' + res.status); continue; }
+        const body = await res.text();
+        if (!body || body.length < 32) { lastErr = new Error('empty body from proxy ' + i); continue; }
+        xmlText = body;
+        break;
+      } catch (e) {
+        lastErr = e;
+      }
+    }
+    if (xmlText === null) throw lastErr || new Error('All proxies failed');
     try {
-      // referrerPolicy: 'no-referrer' bypasses corsproxy.io's referer-based 403 block
-      const res = await fetch(url, { referrerPolicy: 'no-referrer' });
-      if (!res.ok) throw new Error('HTTP ' + res.status);
-      const xmlText = await res.text();
       const parser = new DOMParser();
       const doc = parser.parseFromString(xmlText, 'application/xml');
       // Defensive: detect parse errors
@@ -775,5 +793,5 @@
     setSupabaseKey: (key) => { EVENTS_CONFIG.anonKey = key; },
   };
 
-  console.log('[FK Feed] v1.4.0 loaded · locale=' + CURRENT_LOCALE);
+  console.log('[FK Feed] v1.5.0 loaded · locale=' + CURRENT_LOCALE);
 })(window);
