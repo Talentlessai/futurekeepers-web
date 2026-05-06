@@ -28,6 +28,10 @@
 #fk-feed-host img { max-width: 100%; display: block; }
 #fk-feed-host a { color: inherit; text-decoration: none; }
 #fk-feed-host button { font-family: inherit; cursor: pointer; border: 0; background: none; }
+/* Breathing room before Webflow's footer-section.
+   The killed Subscribe block used to provide this; without it the calendar
+   sits right against the footer. */
+#fk-feed-host { padding-bottom: 80px; }
 
 /* ============================================================
    HERO
