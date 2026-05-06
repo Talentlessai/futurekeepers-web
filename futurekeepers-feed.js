@@ -138,7 +138,7 @@
   // ============================================================
   // CACHE — localStorage with TTL
   // ============================================================
-  const CACHE_KEY = 'fk_feed_v3_' + CURRENT_LOCALE; // bumped: C&C images now proxied through images.weserv.nl
+  const CACHE_KEY = 'fk_feed_v4_' + CURRENT_LOCALE; // bumped: fetch now sends no-referrer to bypass corsproxy.io 403
   const CACHE_TTL_MS = 30 * 60 * 1000;
 
   function readCache() {
@@ -161,7 +161,8 @@
   async function fetchSource(name, config) {
     const url = CORS_PROXY + encodeURIComponent(config.rss);
     try {
-      const res = await fetch(url);
+      // referrerPolicy: 'no-referrer' bypasses corsproxy.io's referer-based 403 block
+      const res = await fetch(url, { referrerPolicy: 'no-referrer' });
       if (!res.ok) throw new Error('HTTP ' + res.status);
       const xmlText = await res.text();
       const parser = new DOMParser();
@@ -771,5 +772,5 @@
     setSupabaseKey: (key) => { EVENTS_CONFIG.anonKey = key; },
   };
 
-  console.log('[FK Feed] v1.2.0 loaded · locale=' + CURRENT_LOCALE);
+  console.log('[FK Feed] v1.3.0 loaded · locale=' + CURRENT_LOCALE);
 })(window);

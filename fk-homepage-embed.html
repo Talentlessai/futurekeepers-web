@@ -1,0 +1,104 @@
+<!-- ===================================================================
+     FutureKeepers Homepage — html-embed payload for Webflow Home page.
+     This entire block goes into the existing html-embed node
+     (id: 2cdf923f-6159-f847-1a9b-22c4b029f1ab).
+     Loads styles + feed engine from jsDelivr, injects layout, hides
+     existing Mag Commerce template sections, federates content live.
+     ================================================================ -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Talentlessai/futurekeepers-web@main/fk-homepage.css">
+
+<div id="fk-feed-host">
+  <section class="hero">
+    <div id="fk-hero-target" style="position:absolute;inset:0;display:flex;align-items:flex-end;color:#fff;">
+      <div style="padding:48px;color:#fff;opacity:0.6;">Loading hero…</div>
+    </div>
+    <div class="hero-arrows" style="z-index:4;"><span data-hero-prev>‹</span><span data-hero-next>›</span></div>
+    <div class="hero-dots" style="z-index:4;"></div>
+    <div class="hero-curated-badge">Auto-curated · latest from FutureKeepers</div>
+  </section>
+  <div class="container">
+    <h2 class="section-title">Watch
+      <a class="more" href="/post-category/signal">See all videos on Signal →</a>
+      <span class="live-tag">⚡ Live feed</span>
+    </h2>
+    <div class="grid-4" id="fk-watch-target"></div>
+  </div>
+  <div class="container">
+    <h2 class="section-title">Shorts
+      <a class="more" href="/post-category/noise">See all Shorts on Noise →</a>
+      <span class="live-tag">⚡ Live feed</span>
+    </h2>
+    <div class="shorts-grid" id="fk-shorts-target"></div>
+  </div>
+  <div class="container">
+    <h2 class="section-title">Read
+      <a class="more" href="/post-category/signal">See all articles →</a>
+      <span class="live-tag">⚡ Live feed</span>
+    </h2>
+    <div class="grid-3" id="fk-read-target"></div>
+  </div>
+  <div class="container">
+    <h2 class="section-title">What's Coming
+      <a class="more" href="#">Full calendar →</a>
+      <span class="live-tag">⚡ Live feed</span>
+    </h2>
+    <div class="event-grid" id="fk-events-target"></div>
+  </div>
+  <section class="subscribe">
+    <div class="subscribe-inner">
+      <div>
+        <span class="subscribe-tag">Subscribe</span>
+        <h2>STAY IN<br>THE LIGHT</h2>
+        <form class="subscribe-form" action="https://futurekeepers.substack.com/subscribe" method="get" target="_blank">
+          <input type="email" name="email" placeholder="Email address">
+          <button type="submit">Subscribe</button>
+        </form>
+      </div>
+      <div class="subscribe-mockup">SUBSCRIBE</div>
+    </div>
+  </section>
+</div>
+
+<script src="https://cdn.jsdelivr.net/gh/Talentlessai/futurekeepers-web@main/futurekeepers-feed.js"></script>
+<script>
+(function () {
+  function init() {
+    var host = document.getElementById('fk-feed-host');
+    if (!host) return;
+
+    // Find Webflow's main.body-content wrapper
+    var main = document.querySelector('main.body-content') || document.body;
+    var footer = document.getElementById('footer-section');
+
+    // Move our injected layout to be the first child of main.body-content
+    if (main.firstElementChild !== host) {
+      main.insertBefore(host, main.firstElementChild);
+    }
+
+    // Hide every other direct child of main.body-content EXCEPT our host and the footer
+    Array.prototype.forEach.call(main.children, function (child) {
+      if (child !== host && child !== footer) child.style.display = 'none';
+    });
+
+    // Render the federated feeds (retry until FutureKeepersFeed has loaded)
+    var tries = 0;
+    (function renderFeeds() {
+      if (window.FutureKeepersFeed) {
+        FutureKeepersFeed.renderInto('#fk-hero-target',   'hero',   3);
+        FutureKeepersFeed.renderInto('#fk-watch-target',  'watch',  8);
+        FutureKeepersFeed.renderInto('#fk-shorts-target', 'shorts', 6);
+        FutureKeepersFeed.renderInto('#fk-read-target',   'read',   6);
+        FutureKeepersFeed.renderInto('#fk-events-target', 'events', 6);
+      } else if (++tries < 60) {
+        setTimeout(renderFeeds, 100);
+      }
+    })();
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>
