@@ -163,7 +163,7 @@
   // ============================================================
   // CACHE — localStorage with TTL
   // ============================================================
-  const CACHE_KEY = 'fk_feed_v9_' + CURRENT_LOCALE; // bumped: per-proxy 5s timeout + in-flight fetchAll dedup (page renders ~5s instead of 50s)
+  const CACHE_KEY = 'fk_feed_v10_' + CURRENT_LOCALE; // bumped: getCategoryItems + category-<slug> render slot for /post-category/<slug>
   const CACHE_TTL_MS = 30 * 60 * 1000;
 
   function readCache() {
@@ -595,6 +595,41 @@
     const all = await fetchAll();
     return all.filter((i) => i.format === 'short').slice(0, n);
   }
+  // ============================================================
+  // CATEGORY PAGES — used by /post-category/<slug> renderer.
+  //
+  // The Webflow CMS that used to drive the category pages was being
+  // fed by a broken n8n Substack→CMS automation, which means the post
+  // grid on /post-category/signal etc. was stale (some posts pre-2020).
+  // We replace it the same way we replaced the homepage: federate at
+  // render time directly from each source.
+  // ============================================================
+  const CATEGORY_SOURCES = {
+    'signal':           ['ytLongForm', 'fkSignal'],
+    'noise':            ['ytShorts'],
+    'voices':           ['proElectrica'],
+    'climate-capital':  ['ccAsia'],
+    // legacy slug — homepage doesn't link here, but old external links + 301s
+    'cc-asia':          ['ccAsia'],
+  };
+
+  async function getCategoryItems(categorySlug, n) {
+    n = n || 24;
+    const sources = CATEGORY_SOURCES[(categorySlug || '').toLowerCase()];
+    if (!sources) return [];
+    const all = await fetchAll();
+    return all.filter((i) => sources.indexOf(i.source) >= 0).slice(0, n);
+  }
+
+  // Picks the right card renderer based on each item's format. Used by
+  // the category pages so a Signal page (which mixes long-form videos
+  // with Substack articles) renders each as its native card type.
+  function renderItemAuto(item) {
+    if (item.format === 'video') return renderVideoCard(item);
+    if (item.format === 'short') return renderShortCard(item);
+    return renderArticleCard(item);
+  }
+
   async function getLatestArticles(n) {
     n = n || 6;
     const all = await fetchAll();
@@ -792,6 +827,18 @@
       } else if (slot === 'events') {
         items = await fetchEvents({ limit: n || 6 });
         renderer = renderEventCard;
+      } else if (slot && slot.indexOf('category-') === 0) {
+        // category-<slug>: pulls items federated from the category's
+        // configured sources, renders each with its native card type
+        // (video / short / article). Used by /post-category/<slug>.
+        const cat = slot.substring('category-'.length);
+        items = await getCategoryItems(cat, n || 24);
+        if (!items.length) {
+          target.innerHTML = '<div style="padding:40px;text-align:center;color:#888;font-size:14px;">No items available right now.</div>';
+          return;
+        }
+        target.innerHTML = items.map(renderItemAuto).join('');
+        return;
       } else {
         items = (await fetchAll()).slice(0, n || 10);
         renderer = renderArticleCard;
@@ -868,7 +915,7 @@
       cacheTtlMs: CACHE_TTL_MS,
       eventsConfig: EVENTS_CONFIG,
     },
-    fetchAll, getAll, getHero, getLatestVideos, getLatestShorts, getLatestArticles,
+    fetchAll, getAll, getHero, getLatestVideos, getLatestShorts, getLatestArticles, getCategoryItems,
     fetchEvents,
     renderInto, renderVideoCard, renderShortCard, renderArticleCard, renderHeroSlide, renderEventCard,
     clearCache: () => {
