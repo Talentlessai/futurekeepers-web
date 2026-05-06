@@ -673,11 +673,17 @@
       const bucket = buckets[item.source];
       if (bucket) bucket.push(item);
     });
-    // CAPS — max items per source to keep partner content from dominating.
-    // ccAsia is hard-capped at 1 even when other sources fail; better to show
-    // a small Read section with FK voice intact than to backfill it with 6
-    // C&C cards and visually bury Signal.
-    const caps = { fkSignal: n, proElectrica: 1, ccAsia: 1 };
+    // CAPS — max items per source. When FK Signal has content, partner
+    // content (C&C / Voices) is capped at 1 each so Signal dominates.
+    // When FK Signal is empty (proxy outage etc.), the C&C cap relaxes so
+    // Read still shows useful content rather than 1 lone card. Voices
+    // stays capped at 1 because it's a guest voice, not a backfill source.
+    const fkAvailable = buckets.fkSignal.length > 0;
+    const caps = {
+      fkSignal: n,
+      proElectrica: 1,
+      ccAsia: fkAvailable ? 1 : n,
+    };
     const picked = [];
     function countSource(src) { return picked.filter((x) => x.source === src).length; }
     function tryTake(src) {
