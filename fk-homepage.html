@@ -1,0 +1,64 @@
+<!--
+  FutureKeepers Homepage — Watch + Read body content.
+  This snippet is injected by fk-homepage-bootstrap.js into the
+  Webflow Home page, between the existing Webflow-native top nav/header
+  and footer. Scoped under #fk-feed-host so the CSS doesn't leak.
+-->
+<div id="fk-feed-host">
+
+  <section class="hero">
+    <div id="fk-hero-target" style="position:absolute;inset:0;display:flex;align-items:flex-end;color:#fff;">
+      <div style="padding:48px;color:#fff;opacity:0.6;">Loading hero…</div>
+    </div>
+    <div class="hero-arrows" style="z-index:4;"><span data-hero-prev>‹</span><span data-hero-next>›</span></div>
+    <div class="hero-dots" style="z-index:4;"></div>
+    <div class="hero-curated-badge">Auto-curated · latest from FutureKeepers</div>
+  </section>
+
+  <div class="container">
+    <h2 class="section-title">Watch
+      <a class="more" href="/post-category/signal">See all videos on Signal →</a>
+      <span class="live-tag">⚡ Live feed</span>
+    </h2>
+    <div class="grid-4" id="fk-watch-target"></div>
+  </div>
+
+  <div class="container">
+    <h2 class="section-title">Shorts
+      <a class="more" href="/post-category/noise">See all Shorts on Noise →</a>
+      <span class="live-tag">⚡ Live feed</span>
+    </h2>
+    <div class="shorts-grid" id="fk-shorts-target"></div>
+  </div>
+
+  <div class="container">
+    <h2 class="section-title">Read
+      <a class="more" href="/post-category/signal">See all articles →</a>
+      <span class="live-tag">⚡ Live feed</span>
+    </h2>
+    <div class="grid-3" id="fk-read-target"></div>
+  </div>
+
+  <div class="container">
+    <h2 class="section-title">What's Coming
+      <a class="more" href="#">Full calendar →</a>
+      <span class="live-tag">⚡ Live feed</span>
+    </h2>
+    <div class="event-grid" id="fk-events-target"></div>
+  </div>
+
+  <section class="subscribe">
+    <div class="subscribe-inner">
+      <div>
+        <span class="subscribe-tag">Subscribe</span>
+        <h2>STAY IN<br>THE LIGHT</h2>
+        <form class="subscribe-form" action="https://futurekeepers.substack.com/subscribe" method="get" target="_blank">
+          <input type="email" name="email" placeholder="Email address">
+          <button type="submit">Subscribe</button>
+        </form>
+      </div>
+      <div class="subscribe-mockup">SUBSCRIBE</div>
+    </div>
+  </section>
+
+</div>
