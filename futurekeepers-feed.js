@@ -55,19 +55,35 @@
     tl: 'UCX2ZuZ8pVSWPdQDk2jH1KDQ', // Future Keepers Tagalog (channel exists)
   };
 
-  // CORS proxy chain — tried in order, first one to return a non-empty body wins.
-  // codetabs handles YouTube + C&C Asia well but silently returns 0 bytes for
-  // Substack. allorigins handles Substack but is slower and less reliable for
-  // YouTube. Ordering codetabs first means the fast path succeeds for ~75% of
-  // sources; allorigins picks up the Substack stragglers.
-  // Long-term upgrade: replace with a Cloudflare Worker on FK's own infra
-  // (or n8n webhook) for full control + zero third-party dependency.
+  // CORS proxy chain — tried in order, first one returning a non-empty body wins.
+  // Different proxies have different per-source blind spots:
+  //   - codetabs: fast for YouTube + C&C, silently returns 0 bytes for Substack
+  //   - allorigins /raw: works for futurekeepers.substack, intermittent 522 on proelectrica
+  //   - allorigins /get: JSON-wrapped, most resilient (works for proelectrica when /raw fails)
+  // Each entry is { name, build(url), unwrap(body) } — unwrap exists for JSON-wrapped proxies.
+  // Long-term upgrade: replace this with a Cloudflare Worker on FK's own infra
+  // for full control + zero third-party dependency.
   const CORS_PROXIES = [
-    function (url) { return 'https://api.codetabs.com/v1/proxy/?quest=' + url; },
-    function (url) { return 'https://api.allorigins.win/raw?url=' + encodeURIComponent(url); },
+    {
+      name: 'codetabs',
+      build: function (url) { return 'https://api.codetabs.com/v1/proxy/?quest=' + url; },
+      unwrap: function (body) { return body; },
+    },
+    {
+      name: 'allorigins-raw',
+      build: function (url) { return 'https://api.allorigins.win/raw?url=' + encodeURIComponent(url); },
+      unwrap: function (body) { return body; },
+    },
+    {
+      name: 'allorigins-get',
+      build: function (url) { return 'https://api.allorigins.win/get?url=' + encodeURIComponent(url) + '&charset=UTF-8'; },
+      unwrap: function (body) {
+        try { return JSON.parse(body).contents || ''; } catch (e) { return ''; }
+      },
+    },
   ];
   // Backwards-compat alias for the diagnostic info object emitted from getStatus().
-  const CORS_PROXY = 'codetabs+allorigins (chain)';
+  const CORS_PROXY = 'codetabs+allorigins-raw+allorigins-get (chain)';
 
   // FK Brain (Supabase) — events_public REST endpoint.
   // The anon key is the public read-only key, safe to ship in client code.
@@ -147,7 +163,7 @@
   // ============================================================
   // CACHE — localStorage with TTL
   // ============================================================
-  const CACHE_KEY = 'fk_feed_v6_' + CURRENT_LOCALE; // bumped: codetabs+allorigins chain (Substack feeds need allorigins fallback)
+  const CACHE_KEY = 'fk_feed_v7_' + CURRENT_LOCALE; // bumped: 3-proxy chain + Promise.allSettled (one bad source no longer kills the whole render)
   const CACHE_TTL_MS = 30 * 60 * 1000;
 
   function readCache() {
@@ -170,18 +186,20 @@
   async function fetchSource(name, config) {
     let xmlText = null;
     let lastErr = null;
-    // Walk the proxy chain. First success (non-empty body) wins.
+    // Walk the proxy chain. First success (non-empty body after unwrap) wins.
     for (let i = 0; i < CORS_PROXIES.length; i++) {
-      const proxyUrl = CORS_PROXIES[i](config.rss);
+      const proxy = CORS_PROXIES[i];
+      const proxyUrl = proxy.build(config.rss);
       try {
-        const res = await fetch(proxyUrl, { referrerPolicy: 'no-referrer' });
-        if (!res.ok) { lastErr = new Error('HTTP ' + res.status); continue; }
-        const body = await res.text();
-        if (!body || body.length < 32) { lastErr = new Error('empty body from proxy ' + i); continue; }
+        const res = await fetch(proxyUrl);
+        if (!res.ok) { lastErr = new Error(proxy.name + ' HTTP ' + res.status); continue; }
+        const rawBody = await res.text();
+        const body = proxy.unwrap(rawBody);
+        if (!body || body.length < 32) { lastErr = new Error('empty body from ' + proxy.name); continue; }
         xmlText = body;
         break;
       } catch (e) {
-        lastErr = e;
+        lastErr = new Error(proxy.name + ': ' + (e.message || e));
       }
     }
     if (xmlText === null) throw lastErr || new Error('All proxies failed');
@@ -357,10 +375,17 @@
       if (cached) return cached;
     }
     const sources = buildSources();
-    const promises = Object.entries(sources)
-      .filter(([_, cfg]) => !cfg.localesOnly || cfg.localesOnly.includes(CURRENT_LOCALE))
-      .map(([name, cfg]) => fetchSource(name, cfg));
-    const results = await Promise.all(promises);
+    const entries = Object.entries(sources)
+      .filter(([_, cfg]) => !cfg.localesOnly || cfg.localesOnly.includes(CURRENT_LOCALE));
+    // allSettled instead of all: one source failing (e.g. proelectrica when
+    // every public proxy times out for its specific URL) shouldn't blow up
+    // the whole render. We log the failures and keep going with what worked.
+    const settled = await Promise.allSettled(entries.map(([name, cfg]) => fetchSource(name, cfg)));
+    const results = settled.map((s, idx) => {
+      if (s.status === 'fulfilled') return s.value;
+      console.warn('[FK Feed] Source dropped: ' + entries[idx][0] + ' — ' + (s.reason && s.reason.message || s.reason));
+      return [];
+    });
     const merged = results.flat().filter((i) => i.publishDate && !isNaN(i.publishDate));
     merged.sort((a, b) => b.publishDate - a.publishDate);
     writeCache(merged);
@@ -793,5 +818,5 @@
     setSupabaseKey: (key) => { EVENTS_CONFIG.anonKey = key; },
   };
 
-  console.log('[FK Feed] v1.5.0 loaded · locale=' + CURRENT_LOCALE);
+  console.log('[FK Feed] v1.6.0 loaded · locale=' + CURRENT_LOCALE);
 })(window);
