@@ -668,28 +668,33 @@
       if (bucket) bucket.push(item);
     });
     // CAPS — max items per source to keep partner content from dominating.
+    // ccAsia is hard-capped at 1 even when other sources fail; better to show
+    // a small Read section with FK voice intact than to backfill it with 6
+    // C&C cards and visually bury Signal.
     const caps = { fkSignal: n, proElectrica: 1, ccAsia: 1 };
-    // Pick order: 1 Voices first (so Danny is highly visible), 1 C&C, then fill
-    // remaining slots with Signal. Within each source we take in date-desc order
-    // (buckets are already sorted by fetchAll).
     const picked = [];
-    function take(src) {
+    function countSource(src) { return picked.filter((x) => x.source === src).length; }
+    function tryTake(src) {
       if (picked.length >= n) return false;
       if (!buckets[src].length) return false;
-      if (countSource(picked, src) >= caps[src]) return false;
+      if (countSource(src) >= caps[src]) return false;
       picked.push(buckets[src].shift());
       return true;
     }
-    function countSource(arr, src) { return arr.filter((x) => x.source === src).length; }
-    take('proElectrica');
-    take('ccAsia');
-    while (picked.length < n && buckets.fkSignal.length) take('fkSignal');
-    // Backfill if Signal ran dry — pull more from whichever sources still have items.
+    // Selection order: 1 Voices first (Danny prominent), 1 C&C (partner nod),
+    // then fill remaining slots with Signal.
+    tryTake('proElectrica');
+    tryTake('ccAsia');
+    while (picked.length < n) { if (!tryTake('fkSignal')) break; }
+    // Final backfill — only happens when Signal ran out before n. The
+    // "progress" guard prevents an infinite loop if every remaining
+    // bucket is at cap (e.g. only ccAsia has items and it's already used).
     while (picked.length < n) {
-      const candidates = ['fkSignal', 'proElectrica', 'ccAsia']
-        .filter((s) => buckets[s].length && countSource(picked, s) < (s === 'fkSignal' ? n : 99));
-      if (!candidates.length) break;
-      take(candidates[0]);
+      let progress = false;
+      for (const src of ['proElectrica', 'ccAsia', 'fkSignal']) {
+        if (tryTake(src)) { progress = true; break; }
+      }
+      if (!progress) break;
     }
     return picked;
   }
@@ -954,5 +959,5 @@
     setSupabaseKey: (key) => { EVENTS_CONFIG.anonKey = key; },
   };
 
-  console.log('[FK Feed] v1.10.0 loaded · locale=' + CURRENT_LOCALE);
+  console.log('[FK Feed] v1.10.1 loaded · locale=' + CURRENT_LOCALE);
 })(window);
