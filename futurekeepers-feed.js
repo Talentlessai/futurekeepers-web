@@ -163,7 +163,7 @@
   // ============================================================
   // CACHE — localStorage with TTL
   // ============================================================
-  const CACHE_KEY = 'fk_feed_v10_' + CURRENT_LOCALE; // bumped: getCategoryItems + category-<slug> render slot for /post-category/<slug>
+  const CACHE_KEY = 'fk_feed_v11_' + CURRENT_LOCALE; // bumped: tighter timeouts (3s/proxy, 6.5s deadline) + FK-Signal-led Read mix (4+1+1)
   const CACHE_TTL_MS = 30 * 60 * 1000;
 
   function readCache() {
@@ -183,10 +183,16 @@
   // ============================================================
   // FETCH + PARSE (XML)
   // ============================================================
-  // Per-proxy timeout: 5s. If a proxy hasn't responded by then it's hosed and
-  // we should skip to the next one. Without this, allorigins/raw stalling on
-  // proelectrica.substack.com blocks the whole render for 30+ seconds.
-  const PROXY_TIMEOUT_MS = 5000;
+  // Per-proxy timeout: 3s. Tightened from 5s (May 6 2026) — at 5s a failing
+  // source wedged the page for ~15s before bailing through all 3 proxies,
+  // which is what made the homepage feel slow on first load. 3s is enough
+  // for healthy proxies (typical 200–1500 ms) and bails 6s sooner on bad ones.
+  const PROXY_TIMEOUT_MS = 3000;
+
+  // Hard deadline on the whole fetchAll Promise.allSettled call. After this,
+  // we resolve with whatever sources have responded so far and let the late
+  // ones drop on the floor. Floors page-load latency.
+  const FETCH_DEADLINE_MS = 6500;
 
   function fetchWithTimeout(url, ms) {
     if (typeof AbortController === 'undefined') return fetch(url);
@@ -400,11 +406,19 @@
         const sources = buildSources();
         const entries = Object.entries(sources)
           .filter(([_, cfg]) => !cfg.localesOnly || cfg.localesOnly.includes(CURRENT_LOCALE));
-        // allSettled instead of all: one source failing (e.g. proelectrica when
-        // every public proxy times out for its specific URL) shouldn't blow up
-        // the whole render. We log the failures and keep going with what worked.
-        const settled = await Promise.allSettled(entries.map(([name, cfg]) => fetchSource(name, cfg)));
-        const results = settled.map((s, idx) => {
+
+        // Race the per-source promises against a wall-clock deadline so the
+        // page doesn't wait for the slowest dead-proxy chain. Sources that
+        // miss the deadline get dropped just like ones that fail outright.
+        const sourcePromises = entries.map(([name, cfg]) => fetchSource(name, cfg));
+        const deadline = new Promise((_, reject) =>
+          setTimeout(() => reject(new Error('deadline')), FETCH_DEADLINE_MS)
+        );
+        const racedSettled = await Promise.allSettled(
+          sourcePromises.map((p) => Promise.race([p, deadline]))
+        );
+
+        const results = racedSettled.map((s, idx) => {
           if (s.status === 'fulfilled') return s.value;
           console.warn('[FK Feed] Source dropped: ' + entries[idx][0] + ' — ' + (s.reason && s.reason.message || s.reason));
           return [];
@@ -636,37 +650,46 @@
     // Articles only — exclude YouTube videos and shorts
     const articles = all.filter((i) => i.format !== 'video' && i.format !== 'short');
 
-    // Editorial rule (Steve, May 6 2026): Read should always feature FutureKeepers Signal
-    // and Danny Kennedy's Voices, not just the date-sort top. Otherwise C&C Asia
-    // crowds them out whenever they publish more frequently than the others.
+    // Editorial rule (Steve, May 6 2026, refined): FutureKeepers is the brand voice
+    // (hope, inspiration, original FK editorial). C&C Asia is partner content (news,
+    // capital-and-policy news cycle). Voices is Danny Kennedy on ProElectrica
+    // (FK-aligned but his own voice). The Read mix should reflect that:
     //
-    // Strategy: round-robin pick across sources in priority order, taking the most
-    // recent unseen item from each source per pass. If a source has run out (or never
-    // had items — e.g. proElectrica when its proxy is down), the slot backfills from
-    // whichever source still has content. Net: every source that has anything gets
-    // representation; date-recency only orders within a source.
-    const priority = ['fkSignal', 'proElectrica', 'ccAsia'];
-    const buckets = {};
-    priority.forEach((s) => { buckets[s] = []; });
+    //   - FK Signal leads, gets most slots
+    //   - Voices (Danny) gets one slot when available
+    //   - C&C Asia is capped at 1 slot, treated as a partner-content nod
+    //
+    // Default n=6 produces: 4 Signal + 1 Voices + 1 C&C when all 3 sources are healthy.
+    // If a source is empty (proElectrica when its proxy is down), the freed slot goes
+    // back to Signal, so Read never feels light when FK has fresh content.
+    const buckets = { fkSignal: [], proElectrica: [], ccAsia: [] };
     articles.forEach((item) => {
       const bucket = buckets[item.source];
       if (bucket) bucket.push(item);
     });
-    // Each bucket is already sorted desc by publishDate (fetchAll sorts the merged list).
+    // CAPS — max items per source to keep partner content from dominating.
+    const caps = { fkSignal: n, proElectrica: 1, ccAsia: 1 };
+    // Pick order: 1 Voices first (so Danny is highly visible), 1 C&C, then fill
+    // remaining slots with Signal. Within each source we take in date-desc order
+    // (buckets are already sorted by fetchAll).
     const picked = [];
-    let pass = 0;
-    // Keep looping while at least one bucket still has unspent items and we need more picks.
+    function take(src) {
+      if (picked.length >= n) return false;
+      if (!buckets[src].length) return false;
+      if (countSource(picked, src) >= caps[src]) return false;
+      picked.push(buckets[src].shift());
+      return true;
+    }
+    function countSource(arr, src) { return arr.filter((x) => x.source === src).length; }
+    take('proElectrica');
+    take('ccAsia');
+    while (picked.length < n && buckets.fkSignal.length) take('fkSignal');
+    // Backfill if Signal ran dry — pull more from whichever sources still have items.
     while (picked.length < n) {
-      let anyAdded = false;
-      for (const src of priority) {
-        if (picked.length >= n) break;
-        if (buckets[src][pass]) {
-          picked.push(buckets[src][pass]);
-          anyAdded = true;
-        }
-      }
-      if (!anyAdded) break; // every bucket exhausted
-      pass++;
+      const candidates = ['fkSignal', 'proElectrica', 'ccAsia']
+        .filter((s) => buckets[s].length && countSource(picked, s) < (s === 'fkSignal' ? n : 99));
+      if (!candidates.length) break;
+      take(candidates[0]);
     }
     return picked;
   }
@@ -931,5 +954,5 @@
     setSupabaseKey: (key) => { EVENTS_CONFIG.anonKey = key; },
   };
 
-  console.log('[FK Feed] v1.9.0 loaded · locale=' + CURRENT_LOCALE);
+  console.log('[FK Feed] v1.10.0 loaded · locale=' + CURRENT_LOCALE);
 })(window);
