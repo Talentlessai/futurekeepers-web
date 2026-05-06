@@ -23,9 +23,23 @@
   if (window.__fkCategoryV1Ran) return;
   window.__fkCategoryV1Ran = true;
 
-  // Pinned to a specific futurekeepers-feed.js commit so cache busts
-  // are deterministic. Keep this in sync with fk-bootstrap.js's CDN const.
-  var CDN = 'https://cdn.jsdelivr.net/gh/Talentlessai/futurekeepers-web@__SHA__';
+  // CDN base auto-detected from this script's own URL. Whatever SHA the
+  // Webflow shim loaded fk-category.js from is the same SHA we use for
+  // fk-homepage.css and futurekeepers-feed.js — so a single re-pin in
+  // the Webflow shim updates everything atomically.
+  var thisScript = document.currentScript;
+  if (!thisScript) {
+    var allScripts = document.getElementsByTagName('script');
+    for (var k = allScripts.length - 1; k >= 0; k--) {
+      if (allScripts[k].src && allScripts[k].src.indexOf('fk-category.js') >= 0) {
+        thisScript = allScripts[k];
+        break;
+      }
+    }
+  }
+  var src = thisScript ? thisScript.src : '';
+  var CDN = src.replace(/\/fk-category\.js.*$/, '') ||
+            'https://cdn.jsdelivr.net/gh/Talentlessai/futurekeepers-web@main';
 
   // -----------------------------------------------------------
   // Parse the URL: pull the category slug out of /post-category/<slug>
