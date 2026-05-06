@@ -95,7 +95,7 @@
     bn: {
       watch: 'দেখুন',
       shorts: 'শর্টস',
-      read: 'পড়ুন',
+      read: 'পড়ুন',
       upcoming: 'আসছে যা',
       seeAllVideos: 'Signal-এ সব ভিডিও',
       seeAllShorts: 'Noise-এ সব শর্টস',
@@ -131,13 +131,13 @@
     hi: {
       watch: 'देखें',
       shorts: 'शॉर्ट्स',
-      read: 'पड़ें',
+      read: 'पढ़ें',
       upcoming: 'आने वाले',
       seeAllVideos: 'Signal पर सभी वीडियो',
       seeAllShorts: 'Noise पर सभी शॉर्ट्स',
       seeAllArticles: 'सभी लेख',
       fullCalendar: 'पूरा कैलेंडर',
-      liveFeed: '⚡ लाइव फ़ीड',
+      liveFeed: '⚡ लाइव फ़ीड',
       loadingHero: 'लोड हो रहा है…',
     },
   };
