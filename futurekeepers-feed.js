@@ -172,6 +172,23 @@
     return false;
   }
 
+  // "Big IRL events" filter (Steve, May 7 2026):
+  //   • Drop event_type='training' — those are corporate webinars (Trellis-
+  //     style "career development" sessions), not what FK is about.
+  //   • Drop pure-virtual events (is_virtual && !is_hybrid). Hybrid stays
+  //     because there's an in-person component. The page is "What's
+  //     Coming" and the energy is people-in-rooms, not zoom calls.
+  //
+  // Featured rows always pass — manual whitelist override for the rare
+  // virtual event Steve wants to feature anyway (e.g. an FK-hosted webinar).
+  function eventIsBigIrl(event) {
+    if (event.featured) return true;
+    const et = (event.eventType || '').toLowerCase();
+    if (et === 'training') return false;
+    if (event.isVirtual && !event.isHybrid) return false;
+    return true;
+  }
+
   function detectLocale() {
     // BUG fixed May 6 2026 (Steve caught this): the previous regex required
     // a trailing slash — /^\/(id|...)\// — which failed when Webflow
@@ -668,7 +685,7 @@
   // ============================================================
   // EVENTS — FutureKeepers Brain (Supabase events_public)
   // ============================================================
-  const EVENTS_CACHE_KEY = 'fk_events_v4_' + CURRENT_LOCALE; // bumped: per-locale region filter
+  const EVENTS_CACHE_KEY = 'fk_events_v5_' + CURRENT_LOCALE; // bumped: big-IRL filter (drop trainings + virtual)
 
   function readEventsCache() {
     try {
@@ -725,6 +742,8 @@
       // global locale and sees everything; other locales only see events
       // in their hemisphere + Global. Featured events bypass this filter.
       events = events.filter(eventIsInLocaleRegion);
+      // Keep only the big in-person stuff. No corporate webinars.
+      events = events.filter(eventIsBigIrl);
       writeEventsCache(events);
       return events;
     } catch (e) {
@@ -1222,5 +1241,5 @@
     setSupabaseKey: (key) => { EVENTS_CONFIG.anonKey = key; },
   };
 
-  console.log('[FK Feed] v1.20.0 loaded · locale=' + CURRENT_LOCALE);
+  console.log('[FK Feed] v1.21.0 loaded · locale=' + CURRENT_LOCALE);
 })(window);
