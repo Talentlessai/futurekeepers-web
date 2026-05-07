@@ -48,7 +48,19 @@ jobs:
             exit 0
           fi
           git commit -m "chore(feed-cache): refresh ${{ github.run_number }} ($(date -u +'%Y-%m-%d %H:%M UTC'))"
-          git push
+          # Retry-with-rebase up to 3 times. Manual retriggers can race
+          # against scheduled runs and against developer pushes; a quick
+          # pull --rebase resolves those non-fast-forward rejections.
+          for attempt in 1 2 3; do
+            if git push; then
+              echo "Push succeeded on attempt ${attempt}"
+              exit 0
+            fi
+            echo "Push rejected; rebasing on origin/main and retrying..."
+            git pull --rebase origin main || true
+          done
+          echo "Push failed after 3 rebase-and-retry attempts"
+          exit 1
 
       - name: Purge jsdelivr cache
         # jsdelivr caches @main for ~12h. After we push new JSON we hit the
