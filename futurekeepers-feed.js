@@ -98,7 +98,13 @@
   };
 
   function detectLocale() {
-    const m = window.location.pathname.match(/^\/(id|zh|bn|ur|th|hi|tl)\//);
+    // BUG fixed May 6 2026 (Steve caught this): the previous regex required
+    // a trailing slash — /^\/(id|...)\// — which failed when Webflow
+    // normalized the URL to /hi (no slash). Result: locale fell back to
+    // 'en', and the Hindi page pulled English YouTube channel content
+    // even though the bootstrap correctly translated section titles.
+    // The (\/|$|\?) suffix matches /hi, /hi/, /hi?foo, /hi/?foo, etc.
+    const m = window.location.pathname.match(/^\/(id|zh|bn|ur|th|hi|tl)(\/|$)/);
     return m ? m[1] : 'en';
   }
 
@@ -168,7 +174,7 @@
   // ============================================================
   // CACHE — localStorage with TTL
   // ============================================================
-  const CACHE_KEY = 'fk_feed_v13_' + CURRENT_LOCALE; // bumped: rss2json fallback in fetchSource for sources where every raw-XML proxy fails
+  const CACHE_KEY = 'fk_feed_v14_' + CURRENT_LOCALE; // bumped: locale regex bug fix — non-English locales were falling back to en YouTube channel
   const CACHE_TTL_MS = 30 * 60 * 1000;
 
   function readCache() {
@@ -1020,5 +1026,5 @@
     setSupabaseKey: (key) => { EVENTS_CONFIG.anonKey = key; },
   };
 
-  console.log('[FK Feed] v1.13.0 loaded · locale=' + CURRENT_LOCALE);
+  console.log('[FK Feed] v1.14.0 loaded · locale=' + CURRENT_LOCALE);
 })(window);
