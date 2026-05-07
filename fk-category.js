@@ -20,8 +20,20 @@
  * Anything else falls through and the page renders unchanged.
  */
 (function () {
-  if (window.__fkCategoryV1Ran) return;
+  // Version of THIS bootstrap. Bump when render logic / layout changes.
+  var FK_CATEGORY_VERSION = '1.1.0';
+
+  // Block parallel/older bootstraps — see fk-bootstrap.js for the full
+  // explanation. Setting both V1 and V2 guards keeps both old and current
+  // bootstraps from racing.
+  if (window.__fkCategoryV2Ran) return;
+  window.__fkCategoryV2Ran = true;
   window.__fkCategoryV1Ran = true;
+
+  // If a host of OUR exact version is already there, no-op (avoids
+  // unnecessary re-renders if the bootstrap somehow runs twice).
+  var __earlyHost = document.getElementById('fk-feed-host');
+  if (__earlyHost && __earlyHost.dataset.fkVersion === FK_CATEGORY_VERSION) return;
 
   // CDN base auto-detected from this script's own URL. Whatever SHA the
   // Webflow shim loaded fk-category.js from is the same SHA we use for
@@ -147,7 +159,7 @@
     // detect duplicate injection without colliding with the homepage's
     // own host element.
     var html =
-      '<div id="fk-feed-host" data-fk-category="' + slug + '" data-fk-locale="' + locale + '">' +
+      '<div id="fk-feed-host" data-fk-version="' + FK_CATEGORY_VERSION + '" data-fk-category="' + slug + '" data-fk-locale="' + locale + '">' +
         '<div class="container">' +
           '<h2 class="section-title" style="color:' + meta.color + ';">' +
             meta.label +
@@ -183,18 +195,46 @@
     marker.style.display = 'none';
     document.body.appendChild(marker);
 
-    // Load federated feed engine and render
+    loadFeedAndRender();
+  }
+
+  // Reload feed JS + re-render the category target. Idempotent — used by
+  // both fresh inject() AND in-place takeover when a stale older host is
+  // already in the DOM.
+  function loadFeedAndRender() {
+    Array.prototype.forEach.call(
+      document.querySelectorAll('script[src*="futurekeepers-feed.js"]'),
+      function (s) { s.remove(); }
+    );
+    if (window.FutureKeepersFeed) try { delete window.FutureKeepersFeed; } catch (e) {}
+
     var script = document.createElement('script');
     script.src = CDN + '/futurekeepers-feed.js';
     script.onload = function () {
       if (!window.FutureKeepersFeed) return;
-      // 24 items per category — plenty for a category page; the feed
-      // engine will fetch up to 15 per source per page, so most
-      // categories will have between 6 and 21 items in practice.
       FutureKeepersFeed.renderInto('#fk-category-target', 'category-' + slug, 24);
       addBottomCTA();
     };
     document.body.appendChild(script);
+  }
+
+  // In-place takeover. If an older bootstrap already injected a host,
+  // don't remove it (avoids the "shows up then disappears" flash). Just
+  // refresh CSS, mark host as our version, and re-render the target.
+  function takeoverInPlace(existingHost) {
+    Array.prototype.forEach.call(
+      document.querySelectorAll('link[href*="fk-homepage.css"]'),
+      function (l) { l.remove(); }
+    );
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = CDN + '/fk-homepage.css';
+    document.head.appendChild(link);
+    existingHost.dataset.fkVersion = FK_CATEGORY_VERSION;
+    // Drop any previous CTA so addBottomCTA can re-add a fresh one.
+    var oldCta = existingHost.querySelector('.fk-category-cta');
+    if (oldCta) oldCta.remove();
+    loadFeedAndRender();
   }
 
   // Append a "go deeper" CTA below the grid linking out to the canonical
@@ -230,9 +270,18 @@
     host.appendChild(ctaWrapper);
   }
 
+  function start() {
+    var existingNow = document.getElementById('fk-feed-host');
+    if (existingNow && existingNow.dataset.fkVersion !== FK_CATEGORY_VERSION) {
+      takeoverInPlace(existingNow);
+    } else {
+      inject();
+    }
+  }
+
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', inject);
+    document.addEventListener('DOMContentLoaded', start);
   } else {
-    inject();
+    start();
   }
 })();

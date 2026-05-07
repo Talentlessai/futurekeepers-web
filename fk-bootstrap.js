@@ -26,36 +26,30 @@
  *   6. Calls renderInto for hero / watch / shorts / read / events
  */
 (function () {
-  // Versioned guard. Newer guard name lets new bootstraps override old ones
-  // when Webflow stacks multiple shim versions in the rendered HTML
-  // (which it does — old applied scripts can't be cleanly deleted via the
-  // public Custom Code v2 API).
+  // The version this bootstrap injects. Bump when behavior or layout
+  // changes — used to detect "stale older bootstrap already injected".
+  var FK_VERSION = '2.1.0';
+
+  // Block parallel/older bootstraps. Setting BOTH V3 (current) and V2
+  // (legacy guard) flags to true means: another newer instance bails out
+  // via V3, AND any older bootstrap@d2f3988-style still in the page bails
+  // out via V2. Previous attempt set V2=false which actually invited the
+  // old bootstrap to overwrite our work — backwards.
   if (window.__fkBootstrapV3Ran) return;
   window.__fkBootstrapV3Ran = true;
-  // Also clear V2 guard so an OLDER concurrent bootstrap doesn't bail out
-  // if it happens to run after this one — but this is best-effort, the
-  // takeover block below is the actual safety net.
-  window.__fkBootstrapV2Ran = false;
+  window.__fkBootstrapV2Ran = true;
 
-  // Takeover: nuke whatever a prior bootstrap version might have injected
-  // before we render. If we run AFTER an older bootstrap, this clears its
-  // host + feed-script + global so we can re-inject fresh. If we run
-  // BEFORE any older one (rare), this is a no-op.
+  // In-place takeover. If an older bootstrap already injected a host,
+  // DON'T remove it — Steve saw content "show up then disappear" because
+  // the old removal/re-injection flow caused a visible flash. Instead,
+  // we leave the host's DOM structure in place (target IDs are stable
+  // across versions) and just reload the feed JS so the new render logic
+  // overwrites the old content in each target slot.
   var existing = document.getElementById('fk-feed-host');
-  if (existing) existing.remove();
-  Array.prototype.forEach.call(
-    document.querySelectorAll('script[src*="futurekeepers-feed.js"]'),
-    function (s) { s.remove(); }
-  );
-  Array.prototype.forEach.call(
-    document.querySelectorAll('link[href*="fk-homepage.css"]'),
-    function (l) { l.remove(); }
-  );
-  if (window.FutureKeepersFeed) try { delete window.FutureKeepersFeed; } catch (e) {}
-  // Restore Webflow's main.body-content children that older bootstraps hid,
-  // so we can re-hide them cleanly below.
-  var __mainEl = document.querySelector('main.body-content');
-  if (__mainEl) Array.prototype.forEach.call(__mainEl.children, function (c) { c.style.display = ''; });
+  if (existing && existing.dataset.fkVersion === FK_VERSION) {
+    // Already current. No-op.
+    return;
+  }
 
   // -----------------------------------------------------------
   // CDN base auto-detected from this script's own URL. Whatever SHA
@@ -188,8 +182,54 @@
   var arrow = ' →';
 
   // -----------------------------------------------------------
-  // Inject layout into Webflow's main.body-content. Bail if the
-  // host is already there (idempotent against double-injection).
+  // Reload feed JS + re-render every target in the host. Used by
+  // both fresh inject() AND in-place takeover. Idempotent — calling
+  // it multiple times just overwrites the targets each time.
+  // -----------------------------------------------------------
+  function loadFeedAndRender() {
+    // Drop any prior feed JS instances + global so we load the current
+    // SHA's logic, not a leftover from an older bootstrap.
+    Array.prototype.forEach.call(
+      document.querySelectorAll('script[src*="futurekeepers-feed.js"]'),
+      function (s) { s.remove(); }
+    );
+    if (window.FutureKeepersFeed) try { delete window.FutureKeepersFeed; } catch (e) {}
+
+    var script = document.createElement('script');
+    script.src = CDN + '/futurekeepers-feed.js';
+    script.onload = function () {
+      if (!window.FutureKeepersFeed) return;
+      FutureKeepersFeed.renderInto('#fk-hero-target',   'hero',   3);
+      FutureKeepersFeed.renderInto('#fk-watch-target',  'watch',  8);
+      FutureKeepersFeed.renderInto('#fk-shorts-target', 'shorts', 6);
+      FutureKeepersFeed.renderInto('#fk-read-target',   'read',   6);
+      FutureKeepersFeed.renderInto('#fk-events-target', 'events', 6);
+    };
+    document.body.appendChild(script);
+  }
+
+  // -----------------------------------------------------------
+  // In-place takeover: an older-version host is already in the
+  // DOM. Don't remove it (avoids the "content shows up then
+  // disappears" flash Steve saw). Instead, refresh CSS, swap the
+  // version marker, and re-render targets via current feed logic.
+  // -----------------------------------------------------------
+  function takeoverInPlace(existingHost) {
+    Array.prototype.forEach.call(
+      document.querySelectorAll('link[href*="fk-homepage.css"]'),
+      function (l) { l.remove(); }
+    );
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = CDN + '/fk-homepage.css';
+    document.head.appendChild(link);
+    existingHost.dataset.fkVersion = FK_VERSION;
+    loadFeedAndRender();
+  }
+
+  // -----------------------------------------------------------
+  // Fresh inject — host not yet in the DOM. Builds the layout
+  // and hides Webflow's Mag Commerce sections.
   // -----------------------------------------------------------
   function inject() {
     if (document.getElementById('fk-feed-host')) return;
@@ -204,7 +244,7 @@
 
     // Layout
     var html =
-      '<div id="fk-feed-host" data-fk-version="2.0.0" data-fk-locale="' + locale + '">' +
+      '<div id="fk-feed-host" data-fk-version="' + FK_VERSION + '" data-fk-locale="' + locale + '">' +
         '<section class="hero">' +
           '<div id="fk-hero-target" style="position:absolute;inset:0;display:flex;align-items:flex-end;color:#fff;">' +
             '<div style="padding:48px;color:#fff;opacity:0.6;">' + t.loadingHero + '</div>' +
@@ -250,23 +290,22 @@
       if (child !== host && child !== footer) child.style.display = 'none';
     });
 
-    // Load federated feed engine and wire up the targets
-    var script = document.createElement('script');
-    script.src = CDN + '/futurekeepers-feed.js';
-    script.onload = function () {
-      if (!window.FutureKeepersFeed) return;
-      FutureKeepersFeed.renderInto('#fk-hero-target',   'hero',   3);
-      FutureKeepersFeed.renderInto('#fk-watch-target',  'watch',  8);
-      FutureKeepersFeed.renderInto('#fk-shorts-target', 'shorts', 6);
-      FutureKeepersFeed.renderInto('#fk-read-target',   'read',   6);
-      FutureKeepersFeed.renderInto('#fk-events-target', 'events', 6);
-    };
-    document.body.appendChild(script);
+    loadFeedAndRender();
+  }
+
+  // Dispatcher — pick takeover or fresh inject based on what's in DOM
+  function start() {
+    var existingNow = document.getElementById('fk-feed-host');
+    if (existingNow && existingNow.dataset.fkVersion !== FK_VERSION) {
+      takeoverInPlace(existingNow);
+    } else {
+      inject();
+    }
   }
 
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', inject);
+    document.addEventListener('DOMContentLoaded', start);
   } else {
-    inject();
+    start();
   }
 })();
