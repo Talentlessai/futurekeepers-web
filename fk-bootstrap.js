@@ -200,11 +200,23 @@
     script.src = CDN + '/futurekeepers-feed.js';
     script.onload = function () {
       if (!window.FutureKeepersFeed) return;
-      FutureKeepersFeed.renderInto('#fk-hero-target',   'hero',   3);
-      FutureKeepersFeed.renderInto('#fk-watch-target',  'watch',  8);
-      FutureKeepersFeed.renderInto('#fk-shorts-target', 'shorts', 6);
-      FutureKeepersFeed.renderInto('#fk-read-target',   'read',   6);
-      FutureKeepersFeed.renderInto('#fk-events-target', 'events', 6);
+      function doRender() {
+        FutureKeepersFeed.renderInto('#fk-hero-target',   'hero',   3);
+        FutureKeepersFeed.renderInto('#fk-watch-target',  'watch',  8);
+        FutureKeepersFeed.renderInto('#fk-shorts-target', 'shorts', 6);
+        FutureKeepersFeed.renderInto('#fk-read-target',   'read',   6);
+        FutureKeepersFeed.renderInto('#fk-events-target', 'events', 6);
+      }
+      doRender();
+      // Render-race fix: an older bootstrap version (still in the page
+      // because Webflow stacks every applied shim version) may have an
+      // in-flight fetchAll that resolves AFTER our takeover and
+      // overwrites our targets with stale data (e.g. English content
+      // on the Hindi homepage). Re-rendering 7s later — after the
+      // older bootstrap's 6.5s deadline has fired — guarantees the
+      // newer locale-correct content is what the user ends up seeing.
+      // Cache is already warm by then so the second render is instant.
+      setTimeout(doRender, 7000);
     };
     document.body.appendChild(script);
   }

@@ -218,8 +218,14 @@
     script.src = CDN + '/futurekeepers-feed.js';
     script.onload = function () {
       if (!window.FutureKeepersFeed) return;
-      FutureKeepersFeed.renderInto('#fk-category-target', 'category-' + slug, 24);
-      addBottomCTA();
+      function doRender() {
+        FutureKeepersFeed.renderInto('#fk-category-target', 'category-' + slug, 24);
+        addBottomCTA();
+      }
+      doRender();
+      // See fk-bootstrap.js: re-render after 7s to win the race against
+      // an older bootstrap's late-resolving fetch.
+      setTimeout(doRender, 7000);
     };
     document.body.appendChild(script);
   }
