@@ -174,7 +174,7 @@
   // ============================================================
   // CACHE — localStorage with TTL
   // ============================================================
-  const CACHE_KEY = 'fk_feed_v14_' + CURRENT_LOCALE; // bumped: locale regex bug fix — non-English locales were falling back to en YouTube channel
+  const CACHE_KEY = 'fk_feed_v15_' + CURRENT_LOCALE; // bumped: deadline 6.5→10s so non-English YouTube channels survive the proxy chain
   const CACHE_TTL_MS = 30 * 60 * 1000;
 
   function readCache() {
@@ -202,8 +202,11 @@
 
   // Hard deadline on the whole fetchAll Promise.allSettled call. After this,
   // we resolve with whatever sources have responded so far and let the late
-  // ones drop on the floor. Floors page-load latency.
-  const FETCH_DEADLINE_MS = 6500;
+  // ones drop on the floor. Bumped from 6.5s to 10s May 6 2026 — at 6.5s
+  // YouTube channels for several locales (zh/bn/ur) were being dropped
+  // because the proxy chain + rss2json fallback didn't fit. 10s is still
+  // fast on a warm cache (most loads bypass the deadline entirely).
+  const FETCH_DEADLINE_MS = 10000;
 
   function fetchWithTimeout(url, ms) {
     if (typeof AbortController === 'undefined') return fetch(url);
@@ -1026,5 +1029,5 @@
     setSupabaseKey: (key) => { EVENTS_CONFIG.anonKey = key; },
   };
 
-  console.log('[FK Feed] v1.14.0 loaded · locale=' + CURRENT_LOCALE);
+  console.log('[FK Feed] v1.15.0 loaded · locale=' + CURRENT_LOCALE);
 })(window);
