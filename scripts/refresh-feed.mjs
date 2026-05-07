@@ -141,10 +141,14 @@ async function tryFetchViaRss2json(rssUrl, attempt = 0) {
     if (
       data?.message &&
       /short period|api key|too many requests/i.test(data.message) &&
-      attempt < 2
+      attempt < 4
     ) {
-      const wait = 2000 * (attempt + 1);
-      console.warn(`  rss2json rate-limited; retrying in ${wait}ms...`);
+      // Backoff schedule: 3s → 6s → 12s → 24s. Total max wait 45s if all
+      // four retries fire, well under the 10-minute job timeout. The free
+      // rss2json tier rate-limits per IP, and GitHub Actions runners share
+      // a busy pool, so we need to be patient.
+      const wait = 3000 * Math.pow(2, attempt);
+      console.warn(`  rss2json rate-limited; retry ${attempt + 1}/4 in ${wait}ms...`);
       await new Promise((r) => setTimeout(r, wait));
       return tryFetchViaRss2json(rssUrl, attempt + 1);
     }
@@ -461,8 +465,10 @@ async function main() {
     };
     console.log(`  → wrote ${outPath} (${data.items.length} items)`);
     // Pace ourselves between locales to stay under rss2json's free-tier
-    // burst limit. Cron is daily so the extra few seconds don't matter.
-    await sleep(800);
+    // burst limit. GitHub Actions runners share an IP pool that's already
+    // hammering rss2json, so 800ms wasn't enough. 3s gives the rate-limit
+    // window time to drain. Cron is daily so the extra ~20s doesn't matter.
+    await sleep(3000);
   }
 
   writeFileSync(resolve(OUT_DIR, 'manifest.json'), JSON.stringify(manifest, null, 2));
