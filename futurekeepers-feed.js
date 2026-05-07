@@ -145,6 +145,11 @@
         format: 'newsletter',
         sourceLabel: 'ProElectrica',
         localesOnly: ['en'],
+        // Every raw-XML proxy (codetabs/allorigins/raw/get) currently
+        // times out for proelectrica.substack.com specifically. Skip
+        // the chain and go straight to rss2json — works reliably and
+        // is fast enough to come in under our 6.5s fetchAll deadline.
+        useRss2jsonOnly: true,
       },
       ccAsia: {
         rss: 'https://www.climateandcapitalmedia.com/asia/feed/',
@@ -201,7 +206,39 @@
     return fetch(url, { signal: ctrl.signal }).finally(function () { clearTimeout(t); });
   }
 
+  // rss2json fallback: hits api.rss2json.com and converts JSON items into
+  // our normalized item shape. Used as a last-resort fallback for sources
+  // where every raw-XML proxy fails, and as the ONLY path for sources flagged
+  // useRss2jsonOnly:true (proelectrica today).
+  async function fetchViaRss2json(name, config) {
+    const url = 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(config.rss);
+    const res = await fetchWithTimeout(url, PROXY_TIMEOUT_MS);
+    if (!res.ok) throw new Error('rss2json HTTP ' + res.status);
+    const data = await res.json();
+    if (!data || data.status !== 'ok' || !Array.isArray(data.items)) {
+      throw new Error('rss2json bad response');
+    }
+    return data.items.map(function (it) {
+      return makeItem({
+        sourceName: name,
+        config: config,
+        title: it.title,
+        link: it.link,
+        publishDate: it.pubDate ? new Date(it.pubDate) : null,
+        thumbnail: it.thumbnail || extractThumbFromHtml(it.content || it.description),
+        description: it.description,
+        author: it.author,
+      });
+    });
+  }
+
   async function fetchSource(name, config) {
+    // Sources that ALWAYS fail the raw-XML proxy chain — skip the chain
+    // and go straight to rss2json. Saves the 9-second timeout cycle and
+    // gets actual content in under the fetchAll deadline.
+    if (config.useRss2jsonOnly) {
+      return await fetchViaRss2json(name, config);
+    }
     let xmlText = null;
     let lastErr = null;
     // Walk the proxy chain. First success (non-empty body after unwrap) wins.
@@ -222,31 +259,9 @@
       }
     }
     if (xmlText === null) {
-      // Last-resort fallback: rss2json. Different format (already parsed
-      // JSON, not raw XML) and rate-limited, but covers cases where every
-      // raw-XML proxy fails — notably proelectrica.substack.com today,
-      // which all of codetabs/allorigins time out on.
-      try {
-        const r2jUrl = 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(config.rss);
-        const res = await fetchWithTimeout(r2jUrl, PROXY_TIMEOUT_MS);
-        if (res.ok) {
-          const data = await res.json();
-          if (data && data.status === 'ok' && Array.isArray(data.items)) {
-            return data.items.map(function (it) {
-              return makeItem({
-                sourceName: name,
-                config: config,
-                title: it.title,
-                link: it.link,
-                publishDate: it.pubDate ? new Date(it.pubDate) : null,
-                thumbnail: it.thumbnail || extractThumbFromHtml(it.content || it.description),
-                description: it.description,
-                author: it.author,
-              });
-            });
-          }
-        }
-      } catch (e) { /* fall through to throw lastErr */ }
+      // Last-resort fallback: try rss2json. Same as useRss2jsonOnly path
+      // but only after the raw-XML chain has exhausted itself.
+      try { return await fetchViaRss2json(name, config); } catch (e) { /* throw lastErr below */ }
       throw lastErr || new Error('All proxies failed');
     }
     try {
