@@ -133,27 +133,34 @@ async function tryFetchViaRss2json(rssUrl, attempt = 0) {
       headers: { 'user-agent': USER_AGENT },
       signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
     });
-    if (!res.ok) return null;
+    if (!res.ok) {
+      console.warn(`    rss2json HTTP ${res.status} for ${rssUrl.substring(0, 80)}`);
+      return null;
+    }
     const data = await res.json();
     if (data && data.status === 'ok' && Array.isArray(data.items)) return data;
-    // Rate-limit message — retry once after backoff. The free tier throttles
-    // when we issue many requests in quick succession; a 2s pause clears it.
-    if (
-      data?.message &&
-      /short period|api key|too many requests/i.test(data.message) &&
-      attempt < 4
-    ) {
-      // Backoff schedule: 3s → 6s → 12s → 24s. Total max wait 45s if all
-      // four retries fire, well under the 10-minute job timeout. The free
-      // rss2json tier rate-limits per IP, and GitHub Actions runners share
-      // a busy pool, so we need to be patient.
+    // Log the actual error so we know what we're looking at.
+    if (data?.message) {
+      console.warn(`    rss2json error: "${data.message}" (attempt ${attempt})`);
+    } else {
+      console.warn(`    rss2json unexpected shape: ${JSON.stringify(data).substring(0, 120)}`);
+    }
+    // Retry on any error message that smells transient/rate-limited. We're
+    // less picky than before — if we got a non-ok response with a message,
+    // give it a few more tries before giving up.
+    if (data?.message && attempt < 4) {
       const wait = 3000 * Math.pow(2, attempt);
-      console.warn(`  rss2json rate-limited; retry ${attempt + 1}/4 in ${wait}ms...`);
+      console.warn(`    rss2json retry ${attempt + 1}/4 in ${wait}ms...`);
       await new Promise((r) => setTimeout(r, wait));
       return tryFetchViaRss2json(rssUrl, attempt + 1);
     }
     return null;
   } catch (e) {
+    console.warn(`    rss2json fetch threw: ${e?.message || e} (attempt ${attempt})`);
+    if (attempt < 2) {
+      await new Promise((r) => setTimeout(r, 3000));
+      return tryFetchViaRss2json(rssUrl, attempt + 1);
+    }
     return null;
   }
 }
