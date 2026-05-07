@@ -174,7 +174,7 @@
   // ============================================================
   // CACHE — localStorage with TTL
   // ============================================================
-  const CACHE_KEY = 'fk_feed_v15_' + CURRENT_LOCALE; // bumped: deadline 6.5→10s so non-English YouTube channels survive the proxy chain
+  const CACHE_KEY = 'fk_feed_v16_' + CURRENT_LOCALE; // bumped: reject HTML error pages from proxies, fall through to rss2json on XML parse fail
   const CACHE_TTL_MS = 30 * 60 * 1000;
 
   function readCache() {
@@ -250,7 +250,7 @@
     }
     let xmlText = null;
     let lastErr = null;
-    // Walk the proxy chain. First success (non-empty body after unwrap) wins.
+    // Walk the proxy chain. First success (non-empty XML body after unwrap) wins.
     for (let i = 0; i < CORS_PROXIES.length; i++) {
       const proxy = CORS_PROXIES[i];
       const proxyUrl = proxy.build(config.rss);
@@ -260,6 +260,13 @@
         const rawBody = await res.text();
         const body = proxy.unwrap(rawBody);
         if (!body || body.length < 32) { lastErr = new Error('empty body from ' + proxy.name); continue; }
+        // Reject HTML error pages — codetabs sometimes returns a 200 with
+        // an HTML rate-limit body instead of forwarding the XML feed,
+        // which we used to accept and then choke on in DOMParser.
+        if (/^\s*(<!doctype html|<html)/i.test(body)) {
+          lastErr = new Error(proxy.name + ' returned HTML not XML');
+          continue;
+        }
         xmlText = body;
         break;
       } catch (e) {
@@ -283,8 +290,11 @@
         : parseRssItems(doc, name, config);
       return items;
     } catch (e) {
-      console.warn('[FK Feed] Source failed:', name, e.message);
-      return [];
+      console.warn('[FK Feed] Source XML parse failed, trying rss2json:', name, e.message);
+      // Final retry: rss2json. The proxy returned content but it didn't
+      // parse as XML — could be a CDN edge case or a rate-limit HTML
+      // wrapper that snuck through our HTML check above.
+      try { return await fetchViaRss2json(name, config); } catch (e2) { return []; }
     }
   }
 
@@ -1029,5 +1039,5 @@
     setSupabaseKey: (key) => { EVENTS_CONFIG.anonKey = key; },
   };
 
-  console.log('[FK Feed] v1.15.0 loaded · locale=' + CURRENT_LOCALE);
+  console.log('[FK Feed] v1.16.0 loaded · locale=' + CURRENT_LOCALE);
 })(window);
