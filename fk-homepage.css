@@ -179,18 +179,12 @@
   flex: 0 0 auto;
   margin-left: 0;
 }
-#fk-feed-host .live-tag {
-  margin-left: auto;
-  font-size: 11px;
-  font-weight: 600;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
-  color: #00a651;
-  background: #e8f5e9;
-  padding: 3px 10px;
-  border-radius: 999px;
-  flex: 0 0 auto;
-}
+/* .live-tag was the green "⚡ Live feed" pill on every section title.
+   Steve killed it May 6 2026 — felt weird. Hidden via CSS so it stays
+   gone even when an older bootstrap version's HTML structure is left
+   in place by an in-place takeover (the bootstrap HTML doesn't update
+   during in-place takeover, only target contents do). */
+#fk-feed-host .live-tag { display: none; }
 
 /* ============================================================
    CARD GRIDS
