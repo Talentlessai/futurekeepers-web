@@ -98,7 +98,44 @@
     order: 'featured.desc,start_date.asc',
     // Auto-prune happens server-side; we can also defensively filter past dates.
     filterPast: true,
+    // Mission filter: keep events whose topics OR title OR description mention
+    // anything in this keyword set. The events feed pulls from many third-
+    // party sources (Trellis, IEA, conference aggregators) and most are on-
+    // topic, but some pure-business "career development / leadership /
+    // influence" trainings sneak in. Steve's rule (May 7 2026): if it's not
+    // FK's mission, it doesn't belong on the FK homepage.
+    //
+    // To keep an off-topic event despite the filter, set featured=true on
+    // the row in events_public — featured rows always pass the filter.
+    missionKeywords: [
+      'climate', 'energy', 'electric', 'electrif',
+      'solar', 'wind', 'battery', 'storage', 'hydrogen', 'biomass',
+      'grid', 'utility', 'utilities', 'renewable', 'cleantech',
+      'sustainab', 'decarbon', 'emission', 'carbon', 'pollution',
+      'environment', 'regenerat', 'nature-based',
+      'photovoltaic', 'PV ',
+      'EPR', 'extended producer',
+      'transition', 'green', 'net zero', 'net-zero',
+    ],
   };
+
+  // Returns true if the event passes the mission-relevance filter.
+  // Featured events are always kept (manual whitelist override).
+  function eventIsOnMission(event) {
+    if (event.featured) return true;
+    const keywords = EVENTS_CONFIG.missionKeywords;
+    if (!keywords || keywords.length === 0) return true;
+    const haystack = [
+      (event.topics || []).join(' '),
+      event.title || '',
+      event.description || '',
+      event.eventType || '',
+    ].join(' ').toLowerCase();
+    for (let i = 0; i < keywords.length; i++) {
+      if (haystack.indexOf(keywords[i].toLowerCase()) !== -1) return true;
+    }
+    return false;
+  }
 
   function detectLocale() {
     // BUG fixed May 6 2026 (Steve caught this): the previous regex required
@@ -596,7 +633,7 @@
   // ============================================================
   // EVENTS — FutureKeepers Brain (Supabase events_public)
   // ============================================================
-  const EVENTS_CACHE_KEY = 'fk_events_v2_' + CURRENT_LOCALE; // bumped: normalize now uses real schema fields
+  const EVENTS_CACHE_KEY = 'fk_events_v3_' + CURRENT_LOCALE; // bumped: mission-keyword filter + organizer credit on cards
 
   function readEventsCache() {
     try {
@@ -645,6 +682,10 @@
           return cutoff >= now;
         });
       }
+      // Drop events that aren't FK-mission-aligned. Trellis (and similar
+      // aggregators) pump in pure professional-development sessions that
+      // have nothing to do with climate/energy — those don't belong here.
+      events = events.filter(eventIsOnMission);
       writeEventsCache(events);
       return events;
     } catch (e) {
@@ -728,6 +769,17 @@
       ? '<a class="event-add" href="' + escapeHtml(event.registrationUrl) + '" target="_blank" rel="noopener">Register</a>'
       : '';
 
+    // Organizer credit — make it obvious FK is *aggregating* these events,
+    // not hosting them. Truncate very long organizer strings (some rows in
+    // events_public have multi-org consortia 200+ chars long).
+    let organizerLine = '';
+    if (event.organizer) {
+      const orgClean = String(event.organizer).length > 70
+        ? String(event.organizer).slice(0, 67) + '…'
+        : event.organizer;
+      organizerLine = '<div class="event-org">by ' + escapeHtml(orgClean) + '</div>';
+    }
+
     return (
       '<article class="event-card">' +
         '<div class="event-date">' +
@@ -737,6 +789,7 @@
         '</div>' +
         '<div class="event-body">' +
           '<h3>' + escapeHtml(event.title) + '</h3>' +
+          organizerLine +
           locationLine +
           '<div class="event-meta">' +
             '<span class="pill event">' + escapeHtml(formatLabel) + '</span>' +
@@ -1130,5 +1183,5 @@
     setSupabaseKey: (key) => { EVENTS_CONFIG.anonKey = key; },
   };
 
-  console.log('[FK Feed] v1.18.0 loaded · locale=' + CURRENT_LOCALE);
+  console.log('[FK Feed] v1.19.0 loaded · locale=' + CURRENT_LOCALE);
 })(window);
