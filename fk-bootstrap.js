@@ -26,12 +26,12 @@
  *   6. Calls renderInto for hero / watch / shorts / read / events
  */
 (function () {
-  // Block parallel/older bootstraps. Setting BOTH V3 (current) and V2
-  // (legacy guard) flags to true means: another newer instance bails out
-  // via V3, AND any older bootstrap@d2f3988-style still in the page bails
-  // out via V2.
-  if (window.__fkBootstrapV3Ran) return;
-  window.__fkBootstrapV3Ran = true;
+  // Block the LEGACY pre-takeover bootstraps (d2f3988 era) so they don't
+  // race with us. Note we do NOT use a generic V3 guard here — that
+  // earlier scheme blocked newer bootstraps from running once an older
+  // bootstrap had set the flag, defeating the in-place takeover. Each
+  // bootstrap version now manages its own re-entry via the FK_VERSION
+  // host-attribute check (set up below, after CDN detect).
   window.__fkBootstrapV2Ran = true;
 
   // -----------------------------------------------------------
@@ -59,10 +59,15 @@
   // Use the CDN's SHA portion as our version — guarantees every git commit
   // gets a unique FK_VERSION, so an older bootstrap's host always looks
   // "stale" to a newer bootstrap and the in-place takeover kicks in.
-  // Earlier bug: hardcoded FK_VERSION='2.1.0' across all v2.1.x bootstraps
-  // meant the version-equality check made every bootstrap bail out as
-  // "already current" — first one wins, no takeover.
   var FK_VERSION = (CDN.split('@')[1] || 'main').substring(0, 12);
+
+  // Re-entry guard tied to OUR specific SHA. Two instances of the SAME
+  // bootstrap version short-circuit; different versions both run (the
+  // newer one's host-version check will then take over the older one's
+  // host in place). This is what prevents the V3-guard bug where any
+  // bootstrap blocked all later ones regardless of version.
+  if (window.__fkBootstrapVer === FK_VERSION) return;
+  window.__fkBootstrapVer = FK_VERSION;
 
   // If a host with EXACTLY our SHA is already there, no-op.
   // Different SHA → fall through to the start() dispatcher and take over.

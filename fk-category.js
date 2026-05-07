@@ -20,11 +20,10 @@
  * Anything else falls through and the page renders unchanged.
  */
 (function () {
-  // Block parallel/older bootstraps. See fk-bootstrap.js for the full
-  // explanation. Setting both V1 and V2 guards keeps both old and current
-  // bootstraps from racing.
-  if (window.__fkCategoryV2Ran) return;
-  window.__fkCategoryV2Ran = true;
+  // Block legacy bootstraps but NOT newer-version bootstraps — see
+  // fk-bootstrap.js for the full explanation. The previous scheme had
+  // a V2 guard that blocked any later category bootstrap from running
+  // even if it was a newer version, which defeated the takeover.
   window.__fkCategoryV1Ran = true;
 
   // CDN base auto-detected from this script's own URL. Whatever SHA the
@@ -47,10 +46,14 @@
 
   // Version derived from this bootstrap's CDN SHA. Every commit gets a
   // unique FK_CATEGORY_VERSION so older bootstraps' hosts always look
-  // "stale" to newer ones and the in-place takeover kicks in. (Earlier
-  // hardcoded '1.1.0' across all bootstraps prevented takeover from
-  // ever firing — first bootstrap to render won permanently.)
+  // "stale" to newer ones and the in-place takeover kicks in.
   var FK_CATEGORY_VERSION = (CDN.split('@')[1] || 'main').substring(0, 12);
+
+  // Re-entry guard tied to our specific SHA — same fix as fk-bootstrap.js.
+  // Two instances of the same SHA short-circuit; different SHAs both run
+  // and the newer one takes over the older one's host.
+  if (window.__fkCategoryVer === FK_CATEGORY_VERSION) return;
+  window.__fkCategoryVer = FK_CATEGORY_VERSION;
 
   // If a host with EXACTLY our SHA is already there, no-op.
   var __earlyHost = document.getElementById('fk-feed-host');
