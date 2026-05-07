@@ -123,10 +123,21 @@
     const ytChannel = YOUTUBE_CHANNELS[CURRENT_LOCALE] || YOUTUBE_CHANNELS.en;
     const ytLongForm = ytPlaylistId('UULF', ytChannel); // long-form only
     const ytShorts = ytPlaylistId('UUSH', ytChannel);   // shorts only
+    // Channel-wide feed (mixed long+shorts). Used as fallback when YouTube's
+    // auto-generated UULF/UUSH playlists don't exist for a given channel —
+    // which is the case for the English channel today: UULF/UUSH both 404,
+    // but channel_id=... returns the most recent 10–15 uploads. We then
+    // partition items into Watch vs Shorts using the #shorts hashtag in the
+    // title (which YouTube itself adds for the Shorts player).
+    const ytChannelFeed = 'https://www.youtube.com/feeds/videos.xml?channel_id=' + ytChannel;
+    const isShortItem = function (item) { return /#shorts\b/i.test(item.title || ''); };
+    const isLongItem = function (item) { return !/#shorts\b/i.test(item.title || ''); };
 
     return {
       ytLongForm: {
         rss: 'https://www.youtube.com/feeds/videos.xml?playlist_id=' + ytLongForm,
+        fallbackRss: ytChannelFeed,
+        postFilterAfterFallback: isLongItem,
         feedType: 'atom',
         taxonomy: 'signal',
         format: 'video',
@@ -134,6 +145,8 @@
       },
       ytShorts: {
         rss: 'https://www.youtube.com/feeds/videos.xml?playlist_id=' + ytShorts,
+        fallbackRss: ytChannelFeed,
+        postFilterAfterFallback: isShortItem,
         feedType: 'atom',
         taxonomy: 'noise',
         format: 'short',
@@ -177,7 +190,7 @@
   // ============================================================
   // CACHE — localStorage with TTL
   // ============================================================
-  const CACHE_KEY = 'fk_feed_v17_' + CURRENT_LOCALE; // bumped: proxy order — allorigins-get first since codetabs is rate-limiting
+  const CACHE_KEY = 'fk_feed_v18_' + CURRENT_LOCALE; // bumped: ytLongForm/ytShorts now have channel_id fallback for channels lacking UULF/UUSH auto-playlists (English)
   const CACHE_TTL_MS = 30 * 60 * 1000;
 
   function readCache() {
@@ -244,28 +257,25 @@
     });
   }
 
-  async function fetchSource(name, config) {
-    // Sources that ALWAYS fail the raw-XML proxy chain — skip the chain
-    // and go straight to rss2json. Saves the 9-second timeout cycle and
-    // gets actual content in under the fetchAll deadline.
-    if (config.useRss2jsonOnly) {
-      return await fetchViaRss2json(name, config);
-    }
+  // Fetch a single feed URL via the proxy chain. Returns parsed items or
+  // throws if every proxy + rss2json fails. Used by fetchSource for both
+  // the primary (config.rss) and fallback (config.fallbackRss) URLs so both
+  // get identical retry behavior.
+  async function fetchFeedUrl(name, rssUrl, config) {
+    // Build a per-call config snapshot with the URL we're trying right now.
+    // This is what fetchViaRss2json reads .rss off of for its own URL.
+    const cfg = Object.assign({}, config, { rss: rssUrl });
     let xmlText = null;
     let lastErr = null;
-    // Walk the proxy chain. First success (non-empty XML body after unwrap) wins.
     for (let i = 0; i < CORS_PROXIES.length; i++) {
       const proxy = CORS_PROXIES[i];
-      const proxyUrl = proxy.build(config.rss);
+      const proxyUrl = proxy.build(rssUrl);
       try {
         const res = await fetchWithTimeout(proxyUrl, PROXY_TIMEOUT_MS);
         if (!res.ok) { lastErr = new Error(proxy.name + ' HTTP ' + res.status); continue; }
         const rawBody = await res.text();
         const body = proxy.unwrap(rawBody);
         if (!body || body.length < 32) { lastErr = new Error('empty body from ' + proxy.name); continue; }
-        // Reject HTML error pages — codetabs sometimes returns a 200 with
-        // an HTML rate-limit body instead of forwarding the XML feed,
-        // which we used to accept and then choke on in DOMParser.
         if (/^\s*(<!doctype html|<html)/i.test(body)) {
           lastErr = new Error(proxy.name + ' returned HTML not XML');
           continue;
@@ -278,27 +288,58 @@
       }
     }
     if (xmlText === null) {
-      // Last-resort fallback: try rss2json. Same as useRss2jsonOnly path
-      // but only after the raw-XML chain has exhausted itself.
-      try { return await fetchViaRss2json(name, config); } catch (e) { /* throw lastErr below */ }
-      throw lastErr || new Error('All proxies failed');
+      // Last-resort: rss2json on this URL.
+      return await fetchViaRss2json(name, cfg);
     }
     try {
       const parser = new DOMParser();
       const doc = parser.parseFromString(xmlText, 'application/xml');
-      // Defensive: detect parse errors
       if (doc.querySelector('parsererror')) throw new Error('XML parse error');
-      const items = (config.feedType === 'atom')
-        ? parseAtomEntries(doc, name, config)
-        : parseRssItems(doc, name, config);
+      const items = (cfg.feedType === 'atom')
+        ? parseAtomEntries(doc, name, cfg)
+        : parseRssItems(doc, name, cfg);
       return items;
     } catch (e) {
       console.warn('[FK Feed] Source XML parse failed, trying rss2json:', name, e.message);
-      // Final retry: rss2json. The proxy returned content but it didn't
-      // parse as XML — could be a CDN edge case or a rate-limit HTML
-      // wrapper that snuck through our HTML check above.
-      try { return await fetchViaRss2json(name, config); } catch (e2) { return []; }
+      return await fetchViaRss2json(name, cfg);
     }
+  }
+
+  async function fetchSource(name, config) {
+    // Sources that ALWAYS fail the raw-XML proxy chain — skip the chain
+    // and go straight to rss2json. Saves the 9-second timeout cycle and
+    // gets actual content in under the fetchAll deadline.
+    if (config.useRss2jsonOnly) {
+      return await fetchViaRss2json(name, config);
+    }
+    // Try the primary feed URL. If it returns content, we're done.
+    let primaryItems = null;
+    let primaryErr = null;
+    try {
+      primaryItems = await fetchFeedUrl(name, config.rss, config);
+    } catch (e) { primaryErr = e; }
+
+    // Healthy primary: at least one item AND no error. Return as-is.
+    if (primaryItems && primaryItems.length > 0) return primaryItems;
+
+    // Primary returned empty or errored. If there's a fallback URL configured
+    // (e.g. ytLongForm/ytShorts use channel_id when UULF/UUSH 404), try it
+    // and apply the configured filter to keep only the right item type.
+    if (config.fallbackRss) {
+      try {
+        const fbItems = await fetchFeedUrl(name + '_fallback', config.fallbackRss, config);
+        if (fbItems && fbItems.length > 0) {
+          return config.postFilterAfterFallback
+            ? fbItems.filter(config.postFilterAfterFallback)
+            : fbItems;
+        }
+      } catch (e) { /* fall through to return primary result */ }
+    }
+    if (primaryErr && (!primaryItems || primaryItems.length === 0)) {
+      // Surface the primary error if we never got anything.
+      throw primaryErr;
+    }
+    return primaryItems || [];
   }
 
   function extractThumbFromHtml(html) {
@@ -1042,5 +1083,5 @@
     setSupabaseKey: (key) => { EVENTS_CONFIG.anonKey = key; },
   };
 
-  console.log('[FK Feed] v1.16.0 loaded · locale=' + CURRENT_LOCALE);
+  console.log('[FK Feed] v1.17.0 loaded · locale=' + CURRENT_LOCALE);
 })(window);
