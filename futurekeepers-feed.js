@@ -163,7 +163,7 @@
   // ============================================================
   // CACHE — localStorage with TTL
   // ============================================================
-  const CACHE_KEY = 'fk_feed_v12_' + CURRENT_LOCALE; // bumped: hero excludes ccAsia (masthead = FK voice only, not news)
+  const CACHE_KEY = 'fk_feed_v13_' + CURRENT_LOCALE; // bumped: rss2json fallback in fetchSource for sources where every raw-XML proxy fails
   const CACHE_TTL_MS = 30 * 60 * 1000;
 
   function readCache() {
@@ -221,7 +221,34 @@
         lastErr = new Error(proxy.name + ': ' + msg);
       }
     }
-    if (xmlText === null) throw lastErr || new Error('All proxies failed');
+    if (xmlText === null) {
+      // Last-resort fallback: rss2json. Different format (already parsed
+      // JSON, not raw XML) and rate-limited, but covers cases where every
+      // raw-XML proxy fails — notably proelectrica.substack.com today,
+      // which all of codetabs/allorigins time out on.
+      try {
+        const r2jUrl = 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(config.rss);
+        const res = await fetchWithTimeout(r2jUrl, PROXY_TIMEOUT_MS);
+        if (res.ok) {
+          const data = await res.json();
+          if (data && data.status === 'ok' && Array.isArray(data.items)) {
+            return data.items.map(function (it) {
+              return makeItem({
+                sourceName: name,
+                config: config,
+                title: it.title,
+                link: it.link,
+                publishDate: it.pubDate ? new Date(it.pubDate) : null,
+                thumbnail: it.thumbnail || extractThumbFromHtml(it.content || it.description),
+                description: it.description,
+                author: it.author,
+              });
+            });
+          }
+        }
+      } catch (e) { /* fall through to throw lastErr */ }
+      throw lastErr || new Error('All proxies failed');
+    }
     try {
       const parser = new DOMParser();
       const doc = parser.parseFromString(xmlText, 'application/xml');
@@ -235,6 +262,13 @@
       console.warn('[FK Feed] Source failed:', name, e.message);
       return [];
     }
+  }
+
+  function extractThumbFromHtml(html) {
+    if (!html) return null;
+    const m = String(html).match(/<img[^>]+src=["']([^"']+)["']/i);
+    if (m && m[1] && !/tracking|pixel|spacer|1x1/i.test(m[1])) return m[1];
+    return null;
   }
 
   function parseAtomEntries(doc, sourceName, config) {
@@ -971,5 +1005,5 @@
     setSupabaseKey: (key) => { EVENTS_CONFIG.anonKey = key; },
   };
 
-  console.log('[FK Feed] v1.12.0 loaded · locale=' + CURRENT_LOCALE);
+  console.log('[FK Feed] v1.13.0 loaded · locale=' + CURRENT_LOCALE);
 })(window);
