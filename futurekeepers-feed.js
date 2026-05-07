@@ -91,45 +91,45 @@
   // FK Brain (Supabase) — events_public REST endpoint.
   // The anon key is the public read-only key, safe to ship in client code.
   // Find/replace it in the Supabase dashboard → Settings → API → "anon public".
+  // Events come from the FK Brain's public events feed (events_public on
+  // Supabase). Brain does ALL editorial filtering server-side: corporate
+  // webinars, professional development, oil-and-gas events, nuclear advocacy,
+  // biofuel mandates, and aggregator noise are all filtered out before they
+  // hit the API. The website's job is presentation only.
+  //
+  // What Brain guarantees on every row:
+  //   - 50ish forward-looking events at any given time (past auto-prune)
+  //   - 5 featured=true marquees pinned at the top (COP30, NYC Climate Week,
+  //     London Climate Action Week, Bonn SB62, Africa Climate Summit)
+  //   - region ∈ {Americas, Europe, SEA, Africa, Global}  (SEA covers all
+  //     of Asia + the Middle East — broad bucket by design)
+  //   - sort: featured DESC, start_date ASC
+  //   - daily refresh ~6:05am US Central
+  //
+  // The website only does ONE filter beyond Brain: per-locale region UX.
+  // English-language readers see the global lineup; Asia-locale homepages
+  // surface SEA + Global events first since most people on /id /zh /bn /ur
+  // /th /hi are reading from Asia. Featured rows always show on every
+  // locale (the marquees are global by design — COP30 isn't an "Americas"
+  // event for the user, even though it happens in Brazil).
+  //
+  // If a row sneaks through that shouldn't be on the page, screenshot it
+  // and tell Steve — he tells Brain to tune the filter. Never patch by
+  // editing this list of keywords/types.
   const EVENTS_CONFIG = {
     url: 'https://gnfpboncbmmwzhawiicm.supabase.co/rest/v1/events_public',
     anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImduZnBib25jYm1td3poYXdpaWNtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY4MDE4NDksImV4cCI6MjA5MjM3Nzg0OX0.ilvG8dgm5f0bsDaYdHMHKasxDQA4mf54LJjIjecpQMc',
-    // Order spec from Steve: featured items first, then by start_date ascending.
     order: 'featured.desc,start_date.asc',
-    // Auto-prune happens server-side; we can also defensively filter past dates.
+    // Defensive client-side date filter. Brain auto-prunes past events
+    // server-side, but this is cheap insurance against a stale row that
+    // somehow lingers.
     filterPast: true,
-    // Mission filter: keep events whose topics OR title OR description mention
-    // anything in this keyword set. The events feed pulls from many third-
-    // party sources (Trellis, IEA, conference aggregators) and most are on-
-    // topic, but some pure-business "career development / leadership /
-    // influence" trainings sneak in. Steve's rule (May 7 2026): if it's not
-    // FK's mission, it doesn't belong on the FK homepage.
-    //
-    // To keep an off-topic event despite the filter, set featured=true on
-    // the row in events_public — featured rows always pass the filter.
-    missionKeywords: [
-      'climate', 'energy', 'electric', 'electrif',
-      'solar', 'wind', 'battery', 'storage', 'hydrogen', 'biomass',
-      'grid', 'utility', 'utilities', 'renewable', 'cleantech',
-      'sustainab', 'decarbon', 'emission', 'carbon', 'pollution',
-      'environment', 'regenerat', 'nature-based',
-      'photovoltaic', 'PV ',
-      'EPR', 'extended producer',
-      'transition', 'green', 'net zero', 'net-zero',
-    ],
-    // Per-locale region whitelist. The events_public table has a `region`
-    // field with values like 'Americas', 'Europe', 'SEA', 'Global', 'Africa'.
-    // English (FK's primary locale) sees every region — that audience is
-    // global. Non-English locales see only events in regions where the
-    // language is read, plus 'Global' (which mostly means virtual or
-    // multi-region online events that anyone can attend).
-    //
-    // Set the locale's value to null to disable region filtering (English
-    // does this).
-    //
-    // Featured rows always pass regardless of region.
+    // Per-locale region whitelist — the ONLY filter the client applies.
+    // null → no filter (English sees every region). Featured rows bypass
+    // this filter regardless of locale: the 5 marquees are designed to be
+    // global, so COP30 / NYC Climate Week / etc. show on every homepage.
     localeRegions: {
-      en: null, // no region filter — see everything
+      en: null,
       id: ['SEA', 'APAC', 'Global'],
       zh: ['SEA', 'APAC', 'Global'],
       bn: ['SEA', 'APAC', 'South Asia', 'Global'],
@@ -139,54 +139,20 @@
     },
   };
 
-  // Returns true if the event passes the mission-relevance filter.
-  // Featured events are always kept (manual whitelist override).
-  function eventIsOnMission(event) {
-    if (event.featured) return true;
-    const keywords = EVENTS_CONFIG.missionKeywords;
-    if (!keywords || keywords.length === 0) return true;
-    const haystack = [
-      (event.topics || []).join(' '),
-      event.title || '',
-      event.description || '',
-      event.eventType || '',
-    ].join(' ').toLowerCase();
-    for (let i = 0; i < keywords.length; i++) {
-      if (haystack.indexOf(keywords[i].toLowerCase()) !== -1) return true;
-    }
-    return false;
-  }
-
   // Returns true if the event's region is in the current locale's whitelist,
   // OR if the locale has no whitelist (English), OR if the event has no
-  // region set (don't penalize missing data — assume show), OR if featured.
+  // region set (don't penalize missing data), OR if featured (marquees are
+  // global by design).
   function eventIsInLocaleRegion(event) {
     if (event.featured) return true;
     const allowed = EVENTS_CONFIG.localeRegions && EVENTS_CONFIG.localeRegions[CURRENT_LOCALE];
-    if (!allowed) return true; // null/undefined → no filter
-    if (!event.region) return true; // missing region data → don't drop
+    if (!allowed) return true;
+    if (!event.region) return true;
     const r = String(event.region).toLowerCase();
     for (let i = 0; i < allowed.length; i++) {
       if (r === allowed[i].toLowerCase()) return true;
     }
     return false;
-  }
-
-  // "Big IRL events" filter (Steve, May 7 2026):
-  //   • Drop event_type='training' — those are corporate webinars (Trellis-
-  //     style "career development" sessions), not what FK is about.
-  //   • Drop pure-virtual events (is_virtual && !is_hybrid). Hybrid stays
-  //     because there's an in-person component. The page is "What's
-  //     Coming" and the energy is people-in-rooms, not zoom calls.
-  //
-  // Featured rows always pass — manual whitelist override for the rare
-  // virtual event Steve wants to feature anyway (e.g. an FK-hosted webinar).
-  function eventIsBigIrl(event) {
-    if (event.featured) return true;
-    const et = (event.eventType || '').toLowerCase();
-    if (et === 'training') return false;
-    if (event.isVirtual && !event.isHybrid) return false;
-    return true;
   }
 
   function detectLocale() {
@@ -685,7 +651,7 @@
   // ============================================================
   // EVENTS — FutureKeepers Brain (Supabase events_public)
   // ============================================================
-  const EVENTS_CACHE_KEY = 'fk_events_v5_' + CURRENT_LOCALE; // bumped: big-IRL filter (drop trainings + virtual)
+  const EVENTS_CACHE_KEY = 'fk_events_v6_' + CURRENT_LOCALE; // bumped: trust Brain's editorial filter, removed redundant client-side mission/IRL filters
 
   function readEventsCache() {
     try {
@@ -734,16 +700,10 @@
           return cutoff >= now;
         });
       }
-      // Drop events that aren't FK-mission-aligned. Trellis (and similar
-      // aggregators) pump in pure professional-development sessions that
-      // have nothing to do with climate/energy — those don't belong here.
-      events = events.filter(eventIsOnMission);
-      // Drop events that aren't in this locale's region. English is the
-      // global locale and sees everything; other locales only see events
-      // in their hemisphere + Global. Featured events bypass this filter.
+      // The only client-side filter: locale region UX. Brain handles every
+      // editorial decision (no webinars, no oil/gas, no professional dev,
+      // etc.) server-side. See EVENTS_CONFIG comment for the contract.
       events = events.filter(eventIsInLocaleRegion);
-      // Keep only the big in-person stuff. No corporate webinars.
-      events = events.filter(eventIsBigIrl);
       writeEventsCache(events);
       return events;
     } catch (e) {
@@ -1241,5 +1201,5 @@
     setSupabaseKey: (key) => { EVENTS_CONFIG.anonKey = key; },
   };
 
-  console.log('[FK Feed] v1.21.0 loaded · locale=' + CURRENT_LOCALE);
+  console.log('[FK Feed] v1.22.0 loaded · locale=' + CURRENT_LOCALE);
 })(window);
