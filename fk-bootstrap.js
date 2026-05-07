@@ -217,28 +217,24 @@
         '<div class="container">' +
           '<h2 class="section-title">' + t.watch +
             ' <a class="more" href="' + localePath + '/post-category/signal">' + t.seeAllVideos + arrow + '</a>' +
-            ' <span class="live-tag">' + t.liveFeed + '</span>' +
           '</h2>' +
           '<div class="grid-4" id="fk-watch-target"></div>' +
         '</div>' +
         '<div class="container">' +
           '<h2 class="section-title">' + t.shorts +
             ' <a class="more" href="' + localePath + '/post-category/noise">' + t.seeAllShorts + arrow + '</a>' +
-            ' <span class="live-tag">' + t.liveFeed + '</span>' +
           '</h2>' +
           '<div class="shorts-grid" id="fk-shorts-target"></div>' +
         '</div>' +
         '<div class="container">' +
           '<h2 class="section-title">' + t.read +
             ' <a class="more" href="' + localePath + '/post-category/signal">' + t.seeAllArticles + arrow + '</a>' +
-            ' <span class="live-tag">' + t.liveFeed + '</span>' +
           '</h2>' +
           '<div class="grid-3" id="fk-read-target"></div>' +
         '</div>' +
         '<div class="container">' +
           '<h2 class="section-title">' + t.upcoming +
             ' <a class="more" href="#">' + t.fullCalendar + arrow + '</a>' +
-            ' <span class="live-tag">' + t.liveFeed + '</span>' +
           '</h2>' +
           '<div class="event-grid" id="fk-events-target"></div>' +
         '</div>' +

@@ -151,7 +151,6 @@
         '<div class="container">' +
           '<h2 class="section-title" style="color:' + meta.color + ';">' +
             meta.label +
-            ' <span class="live-tag" style="margin-left:auto;">' + LIVE[locale] + '</span>' +
           '</h2>' +
           '<div class="grid-3" id="fk-category-target">' +
             '<div style="grid-column:1/-1;padding:40px;text-align:center;color:#888;">' + LOADING[locale] + '</div>' +

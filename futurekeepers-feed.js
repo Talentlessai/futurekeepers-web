@@ -971,5 +971,5 @@
     setSupabaseKey: (key) => { EVENTS_CONFIG.anonKey = key; },
   };
 
-  console.log('[FK Feed] v1.11.0 loaded · locale=' + CURRENT_LOCALE);
+  console.log('[FK Feed] v1.12.0 loaded · locale=' + CURRENT_LOCALE);
 })(window);
