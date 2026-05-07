@@ -1,0 +1,64 @@
+{
+  "generatedAt": "2026-05-07T04:32:54.976Z",
+  "locales": {
+    "en": {
+      "itemCount": 42,
+      "counts": {
+        "ytLongForm": 6,
+        "ytShorts": 4,
+        "fkSignal": 6,
+        "proElectrica": 16,
+        "ccAsia": 10
+      },
+      "bytes": 24850
+    },
+    "id": {
+      "itemCount": 20,
+      "counts": {
+        "ytLongForm": 10,
+        "ytShorts": 10
+      },
+      "bytes": 7737
+    },
+    "zh": {
+      "itemCount": 20,
+      "counts": {
+        "ytLongForm": 10,
+        "ytShorts": 10
+      },
+      "bytes": 7705
+    },
+    "bn": {
+      "itemCount": 10,
+      "counts": {
+        "ytLongForm": 3,
+        "ytShorts": 7
+      },
+      "bytes": 4865
+    },
+    "ur": {
+      "itemCount": 20,
+      "counts": {
+        "ytLongForm": 10,
+        "ytShorts": 10
+      },
+      "bytes": 8252
+    },
+    "th": {
+      "itemCount": 13,
+      "counts": {
+        "ytLongForm": 3,
+        "ytShorts": 10
+      },
+      "bytes": 6023
+    },
+    "hi": {
+      "itemCount": 0,
+      "counts": {
+        "ytLongForm": 0,
+        "ytShorts": 0
+      },
+      "bytes": 106
+    }
+  }
+}

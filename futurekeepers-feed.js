@@ -190,7 +190,7 @@
   // ============================================================
   // CACHE — localStorage with TTL
   // ============================================================
-  const CACHE_KEY = 'fk_feed_v18_' + CURRENT_LOCALE; // bumped: ytLongForm/ytShorts now have channel_id fallback for channels lacking UULF/UUSH auto-playlists (English)
+  const CACHE_KEY = 'fk_feed_v19_' + CURRENT_LOCALE; // bumped: now reads from pre-baked static cache (feed-cache/<locale>.json on jsdelivr) instead of live proxy chain on every cold load
   const CACHE_TTL_MS = 30 * 60 * 1000;
 
   function readCache() {
@@ -505,6 +505,40 @@
   // is hit exactly once per page load.
   let _inflightFetchAll = null;
 
+  // STATIC CACHE — primary source as of v1.18. Pre-baked daily by the
+  // .github/workflows/refresh-feed.yml cron (runs scripts/refresh-feed.mjs)
+  // and committed to feed-cache/<locale>.json. We hit jsdelivr@main so the
+  // cron's commit is picked up automatically (jsdelivr purges via the
+  // workflow's final step, so latency is seconds not hours).
+  //
+  // The live-fetch path stays in the codebase as a fallback for the case
+  // where the static cache 404s (cron has never run for this branch) or is
+  // catastrophically stale (>STATIC_CACHE_MAX_AGE_MS old). Most pageloads
+  // never touch it.
+  const STATIC_CACHE_BASE =
+    'https://cdn.jsdelivr.net/gh/Talentlessai/futurekeepers-web@main/feed-cache/';
+  const STATIC_CACHE_MAX_AGE_MS = 48 * 60 * 60 * 1000; // 48h — twice the cron cadence
+
+  async function fetchStaticCache() {
+    const url = STATIC_CACHE_BASE + CURRENT_LOCALE + '.json';
+    const res = await fetchWithTimeout(url, 5000);
+    if (!res.ok) throw new Error('static cache HTTP ' + res.status);
+    const data = await res.json();
+    if (!data || !Array.isArray(data.items)) throw new Error('static cache bad shape');
+    const generatedAt = data.generatedAt ? new Date(data.generatedAt).getTime() : 0;
+    if (generatedAt && Date.now() - generatedAt > STATIC_CACHE_MAX_AGE_MS) {
+      throw new Error('static cache too old (' + Math.round((Date.now() - generatedAt) / 3600000) + 'h)');
+    }
+    // Deserialize ISO date strings into Date objects so renderers don't have to.
+    return data.items
+      .map(function (i) {
+        return Object.assign({}, i, {
+          publishDate: i.publishDate ? new Date(i.publishDate) : null,
+        });
+      })
+      .filter(function (i) { return i.publishDate && !isNaN(i.publishDate); });
+  }
+
   async function fetchAll(opts) {
     opts = opts || {};
     if (!opts.skipCache) {
@@ -515,13 +549,26 @@
 
     _inflightFetchAll = (async () => {
       try {
+        // FAST PATH — pre-baked static cache from jsdelivr. ~200-500ms total.
+        try {
+          const items = await fetchStaticCache();
+          if (items.length > 0) {
+            writeCache(items);
+            return items;
+          }
+          // Empty static cache (e.g. brand-new locale on first cron run)
+          // → fall through to live fetch so the page isn't blank.
+          console.warn('[FK Feed] Static cache empty for ' + CURRENT_LOCALE + ', falling back to live fetch');
+        } catch (e) {
+          console.warn('[FK Feed] Static cache miss (' + e.message + '), falling back to live fetch');
+        }
+
+        // LIVE FALLBACK — original proxy-chain path. Slow (8-18s cold),
+        // unreliable, but here so the page never serves stale-empty content.
         const sources = buildSources();
         const entries = Object.entries(sources)
           .filter(([_, cfg]) => !cfg.localesOnly || cfg.localesOnly.includes(CURRENT_LOCALE));
 
-        // Race the per-source promises against a wall-clock deadline so the
-        // page doesn't wait for the slowest dead-proxy chain. Sources that
-        // miss the deadline get dropped just like ones that fail outright.
         const sourcePromises = entries.map(([name, cfg]) => fetchSource(name, cfg));
         const deadline = new Promise((_, reject) =>
           setTimeout(() => reject(new Error('deadline')), FETCH_DEADLINE_MS)
@@ -1083,5 +1130,5 @@
     setSupabaseKey: (key) => { EVENTS_CONFIG.anonKey = key; },
   };
 
-  console.log('[FK Feed] v1.17.0 loaded · locale=' + CURRENT_LOCALE);
+  console.log('[FK Feed] v1.18.0 loaded · locale=' + CURRENT_LOCALE);
 })(window);

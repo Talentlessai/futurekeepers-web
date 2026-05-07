@@ -1,0 +1,16 @@
+{
+  "name": "futurekeepers-web",
+  "version": "1.0.0",
+  "description": "FutureKeepers homepage + category federated feed (build artefacts served via jsdelivr)",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "refresh-feed": "node scripts/refresh-feed.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
