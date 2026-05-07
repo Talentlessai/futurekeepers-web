@@ -64,10 +64,15 @@
   // Long-term upgrade: replace this with a Cloudflare Worker on FK's own infra
   // for full control + zero third-party dependency.
   const CORS_PROXIES = [
+    // Re-ordered May 6 2026: allorigins/get first because codetabs has been
+    // returning HTML rate-limit pages all day. allorigins/get is JSON-wrapped
+    // (most reliable), allorigins/raw second, codetabs last.
     {
-      name: 'codetabs',
-      build: function (url) { return 'https://api.codetabs.com/v1/proxy/?quest=' + url; },
-      unwrap: function (body) { return body; },
+      name: 'allorigins-get',
+      build: function (url) { return 'https://api.allorigins.win/get?url=' + encodeURIComponent(url) + '&charset=UTF-8'; },
+      unwrap: function (body) {
+        try { return JSON.parse(body).contents || ''; } catch (e) { return ''; }
+      },
     },
     {
       name: 'allorigins-raw',
@@ -75,11 +80,9 @@
       unwrap: function (body) { return body; },
     },
     {
-      name: 'allorigins-get',
-      build: function (url) { return 'https://api.allorigins.win/get?url=' + encodeURIComponent(url) + '&charset=UTF-8'; },
-      unwrap: function (body) {
-        try { return JSON.parse(body).contents || ''; } catch (e) { return ''; }
-      },
+      name: 'codetabs',
+      build: function (url) { return 'https://api.codetabs.com/v1/proxy/?quest=' + url; },
+      unwrap: function (body) { return body; },
     },
   ];
   // Backwards-compat alias for the diagnostic info object emitted from getStatus().
@@ -174,7 +177,7 @@
   // ============================================================
   // CACHE — localStorage with TTL
   // ============================================================
-  const CACHE_KEY = 'fk_feed_v16_' + CURRENT_LOCALE; // bumped: reject HTML error pages from proxies, fall through to rss2json on XML parse fail
+  const CACHE_KEY = 'fk_feed_v17_' + CURRENT_LOCALE; // bumped: proxy order — allorigins-get first since codetabs is rate-limiting
   const CACHE_TTL_MS = 30 * 60 * 1000;
 
   function readCache() {
