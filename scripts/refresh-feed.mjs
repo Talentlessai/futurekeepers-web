@@ -135,6 +135,15 @@ async function tryFetchViaRss2json(rssUrl, attempt = 0) {
     });
     if (!res.ok) {
       console.warn(`    rss2json HTTP ${res.status} for ${rssUrl.substring(0, 80)}`);
+      // 429 = rate limit, 5xx = transient — both worth retrying with backoff.
+      // 4xx (other than 429) means our request is busted; no point retrying.
+      const retryable = res.status === 429 || res.status >= 500;
+      if (retryable && attempt < 4) {
+        const wait = 3000 * Math.pow(2, attempt);
+        console.warn(`    rss2json retry ${attempt + 1}/4 in ${wait}ms (HTTP ${res.status})...`);
+        await new Promise((r) => setTimeout(r, wait));
+        return tryFetchViaRss2json(rssUrl, attempt + 1);
+      }
       return null;
     }
     const data = await res.json();
