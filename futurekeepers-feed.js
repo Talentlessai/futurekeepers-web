@@ -117,6 +117,26 @@
       'EPR', 'extended producer',
       'transition', 'green', 'net zero', 'net-zero',
     ],
+    // Per-locale region whitelist. The events_public table has a `region`
+    // field with values like 'Americas', 'Europe', 'SEA', 'Global', 'Africa'.
+    // English (FK's primary locale) sees every region — that audience is
+    // global. Non-English locales see only events in regions where the
+    // language is read, plus 'Global' (which mostly means virtual or
+    // multi-region online events that anyone can attend).
+    //
+    // Set the locale's value to null to disable region filtering (English
+    // does this).
+    //
+    // Featured rows always pass regardless of region.
+    localeRegions: {
+      en: null, // no region filter — see everything
+      id: ['SEA', 'APAC', 'Global'],
+      zh: ['SEA', 'APAC', 'Global'],
+      bn: ['SEA', 'APAC', 'South Asia', 'Global'],
+      ur: ['SEA', 'APAC', 'South Asia', 'Global'],
+      th: ['SEA', 'APAC', 'Global'],
+      hi: ['SEA', 'APAC', 'South Asia', 'Global'],
+    },
   };
 
   // Returns true if the event passes the mission-relevance filter.
@@ -133,6 +153,21 @@
     ].join(' ').toLowerCase();
     for (let i = 0; i < keywords.length; i++) {
       if (haystack.indexOf(keywords[i].toLowerCase()) !== -1) return true;
+    }
+    return false;
+  }
+
+  // Returns true if the event's region is in the current locale's whitelist,
+  // OR if the locale has no whitelist (English), OR if the event has no
+  // region set (don't penalize missing data — assume show), OR if featured.
+  function eventIsInLocaleRegion(event) {
+    if (event.featured) return true;
+    const allowed = EVENTS_CONFIG.localeRegions && EVENTS_CONFIG.localeRegions[CURRENT_LOCALE];
+    if (!allowed) return true; // null/undefined → no filter
+    if (!event.region) return true; // missing region data → don't drop
+    const r = String(event.region).toLowerCase();
+    for (let i = 0; i < allowed.length; i++) {
+      if (r === allowed[i].toLowerCase()) return true;
     }
     return false;
   }
@@ -633,7 +668,7 @@
   // ============================================================
   // EVENTS — FutureKeepers Brain (Supabase events_public)
   // ============================================================
-  const EVENTS_CACHE_KEY = 'fk_events_v3_' + CURRENT_LOCALE; // bumped: mission-keyword filter + organizer credit on cards
+  const EVENTS_CACHE_KEY = 'fk_events_v4_' + CURRENT_LOCALE; // bumped: per-locale region filter
 
   function readEventsCache() {
     try {
@@ -686,6 +721,10 @@
       // aggregators) pump in pure professional-development sessions that
       // have nothing to do with climate/energy — those don't belong here.
       events = events.filter(eventIsOnMission);
+      // Drop events that aren't in this locale's region. English is the
+      // global locale and sees everything; other locales only see events
+      // in their hemisphere + Global. Featured events bypass this filter.
+      events = events.filter(eventIsInLocaleRegion);
       writeEventsCache(events);
       return events;
     } catch (e) {
@@ -1183,5 +1222,5 @@
     setSupabaseKey: (key) => { EVENTS_CONFIG.anonKey = key; },
   };
 
-  console.log('[FK Feed] v1.19.0 loaded · locale=' + CURRENT_LOCALE);
+  console.log('[FK Feed] v1.20.0 loaded · locale=' + CURRENT_LOCALE);
 })(window);
