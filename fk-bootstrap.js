@@ -26,30 +26,13 @@
  *   6. Calls renderInto for hero / watch / shorts / read / events
  */
 (function () {
-  // The version this bootstrap injects. Bump when behavior or layout
-  // changes — used to detect "stale older bootstrap already injected".
-  var FK_VERSION = '2.1.0';
-
   // Block parallel/older bootstraps. Setting BOTH V3 (current) and V2
   // (legacy guard) flags to true means: another newer instance bails out
   // via V3, AND any older bootstrap@d2f3988-style still in the page bails
-  // out via V2. Previous attempt set V2=false which actually invited the
-  // old bootstrap to overwrite our work — backwards.
+  // out via V2.
   if (window.__fkBootstrapV3Ran) return;
   window.__fkBootstrapV3Ran = true;
   window.__fkBootstrapV2Ran = true;
-
-  // In-place takeover. If an older bootstrap already injected a host,
-  // DON'T remove it — Steve saw content "show up then disappear" because
-  // the old removal/re-injection flow caused a visible flash. Instead,
-  // we leave the host's DOM structure in place (target IDs are stable
-  // across versions) and just reload the feed JS so the new render logic
-  // overwrites the old content in each target slot.
-  var existing = document.getElementById('fk-feed-host');
-  if (existing && existing.dataset.fkVersion === FK_VERSION) {
-    // Already current. No-op.
-    return;
-  }
 
   // -----------------------------------------------------------
   // CDN base auto-detected from this script's own URL. Whatever SHA
@@ -72,6 +55,19 @@
   var bootSrc = thisScript ? thisScript.src : '';
   var CDN = bootSrc.replace(/\/fk-bootstrap\.js.*$/, '') ||
             'https://cdn.jsdelivr.net/gh/Talentlessai/futurekeepers-web@main';
+
+  // Use the CDN's SHA portion as our version — guarantees every git commit
+  // gets a unique FK_VERSION, so an older bootstrap's host always looks
+  // "stale" to a newer bootstrap and the in-place takeover kicks in.
+  // Earlier bug: hardcoded FK_VERSION='2.1.0' across all v2.1.x bootstraps
+  // meant the version-equality check made every bootstrap bail out as
+  // "already current" — first one wins, no takeover.
+  var FK_VERSION = (CDN.split('@')[1] || 'main').substring(0, 12);
+
+  // If a host with EXACTLY our SHA is already there, no-op.
+  // Different SHA → fall through to the start() dispatcher and take over.
+  var existing = document.getElementById('fk-feed-host');
+  if (existing && existing.dataset.fkVersion === FK_VERSION) return;
 
   // -----------------------------------------------------------
   // Locale detection. Webflow Localization routes every non-English

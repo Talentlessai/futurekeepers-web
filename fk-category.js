@@ -20,20 +20,12 @@
  * Anything else falls through and the page renders unchanged.
  */
 (function () {
-  // Version of THIS bootstrap. Bump when render logic / layout changes.
-  var FK_CATEGORY_VERSION = '1.1.0';
-
-  // Block parallel/older bootstraps — see fk-bootstrap.js for the full
+  // Block parallel/older bootstraps. See fk-bootstrap.js for the full
   // explanation. Setting both V1 and V2 guards keeps both old and current
   // bootstraps from racing.
   if (window.__fkCategoryV2Ran) return;
   window.__fkCategoryV2Ran = true;
   window.__fkCategoryV1Ran = true;
-
-  // If a host of OUR exact version is already there, no-op (avoids
-  // unnecessary re-renders if the bootstrap somehow runs twice).
-  var __earlyHost = document.getElementById('fk-feed-host');
-  if (__earlyHost && __earlyHost.dataset.fkVersion === FK_CATEGORY_VERSION) return;
 
   // CDN base auto-detected from this script's own URL. Whatever SHA the
   // Webflow shim loaded fk-category.js from is the same SHA we use for
@@ -52,6 +44,17 @@
   var src = thisScript ? thisScript.src : '';
   var CDN = src.replace(/\/fk-category\.js.*$/, '') ||
             'https://cdn.jsdelivr.net/gh/Talentlessai/futurekeepers-web@main';
+
+  // Version derived from this bootstrap's CDN SHA. Every commit gets a
+  // unique FK_CATEGORY_VERSION so older bootstraps' hosts always look
+  // "stale" to newer ones and the in-place takeover kicks in. (Earlier
+  // hardcoded '1.1.0' across all bootstraps prevented takeover from
+  // ever firing — first bootstrap to render won permanently.)
+  var FK_CATEGORY_VERSION = (CDN.split('@')[1] || 'main').substring(0, 12);
+
+  // If a host with EXACTLY our SHA is already there, no-op.
+  var __earlyHost = document.getElementById('fk-feed-host');
+  if (__earlyHost && __earlyHost.dataset.fkVersion === FK_CATEGORY_VERSION) return;
 
   // -----------------------------------------------------------
   // Parse the URL: pull the category slug out of /post-category/<slug>
