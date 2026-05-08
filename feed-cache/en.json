@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-05-07T04:54:08.936Z",
+  "generatedAt": "2026-05-08T06:08:02.852Z",
   "locale": "en",
   "counts": {
-    "ytLongForm": 6,
-    "ytShorts": 4,
+    "ytLongForm": 0,
+    "ytShorts": 0,
     "fkSignal": 6,
     "proElectrica": 10,
     "ccAsia": 10
   },
   "items": [
     {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "True Energy Security: Pakistan's Solar Wind Revolution #shorts",
-      "link": "https://www.youtube.com/shorts/JCWhbbI4nm8",
-      "publishDate": "2026-05-06T22:18:27.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/JCWhbbI4nm8/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers"
+      "source": "ccAsia",
+      "sourceLabel": "Climate & Capital Asia",
+      "taxonomy": "ccasia",
+      "format": "article",
+      "title": "Gas projects in Japan, funded by transition bonds, barely cut emissions",
+      "link": "https://www.climateandcapitalmedia.com/gas-projects-in-japan-funded-by-transition-bonds-barely-cut-emissions/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gas-projects-in-japan-funded-by-transition-bonds-barely-cut-emissions",
+      "publishDate": "2026-05-07T20:14:50.000Z",
+      "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/05/goi-thermal-power-station-climate-capital-media-asia.jpg",
+      "description": "Japan is a “critical test” for transition finance in Asia, as risks from divergent taxonomies show up in real deals, warns Energy Shift Institute. The post Gas projects in Japan, funded by transition bonds, barely cut em",
+      "author": "Gabrielle See"
     },
     {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Pakistan's Green Energy Revolution: A Sustainable Future #shorts",
-      "link": "https://www.youtube.com/shorts/cdX26e4Kk3M",
-      "publishDate": "2026-05-06T22:18:09.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/cdX26e4Kk3M/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers"
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "The Last Excuse to Protect Fossils Just Died",
+      "link": "https://proelectrica.substack.com/p/the-last-excuse-to-protect-fossils",
+      "publishDate": "2026-05-07T14:56:26.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!FPc3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c481251-62c4-493c-b586-680f324e7913_2048x1323.jpeg",
+      "description": "Solar power is cheaper even with all the batteries, overbuild, and all of it...",
+      "author": "Danny Kennedy"
     },
     {
       "source": "ccAsia",
@@ -44,102 +44,6 @@
       "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/05/japan-emissions-climate-capital-media-asia.jpg",
       "description": "Mandatory Emissions Trading System adds costs for emissions, but at prices too low, and a pace too slow, critics say The post Poor marks for Japan s new carbon trading regime appeared first on Climate and Capital Media .",
       "author": "Nithin Coca"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "End of Fossil Fuels? The Rise of Energy Independence! #shorts",
-      "link": "https://www.youtube.com/shorts/hSbkLYJeVOs",
-      "publishDate": "2026-05-05T23:04:19.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/hSbkLYJeVOs/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "War, Gas Prices, Your Wallet: Renewables Offer Stability! #shorts",
-      "link": "https://www.youtube.com/shorts/0WZpv2FbYAc",
-      "publishDate": "2026-05-05T22:57:52.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/0WZpv2FbYAc/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Small Wins: Salt Energy Storage Durable Tidal Power Breakthroughs",
-      "link": "https://www.youtube.com/shorts/hi4S1UW6qP8",
-      "publishDate": "2026-05-05T18:00:21.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/hi4S1UW6qP8/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "From ESG to Energy Sovereignty: The Geopolitics of the 2026 Energy Crisis",
-      "link": "https://www.youtube.com/watch?v=ak7cDB47EOM",
-      "publishDate": "2026-05-04T18:00:23.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/ak7cDB47EOM/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Post-Hormuz Policy Guide: Asia's Path to Energy Independence",
-      "link": "https://www.youtube.com/watch?v=VR7Sn1i2-AM",
-      "publishDate": "2026-05-04T14:15:23.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/VR7Sn1i2-AM/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Thailand's Energy Crisis: The Policy Key to Unlocking Renewables Economic Growth",
-      "link": "https://www.youtube.com/watch?v=SVdijwb6Wsc",
-      "publishDate": "2026-05-01T19:00:48.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/SVdijwb6Wsc/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "How Solar Power Can Save Bangladesh From Energy Crisis",
-      "link": "https://www.youtube.com/watch?v=jgtq9I_2thI",
-      "publishDate": "2026-05-01T14:00:46.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/jgtq9I_2thI/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Thailand's Green Energy Choice: Win Global Supply Chains",
-      "link": "https://www.youtube.com/watch?v=xYRXwi5WRo0",
-      "publishDate": "2026-04-30T22:41:26.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/xYRXwi5WRo0/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers"
     },
     {
       "source": "ccAsia",
@@ -322,18 +226,6 @@
       "author": "John Howell"
     },
     {
-      "source": "ccAsia",
-      "sourceLabel": "Climate & Capital Asia",
-      "taxonomy": "ccasia",
-      "format": "article",
-      "title": "In Pakistan, sunshine bolsters energy security",
-      "link": "https://www.climateandcapitalmedia.com/in-pakistan-sunshine-bolsters-energy-security/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=in-pakistan-sunshine-bolsters-energy-security",
-      "publishDate": "2026-04-08T20:34:47.000Z",
-      "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/04/pakistan-electric-rickshacks-climate-capital-media-asia.jpg",
-      "description": "A quiet solar revolution, and declining LNG imports is buffering the country from the worst impacts of the Iran conflict The post In Pakistan, sunshine bolsters energy security appeared first on Climate and Capital Media",
-      "author": "Gabrielle See"
-    },
-    {
       "source": "proElectrica",
       "sourceLabel": "ProElectrica",
       "taxonomy": "voices",
@@ -367,18 +259,6 @@
       "publishDate": "2026-03-27T23:27:08.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/%24s_!aoQm!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa6c53cd-039c-4115-9a3c-332555b27faa_720x901.jpeg",
       "description": "A Rebuttal to the Petro/LNG-Dollar Dominance Thesis",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "Stating the Bleedingly Apparent: Go Electric Asia",
-      "link": "https://proelectrica.substack.com/p/stating-the-bleedingly-apparent-go",
-      "publishDate": "2026-03-20T05:56:48.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!ZpX_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fbd84cd-94e3-4647-969e-f95ad43671d0_1456x1092.webp",
-      "description": "The sun doesn’t care what’s happening in the Strait of Hormuz",
       "author": "Danny Kennedy"
     },
     {
