@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T06:08:02.852Z",
+  "generatedAt": "2026-05-09T06:27:10.912Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 0,
@@ -9,6 +9,30 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ccAsia",
+      "sourceLabel": "Climate & Capital Asia",
+      "taxonomy": "ccasia",
+      "format": "article",
+      "title": "Palm oil and beyond: How China can drive the greening of agriculture across Asia",
+      "link": "https://www.climateandcapitalmedia.com/palm-oil-and-beyond-how-china-can-drive-the-greening-of-agriculture-across-asia/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=palm-oil-and-beyond-how-china-can-drive-the-greening-of-agriculture-across-asia",
+      "publishDate": "2026-05-08T19:52:06.000Z",
+      "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/05/palm-oil-climate-capital-media-asia-2.jpg",
+      "description": "Throwing its weight behind imports from the region and green finance could help Asia shift from unsustainable farming practices, write three experts The post Palm oil and beyond: How China can drive the greening of agric",
+      "author": "Ma Jun, Shao Danqing, and Huang Leike"
+    },
+    {
+      "source": "ccAsia",
+      "sourceLabel": "Climate & Capital Asia",
+      "taxonomy": "ccasia",
+      "format": "article",
+      "title": "What a factory floor in China reveals about the energy transition",
+      "link": "https://www.climateandcapitalmedia.com/what-a-factory-floor-in-china-reveals-about-the-energy-transition/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=what-a-factory-floor-in-china-reveals-about-the-energy-transition",
+      "publishDate": "2026-05-08T17:36:18.000Z",
+      "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/05/envision-energy-climate-capital-media-asia.jpg",
+      "description": "Envision Energy unveils smarter wind turbines, a big push into energy storage, and its aims to decarbonize entire supply chains The post What a factory floor in China reveals about the energy transition appeared first on",
+      "author": "Michael Sheldrick"
+    },
     {
       "source": "ccAsia",
       "sourceLabel": "Climate & Capital Asia",
@@ -130,18 +154,6 @@
       "author": "Kari Huus"
     },
     {
-      "source": "ccAsia",
-      "sourceLabel": "Climate & Capital Asia",
-      "taxonomy": "ccasia",
-      "format": "article",
-      "title": "Pacific islands resist Trump’s push to mine their ocean",
-      "link": "https://www.climateandcapitalmedia.com/pacific-islands-resist-trumps-push-to-mine-their-ocean/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=pacific-islands-resist-trumps-push-to-mine-their-ocean",
-      "publishDate": "2026-04-09T21:05:21.000Z",
-      "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/04/pacific-island-climate-capital-media-asia.jpg",
-      "description": "Residents fear deep-sea mining plans hatched in Washington could damage ecosystems and disrupt traditions The post Pacific islands resist Trump’s push to mine their ocean appeared first on Climate and Capital Media .",
-      "author": "G. K. Cabico"
-    },
-    {
       "source": "proElectrica",
       "sourceLabel": "ProElectrica",
       "taxonomy": "voices",
@@ -212,18 +224,6 @@
       "thumbnail": "https://substackcdn.com/image/fetch/%24s_!dX53!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1446541-9697-4244-9aac-1c5f0d644cf1_1280x1045.jpeg",
       "description": "A translation of my post in English from April 6th using Gemini",
       "author": "Danny Kennedy"
-    },
-    {
-      "source": "ccAsia",
-      "sourceLabel": "Climate & Capital Asia",
-      "taxonomy": "ccasia",
-      "format": "article",
-      "title": "Iran conflict closes the Strait, but widens a path for renewables",
-      "link": "https://www.climateandcapitalmedia.com/iran-conflict-closes-the-strait-but-widens-a-path-for-renewables/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=iran-conflict-closes-the-strait-but-widens-a-path-for-renewables",
-      "publishDate": "2026-04-08T21:59:34.000Z",
-      "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/04/acwa-solar-china-climate-capital-media-asia.jpg",
-      "description": "China’s clean-tech companies set to cash in on demand in the Gulf The post Iran conflict closes the Strait, but widens a path for renewables appeared first on Climate and Capital Media .",
-      "author": "John Howell"
     },
     {
       "source": "proElectrica",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T06:07:18.685Z",
+  "generatedAt": "2026-05-09T06:26:27.113Z",
   "locales": {
     "en": {
       "itemCount": 26,
@@ -10,15 +10,15 @@
         "proElectrica": 10,
         "ccAsia": 10
       },
-      "bytes": 18412
+      "bytes": 18547
     },
     "id": {
-      "itemCount": 0,
+      "itemCount": 10,
       "counts": {
-        "ytLongForm": 0,
+        "ytLongForm": 10,
         "ytShorts": 0
       },
-      "bytes": 106
+      "bytes": 3909
     },
     "zh": {
       "itemCount": 0,

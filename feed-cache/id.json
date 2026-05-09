@@ -1,9 +1,130 @@
 {
-  "generatedAt": "2026-05-08T06:08:37.959Z",
+  "generatedAt": "2026-05-09T06:27:57.384Z",
   "locale": "id",
   "counts": {
-    "ytLongForm": 0,
+    "ytLongForm": 10,
     "ytShorts": 0
   },
-  "items": []
+  "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Revolusi Surya 100GW Indonesia: Harapan vs Realita",
+      "link": "https://www.youtube.com/watch?v=zB3-AN6RF-I",
+      "publishDate": "2026-05-05T02:00:24.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/zB3-AN6RF-I/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Revolusi Elektrotech: Mengubah Dunia, Dari Skala Global ke Ember Rumah Tangga",
+      "link": "https://www.youtube.com/watch?v=q4IOARLnT90",
+      "publishDate": "2026-04-28T16:55:27.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/q4IOARLnT90/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Poros Energi Baru: Indonesia Beralih ke Listrik!",
+      "link": "https://www.youtube.com/watch?v=h1N1VEBfD5E",
+      "publishDate": "2026-04-05T21:15:06.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/h1N1VEBfD5E/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Persimpangan Energi Indonesia: Krisis Global, Biofuel, Masa Depan Hijau",
+      "link": "https://www.youtube.com/watch?v=-nZrUFzP-3E",
+      "publishDate": "2026-04-04T23:30:06.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/-nZrUFzP-3E/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "4,4 Juta Pekerjaan Hijau: Peluang Baru Ekonomi Indonesia Menanti!",
+      "link": "https://www.youtube.com/watch?v=zWoSwdD0N3Q",
+      "publishDate": "2026-04-04T19:00:06.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/zWoSwdD0N3Q/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Krisis Gas Global Mengancam Dapur Kita? Solusi Induksi di RI",
+      "link": "https://www.youtube.com/watch?v=VL_nvlpQL6g",
+      "publishDate": "2026-04-03T23:00:06.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/VL_nvlpQL6g/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Revolusi Surya 100GW: Mampukah Indonesia Bersaing di Ekonomi Hijau?",
+      "link": "https://www.youtube.com/watch?v=qJEW0Sd18QU",
+      "publishDate": "2026-04-03T15:14:31.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/qJEW0Sd18QU/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Solusi jangka pendek tidak membangun keamanan nasional",
+      "link": "https://www.youtube.com/watch?v=43uCtM8-4hc",
+      "publishDate": "2026-04-02T23:45:05.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/43uCtM8-4hc/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Hujan Hitam, Sinyal Terang",
+      "link": "https://www.youtube.com/watch?v=skPRNCGvN7Y",
+      "publishDate": "2026-03-25T18:23:44.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/skPRNCGvN7Y/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Selamat datang di FutureKeepers: Ikuti momentumnya — tak bisa dihentikan.",
+      "link": "https://www.youtube.com/watch?v=UrO65uWOy9A",
+      "publishDate": "2025-09-23T23:55:48.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/UrO65uWOy9A/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers Indonesian"
+    }
+  ]
 }
