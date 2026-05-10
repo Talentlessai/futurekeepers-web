@@ -1,11 +1,59 @@
 {
-  "generatedAt": "2026-05-09T06:27:57.384Z",
+  "generatedAt": "2026-05-10T06:44:19.245Z",
   "locale": "id",
   "counts": {
-    "ytLongForm": 10,
-    "ytShorts": 0
+    "ytLongForm": 15,
+    "ytShorts": 6
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Pakistan Menemukan Solusi Energi Sendiri Saat Krisis Global #shorts",
+      "link": "https://www.youtube.com/shorts/Fyuaog-1e90",
+      "publishDate": "2026-05-08T21:14:11.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/Fyuaog-1e90/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Era Fosil Berakhir! Indonesia Siap Sambut Energi Terbarukan? #shorts",
+      "link": "https://www.youtube.com/shorts/CKZ2UfNGjdM",
+      "publishDate": "2026-05-06T22:23:16.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/CKZ2UfNGjdM/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Energi Bersih: Kunci Kemandirian Keamanan Indonesia! #shorts",
+      "link": "https://www.youtube.com/shorts/acj59dlCPbw",
+      "publishDate": "2026-05-06T21:40:06.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/acj59dlCPbw/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Era Fosil Berakhir! Ini Manfaat Energi Terbarukan untuk Indonesia #shorts",
+      "link": "https://www.youtube.com/shorts/NGtV8D4A8Mg",
+      "publishDate": "2026-05-05T23:10:52.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/NGtV8D4A8Mg/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -15,6 +63,30 @@
       "link": "https://www.youtube.com/watch?v=zB3-AN6RF-I",
       "publishDate": "2026-05-05T02:00:24.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/zB3-AN6RF-I/hqdefault.jpg",
+      "description": "Bayangkan ribuan desa dan sekolah di pelosok Indonesia menjadi pusat listrik mandiri. Indonesia punya ambisi besar: 100 GW tenaga surya. Tapi, bisakah mimpi ini jadi kenyataan? Indonesia duduk di atas harta karun energi ",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Krisis Energi: Peluang Emas untuk Energi Terbarukan? #shorts",
+      "link": "https://www.youtube.com/shorts/yQ5kizbwFvM",
+      "publishDate": "2026-04-30T03:01:08.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/yQ5kizbwFvM/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Krisis Energi: Peluang Emas untuk Energi Terbarukan? #shorts",
+      "link": "https://www.youtube.com/shorts/rfs8AIw4CAE",
+      "publishDate": "2026-04-30T03:01:04.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/rfs8AIw4CAE/hqdefault.jpg",
       "description": "",
       "author": "FutureKeepers Indonesian"
     },
@@ -27,7 +99,7 @@
       "link": "https://www.youtube.com/watch?v=q4IOARLnT90",
       "publishDate": "2026-04-28T16:55:27.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/q4IOARLnT90/hqdefault.jpg",
-      "description": "",
+      "description": "Ada sebuah revolusi besar yang mengubah dunia energi kita, tapi apa hubungannya dengan ember di belakang rumah? Dalam video ini, kita akan menyambungkan benang merah antara pergeseran kekuatan global yang masif dengan in",
       "author": "FutureKeepers Indonesian"
     },
     {
@@ -39,7 +111,7 @@
       "link": "https://www.youtube.com/watch?v=h1N1VEBfD5E",
       "publishDate": "2026-04-05T21:15:06.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/h1N1VEBfD5E/hqdefault.jpg",
-      "description": "",
+      "description": "Pernahkah Anda terjebak antrean panjang di SPBU saat subuh? Realitas ini bukan lagi sekadar ketidaknyamanan, melainkan cerminan dari pergeseran energi masif yang sedang dialami Indonesia. Di balik frustrasi harian ini, t",
       "author": "FutureKeepers Indonesian"
     },
     {
@@ -47,11 +119,11 @@
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "signal",
       "format": "video",
-      "title": "Persimpangan Energi Indonesia: Krisis Global, Biofuel, Masa Depan Hijau",
+      "title": "Persimpangan Energi Indonesia: Krisis Global, Biofuel, & Masa Depan Hijau",
       "link": "https://www.youtube.com/watch?v=-nZrUFzP-3E",
       "publishDate": "2026-04-04T23:30:06.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/-nZrUFzP-3E/hqdefault.jpg",
-      "description": "",
+      "description": "Indonesia berada di persimpangan jalan energi yang krusial. Di satu sisi, krisis energi global yang disebut Badan Energi Internasional sebagai \"yang terburuk dalam sejarah\" mengancam stabilitas ekonomi kita. Penutupan Se",
       "author": "FutureKeepers Indonesian"
     },
     {
@@ -63,7 +135,7 @@
       "link": "https://www.youtube.com/watch?v=zWoSwdD0N3Q",
       "publishDate": "2026-04-04T19:00:06.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/zWoSwdD0N3Q/hqdefault.jpg",
-      "description": "",
+      "description": "Di tengah ketidakpastian ekonomi global, Indonesia berada di persimpangan jalan menuju masa depan yang lebih hijau dan berkelanjutan. Gelombang investasi hijau besar-besaran siap mengubah lanskap ekonomi kita, menciptaka",
       "author": "FutureKeepers Indonesian"
     },
     {
@@ -75,7 +147,7 @@
       "link": "https://www.youtube.com/watch?v=VL_nvlpQL6g",
       "publishDate": "2026-04-03T23:00:06.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/VL_nvlpQL6g/hqdefault.jpg",
-      "description": "",
+      "description": "Pernahkah Anda memikirkan api di kompor gas Anda? Kelihatannya sepele, tapi tahukah Anda, sebuah krisis energi global yang disebut sebagai 'gangguan paling parah terhadap pasar bahan bakar global dalam sejarah' sedang me",
       "author": "FutureKeepers Indonesian"
     },
     {
@@ -87,7 +159,7 @@
       "link": "https://www.youtube.com/watch?v=qJEW0Sd18QU",
       "publishDate": "2026-04-03T15:14:31.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/qJEW0Sd18QU/hqdefault.jpg",
-      "description": "",
+      "description": "Bisakah Indonesia mewujudkan ambisi 100 Gigawatt tenaga surya? Bayangkan ribuan desa dan sekolah di pelosok Indonesia menjadi pusat listrik mandiri dengan energi bersih. Ini bukan sekadar angka, tapi sebuah visi besar un",
       "author": "FutureKeepers Indonesian"
     },
     {
@@ -99,7 +171,7 @@
       "link": "https://www.youtube.com/watch?v=43uCtM8-4hc",
       "publishDate": "2026-04-02T23:45:05.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/43uCtM8-4hc/hqdefault.jpg",
-      "description": "",
+      "description": "Dampak dari konflik dan guncangan energi yang terjadi meliputi: Gangguan logistik: Konflik antara AS dan Israel melawan Iran menghambat Selat Hormuz, jalur pelayaran penting yang menangani sekitar 20% minyak dunia dan se",
       "author": "FutureKeepers Indonesian"
     },
     {
@@ -111,7 +183,7 @@
       "link": "https://www.youtube.com/watch?v=skPRNCGvN7Y",
       "publishDate": "2026-03-25T18:23:44.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/skPRNCGvN7Y/hqdefault.jpg",
-      "description": "",
+      "description": "Hujan hitam di atas Teheran, karbon membubung di langit, dan gelombang kejut yang merambat ke seluruh ekonomi global. Perang AS–Israel dengan Iran sedang membentuk ulang keamanan energi global. Ini adalah peringatan yang",
       "author": "FutureKeepers Indonesian"
     },
     {
@@ -123,7 +195,67 @@
       "link": "https://www.youtube.com/watch?v=UrO65uWOy9A",
       "publishDate": "2025-09-23T23:55:48.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/UrO65uWOy9A/hqdefault.jpg",
+      "description": "FutureKeepers adalah sebuah platform cerita global yang digerakkan oleh manusia, dan diperkuat oleh AI. Kami menyoroti ide, terobosan, dan komunitas yang membentuk dunia yang berkelanjutan, terhubung, dan adil. Dari lonj",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Resiliensi Membawa Kepemimpinan | The Net Positive | Episode 2",
+      "link": "https://www.youtube.com/watch?v=E9EDb6TttBA",
+      "publishDate": "2025-09-05T23:46:46.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/E9EDb6TttBA/hqdefault.jpg",
+      "description": "Net resilience into leadership | The Net Positive | Episode 2 Dari kebijakan berani Beijing tentang virtual power plant hingga tantangan naiknya permukaan laut di Fiji, Episode 2 The Net Positive menggali kisah-kisah yan",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Tekanan Mendorong Kemajuan | The Net Positive | Episode 1",
+      "link": "https://www.youtube.com/watch?v=_uIGehhE2yQ",
+      "publishDate": "2025-08-08T23:59:21.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/_uIGehhE2yQ/hqdefault.jpg",
+      "description": "🇮🇩 Net Positive: Episode 1 Selamat datang di episode perdana Net Positive, kolaborasi antara Climate & Capital Media dan FutureKeepers. Serial ini membahas uang, kekuasaan, dan kebijakan yang membentuk ekonomi iklim. D",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Pemerintah Pakistan akan menyediakan 500.000 panel surya gratis di seluruh negeri!",
+      "link": "https://www.youtube.com/watch?v=6K-wSYcoRU0",
+      "publishDate": "2025-07-10T21:30:00.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/6K-wSYcoRU0/hqdefault.jpg",
       "description": "",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "NDC 3.0: Negara Mana yang SERIUS vs. NGAKAK di Isu Iklim? 🌍🤥⚡",
+      "link": "https://www.youtube.com/watch?v=N7PGJjtYs40",
+      "publishDate": "2025-04-26T00:03:11.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/N7PGJjtYs40/hqdefault.jpg",
+      "description": "Hanya 19 dari 195 negara penandatangan Perjanjian Paris yang telah menyerahkan Nationally Determined Contributions (NDCs) atau rencana iklim mereka per 10 Maret tahun ini, menurut laporan dari 350.org. Putaran terbaru ND",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Koboi Amerika Kini Ditunggangi Energi Terbarukan!",
+      "link": "https://www.youtube.com/watch?v=tTd2NtZsM6c",
+      "publishDate": "2025-04-02T18:11:42.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/tTd2NtZsM6c/hqdefault.jpg",
+      "description": "Texas = Minyak dan Koboi? Tidak lagi. Sekarang: Koboi Bertenaga Surya dan Angin. Serial drama Landman menggambarkan Texas sebagai negara bagian yang keras, kaya minyak, dan penuh semangat koboi sejati. Tapi generasi baru",
       "author": "FutureKeepers Indonesian"
     }
   ]
