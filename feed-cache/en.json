@@ -1,25 +1,37 @@
 {
-  "generatedAt": "2026-05-11T07:53:03.722Z",
+  "generatedAt": "2026-05-12T06:47:49.577Z",
   "locale": "en",
   "counts": {
-    "ytLongForm": 15,
-    "ytShorts": 15,
-    "fkSignal": 6,
+    "ytLongForm": 0,
+    "ytShorts": 0,
+    "fkSignal": 7,
     "proElectrica": 10,
     "ccAsia": 10
   },
   "items": [
     {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Pakistan's Solar Surge: How Rooftop Panels Battle Global Oil Prices #shorts",
-      "link": "https://www.youtube.com/shorts/t_GSnjAi8fQ",
-      "publishDate": "2026-05-08T21:13:45.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/t_GSnjAi8fQ/hqdefault.jpg",
-      "description": "When a narrow stretch of water thousands of miles away starts to close, entire economies feel it. The Strait of Hormuz, a critical chokepoint, carries roughly a quarter of the world's seaborne oil. When conflict disrupts",
-      "author": "FutureKeepers"
+      "source": "fkSignal",
+      "sourceLabel": "FutureKeepers Signal",
+      "taxonomy": "signal",
+      "format": "newsletter",
+      "title": "Guerilla Sun",
+      "link": "https://futurekeepers.substack.com/p/guerilla-sun",
+      "publishDate": "2026-05-11T16:59:36.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!REpM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f4ba2dc-7739-41f3-b854-6c60768188cf_1456x816.png",
+      "description": "I don’t know who needs to hear this. But you don’t have to wait for policy to gain energy independence.",
+      "author": "Steve Mudd"
+    },
+    {
+      "source": "ccAsia",
+      "sourceLabel": "Climate & Capital Asia",
+      "taxonomy": "ccasia",
+      "format": "article",
+      "title": "CCA 023: Climate thriller: Godzilla El Niño vs King Kong energy shock",
+      "link": "https://www.climateandcapitalmedia.com/climate-thriller-godzilla-el-nino-vs-king-kong-energy-shock/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=climate-thriller-godzilla-el-nino-vs-king-kong-energy-shock",
+      "publishDate": "2026-05-10T15:18:25.000Z",
+      "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/05/CCA-Newsletter-023-scaled.png",
+      "description": "Facing volatile weather and surging prices, Asia is taking charge The post CCA 023: Climate thriller: Godzilla El Niño vs King Kong energy shock appeared first on Climate and Capital Media .",
+      "author": "Kari Huus"
     },
     {
       "source": "ccAsia",
@@ -70,30 +82,6 @@
       "author": "Danny Kennedy"
     },
     {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "True Energy Security: Pakistan's Solar & Wind Revolution #shorts",
-      "link": "https://www.youtube.com/shorts/JCWhbbI4nm8",
-      "publishDate": "2026-05-06T22:18:27.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/JCWhbbI4nm8/hqdefault.jpg",
-      "description": "For decades, global energy security has been defined by controlling fossil fuel supply lines. But this model is broken, leaving nations vulnerable to volatile prices and geopolitical conflicts far from their borders. Pak",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Pakistan's Green Energy Revolution: A Sustainable Future #shorts",
-      "link": "https://www.youtube.com/shorts/cdX26e4Kk3M",
-      "publishDate": "2026-05-06T22:18:09.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/cdX26e4Kk3M/hqdefault.jpg",
-      "description": "Fossil fuels are on their way out, and Pakistan stands at a crucial crossroads. With its unique geographic and economic landscape, the nation faces a pivotal choice: cling to outdated energy sources or embrace a sustaina",
-      "author": "FutureKeepers"
-    },
-    {
       "source": "ccAsia",
       "sourceLabel": "Climate & Capital Asia",
       "taxonomy": "ccasia",
@@ -106,210 +94,6 @@
       "author": "Nithin Coca"
     },
     {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "End of Fossil Fuels? The Rise of Energy Independence! #shorts",
-      "link": "https://www.youtube.com/shorts/hSbkLYJeVOs",
-      "publishDate": "2026-05-05T23:04:19.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/hSbkLYJeVOs/hqdefault.jpg",
-      "description": "The era of energy security tied to fossil fuels is over. Discover how clean energy is not just a climate strategy, but our greatest opportunity for true energy independence. For decades, global conflicts and faraway poli",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "War, Gas Prices, & Your Wallet: Renewables Offer Stability! #shorts",
-      "link": "https://www.youtube.com/shorts/0WZpv2FbYAc",
-      "publishDate": "2026-05-05T22:57:52.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/0WZpv2FbYAc/hqdefault.jpg",
-      "description": "Global conflicts are sending shockwaves through energy markets, driving up oil and gas prices worldwide. For everyday families, this means more than just a number on a screen – it translates into skyrocketing costs for c",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Small Wins: Salt Energy Storage & Durable Tidal Power Breakthroughs",
-      "link": "https://www.youtube.com/shorts/hi4S1UW6qP8",
-      "publishDate": "2026-05-05T18:00:21.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/hi4S1UW6qP8/hqdefault.jpg",
-      "description": "Climate news can often feel overwhelming, but this week, we're celebrating uplifting stories that prove positive change is happening! Discover how innovative technologies are tackling renewable energy's biggest challenge",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "From ESG to Energy Sovereignty: The Geopolitics of the 2026 Energy Crisis",
-      "link": "https://www.youtube.com/watch?v=ak7cDB47EOM",
-      "publishDate": "2026-05-04T18:00:23.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/ak7cDB47EOM/hqdefault.jpg",
-      "description": "In March 2026, the escalating conflict between the US, Israel, and Iran led to the physical severance of the Strait of Hormuz. This immediate disruption trapped 15 million barrels of oil in the Persian Gulf, triggering w",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Post-Hormuz Policy Guide: Asia's Path to Energy Independence",
-      "link": "https://www.youtube.com/watch?v=VR7Sn1i2-AM",
-      "publishDate": "2026-05-04T14:15:23.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/VR7Sn1i2-AM/hqdefault.jpg",
-      "description": "Decision-makers in Asia are grappling with severe maritime gridlock and an unprecedented energy squeeze due to the Post-Hormuz disruption. This explainer unpacks FutureKeepers Signal’s April 2026 report, 'A Field Guide f",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Thailand's Energy Crisis: The Policy Key to Unlocking Renewables & Economic Growth",
-      "link": "https://www.youtube.com/watch?v=SVdijwb6Wsc",
-      "publishDate": "2026-05-01T19:00:48.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/SVdijwb6Wsc/hqdefault.jpg",
-      "description": "When global conflicts threaten energy supply, nations reliant on fossil fuels face immediate economic and social upheaval. Thailand, with 65% of its power from gas, is particularly vulnerable to these external shocks, le",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "How Solar Power Can Save Bangladesh From Energy Crisis",
-      "link": "https://www.youtube.com/watch?v=jgtq9I_2thI",
-      "publishDate": "2026-05-01T14:00:46.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/jgtq9I_2thI/hqdefault.jpg",
-      "description": "Bangladesh faces a severe energy crisis, exacerbated by global geopolitical events like the functional closure of the Strait of Hormuz. Reliant on imports for 95% of its energy, the nation's economy is exceptionally vuln",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Thailand's Green Energy Choice: Win Global Supply Chains",
-      "link": "https://www.youtube.com/watch?v=xYRXwi5WRo0",
-      "publishDate": "2026-04-30T22:41:26.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/xYRXwi5WRo0/hqdefault.jpg",
-      "description": "On February 28th, 2026, the Strait of Hormuz effectively shut down, causing global oil and LNG shipments to grind to a halt. Thailand felt the immediate shock of soaring LNG prices, prompting emergency energy conservatio",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Post-Hormuz: Asia's Urgent Shift to Energy Independence",
-      "link": "https://www.youtube.com/watch?v=nQejR-nct9o",
-      "publishDate": "2026-04-30T19:55:36.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/nQejR-nct9o/hqdefault.jpg",
-      "description": "The Strait of Hormuz crisis has dramatically reduced energy transit, forcing Asian nations to rethink their energy security. This explainer, drawing directly from an April 2026 publication by FutureKeepers Signal, outlin",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Clean Energy's Unstoppable Rise: Beyond the Coal Blip #shorts",
-      "link": "https://www.youtube.com/shorts/QwLXYwd1Zo4",
-      "publishDate": "2026-04-29T23:51:07.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/QwLXYwd1Zo4/hqdefault.jpg",
-      "description": "Amidst global energy crises and geopolitical shocks, whispers of coal's return for energy security are circulating. But don't be fooled—this is a temporary blip, not a long-term U-turn for our planet's energy future. Rec",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Crisis-Driven Energy Transition: When Geopolitics Fuels Green Tech",
-      "link": "https://www.youtube.com/watch?v=e354HseSkR8",
-      "publishDate": "2026-04-29T19:39:04.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/e354HseSkR8/hqdefault.jpg",
-      "description": "What happens when a global geopolitical crisis chokes off vital energy supplies, plunging millions into darkness? This video explores a hypothetical 2026 scenario where a military escalation in the Strait of Hormuz trigg",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Blackout 2026: How Geopolitics Accelerated the Clean Energy Transition",
-      "link": "https://www.youtube.com/watch?v=ohtwmD2VJ5A",
-      "publishDate": "2026-04-29T19:38:56.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/ohtwmD2VJ5A/hqdefault.jpg",
-      "description": "Imagine early 2026: a geopolitical conflict chokes the Strait of Hormuz, plunging a vibrant tropical city in Sri Lanka into darkness. This isn't just a temporary power outage; it's a brutal demand destruction event that ",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Asia's Clean Energy Race: Bureaucracy vs. Renewables",
-      "link": "https://www.youtube.com/watch?v=BklrWt6tJjI",
-      "publishDate": "2026-04-29T19:38:51.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/BklrWt6tJjI/hqdefault.jpg",
-      "description": "In February 2026, the global energy system faced a stark challenge: the closure of the Strait of Hormuz halted 20% of global oil and gas shipments, sending Brent crude prices to historic highs. This fossil fuel choke poi",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Solar Power: Bangladesh's Path to Energy & Food Security",
-      "link": "https://www.youtube.com/watch?v=jzCdccpaPe4",
-      "publishDate": "2026-04-29T19:38:08.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/jzCdccpaPe4/hqdefault.jpg",
-      "description": "The closure of the Strait of Hormuz has exposed Bangladesh's extreme vulnerability to global energy disruptions, halting the flow of vital liquid natural gas and crude oil. As a nation relying on imports for 95% of its e",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Rooftop Revolution: Pakistan's Solar Boom & India's Energy Future",
-      "link": "https://www.youtube.com/watch?v=kvE1whSSNiM",
-      "publishDate": "2026-04-29T19:38:00.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/kvE1whSSNiM/hqdefault.jpg",
-      "description": "In a world increasingly vulnerable to international energy disruptions, like a hypothetical Strait of Hormuz blockade in 2026, true energy security demands physical insulation and decentralized power grids. Pakistan has ",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Solar Power Revolution: Asia Leads a Green Energy Future! #shorts",
-      "link": "https://www.youtube.com/shorts/dkL9UPeP_JM",
-      "publishDate": "2026-04-29T17:13:25.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/dkL9UPeP_JM/hqdefault.jpg",
-      "description": "A solar-powered world isn't a distant dream – it's being built right now, faster than anyone predicted! We are on the brink of shattering global solar installation records in 2025, marking a pivotal moment in our quest f",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Pakistan's Solar Revolution: Energy Sovereignty in a Crisis",
-      "link": "https://www.youtube.com/watch?v=pPNilMyxMco",
-      "publishDate": "2026-04-27T16:59:26.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/pPNilMyxMco/hqdefault.jpg",
-      "description": "In February 2026, a sudden escalation of military strikes over Tehran shattered the stability of the Middle East. Iranian forces retaliated by shutting down the Strait of Hormuz, plunging global shipping traffic by 90% a",
-      "author": "FutureKeepers"
-    },
-    {
       "source": "ccAsia",
       "sourceLabel": "Climate & Capital Asia",
       "taxonomy": "ccasia",
@@ -320,30 +104,6 @@
       "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/04/CCA-Newsletter-022-scaled.png",
       "description": "In energy calculations, what a difference a war makes The post CCA 022: LNG sticker shock and a quick pivot appeared first on Climate and Capital Media .",
       "author": "Kari Huus"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Philippines' Energy Future: Renewable Power for a Brighter Tomorrow",
-      "link": "https://www.youtube.com/shorts/0_zTmpyeTk0",
-      "publishDate": "2026-04-24T23:31:49.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/0_zTmpyeTk0/hqdefault.jpg",
-      "description": "For millions of Filipinos, lights flicker—a warning for us all. The nation faces a severe energy crisis, driven by relentlessly rising prices and our heavy reliance on imported fossil fuels. This dependence leaves us vul",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Energy Crisis Reveals SHOCKING Truth About Clean Energy Future #shorts",
-      "link": "https://www.youtube.com/shorts/h4D8OyrvxUg",
-      "publishDate": "2026-04-24T19:08:46.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/h4D8OyrvxUg/hqdefault.jpg",
-      "description": "A recent geopolitical crisis accidentally revealed a powerful truth about our energy future. When a major shipping lane, the Strait of Hormuz, was disrupted, the global supply of fossil gas took a significant hit. The re",
-      "author": "FutureKeepers"
     },
     {
       "source": "ccAsia",
@@ -370,18 +130,6 @@
       "author": "Kari Huus"
     },
     {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "China's Green Revolution: Doubling Clean Energy by 2035! #shorts",
-      "link": "https://www.youtube.com/shorts/LDQ6v5EFz_I",
-      "publishDate": "2026-04-22T18:24:27.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/LDQ6v5EFz_I/hqdefault.jpg",
-      "description": "This is what true climate leadership on a global scale looks like! China has just announced an ambitious plan to double its clean energy capacity by 2035. This isn't just another policy update; it's a seismic shift in th",
-      "author": "FutureKeepers"
-    },
-    {
       "source": "ccAsia",
       "sourceLabel": "Climate & Capital Asia",
       "taxonomy": "ccasia",
@@ -392,30 +140,6 @@
       "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/04/korea-food-inflation-climate-capital-media-asia-5.jpg",
       "description": "The Iran crisis underscores how relying on fossil fuel imports drives price volatility, and the need to bolster monetary policy support for renewables The post Bank of Korea urged to treat climate finance as an inflation",
       "author": "Gabrielle See"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "The Rental Trap: How Electrotech Creates Sovereign Power",
-      "link": "https://www.youtube.com/watch?v=Op0FTk6bvgk",
-      "publishDate": "2026-04-21T19:41:14.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/Op0FTk6bvgk/hqdefault.jpg",
-      "description": "Three-quarters of the global population relies on a constant, uninterrupted supply of imported fossil fuels, caught in what we call 'The Rental Trap.' This flow economy forces nations to rent their power day by day, lead",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Cows & Seaweed: The Surprising Solution to Methane Emissions",
-      "link": "https://www.youtube.com/shorts/dgVhK20-g-E",
-      "publishDate": "2026-04-21T19:23:59.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/dgVhK20-g-E/hqdefault.jpg",
-      "description": "Did you know that cow burps and farts contribute significantly to global warming? While it sounds like a joke, livestock emissions are a serious climate challenge. But what if a simple addition to a cow's diet could dras",
-      "author": "FutureKeepers"
     },
     {
       "source": "proElectrica",
@@ -430,54 +154,6 @@
       "author": "Danny Kennedy"
     },
     {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Panda Tech News: Why Solar Energy is Your NEXT BIG Investment!",
-      "link": "https://www.youtube.com/watch?v=16jKz_whXSE",
-      "publishDate": "2026-04-18T13:12:24.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/16jKz_whXSE/hqdefault.jpg",
-      "description": "Welcome to Panda Tech News, where our Engineering Correspondent VOAT brings you the hottest insights into the future of clean energy! In this episode, VOAT makes a powerful case for investing in solar energy, declaring i",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "The Electric Age: Reshaping Our Future After Energy Shocks",
-      "link": "https://www.youtube.com/shorts/T90bfEpsx94",
-      "publishDate": "2026-04-18T13:11:52.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/T90bfEpsx94/hqdefault.jpg",
-      "description": "The 2020s have already faced two massive fossil fuel shocks – from the invasion of Ukraine in 2022 to the potential closure of the Strait of Hormuz in 2026. These disruptions bear striking parallels to the oil crises of ",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Asia's 2026 Energy Crisis: The Race for Energy Independence",
-      "link": "https://www.youtube.com/watch?v=8V-kUDfDKds",
-      "publishDate": "2026-04-18T04:44:14.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/8V-kUDfDKds/hqdefault.jpg",
-      "description": "Imagine March 2026: the world's most critical energy artery is suddenly severed, halting the global economy. This video explores a hypothetical scenario where a retaliatory blockade of the Strait of Hormuz cripples the f",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Indonesia's HUGE Green Energy Leap: Phasing Out 2,400 Diesel Plants! #shorts",
-      "link": "https://www.youtube.com/shorts/Ple4s1zPhTY",
-      "publishDate": "2026-04-18T00:29:08.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/Ple4s1zPhTY/hqdefault.jpg",
-      "description": "Indonesia is making a monumental leap towards a sustainable future! Discover how the nation is phasing out nearly 2,400 diesel power plants in one of Southeast Asia's most significant energy transition moves. The state u",
-      "author": "FutureKeepers"
-    },
-    {
       "source": "ccAsia",
       "sourceLabel": "Climate & Capital Asia",
       "taxonomy": "ccasia",
@@ -488,30 +164,6 @@
       "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/04/indonesia-nickel-mine-climate-capital-media-asia.jpg",
       "description": "The industry, though fueled by coal, has argued that it is essential to the EV transition, but a new report says… not so much The post Indonesia’s “green” nickel boom is anything but appeared first on Climate and Capital",
       "author": "Gabrielle See"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Indonesia's Energy Crisis: The Renewable Solution #shorts",
-      "link": "https://www.youtube.com/shorts/FY2bAJjR_5Q",
-      "publishDate": "2026-04-15T22:10:00.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/FY2bAJjR_5Q/hqdefault.jpg",
-      "description": "Global fuel prices are skyrocketing, and geopolitical instability is sending shockwaves through energy markets worldwide. Indonesia, a nation historically dependent on fossil fuels, is feeling the full force of this turb",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ccAsia",
-      "sourceLabel": "Climate & Capital Asia",
-      "taxonomy": "ccasia",
-      "format": "article",
-      "title": "CCA 021: Asia is whipsawed by the long tail of the Iran conflict",
-      "link": "https://www.climateandcapitalmedia.com/asia-is-whipsawed-by-the-long-tail-of-the-iran-conflict/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=asia-is-whipsawed-by-the-long-tail-of-the-iran-conflict",
-      "publishDate": "2026-04-12T12:15:03.000Z",
-      "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/04/CCA-Newsletter-021-scaled.png",
-      "description": "How the Iran War’s supply chain and inflationary shock shifts futures in Asia The post CCA 021: Asia is whipsawed by the long tail of the Iran conflict appeared first on Climate and Capital Media .",
-      "author": "Kari Huus"
     },
     {
       "source": "proElectrica",

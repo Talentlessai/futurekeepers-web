@@ -1,64 +1,64 @@
 {
-  "generatedAt": "2026-05-11T07:53:02.421Z",
+  "generatedAt": "2026-05-12T06:47:17.783Z",
   "locales": {
     "en": {
-      "itemCount": 56,
+      "itemCount": 27,
       "counts": {
-        "ytLongForm": 15,
-        "ytShorts": 15,
-        "fkSignal": 6,
+        "ytLongForm": 0,
+        "ytShorts": 0,
+        "fkSignal": 7,
         "proElectrica": 10,
         "ccAsia": 10
       },
-      "bytes": 36302
+      "bytes": 19161
     },
     "id": {
-      "itemCount": 30,
+      "itemCount": 0,
       "counts": {
-        "ytLongForm": 15,
-        "ytShorts": 15
+        "ytLongForm": 0,
+        "ytShorts": 0
       },
-      "bytes": 17963
+      "bytes": 106
     },
     "zh": {
-      "itemCount": 30,
+      "itemCount": 0,
       "counts": {
-        "ytLongForm": 15,
-        "ytShorts": 15
+        "ytLongForm": 0,
+        "ytShorts": 0
       },
-      "bytes": 29271
+      "bytes": 106
     },
     "bn": {
-      "itemCount": 26,
+      "itemCount": 0,
       "counts": {
-        "ytLongForm": 11,
-        "ytShorts": 15
+        "ytLongForm": 0,
+        "ytShorts": 0
       },
-      "bytes": 26879
+      "bytes": 106
     },
     "ur": {
-      "itemCount": 30,
+      "itemCount": 0,
       "counts": {
-        "ytLongForm": 15,
-        "ytShorts": 15
+        "ytLongForm": 0,
+        "ytShorts": 0
       },
-      "bytes": 23383
+      "bytes": 106
     },
     "th": {
-      "itemCount": 18,
+      "itemCount": 0,
       "counts": {
-        "ytLongForm": 3,
-        "ytShorts": 15
+        "ytLongForm": 0,
+        "ytShorts": 0
       },
-      "bytes": 19921
+      "bytes": 106
     },
     "hi": {
-      "itemCount": 25,
+      "itemCount": 0,
       "counts": {
-        "ytLongForm": 10,
-        "ytShorts": 15
+        "ytLongForm": 0,
+        "ytShorts": 0
       },
-      "bytes": 25642
+      "bytes": 106
     }
   }
 }
