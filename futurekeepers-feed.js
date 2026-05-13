@@ -245,7 +245,7 @@
   // ============================================================
   // CACHE — localStorage with TTL
   // ============================================================
-  const CACHE_KEY = 'fk_feed_v19_' + CURRENT_LOCALE; // bumped: now reads from pre-baked static cache (feed-cache/<locale>.json on jsdelivr) instead of live proxy chain on every cold load
+  const CACHE_KEY = 'fk_feed_v20_' + CURRENT_LOCALE; // bumped: invalidate stale local caches from the 5 days of broken YouTube fetches — clients will re-fetch from jsdelivr which now has per-source rescue
   const CACHE_TTL_MS = 30 * 60 * 1000;
 
   function readCache() {
@@ -1208,5 +1208,5 @@
     setSupabaseKey: (key) => { EVENTS_CONFIG.anonKey = key; },
   };
 
-  console.log('[FK Feed] v1.23.0 loaded · locale=' + CURRENT_LOCALE);
+  console.log('[FK Feed] v1.24.0 loaded · locale=' + CURRENT_LOCALE);
 })(window);
