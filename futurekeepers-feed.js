@@ -570,24 +570,41 @@
   // where the static cache 404s (cron has never run for this branch) or is
   // catastrophically stale (>STATIC_CACHE_MAX_AGE_MS old). Most pageloads
   // never touch it.
+  // Static cache URL base. We tried jsdelivr@main but their edge POPs cache
+  // the @main → SHA resolution stickily, so even after a fresh commit users
+  // continued getting yesterday's file from a stale POP. The 5-minute
+  // cache-buster query string didn't defeat it either (jsdelivr seems to
+  // cache the @main pointer separately from the file URL).
+  //
+  // raw.githubusercontent.com goes straight to GitHub origin — no edge
+  // cache to be stale. Trade-off: ~200-400ms per fetch vs jsdelivr's ~50ms
+  // warm, but freshness wins over latency for a daily-refresh pattern.
+  // GitHub raw rate limits are 60/IP/hour unauthenticated — plenty for a
+  // single page load fetching one JSON file per visit.
   const STATIC_CACHE_BASE =
+    'https://raw.githubusercontent.com/Talentlessai/futurekeepers-web/main/feed-cache/';
+  // jsdelivr kept around as failover — used only if GitHub raw errors.
+  const STATIC_CACHE_BASE_FALLBACK =
     'https://cdn.jsdelivr.net/gh/Talentlessai/futurekeepers-web@main/feed-cache/';
   const STATIC_CACHE_MAX_AGE_MS = 48 * 60 * 60 * 1000; // 48h — twice the cron cadence
 
+  async function fetchStaticCacheFromUrl(baseUrl) {
+    const url = baseUrl + CURRENT_LOCALE + '.json';
+    const res = await fetchWithTimeout(url, 6000);
+    if (!res.ok) throw new Error('static cache HTTP ' + res.status + ' from ' + baseUrl);
+    return await res.json();
+  }
+
   async function fetchStaticCache() {
-    // Cache-bust by 5-minute bucket. jsdelivr's POPs serve stale content for
-    // up to 12h even after a purge. Adding ?v=<5min-bucket> changes the URL
-    // every 5 minutes so a stale POP can't trap us for longer than that.
-    // Within a 5-minute window the URL is constant, so jsdelivr still caches
-    // efficiently across users. (Earlier hourly granularity was too coarse —
-    // when we pushed a fix mid-hour, users were locked into stale data for
-    // up to 60 minutes.)
-    const d = new Date();
-    const fiveMinBucket = d.toISOString().substring(0, 14) + (Math.floor(d.getUTCMinutes() / 5) * 5).toString().padStart(2, '0'); // "2026-05-13T03:35"
-    const url = STATIC_CACHE_BASE + CURRENT_LOCALE + '.json?v=' + encodeURIComponent(fiveMinBucket);
-    const res = await fetchWithTimeout(url, 5000);
-    if (!res.ok) throw new Error('static cache HTTP ' + res.status);
-    const data = await res.json();
+    // Try GitHub raw first (always fresh, no edge cache). Fall back to
+    // jsdelivr if GitHub raw is unreachable (rate-limit, network issue).
+    let data;
+    try {
+      data = await fetchStaticCacheFromUrl(STATIC_CACHE_BASE);
+    } catch (e) {
+      console.warn('[FK Feed] github raw failed, trying jsdelivr:', e.message);
+      data = await fetchStaticCacheFromUrl(STATIC_CACHE_BASE_FALLBACK);
+    }
     if (!data || !Array.isArray(data.items)) throw new Error('static cache bad shape');
     const generatedAt = data.generatedAt ? new Date(data.generatedAt).getTime() : 0;
     if (generatedAt && Date.now() - generatedAt > STATIC_CACHE_MAX_AGE_MS) {
@@ -1210,5 +1227,5 @@
     setSupabaseKey: (key) => { EVENTS_CONFIG.anonKey = key; },
   };
 
-  console.log('[FK Feed] v1.25.0 loaded · locale=' + CURRENT_LOCALE);
+  console.log('[FK Feed] v1.26.0 loaded · locale=' + CURRENT_LOCALE);
 })(window);
