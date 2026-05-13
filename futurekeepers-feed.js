@@ -575,14 +575,16 @@
   const STATIC_CACHE_MAX_AGE_MS = 48 * 60 * 60 * 1000; // 48h — twice the cron cadence
 
   async function fetchStaticCache() {
-    // Cache-bust by hour. jsdelivr's CDN POPs serve stale content for up to
-    // 12h even after a purge — different POPs disagree on which version of
-    // a file to serve. Adding ?v=<hour-bucket> changes the URL each hour so
-    // a stale POP can't keep us from seeing fresh content for more than 60
-    // minutes. Within an hour the URL is constant, so jsdelivr still caches
-    // efficiently across users.
-    const hourBucket = new Date().toISOString().substring(0, 13); // "2026-05-13T03"
-    const url = STATIC_CACHE_BASE + CURRENT_LOCALE + '.json?v=' + encodeURIComponent(hourBucket);
+    // Cache-bust by 5-minute bucket. jsdelivr's POPs serve stale content for
+    // up to 12h even after a purge. Adding ?v=<5min-bucket> changes the URL
+    // every 5 minutes so a stale POP can't trap us for longer than that.
+    // Within a 5-minute window the URL is constant, so jsdelivr still caches
+    // efficiently across users. (Earlier hourly granularity was too coarse —
+    // when we pushed a fix mid-hour, users were locked into stale data for
+    // up to 60 minutes.)
+    const d = new Date();
+    const fiveMinBucket = d.toISOString().substring(0, 14) + (Math.floor(d.getUTCMinutes() / 5) * 5).toString().padStart(2, '0'); // "2026-05-13T03:35"
+    const url = STATIC_CACHE_BASE + CURRENT_LOCALE + '.json?v=' + encodeURIComponent(fiveMinBucket);
     const res = await fetchWithTimeout(url, 5000);
     if (!res.ok) throw new Error('static cache HTTP ' + res.status);
     const data = await res.json();
@@ -1208,5 +1210,5 @@
     setSupabaseKey: (key) => { EVENTS_CONFIG.anonKey = key; },
   };
 
-  console.log('[FK Feed] v1.24.0 loaded · locale=' + CURRENT_LOCALE);
+  console.log('[FK Feed] v1.25.0 loaded · locale=' + CURRENT_LOCALE);
 })(window);
