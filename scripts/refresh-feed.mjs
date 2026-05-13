@@ -427,6 +427,26 @@ async function buildLocale(locale) {
   const channelId = YOUTUBE_CHANNELS[locale];
   console.log(`\n=== ${locale.toUpperCase()} (${channelId}) ===`);
 
+  // Read previous cache up front. We'll use it to rescue individual sources
+  // that came back empty from today's fetch (PER-SOURCE preservation).
+  // This is the difference between "Watch goes dark because YouTube's RSS
+  // had a bad day" and "Watch keeps yesterday's videos because we remember
+  // them" — exactly the right behavior for a daily-baked cache.
+  const outPath = resolve(OUT_DIR, `${locale}.json`);
+  let previousCache = null;
+  if (existsSync(outPath)) {
+    try {
+      previousCache = JSON.parse(readFileSync(outPath, 'utf8'));
+    } catch (e) {
+      console.warn(`  (could not read previous ${locale}.json: ${e.message})`);
+    }
+  }
+  const previousItemsBySource = (previousCache?.items || []).reduce((acc, i) => {
+    if (!i?.source) return acc;
+    (acc[i.source] ||= []).push(i);
+    return acc;
+  }, {});
+
   const tasks = [
     fetchYtLongForm(channelId).then((r) => ['ytLongForm', r]),
     fetchYtShorts(channelId).then((r) => ['ytShorts', r]),
@@ -440,21 +460,45 @@ async function buildLocale(locale) {
   }
 
   const settled = await Promise.allSettled(tasks);
-  const counts = {};
+  const freshCounts = {};
+  const finalCounts = {};
+  const rescuedSources = [];
   let merged = [];
   for (const result of settled) {
     if (result.status === 'fulfilled') {
       const [name, items] = result.value;
-      counts[name] = items.length;
-      console.log(`  ${name.padEnd(15)} ${items.length} items`);
-      merged.push(...items);
+      freshCounts[name] = items.length;
+
+      // PER-SOURCE RESCUE: if this source came back empty today but had
+      // content in the previous cache, use the previous items. The site
+      // never goes dark on a specific section just because one upstream
+      // had a bad day.
+      if (items.length === 0 && previousItemsBySource[name]?.length > 0) {
+        const rescued = previousItemsBySource[name];
+        console.log(`  ${name.padEnd(15)} 0 items — RESCUED ${rescued.length} from previous cache`);
+        merged.push(...rescued);
+        finalCounts[name] = rescued.length;
+        rescuedSources.push(name);
+      } else {
+        console.log(`  ${name.padEnd(15)} ${items.length} items`);
+        merged.push(...items);
+        finalCounts[name] = items.length;
+      }
     } else {
       console.error(`  source failed:`, result.reason?.message || result.reason);
     }
   }
 
-  // Filter invalid dates, sort newest first
+  // Filter invalid dates, dedupe by link (in case rescued + fresh overlap),
+  // sort newest first.
   merged = merged.filter((i) => i.publishDate);
+  const seenLinks = new Set();
+  merged = merged.filter((i) => {
+    const key = i.link || JSON.stringify([i.source, i.title, i.publishDate]);
+    if (seenLinks.has(key)) return false;
+    seenLinks.add(key);
+    return true;
+  });
   merged.sort((a, b) => new Date(b.publishDate) - new Date(a.publishDate));
 
   // Keep top ~80 per locale — plenty for hero/Watch/Shorts/Read across the page
@@ -464,7 +508,9 @@ async function buildLocale(locale) {
   return {
     generatedAt: new Date().toISOString(),
     locale,
-    counts,
+    counts: finalCounts,
+    freshCounts, // For debugging: which sources came back from today's fetch
+    rescuedSources: rescuedSources.length ? rescuedSources : undefined,
     items: merged,
   };
 }
@@ -481,12 +527,12 @@ async function main() {
     const data = await buildLocale(locale);
     const outPath = resolve(OUT_DIR, `${locale}.json`);
 
-    // PRESERVE-ON-EMPTY: YouTube's RSS endpoint is unreliable from GitHub
-    // Actions runner IPs. If today's fetch produced zero items but yesterday's
-    // cache had content, keep yesterday's cache rather than blanking the
-    // locale's homepage. Better stale than empty.
+    // Belt-and-suspenders: per-source rescue inside buildLocale handles the
+    // common case (one source had a bad day). This whole-locale preserve
+    // catches the edge case where the locale has never had a successful
+    // run, so per-source had nothing to rescue from. Better stale than empty.
     let finalData = data;
-    let preserved = false;
+    let wholeLocalePreserved = false;
     if (data.items.length === 0 && existsSync(outPath)) {
       try {
         const prev = JSON.parse(readFileSync(outPath, 'utf8'));
@@ -494,10 +540,10 @@ async function main() {
           finalData = {
             ...prev,
             stalePreservedAt: new Date().toISOString(),
-            staleReason: `fresh fetch returned 0 items; counts: ${JSON.stringify(data.counts)}`,
+            staleReason: `whole-locale fallback: fresh fetch + per-source rescue both returned 0; freshCounts: ${JSON.stringify(data.freshCounts || data.counts)}`,
           };
-          preserved = true;
-          console.log(`  ⚠ ${locale}: fresh fetch returned 0 items — preserving previous cache (${prev.items.length} items from ${prev.generatedAt})`);
+          wholeLocalePreserved = true;
+          console.log(`  ⚠ ${locale}: whole-locale preserve — keeping ${prev.items.length} items from ${prev.generatedAt}`);
         }
       } catch (e) {
         console.warn(`  could not read previous ${locale}.json:`, e.message);
@@ -508,10 +554,15 @@ async function main() {
     manifest.locales[locale] = {
       itemCount: finalData.items.length,
       counts: finalData.counts,
+      freshCounts: finalData.freshCounts,
+      rescuedSources: finalData.rescuedSources,
       bytes: Buffer.byteLength(JSON.stringify(finalData)),
-      preserved: preserved || undefined,
+      wholeLocalePreserved: wholeLocalePreserved || undefined,
     };
-    console.log(`  → wrote ${outPath} (${finalData.items.length} items${preserved ? ' — stale-preserved' : ''})`);
+    const summary = [];
+    if (finalData.rescuedSources?.length) summary.push(`rescued: ${finalData.rescuedSources.join(',')}`);
+    if (wholeLocalePreserved) summary.push('whole-locale-stale');
+    console.log(`  → wrote ${outPath} (${finalData.items.length} items${summary.length ? ' — ' + summary.join('; ') : ''})`);
     // Pace ourselves between locales to stay under rss2json's free-tier
     // burst limit. GitHub Actions runners share an IP pool that's already
     // hammering rss2json, so 800ms wasn't enough. 3s gives the rate-limit
