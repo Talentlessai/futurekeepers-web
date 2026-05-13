@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-05-12T06:47:49.577Z",
+  "generatedAt": "2026-05-13T03:21:39.309Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 0,
-    "ytShorts": 0,
+    "ytShorts": 10,
     "fkSignal": 7,
     "proElectrica": 10,
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Indonesia's EV Revolution: Energy Independence Economic Boom #shorts",
+      "link": "https://www.youtube.com/shorts/YVrFCGjl3QQ",
+      "publishDate": "2026-05-12T22:48:35.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/YVrFCGjl3QQ/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Thailand's Low-Tech Crate Solution Boosts Reforestation Efforts",
+      "link": "https://www.youtube.com/shorts/Xm4bkpxtR5Q",
+      "publishDate": "2026-05-12T22:00:40.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/Xm4bkpxtR5Q/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Thailand's Low-Tech Crate Solution: Boosting Sapling Survival for Forest Impact",
+      "link": "https://www.youtube.com/shorts/HS9yrvGYU2U",
+      "publishDate": "2026-05-12T18:15:36.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/HS9yrvGYU2U/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
     {
       "source": "fkSignal",
       "sourceLabel": "FutureKeepers Signal",
@@ -22,6 +58,18 @@
       "author": "Steve Mudd"
     },
     {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "The Sun's Silent Work: Powering Our World, One Roof at a Time",
+      "link": "https://www.youtube.com/shorts/6muAe1TGC60",
+      "publishDate": "2026-05-11T16:57:06.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/6muAe1TGC60/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
       "source": "ccAsia",
       "sourceLabel": "Climate & Capital Asia",
       "taxonomy": "ccasia",
@@ -32,6 +80,18 @@
       "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/05/CCA-Newsletter-023-scaled.png",
       "description": "Facing volatile weather and surging prices, Asia is taking charge The post CCA 023: Climate thriller: Godzilla El Niño vs King Kong energy shock appeared first on Climate and Capital Media .",
       "author": "Kari Huus"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Pakistan's Solar Surge: How Rooftop Panels Battle Global Oil Prices #shorts",
+      "link": "https://www.youtube.com/shorts/t_GSnjAi8fQ",
+      "publishDate": "2026-05-08T21:13:45.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/t_GSnjAi8fQ/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
     },
     {
       "source": "ccAsia",
@@ -82,6 +142,30 @@
       "author": "Danny Kennedy"
     },
     {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "True Energy Security: Pakistan's Solar Wind Revolution #shorts",
+      "link": "https://www.youtube.com/shorts/JCWhbbI4nm8",
+      "publishDate": "2026-05-06T22:18:27.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/JCWhbbI4nm8/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Pakistan's Green Energy Revolution: A Sustainable Future #shorts",
+      "link": "https://www.youtube.com/shorts/cdX26e4Kk3M",
+      "publishDate": "2026-05-06T22:18:09.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/cdX26e4Kk3M/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
       "source": "ccAsia",
       "sourceLabel": "Climate & Capital Asia",
       "taxonomy": "ccasia",
@@ -92,6 +176,42 @@
       "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/05/japan-emissions-climate-capital-media-asia.jpg",
       "description": "Mandatory Emissions Trading System adds costs for emissions, but at prices too low, and a pace too slow, critics say The post Poor marks for Japan s new carbon trading regime appeared first on Climate and Capital Media .",
       "author": "Nithin Coca"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "End of Fossil Fuels? The Rise of Energy Independence! #shorts",
+      "link": "https://www.youtube.com/shorts/hSbkLYJeVOs",
+      "publishDate": "2026-05-05T23:04:19.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/hSbkLYJeVOs/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "War, Gas Prices, Your Wallet: Renewables Offer Stability! #shorts",
+      "link": "https://www.youtube.com/shorts/0WZpv2FbYAc",
+      "publishDate": "2026-05-05T22:57:52.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/0WZpv2FbYAc/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Small Wins: Salt Energy Storage Durable Tidal Power Breakthroughs",
+      "link": "https://www.youtube.com/shorts/hi4S1UW6qP8",
+      "publishDate": "2026-05-05T18:00:21.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/hi4S1UW6qP8/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
     },
     {
       "source": "ccAsia",
