@@ -2,13 +2,13 @@
   "generatedAt": "2026-05-13T03:36:11.333Z",
   "locales": {
     "en": {
-      "itemCount": 44,
+      "itemCount": 59,
       "counts": {
-        "ytLongForm": 0,
         "ytShorts": 10,
         "fkSignal": 7,
+        "ccAsia": 10,
         "proElectrica": 17,
-        "ccAsia": 10
+        "ytLongForm": 15
       },
       "freshCounts": {
         "ytLongForm": 0,
@@ -17,7 +17,7 @@
         "proElectrica": 17,
         "ccAsia": 10
       },
-      "bytes": 26350
+      "bytes": 37727
     },
     "id": {
       "itemCount": 30,

@@ -2,11 +2,11 @@
   "generatedAt": "2026-05-13T03:36:56.125Z",
   "locale": "en",
   "counts": {
-    "ytLongForm": 0,
     "ytShorts": 10,
     "fkSignal": 7,
+    "ccAsia": 10,
     "proElectrica": 17,
-    "ccAsia": 10
+    "ytLongForm": 15
   },
   "freshCounts": {
     "ytLongForm": 0,
@@ -81,11 +81,11 @@
       "sourceLabel": "Climate & Capital Asia",
       "taxonomy": "ccasia",
       "format": "article",
-      "title": "CCA 023: Climate thriller: Godzilla El Niño vs King Kong energy shock",
+      "title": "CCA 023: Climate thriller: Godzilla El Ni\u00f1o vs King Kong energy shock",
       "link": "https://www.climateandcapitalmedia.com/climate-thriller-godzilla-el-nino-vs-king-kong-energy-shock/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=climate-thriller-godzilla-el-nino-vs-king-kong-energy-shock",
       "publishDate": "2026-05-10T15:18:25.000Z",
       "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/05/CCA-Newsletter-023-scaled.png",
-      "description": "Facing volatile weather and surging prices, Asia is taking charge The post CCA 023: Climate thriller: Godzilla El Niño vs King Kong energy shock appeared first on Climate and Capital Media .",
+      "description": "Facing volatile weather and surging prices, Asia is taking charge The post CCA 023: Climate thriller: Godzilla El Ni\u00f1o vs King Kong energy shock appeared first on Climate and Capital Media .",
       "author": "Kari Huus"
     },
     {
@@ -133,7 +133,7 @@
       "link": "https://www.climateandcapitalmedia.com/gas-projects-in-japan-funded-by-transition-bonds-barely-cut-emissions/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gas-projects-in-japan-funded-by-transition-bonds-barely-cut-emissions",
       "publishDate": "2026-05-07T20:14:50.000Z",
       "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/05/goi-thermal-power-station-climate-capital-media-asia.jpg",
-      "description": "Japan is a “critical test” for transition finance in Asia, as risks from divergent taxonomies show up in real deals, warns Energy Shift Institute. The post Gas projects in Japan, funded by transition bonds, barely cut em",
+      "description": "Japan is a \u201ccritical test\u201d for transition finance in Asia, as risks from divergent taxonomies show up in real deals, warns Energy Shift Institute. The post Gas projects in Japan, funded by transition bonds, barely cut em",
       "author": "Gabrielle See"
     },
     {
@@ -221,6 +221,138 @@
       "author": "FutureKeepers"
     },
     {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Post-Hormuz Policy Guide: Asia's Path to Energy Independence",
+      "link": "https://www.youtube.com/watch?v=VR7Sn1i2-AM",
+      "publishDate": "2026-05-05T03:55:30.717893Z",
+      "thumbnail": "https://i.ytimg.com/vi/VR7Sn1i2-AM/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Thailand's Energy Crisis: The Policy Key to Unlocking Renewables & Economic Growth",
+      "link": "https://www.youtube.com/watch?v=SVdijwb6Wsc",
+      "publishDate": "2026-05-02T03:55:30.717893Z",
+      "thumbnail": "https://i.ytimg.com/vi/SVdijwb6Wsc/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "How Solar Power Can Save Bangladesh From Energy Crisis",
+      "link": "https://www.youtube.com/watch?v=jgtq9I_2thI",
+      "publishDate": "2026-05-02T03:55:30.717893Z",
+      "thumbnail": "https://i.ytimg.com/vi/jgtq9I_2thI/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Thailand's Green Energy Choice: Win Global Supply Chains",
+      "link": "https://www.youtube.com/watch?v=xYRXwi5WRo0",
+      "publishDate": "2026-05-01T03:55:30.717893Z",
+      "thumbnail": "https://i.ytimg.com/vi/xYRXwi5WRo0/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Post-Hormuz: Asia's Urgent Shift to Energy Independence",
+      "link": "https://www.youtube.com/watch?v=nQejR-nct9o",
+      "publishDate": "2026-05-01T03:55:30.717893Z",
+      "thumbnail": "https://i.ytimg.com/vi/nQejR-nct9o/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Crisis-Driven Energy Transition: When Geopolitics Fuels Green Tech",
+      "link": "https://www.youtube.com/watch?v=e354HseSkR8",
+      "publishDate": "2026-04-30T03:55:30.717893Z",
+      "thumbnail": "https://i.ytimg.com/vi/e354HseSkR8/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Blackout 2026: How Geopolitics Accelerated the Clean Energy Transition",
+      "link": "https://www.youtube.com/watch?v=ohtwmD2VJ5A",
+      "publishDate": "2026-04-30T03:55:30.717893Z",
+      "thumbnail": "https://i.ytimg.com/vi/ohtwmD2VJ5A/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Asia's Clean Energy Race: Bureaucracy vs. Renewables",
+      "link": "https://www.youtube.com/watch?v=BklrWt6tJjI",
+      "publishDate": "2026-04-30T03:55:30.717893Z",
+      "thumbnail": "https://i.ytimg.com/vi/BklrWt6tJjI/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Solar Power: Bangladesh's Path to Energy & Food Security",
+      "link": "https://www.youtube.com/watch?v=jzCdccpaPe4",
+      "publishDate": "2026-04-30T03:55:30.717893Z",
+      "thumbnail": "https://i.ytimg.com/vi/jzCdccpaPe4/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Rooftop Revolution: Pakistan's Solar Boom & India's Energy Future",
+      "link": "https://www.youtube.com/watch?v=kvE1whSSNiM",
+      "publishDate": "2026-04-30T03:55:30.717893Z",
+      "thumbnail": "https://i.ytimg.com/vi/kvE1whSSNiM/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Pakistan's Solar Revolution: Energy Sovereignty in a Crisis",
+      "link": "https://www.youtube.com/watch?v=pPNilMyxMco",
+      "publishDate": "2026-04-29T03:55:30.717893Z",
+      "thumbnail": "https://i.ytimg.com/vi/pPNilMyxMco/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
       "source": "ccAsia",
       "sourceLabel": "Climate & Capital Asia",
       "taxonomy": "ccasia",
@@ -237,11 +369,11 @@
       "sourceLabel": "Climate & Capital Asia",
       "taxonomy": "ccasia",
       "format": "article",
-      "title": "Hong Kong’s outsized potential in the energy transition",
+      "title": "Hong Kong\u2019s outsized potential in the energy transition",
       "link": "https://www.climateandcapitalmedia.com/hong-kongs-outsized-potential-in-the-energy-transition/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hong-kongs-outsized-potential-in-the-energy-transition",
       "publishDate": "2026-04-23T20:45:50.000Z",
       "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/04/hong-kong-climate-capital-media-asia.jpg",
-      "description": "Leveraging its place at the nexus of China’s manufacturing might, foreign capital, and emerging markets The post Hong Kong’s outsized potential in the energy transition appeared first on Climate and Capital Media .",
+      "description": "Leveraging its place at the nexus of China\u2019s manufacturing might, foreign capital, and emerging markets The post Hong Kong\u2019s outsized potential in the energy transition appeared first on Climate and Capital Media .",
       "author": "Anqi Dang"
     },
     {
@@ -269,6 +401,54 @@
       "author": "Gabrielle See"
     },
     {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "The Rental Trap: How Electrotech Creates Sovereign Power",
+      "link": "https://www.youtube.com/watch?v=Op0FTk6bvgk",
+      "publishDate": "2026-04-22T03:55:30.717893Z",
+      "thumbnail": "https://i.ytimg.com/vi/Op0FTk6bvgk/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Panda Tech News: Why Solar Energy is Your NEXT BIG Investment!",
+      "link": "https://www.youtube.com/watch?v=16jKz_whXSE",
+      "publishDate": "2026-04-22T03:55:30.717893Z",
+      "thumbnail": "https://i.ytimg.com/vi/16jKz_whXSE/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Asia's 2026 Energy Crisis: The Race for Energy Independence",
+      "link": "https://www.youtube.com/watch?v=8V-kUDfDKds",
+      "publishDate": "2026-04-22T03:55:30.717893Z",
+      "thumbnail": "https://i.ytimg.com/vi/8V-kUDfDKds/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Indonesia's Solar Revolution: Powering Islands, Ending Energy Poverty",
+      "link": "https://www.youtube.com/watch?v=6rjfbaWfwmE",
+      "publishDate": "2026-04-22T03:55:30.717893Z",
+      "thumbnail": "https://i.ytimg.com/vi/6rjfbaWfwmE/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
       "source": "proElectrica",
       "sourceLabel": "ProElectrica",
       "taxonomy": "voices",
@@ -285,11 +465,11 @@
       "sourceLabel": "Climate & Capital Asia",
       "taxonomy": "ccasia",
       "format": "article",
-      "title": "Indonesia’s “green” nickel boom is anything but",
+      "title": "Indonesia\u2019s \u201cgreen\u201d nickel boom is anything but",
       "link": "https://www.climateandcapitalmedia.com/indonesias-green-nickel-boom-is-anything-but/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=indonesias-green-nickel-boom-is-anything-but",
       "publishDate": "2026-04-17T00:00:30.000Z",
       "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/04/indonesia-nickel-mine-climate-capital-media-asia.jpg",
-      "description": "The industry, though fueled by coal, has argued that it is essential to the EV transition, but a new report says… not so much The post Indonesia’s “green” nickel boom is anything but appeared first on Climate and Capital",
+      "description": "The industry, though fueled by coal, has argued that it is essential to the EV transition, but a new report says\u2026 not so much The post Indonesia\u2019s \u201cgreen\u201d nickel boom is anything but appeared first on Climate and Capital",
       "author": "Gabrielle See"
     },
     {
@@ -297,7 +477,7 @@
       "sourceLabel": "ProElectrica",
       "taxonomy": "voices",
       "format": "newsletter",
-      "title": "পাকিস্তান সঠিক ছিল",
+      "title": "\u09aa\u09be\u0995\u09bf\u09b8\u09cd\u09a4\u09be\u09a8 \u09b8\u09a0\u09bf\u0995 \u099b\u09bf\u09b2",
       "link": "https://proelectrica.substack.com/p/812",
       "publishDate": "2026-04-09T06:02:28.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!Tb2m!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8501d1d-417b-4155-8a56-fa7dd06344b8_1280x1045.jpeg",
@@ -333,7 +513,7 @@
       "sourceLabel": "ProElectrica",
       "taxonomy": "voices",
       "format": "newsletter",
-      "title": "پاکستان کا فیصلہ درست تھا",
+      "title": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646 \u06a9\u0627 \u0641\u06cc\u0635\u0644\u06c1 \u062f\u0631\u0633\u062a \u062a\u06be\u0627",
       "link": "https://proelectrica.substack.com/p/160",
       "publishDate": "2026-04-09T06:01:55.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!zLBC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1178cbd9-0d29-4312-b8ff-7ea47f19a3af_1280x1045.jpeg",
@@ -345,7 +525,7 @@
       "sourceLabel": "ProElectrica",
       "taxonomy": "voices",
       "format": "newsletter",
-      "title": "पाकिस्तान सही था",
+      "title": "\u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0938\u0939\u0940 \u0925\u093e",
       "link": "https://proelectrica.substack.com/p/e37",
       "publishDate": "2026-04-09T06:01:49.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!iQie!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F718eac1b-9f1b-4f2a-be59-0bd1ef2bc05b_1280x1045.jpeg",
@@ -357,7 +537,7 @@
       "sourceLabel": "ProElectrica",
       "taxonomy": "voices",
       "format": "newsletter",
-      "title": "标题：事实证明，巴基斯坦的能源战略走对了",
+      "title": "\u6807\u9898\uff1a\u4e8b\u5b9e\u8bc1\u660e\uff0c\u5df4\u57fa\u65af\u5766\u7684\u80fd\u6e90\u6218\u7565\u8d70\u5bf9\u4e86",
       "link": "https://proelectrica.substack.com/p/7c0",
       "publishDate": "2026-04-09T06:01:44.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!dX53!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1446541-9697-4244-9aac-1c5f0d644cf1_1280x1045.jpeg",
@@ -453,7 +633,7 @@
       "sourceLabel": "FutureKeepers Signal",
       "taxonomy": "signal",
       "format": "newsletter",
-      "title": "Giddy Up, Planet Earth 🐴",
+      "title": "Giddy Up, Planet Earth \ud83d\udc34",
       "link": "https://futurekeepers.substack.com/p/giddy-up-planet-earth",
       "publishDate": "2026-02-21T22:36:50.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!LUiM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F831c57a8-3a61-4144-8ae9-2434e67fa2c2_1456x816.png",
@@ -544,5 +724,9 @@
       "description": "FutureKeepers tracked the action, from the press rooms to the power plays",
       "author": "Steve Mudd"
     }
-  ]
+  ],
+  "seededLongForm": {
+    "addedAt": "2026-05-13T03:55:30.717893Z",
+    "count": 15
+  }
 }
