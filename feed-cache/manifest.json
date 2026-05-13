@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T03:20:55.340Z",
+  "generatedAt": "2026-05-13T03:30:00.000Z",
   "locales": {
     "en": {
       "itemCount": 37,
@@ -10,55 +10,55 @@
         "proElectrica": 10,
         "ccAsia": 10
       },
-      "bytes": 22885
+      "bytes": 26268
     },
     "id": {
-      "itemCount": 0,
+      "itemCount": 30,
       "counts": {
-        "ytLongForm": 0,
-        "ytShorts": 0
+        "ytLongForm": 15,
+        "ytShorts": 15
       },
-      "bytes": 106
+      "bytes": 20698
     },
     "zh": {
-      "itemCount": 0,
+      "itemCount": 30,
       "counts": {
-        "ytLongForm": 0,
-        "ytShorts": 0
+        "ytLongForm": 15,
+        "ytShorts": 15
       },
-      "bytes": 106
+      "bytes": 32006
     },
     "bn": {
-      "itemCount": 0,
+      "itemCount": 26,
       "counts": {
-        "ytLongForm": 0,
-        "ytShorts": 0
+        "ytLongForm": 11,
+        "ytShorts": 15
       },
-      "bytes": 106
+      "bytes": 29254
     },
     "ur": {
-      "itemCount": 0,
+      "itemCount": 30,
       "counts": {
-        "ytLongForm": 0,
-        "ytShorts": 0
+        "ytLongForm": 15,
+        "ytShorts": 15
       },
-      "bytes": 106
+      "bytes": 26118
     },
     "th": {
-      "itemCount": 0,
+      "itemCount": 18,
       "counts": {
-        "ytLongForm": 0,
-        "ytShorts": 0
+        "ytLongForm": 3,
+        "ytShorts": 15
       },
-      "bytes": 106
+      "bytes": 21576
     },
     "hi": {
-      "itemCount": 0,
+      "itemCount": 25,
       "counts": {
-        "ytLongForm": 0,
-        "ytShorts": 0
+        "ytLongForm": 10,
+        "ytShorts": 15
       },
-      "bytes": 106
+      "bytes": 27927
     }
   }
 }

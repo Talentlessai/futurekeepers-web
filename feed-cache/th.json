@@ -1,9 +1,226 @@
 {
-  "generatedAt": "2026-05-13T03:24:44.107Z",
+  "generatedAt": "2026-05-11T07:53:20.126Z",
   "locale": "th",
   "counts": {
-    "ytLongForm": 0,
-    "ytShorts": 0
+    "ytLongForm": 3,
+    "ytShorts": 15
   },
-  "items": []
+  "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "ปากีสถาน: วิกฤตน้ำมันสู่พลังงานแสงอาทิตย์ | FutureKeepers #shorts",
+      "link": "https://www.youtube.com/shorts/7Xmjhi-10VY",
+      "publishDate": "2026-05-08T21:09:20.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/7Xmjhi-10VY/hqdefault.jpg",
+      "description": "เมื่อเส้นทางขนส่งน้ำมันสำคัญของโลกอย่างช่องแคบฮอร์มุซเผชิญความไม่มั่นคง ราคาพลังงานที่พุ่งสูงขึ้นได้สร้างแรงกดดันมหาศาลต่อเศรษฐกิจของปากีสถาน ซึ่งพึ่งพาการนำเข้าน้ำมันอย่างหนัก นี่ไม่ใช่แค่เรื่องภูมิรัฐศาสตร์ที่ไกลตัว แต",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "ปากีสถาน: พลิกวิกฤตพลังงาน สู่โอกาสใหม่พลังงานสะอาด!",
+      "link": "https://www.youtube.com/shorts/uxMLF3vECao",
+      "publishDate": "2026-05-06T22:24:32.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/uxMLF3vECao/hqdefault.jpg",
+      "description": "เชื้อเพลิงฟอสซิลกำลังเสื่อมถอย และโลกกำลังเปลี่ยนผ่านสู่พลังงานสะอาด ปากีสถานซึ่งมีภูมิประเทศและโครงสร้างเศรษฐกิจที่เป็นเอกลักษณ์ กำลังยืนอยู่บนทางแยกสำคัญ คุณพร้อมรับการเปลี่ยนแปลงนี้แล้วหรือยัง? วิดีโอนี้จะสำรวจว่าปากี",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "ปลดล็อกความมั่นคงพลังงาน: แสงอาทิตย์และลมคืออนาคต! #shorts",
+      "link": "https://www.youtube.com/shorts/Pm23eE3XXVE",
+      "publishDate": "2026-05-06T21:41:19.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/Pm23eE3XXVE/hqdefault.jpg",
+      "description": "ความมั่นคงทางพลังงานที่แท้จริงไม่ได้มาจากท่อส่งน้ำมัน แต่มาจากแสงอาทิตย์และลม! ตลอดหลายทศวรรษที่ผ่านมา เราถูกบอกว่าความมั่นคงของชาติขึ้นอยู่กับการควบคุมเส้นทางการจัดหาพลังงานฟอสซิล แต่โมเดลนี้กำลังล้มเหลว ทำให้ประเทศต่าง",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "วัว + สาหร่าย: กุญแจลดมีเทนเพื่อโลกที่ดีกว่า",
+      "link": "https://www.youtube.com/shorts/HxVbpP1iUwQ",
+      "publishDate": "2026-05-06T14:59:26.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/HxVbpP1iUwQ/hqdefault.jpg",
+      "description": "คุณรู้หรือไม่ว่าการเรอของวัวเป็นแหล่งกำเนิดก๊าซมีเทนที่สำคัญ? ก๊าซมีเทนเป็นก๊าซเรือนกระจกที่ทรงพลังซึ่งมีส่วนอย่างมากต่อการเปลี่ยนแปลงสภาพภูมิอากาศ ในวิดีโอนี้ FutureKeepers จะพาคุณไปสำรวจนวัตกรรมล้ำสมัยที่กำลังพลิกโฉมวง",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "วิกฤตพลังงาน 2020s: โอกาสสู่ยุคไฟฟ้าที่ยั่งยืน",
+      "link": "https://www.youtube.com/shorts/cBtUQyQhWgE",
+      "publishDate": "2026-05-06T14:59:18.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/cBtUQyQhWgE/hqdefault.jpg",
+      "description": "ทศวรรษ 2020s ได้เผชิญกับวิกฤตเชื้อเพลิงฟอสซิลครั้งใหญ่ถึงสองครั้งแล้ว ทำให้เกิดคำถามว่าเรากำลังย้อนกลับไปสู่ยุค 1970s หรือไม่? แต่ครั้งนี้มีความแตกต่างที่สำคัญ: เรามีทางเลือกที่ดีกว่าและคุ้มค่ากว่าพร้อมให้ขยายขนาดแล้ว! ว",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "ปลดล็อกอนาคต: พลังงานสะอาด สู่ความมั่นคงที่แท้จริง #shorts",
+      "link": "https://www.youtube.com/shorts/iz4MTwTSWg8",
+      "publishDate": "2026-05-05T23:11:35.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/iz4MTwTSWg8/hqdefault.jpg",
+      "description": "ยุคที่ความมั่นคงทางพลังงานผูกติดอยู่กับเชื้อเพลิงฟอสซิลได้สิ้นสุดลงแล้ว ตลอดหลายทศวรรษที่ผ่านมา ความขัดแย้งระดับโลกและความตึงเครียดทางการเมืองที่เกิดขึ้นในที่ห่างไกลได้กำหนดราคาน้ำมันที่เราต้องจ่ายหน้าปั๊ม สร้างความไม่แน",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "เทคโนโลยีไฟฟ้า: ประสิทธิภาพ 3 เท่า | พลังงานสะอาดเปลี่ยนโลก",
+      "link": "https://www.youtube.com/shorts/APzStbYpk8s",
+      "publishDate": "2026-04-30T19:27:41.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/APzStbYpk8s/hqdefault.jpg",
+      "description": "ค้นพบว่าเทคโนโลยีไฟฟ้ากำลังปฏิวัติโลกพลังงานอย่างไร ด้วยประสิทธิภาพที่สูงขึ้น 3 เท่าจากแหล่งพลังงานหมุนเวียน! วิดีโอนี้จะพาคุณเจาะลึกถึงความก้าวหน้าสำคัญในการเปลี่ยนผ่านสู่พลังงานสะอาด รายงานล่าสุดจาก FutureKeepers และ E",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "วิกฤตพลังงานโลก: ถ่านหินจะหวนคืนหรือไม่? อนาคตพลังงานสะอาด #shorts",
+      "link": "https://www.youtube.com/shorts/g8cmbz9Ms5M",
+      "publishDate": "2026-04-30T03:00:46.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/g8cmbz9Ms5M/hqdefault.jpg",
+      "description": "โลกกำลังเผชิญหน้ากับวิกฤตพลังงานครั้งใหญ่ แต่ถ่านหินจะกลับมาเป็นทางออกในระยะยาวได้จริงหรือ? วิดีโอนี้จะพาคุณไปสำรวจแรงกระแทกทางภูมิรัฐศาสตร์ล่าสุด รวมถึงการปิดกั้นช่องแคบฮอร์มุซ ซึ่งกำลังก่อให้เกิดวิกฤตเชื้อเพลิงและก๊าซท",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "พลังงานแสงอาทิตย์: อนาคตของโลกที่มาเร็วกว่าที่คิด! ☀️ #shorts",
+      "link": "https://www.youtube.com/shorts/TRzAzu5WNmg",
+      "publishDate": "2026-04-29T17:17:45.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/TRzAzu5WNmg/hqdefault.jpg",
+      "description": "โลกที่ขับเคลื่อนด้วยพลังงานแสงอาทิตย์ ไม่ใช่แค่ความฝันอีกต่อไป! เรากำลังอยู่ในช่วงเวลาแห่งการเปลี่ยนแปลงครั้งใหญ่ ที่พลังงานแสงอาทิตย์กำลังถูกติดตั้งทั่วโลกด้วยอัตราที่ไม่เคยมีมาก่อน เร็วกว่าที่ใครคาดการณ์ไว้! วิดีโอนี้จ",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "อนาคตพลังงานฟิลิปปินส์: พลังงานหมุนเวียนคือทางออก?",
+      "link": "https://www.youtube.com/shorts/vowxKJDujEo",
+      "publishDate": "2026-04-24T23:27:41.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/vowxKJDujEo/hqdefault.jpg",
+      "description": "สำหรับผู้คนนับล้านในฟิลิปปินส์ การขาดแคลนไฟฟ้ากำลังสั่นคลอน และนี่คือสัญญาณเตือนสำหรับพวกเราทุกคน ประเทศกำลังเผชิญกับวิกฤตพลังงานอย่างรุนแรง ซึ่งขับเคลื่อนโดยราคาค่าไฟฟ้าที่พุ่งสูง และการพึ่งพาเชื้อเพลิงฟอสซิลนำเข้าอย่าง",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "วิกฤตพลังงานเผยอนาคต: พลังงานสะอาดคือทางออก? #shorts",
+      "link": "https://www.youtube.com/shorts/O4nZxFmKIgs",
+      "publishDate": "2026-04-24T20:49:00.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/O4nZxFmKIgs/hqdefault.jpg",
+      "description": "วิกฤตภูมิรัฐศาสตร์ที่เกิดขึ้นเมื่อเร็วๆ นี้ได้เปิดเผยความจริงอันสำคัญเกี่ยวกับอนาคตพลังงานของโลกเราโดยไม่ตั้งใจ เมื่อเส้นทางขนส่งหลักแห่งหนึ่งถูกรบกวนในเดือนมีนาคม อุปทานเชื้อเพลิงฟอสซิลทั่วโลกได้รับผลกระทบอย่างรุนแรง ส่",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "จีนนำทัพพลังงานสะอาด: เร่งเปลี่ยนโลกสู่พลังงานหมุนเวียน! #shorts",
+      "link": "https://www.youtube.com/shorts/eHx1snoItxg",
+      "publishDate": "2026-04-22T18:20:56.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/eHx1snoItxg/hqdefault.jpg",
+      "description": "จีนกำลังก้าวขึ้นเป็นผู้นำด้านสภาพภูมิอากาศระดับโลกด้วยแผนการปฏิวัติพลังงานสะอาด! ในวิดีโอนี้ เราจะสำรวจรายละเอียดของแผนอันทะเยอทะยานของจีนที่ตั้งเป้าจะเพิ่มกำลังการผลิตพลังงานสะอาดเป็นสองเท่าภายในปี 2035 นี่ไม่ใช่แค่การอ",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "อินโดนีเซียยกเลิกโรงไฟฟ้าดีเซล 2,400 แห่ง สู่พลังงานสะอาด 2060 #shorts",
+      "link": "https://www.youtube.com/shorts/FZRpvbEf75Q",
+      "publishDate": "2026-04-18T00:47:06.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/FZRpvbEf75Q/hqdefault.jpg",
+      "description": "อินโดนีเซียกำลังก้าวสู่การเปลี่ยนแปลงด้านพลังงานครั้งใหญ่ที่สุดในเอเชียตะวันออกเฉียงใต้! เตรียมพบกับการปฏิวัติพลังงานสะอาดที่จะพลิกโฉมประเทศหมู่เกาะแห่งนี้สู่ความยั่งยืน ในความเคลื่อนไหวครั้งสำคัญ อินโดนีเซียกำลังทยอยยกเ",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "ปลดล็อกพลังงานแสงอาทิตย์: อินโดนีเซียสร้างอนาคตที่ยั่งยืน #shorts",
+      "link": "https://www.youtube.com/shorts/oyBHCqgPJtY",
+      "publishDate": "2026-04-15T22:28:16.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/oyBHCqgPJtY/hqdefault.jpg",
+      "description": "เป็นเวลานานเกินไปที่เศรษฐกิจของอินโดนีเซียต้องพึ่งพาราคาน้ำมันโลกที่ผันผวน และเผชิญกับปัญหาการขาดแคลนพลังงาน ซึ่งส่งผลกระทบโดยตรงต่อค่าใช้จ่ายในชีวิตประจำวันของผู้คน แต่ตอนนี้มีทางออกที่สดใสอยู่เหนือศีรษะของเรา นั่นคือพล",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "พลังงานหมุนเวียน: อนาคตที่ยั่งยืนของอินโดนีเซีย | FutureKeepers #shorts",
+      "link": "https://www.youtube.com/shorts/b5VGY7c6pmo",
+      "publishDate": "2026-04-15T22:06:34.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/b5VGY7c6pmo/hqdefault.jpg",
+      "description": "ราคาพลังงานทั่วโลกกำลังพุ่งสูงขึ้น และความผันผวนทางภูมิรัฐศาสตร์ก็ยิ่งเพิ่มความไม่แน่นอนให้กับตลาดพลังงาน ในอินโดนีเซีย วิกฤตพลังงานที่รุนแรงได้เผยให้เห็นถึงการพึ่งพาเชื้อเพลิงฟอสซิลอย่างลึกซึ้งของประเทศ แต่ท่ามกลางความท",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "ฝนสีดำ สัญญาณที่สว่าง",
+      "link": "https://www.youtube.com/watch?v=NvRu6uAVuV4",
+      "publishDate": "2026-03-25T18:56:07.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/NvRu6uAVuV4/hqdefault.jpg",
+      "description": "ฝนสีดำเหนือกรุงเตหะราน คาร์บอนที่พวยพุ่งขึ้นสู่ท้องฟ้า และแรงกระแทกที่แผ่ขยายไปทั่วเศรษฐกิจโลก สงครามระหว่างสหรัฐฯ–อิสราเอลกับอิหร่านกำลังกำหนดทิศทางใหม่ของความมั่นคงด้านพลังงานโลก นี่คือคำเตือนที่ชัดเจน แต่ในขณะเดียวกัน",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "ยินดีต้อนรับสู่ FutureKeepers: มาร่วมเป็นพลังขับเคลื่อน — ที่หยุดไม่อยู่แล้ว",
+      "link": "https://www.youtube.com/watch?v=ErclzHkF_7Y",
+      "publishDate": "2025-09-23T23:47:06.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/ErclzHkF_7Y/hqdefault.jpg",
+      "description": "FutureKeepers คือแพลตฟอร์มการเล่าเรื่องระดับโลก ที่ขับเคลื่อนด้วยผู้คนและขยายพลังด้วย AI เราส่องแสงให้กับแนวคิด นวัตกรรม และชุมชนที่กำลังกำหนดโลกที่ยั่งยืน เชื่อมโยง และเป็นธรรม ตั้งแต่กระแสพลังงานแสงอาทิตย์ที่เติบโตในเอ",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "“จากความยืดหยุ่นสู่ความเป็นผู้นำ | The Net Positive | ตอนที่ 2”",
+      "link": "https://www.youtube.com/watch?v=CbH0RhpcvG0",
+      "publishDate": "2025-09-18T03:23:44.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/CbH0RhpcvG0/hqdefault.jpg",
+      "description": "จากการผลักดันนโยบายโรงไฟฟ้าเสมือนจริงอย่างกล้าหาญของปักกิ่ง ไปจนถึงความท้าทายของระดับน้ำทะเลที่สูงขึ้นในฟิจิ ตอนที่ 2 ของ The Net Positive จะพาคุณเจาะลึกเรื่องราวที่กำลังหล่อหลอมอนาคตด้านสภาพภูมิอากาศและพลังงานของเอเชีย ",
+      "author": "FutureKeepers Thai"
+    }
+  ]
 }

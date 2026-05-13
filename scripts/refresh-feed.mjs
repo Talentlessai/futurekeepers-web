@@ -16,7 +16,7 @@
  * Run locally:  npm install && npm run refresh-feed
  */
 
-import { writeFileSync, mkdirSync, existsSync } from 'node:fs';
+import { writeFileSync, mkdirSync, existsSync, readFileSync } from 'node:fs';
 import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { XMLParser } from 'fast-xml-parser';
@@ -354,11 +354,18 @@ async function fetchYouTubeFeedNormalized(rssUrl, source, isAtom = true) {
   const xmlText = await tryFetch(rssUrl);
   if (xmlText) {
     const parsed = xml.parse(xmlText);
-    return isAtom ? parseAtomEntries(parsed, source) : parseRssItems(parsed, source);
+    const items = isAtom ? parseAtomEntries(parsed, source) : parseRssItems(parsed, source);
+    console.log(`    ✓ direct fetch ok: ${items.length} items from ${rssUrl.substring(rssUrl.indexOf('?'))}`);
+    return items;
   }
+  console.warn(`    direct fetch returned null for ${rssUrl.substring(rssUrl.indexOf('?'))}`);
   // Stage 2 — rss2json
   const json = await tryFetchViaRss2json(rssUrl);
-  if (json) return rss2jsonToItems(json, source);
+  if (json) {
+    const items = rss2jsonToItems(json, source);
+    console.log(`    ✓ rss2json ok: ${items.length} items`);
+    return items;
+  }
   return [];
 }
 
@@ -473,13 +480,38 @@ async function main() {
   for (const locale of LOCALES) {
     const data = await buildLocale(locale);
     const outPath = resolve(OUT_DIR, `${locale}.json`);
-    writeFileSync(outPath, JSON.stringify(data, null, 2));
+
+    // PRESERVE-ON-EMPTY: YouTube's RSS endpoint is unreliable from GitHub
+    // Actions runner IPs. If today's fetch produced zero items but yesterday's
+    // cache had content, keep yesterday's cache rather than blanking the
+    // locale's homepage. Better stale than empty.
+    let finalData = data;
+    let preserved = false;
+    if (data.items.length === 0 && existsSync(outPath)) {
+      try {
+        const prev = JSON.parse(readFileSync(outPath, 'utf8'));
+        if (prev?.items?.length > 0) {
+          finalData = {
+            ...prev,
+            stalePreservedAt: new Date().toISOString(),
+            staleReason: `fresh fetch returned 0 items; counts: ${JSON.stringify(data.counts)}`,
+          };
+          preserved = true;
+          console.log(`  ⚠ ${locale}: fresh fetch returned 0 items — preserving previous cache (${prev.items.length} items from ${prev.generatedAt})`);
+        }
+      } catch (e) {
+        console.warn(`  could not read previous ${locale}.json:`, e.message);
+      }
+    }
+
+    writeFileSync(outPath, JSON.stringify(finalData, null, 2));
     manifest.locales[locale] = {
-      itemCount: data.items.length,
-      counts: data.counts,
-      bytes: Buffer.byteLength(JSON.stringify(data)),
+      itemCount: finalData.items.length,
+      counts: finalData.counts,
+      bytes: Buffer.byteLength(JSON.stringify(finalData)),
+      preserved: preserved || undefined,
     };
-    console.log(`  → wrote ${outPath} (${data.items.length} items)`);
+    console.log(`  → wrote ${outPath} (${finalData.items.length} items${preserved ? ' — stale-preserved' : ''})`);
     // Pace ourselves between locales to stay under rss2json's free-tier
     // burst limit. GitHub Actions runners share an IP pool that's already
     // hammering rss2json, so 800ms wasn't enough. 3s gives the rate-limit
