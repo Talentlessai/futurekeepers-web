@@ -1,19 +1,39 @@
 {
-  "generatedAt": "2026-05-13T04:06:00.239Z",
+  "generatedAt": "2026-05-13T07:25:12.870Z",
   "locale": "ur",
   "counts": {
     "ytLongForm": 15,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 0,
-    "ytShorts": 0
+    "ytLongForm": 15,
+    "ytShorts": 15
   },
-  "rescuedSources": [
-    "ytLongForm",
-    "ytShorts"
-  ],
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "تھائی لینڈ کی کرٹ سلوشن: جنگلات کی بحالی کے لیے ایک سادہ لیکن مؤثر حل",
+      "link": "https://www.youtube.com/shorts/lWup0WKmdPY",
+      "publishDate": "2026-05-13T04:00:46.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/lWup0WKmdPY/hqdefault.jpg",
+      "description": "تھائی لینڈ میں ایک کم ٹیکنالوجی کا خیال جنگلات کی بحالی پر بڑا اثر ڈال رہا ہے۔ پرانے پلاسٹک کے کریٹ استعمال کر کے، نوجوان درختوں کو زندہ رہنے کا بہتر موقع دیا جا رہا ہے۔ ری فاریسٹیشن کے مقامات پر، ننھے پودے اکثر شدید گرم",
+      "author": "FutureKeepers Urdu"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "انڈونیشیا کا برقی گاڑیوں کا انقلاب: خود مختاری اور خوشحالی #shorts",
+      "link": "https://www.youtube.com/shorts/yFrWbK9RsUA",
+      "publishDate": "2026-05-12T22:45:00.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/yFrWbK9RsUA/hqdefault.jpg",
+      "description": "برقی گاڑیوں کا انقلاب صرف ماحولیاتی تبدیلیوں کا حل نہیں، بلکہ توانائی میں خود انحصاری کی جانب ایک اہم قدم ہے۔ انڈونیشیا اس انقلاب میں پیش پیش ہے، جو اپنے 28 کروڑ سے زائد شہریوں کے لیے ایک روشن اور خود مختار مستقبل کی بنی",
+      "author": "FutureKeepers Urdu"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -195,18 +215,6 @@
       "author": "FutureKeepers Urdu"
     },
     {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Panda Cowboy's Last Ride: The Future of Energy is Here!",
-      "link": "https://www.youtube.com/shorts/0o3bPXwJaHM",
-      "publishDate": "2026-04-18T19:53:26.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/0o3bPXwJaHM/hqdefault.jpg",
-      "description": "Join our Panda Cowboy on a poignant journey through the changing landscape of energy. This captivating short film, presented by FutureKeepers, uses powerful symbolism to explore the shift from traditional fossil fuels to",
-      "author": "FutureKeepers Urdu"
-    },
-    {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "signal",
@@ -228,18 +236,6 @@
       "publishDate": "2026-04-18T19:52:24.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/5ODpH-swsHI/hqdefault.jpg",
       "description": "بحران اور موقع – یہ دو الفاظ اکثر ساتھ ساتھ چلتے ہیں، خاص طور پر توانائی کی دنیا میں۔ یہ ویڈیو اس بات پر روشنی ڈالتی ہے کہ کیسے 2020 کی دہائی میں پیش آنے والے دو بڑے توانائی کے جھٹکوں نے دراصل ہمیں ایک بہتر، روشن اور برق",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "توانائی کے جھٹکے: کیا ہم بجلی کے دور میں داخل ہو چکے ہیں؟",
-      "link": "https://www.youtube.com/shorts/XYVzH5_hZwA",
-      "publishDate": "2026-04-18T19:52:01.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/XYVzH5_hZwA/hqdefault.jpg",
-      "description": "2020 کی دہائی نے پہلے ہی توانائی کے دو بڑے جھٹکے دیکھے ہیں، لیکن اس بار صورتحال مختلف ہے۔ 2022 میں یوکرین پر روس کے حملے سے لے کر 2026 میں آبنائے ہرمز کی ممکنہ بندش تک، یہ واقعات 1970 کی دہائی کے تیل کے بحرانوں سے حیران ",
       "author": "FutureKeepers Urdu"
     },
     {

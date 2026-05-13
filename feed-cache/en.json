@@ -1,36 +1,33 @@
 {
-  "generatedAt": "2026-05-13T04:05:46.208Z",
+  "generatedAt": "2026-05-13T07:24:59.315Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
-    "ytShorts": 10,
+    "ytShorts": 15,
     "fkSignal": 7,
-    "proElectrica": 17,
+    "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "freshCounts": {
-    "ytLongForm": 0,
-    "ytShorts": 10,
+    "ytLongForm": 15,
+    "ytShorts": 15,
     "fkSignal": 7,
-    "proElectrica": 17,
+    "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
-  "rescuedSources": [
-    "ytLongForm"
-  ],
   "items": [
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "noise",
       "format": "short",
-      "title": "Indonesia's EV Revolution: Energy Independence Economic Boom #shorts",
+      "title": "Indonesia's EV Revolution: Energy Independence & Economic Boom #shorts",
       "link": "https://www.youtube.com/shorts/YVrFCGjl3QQ",
-      "publishDate": "2026-05-13T03:48:35.000Z",
+      "publishDate": "2026-05-12T22:48:35.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/YVrFCGjl3QQ/hqdefault.jpg",
-      "description": "",
+      "description": "The electric vehicle (EV) revolution is more than just about climate change – it's a powerful engine for energy independence and national security. This video highlights Indonesia's ambitious transition to EVs, revealing",
       "author": "FutureKeepers"
     },
     {
@@ -40,9 +37,9 @@
       "format": "short",
       "title": "Thailand's Low-Tech Crate Solution Boosts Reforestation Efforts",
       "link": "https://www.youtube.com/shorts/Xm4bkpxtR5Q",
-      "publishDate": "2026-05-13T03:00:40.000Z",
+      "publishDate": "2026-05-12T22:00:40.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/Xm4bkpxtR5Q/hqdefault.jpg",
-      "description": "",
+      "description": "In Thailand, a low-tech idea is making a big impact on reforestation efforts. Discover how old plastic crates are giving young trees a better chance of survival against harsh tropical conditions and grazing animals. Futu",
       "author": "FutureKeepers"
     },
     {
@@ -52,21 +49,9 @@
       "format": "short",
       "title": "Thailand's Low-Tech Crate Solution: Boosting Sapling Survival for Forest Impact",
       "link": "https://www.youtube.com/shorts/HS9yrvGYU2U",
-      "publishDate": "2026-05-12T23:15:36.000Z",
+      "publishDate": "2026-05-12T18:15:36.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/HS9yrvGYU2U/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "The Sun's Silent Work: Powering Our World, One Roof at a Time",
-      "link": "https://www.youtube.com/shorts/6muAe1TGC60",
-      "publishDate": "2026-05-11T21:57:06.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/6muAe1TGC60/hqdefault.jpg",
-      "description": "",
+      "description": "A simple, low-tech idea is making a significant impact on forest restoration efforts in Thailand. Discover how old plastic crates are giving young trees a better chance at survival against harsh environmental challenges.",
       "author": "FutureKeepers"
     },
     {
@@ -77,9 +62,21 @@
       "title": "Guerilla Sun",
       "link": "https://futurekeepers.substack.com/p/guerilla-sun",
       "publishDate": "2026-05-11T16:59:36.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!REpM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f4ba2dc-7739-41f3-b854-6c60768188cf_1456x816.png",
-      "description": "I don t know who needs to hear this. But you don t have to wait for policy to gain energy independence.",
-      "author": null
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!REpM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f4ba2dc-7739-41f3-b854-6c60768188cf_1456x816.png",
+      "description": "I don’t know who needs to hear this. But you don’t have to wait for policy to gain energy independence.",
+      "author": "Steve Mudd"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "The Sun's Silent Work: Powering Our World, One Roof at a Time",
+      "link": "https://www.youtube.com/shorts/6muAe1TGC60",
+      "publishDate": "2026-05-11T16:57:06.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/6muAe1TGC60/hqdefault.jpg",
+      "description": "Settle into your seat, close your eyes, and take a breath. This video invites you to pause and reflect on the quiet, persistent work of the sun, and how its energy is transforming our world, one rooftop at a time. From w",
+      "author": "FutureKeepers"
     },
     {
       "source": "ccAsia",
@@ -100,9 +97,9 @@
       "format": "short",
       "title": "Pakistan's Solar Surge: How Rooftop Panels Battle Global Oil Prices #shorts",
       "link": "https://www.youtube.com/shorts/t_GSnjAi8fQ",
-      "publishDate": "2026-05-09T02:13:45.000Z",
+      "publishDate": "2026-05-08T21:13:45.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/t_GSnjAi8fQ/hqdefault.jpg",
-      "description": "",
+      "description": "When a narrow stretch of water thousands of miles away starts to close, entire economies feel it. The Strait of Hormuz, a critical chokepoint, carries roughly a quarter of the world's seaborne oil. When conflict disrupts",
       "author": "FutureKeepers"
     },
     {
@@ -149,7 +146,7 @@
       "title": "The Last Excuse to Protect Fossils Just Died",
       "link": "https://proelectrica.substack.com/p/the-last-excuse-to-protect-fossils",
       "publishDate": "2026-05-07T14:56:26.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!FPc3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c481251-62c4-493c-b586-680f324e7913_2048x1323.jpeg",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!FPc3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c481251-62c4-493c-b586-680f324e7913_2048x1323.jpeg",
       "description": "Solar power is cheaper even with all the batteries, overbuild, and all of it...",
       "author": "Danny Kennedy"
     },
@@ -158,11 +155,11 @@
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "noise",
       "format": "short",
-      "title": "True Energy Security: Pakistan's Solar Wind Revolution #shorts",
+      "title": "True Energy Security: Pakistan's Solar & Wind Revolution #shorts",
       "link": "https://www.youtube.com/shorts/JCWhbbI4nm8",
-      "publishDate": "2026-05-07T03:18:27.000Z",
+      "publishDate": "2026-05-06T22:18:27.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/JCWhbbI4nm8/hqdefault.jpg",
-      "description": "",
+      "description": "For decades, global energy security has been defined by controlling fossil fuel supply lines. But this model is broken, leaving nations vulnerable to volatile prices and geopolitical conflicts far from their borders. Pak",
       "author": "FutureKeepers"
     },
     {
@@ -172,9 +169,9 @@
       "format": "short",
       "title": "Pakistan's Green Energy Revolution: A Sustainable Future #shorts",
       "link": "https://www.youtube.com/shorts/cdX26e4Kk3M",
-      "publishDate": "2026-05-07T03:18:09.000Z",
+      "publishDate": "2026-05-06T22:18:09.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/cdX26e4Kk3M/hqdefault.jpg",
-      "description": "",
+      "description": "Fossil fuels are on their way out, and Pakistan stands at a crucial crossroads. With its unique geographic and economic landscape, the nation faces a pivotal choice: cling to outdated energy sources or embrace a sustaina",
       "author": "FutureKeepers"
     },
     {
@@ -196,9 +193,9 @@
       "format": "short",
       "title": "End of Fossil Fuels? The Rise of Energy Independence! #shorts",
       "link": "https://www.youtube.com/shorts/hSbkLYJeVOs",
-      "publishDate": "2026-05-06T04:04:19.000Z",
+      "publishDate": "2026-05-05T23:04:19.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/hSbkLYJeVOs/hqdefault.jpg",
-      "description": "",
+      "description": "The era of energy security tied to fossil fuels is over. Discover how clean energy is not just a climate strategy, but our greatest opportunity for true energy independence. For decades, global conflicts and faraway poli",
       "author": "FutureKeepers"
     },
     {
@@ -206,11 +203,11 @@
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "noise",
       "format": "short",
-      "title": "War, Gas Prices, Your Wallet: Renewables Offer Stability! #shorts",
+      "title": "War, Gas Prices, & Your Wallet: Renewables Offer Stability! #shorts",
       "link": "https://www.youtube.com/shorts/0WZpv2FbYAc",
-      "publishDate": "2026-05-06T03:57:52.000Z",
+      "publishDate": "2026-05-05T22:57:52.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/0WZpv2FbYAc/hqdefault.jpg",
-      "description": "",
+      "description": "Global conflicts are sending shockwaves through energy markets, driving up oil and gas prices worldwide. For everyday families, this means more than just a number on a screen – it translates into skyrocketing costs for c",
       "author": "FutureKeepers"
     },
     {
@@ -218,11 +215,11 @@
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "noise",
       "format": "short",
-      "title": "Small Wins: Salt Energy Storage Durable Tidal Power Breakthroughs",
+      "title": "Small Wins: Salt Energy Storage & Durable Tidal Power Breakthroughs",
       "link": "https://www.youtube.com/shorts/hi4S1UW6qP8",
-      "publishDate": "2026-05-05T23:00:21.000Z",
+      "publishDate": "2026-05-05T18:00:21.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/hi4S1UW6qP8/hqdefault.jpg",
-      "description": "",
+      "description": "Climate news can often feel overwhelming, but this week, we're celebrating uplifting stories that prove positive change is happening! Discover how innovative technologies are tackling renewable energy's biggest challenge",
       "author": "FutureKeepers"
     },
     {
@@ -232,9 +229,9 @@
       "format": "video",
       "title": "Post-Hormuz Policy Guide: Asia's Path to Energy Independence",
       "link": "https://www.youtube.com/watch?v=VR7Sn1i2-AM",
-      "publishDate": "2026-05-05T03:55:30.717893Z",
-      "thumbnail": "https://i.ytimg.com/vi/VR7Sn1i2-AM/hqdefault.jpg",
-      "description": "",
+      "publishDate": "2026-05-04T14:15:23.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/VR7Sn1i2-AM/hqdefault.jpg",
+      "description": "Decision-makers in Asia are grappling with severe maritime gridlock and an unprecedented energy squeeze due to the Post-Hormuz disruption. This explainer unpacks FutureKeepers Signal’s April 2026 report, 'A Field Guide f",
       "author": "FutureKeepers"
     },
     {
@@ -256,9 +253,9 @@
       "format": "video",
       "title": "Thailand's Energy Crisis: The Policy Key to Unlocking Renewables & Economic Growth",
       "link": "https://www.youtube.com/watch?v=SVdijwb6Wsc",
-      "publishDate": "2026-05-02T03:55:30.717893Z",
-      "thumbnail": "https://i.ytimg.com/vi/SVdijwb6Wsc/hqdefault.jpg",
-      "description": "",
+      "publishDate": "2026-05-01T19:00:48.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/SVdijwb6Wsc/hqdefault.jpg",
+      "description": "When global conflicts threaten energy supply, nations reliant on fossil fuels face immediate economic and social upheaval. Thailand, with 65% of its power from gas, is particularly vulnerable to these external shocks, le",
       "author": "FutureKeepers"
     },
     {
@@ -268,9 +265,9 @@
       "format": "video",
       "title": "How Solar Power Can Save Bangladesh From Energy Crisis",
       "link": "https://www.youtube.com/watch?v=jgtq9I_2thI",
-      "publishDate": "2026-05-02T03:55:30.717893Z",
-      "thumbnail": "https://i.ytimg.com/vi/jgtq9I_2thI/hqdefault.jpg",
-      "description": "",
+      "publishDate": "2026-05-01T14:00:46.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/jgtq9I_2thI/hqdefault.jpg",
+      "description": "Bangladesh faces a severe energy crisis, exacerbated by global geopolitical events like the functional closure of the Strait of Hormuz. Reliant on imports for 95% of its energy, the nation's economy is exceptionally vuln",
       "author": "FutureKeepers"
     },
     {
@@ -280,9 +277,9 @@
       "format": "video",
       "title": "Thailand's Green Energy Choice: Win Global Supply Chains",
       "link": "https://www.youtube.com/watch?v=xYRXwi5WRo0",
-      "publishDate": "2026-05-01T03:55:30.717893Z",
-      "thumbnail": "https://i.ytimg.com/vi/xYRXwi5WRo0/hqdefault.jpg",
-      "description": "",
+      "publishDate": "2026-04-30T22:41:26.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/xYRXwi5WRo0/hqdefault.jpg",
+      "description": "On February 28th, 2026, the Strait of Hormuz effectively shut down, causing global oil and LNG shipments to grind to a halt. Thailand felt the immediate shock of soaring LNG prices, prompting emergency energy conservatio",
       "author": "FutureKeepers"
     },
     {
@@ -292,9 +289,21 @@
       "format": "video",
       "title": "Post-Hormuz: Asia's Urgent Shift to Energy Independence",
       "link": "https://www.youtube.com/watch?v=nQejR-nct9o",
-      "publishDate": "2026-05-01T03:55:30.717893Z",
-      "thumbnail": "https://i.ytimg.com/vi/nQejR-nct9o/hqdefault.jpg",
-      "description": "",
+      "publishDate": "2026-04-30T19:55:36.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/nQejR-nct9o/hqdefault.jpg",
+      "description": "The Strait of Hormuz crisis has dramatically reduced energy transit, forcing Asian nations to rethink their energy security. This explainer, drawing directly from an April 2026 publication by FutureKeepers Signal, outlin",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Clean Energy's Unstoppable Rise: Beyond the Coal Blip #shorts",
+      "link": "https://www.youtube.com/shorts/QwLXYwd1Zo4",
+      "publishDate": "2026-04-29T23:51:07.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/QwLXYwd1Zo4/hqdefault.jpg",
+      "description": "Amidst global energy crises and geopolitical shocks, whispers of coal's return for energy security are circulating. But don't be fooled—this is a temporary blip, not a long-term U-turn for our planet's energy future. Rec",
       "author": "FutureKeepers"
     },
     {
@@ -304,9 +313,9 @@
       "format": "video",
       "title": "Crisis-Driven Energy Transition: When Geopolitics Fuels Green Tech",
       "link": "https://www.youtube.com/watch?v=e354HseSkR8",
-      "publishDate": "2026-04-30T03:55:30.717893Z",
-      "thumbnail": "https://i.ytimg.com/vi/e354HseSkR8/hqdefault.jpg",
-      "description": "",
+      "publishDate": "2026-04-29T19:39:04.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/e354HseSkR8/hqdefault.jpg",
+      "description": "What happens when a global geopolitical crisis chokes off vital energy supplies, plunging millions into darkness? This video explores a hypothetical 2026 scenario where a military escalation in the Strait of Hormuz trigg",
       "author": "FutureKeepers"
     },
     {
@@ -316,9 +325,9 @@
       "format": "video",
       "title": "Blackout 2026: How Geopolitics Accelerated the Clean Energy Transition",
       "link": "https://www.youtube.com/watch?v=ohtwmD2VJ5A",
-      "publishDate": "2026-04-30T03:55:30.717893Z",
-      "thumbnail": "https://i.ytimg.com/vi/ohtwmD2VJ5A/hqdefault.jpg",
-      "description": "",
+      "publishDate": "2026-04-29T19:38:56.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/ohtwmD2VJ5A/hqdefault.jpg",
+      "description": "Imagine early 2026: a geopolitical conflict chokes the Strait of Hormuz, plunging a vibrant tropical city in Sri Lanka into darkness. This isn't just a temporary power outage; it's a brutal demand destruction event that ",
       "author": "FutureKeepers"
     },
     {
@@ -328,9 +337,9 @@
       "format": "video",
       "title": "Asia's Clean Energy Race: Bureaucracy vs. Renewables",
       "link": "https://www.youtube.com/watch?v=BklrWt6tJjI",
-      "publishDate": "2026-04-30T03:55:30.717893Z",
-      "thumbnail": "https://i.ytimg.com/vi/BklrWt6tJjI/hqdefault.jpg",
-      "description": "",
+      "publishDate": "2026-04-29T19:38:51.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/BklrWt6tJjI/hqdefault.jpg",
+      "description": "In February 2026, the global energy system faced a stark challenge: the closure of the Strait of Hormuz halted 20% of global oil and gas shipments, sending Brent crude prices to historic highs. This fossil fuel choke poi",
       "author": "FutureKeepers"
     },
     {
@@ -340,9 +349,9 @@
       "format": "video",
       "title": "Solar Power: Bangladesh's Path to Energy & Food Security",
       "link": "https://www.youtube.com/watch?v=jzCdccpaPe4",
-      "publishDate": "2026-04-30T03:55:30.717893Z",
-      "thumbnail": "https://i.ytimg.com/vi/jzCdccpaPe4/hqdefault.jpg",
-      "description": "",
+      "publishDate": "2026-04-29T19:38:08.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/jzCdccpaPe4/hqdefault.jpg",
+      "description": "The closure of the Strait of Hormuz has exposed Bangladesh's extreme vulnerability to global energy disruptions, halting the flow of vital liquid natural gas and crude oil. As a nation relying on imports for 95% of its e",
       "author": "FutureKeepers"
     },
     {
@@ -352,9 +361,21 @@
       "format": "video",
       "title": "Rooftop Revolution: Pakistan's Solar Boom & India's Energy Future",
       "link": "https://www.youtube.com/watch?v=kvE1whSSNiM",
-      "publishDate": "2026-04-30T03:55:30.717893Z",
-      "thumbnail": "https://i.ytimg.com/vi/kvE1whSSNiM/hqdefault.jpg",
-      "description": "",
+      "publishDate": "2026-04-29T19:38:00.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/kvE1whSSNiM/hqdefault.jpg",
+      "description": "In a world increasingly vulnerable to international energy disruptions, like a hypothetical Strait of Hormuz blockade in 2026, true energy security demands physical insulation and decentralized power grids. Pakistan has ",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Solar Power Revolution: Asia Leads a Green Energy Future! #shorts",
+      "link": "https://www.youtube.com/shorts/dkL9UPeP_JM",
+      "publishDate": "2026-04-29T17:13:25.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/dkL9UPeP_JM/hqdefault.jpg",
+      "description": "A solar-powered world isn't a distant dream – it's being built right now, faster than anyone predicted! We are on the brink of shattering global solar installation records in 2025, marking a pivotal moment in our quest f",
       "author": "FutureKeepers"
     },
     {
@@ -364,9 +385,9 @@
       "format": "video",
       "title": "Pakistan's Solar Revolution: Energy Sovereignty in a Crisis",
       "link": "https://www.youtube.com/watch?v=pPNilMyxMco",
-      "publishDate": "2026-04-29T03:55:30.717893Z",
-      "thumbnail": "https://i.ytimg.com/vi/pPNilMyxMco/hqdefault.jpg",
-      "description": "",
+      "publishDate": "2026-04-27T16:59:26.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/pPNilMyxMco/hqdefault.jpg",
+      "description": "In February 2026, a sudden escalation of military strikes over Tehran shattered the stability of the Middle East. Iranian forces retaliated by shutting down the Strait of Hormuz, plunging global shipping traffic by 90% a",
       "author": "FutureKeepers"
     },
     {
@@ -380,6 +401,30 @@
       "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/04/CCA-Newsletter-022-scaled.png",
       "description": "In energy calculations, what a difference a war makes The post CCA 022: LNG sticker shock and a quick pivot appeared first on Climate and Capital Media .",
       "author": "Kari Huus"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Philippines' Energy Future: Renewable Power for a Brighter Tomorrow",
+      "link": "https://www.youtube.com/shorts/0_zTmpyeTk0",
+      "publishDate": "2026-04-24T23:31:49.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/0_zTmpyeTk0/hqdefault.jpg",
+      "description": "For millions of Filipinos, lights flicker—a warning for us all. The nation faces a severe energy crisis, driven by relentlessly rising prices and our heavy reliance on imported fossil fuels. This dependence leaves us vul",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Energy Crisis Reveals SHOCKING Truth About Clean Energy Future #shorts",
+      "link": "https://www.youtube.com/shorts/h4D8OyrvxUg",
+      "publishDate": "2026-04-24T19:08:46.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/h4D8OyrvxUg/hqdefault.jpg",
+      "description": "A recent geopolitical crisis accidentally revealed a powerful truth about our energy future. When a major shipping lane, the Strait of Hormuz, was disrupted, the global supply of fossil gas took a significant hit. The re",
+      "author": "FutureKeepers"
     },
     {
       "source": "ccAsia",
@@ -406,6 +451,18 @@
       "author": "Kari Huus"
     },
     {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "China's Green Revolution: Doubling Clean Energy by 2035! #shorts",
+      "link": "https://www.youtube.com/shorts/LDQ6v5EFz_I",
+      "publishDate": "2026-04-22T18:24:27.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/LDQ6v5EFz_I/hqdefault.jpg",
+      "description": "This is what true climate leadership on a global scale looks like! China has just announced an ambitious plan to double its clean energy capacity by 2035. This isn't just another policy update; it's a seismic shift in th",
+      "author": "FutureKeepers"
+    },
+    {
       "source": "ccAsia",
       "sourceLabel": "Climate & Capital Asia",
       "taxonomy": "ccasia",
@@ -424,45 +481,9 @@
       "format": "video",
       "title": "The Rental Trap: How Electrotech Creates Sovereign Power",
       "link": "https://www.youtube.com/watch?v=Op0FTk6bvgk",
-      "publishDate": "2026-04-22T03:55:30.717893Z",
-      "thumbnail": "https://i.ytimg.com/vi/Op0FTk6bvgk/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Panda Tech News: Why Solar Energy is Your NEXT BIG Investment!",
-      "link": "https://www.youtube.com/watch?v=16jKz_whXSE",
-      "publishDate": "2026-04-22T03:55:30.717893Z",
-      "thumbnail": "https://i.ytimg.com/vi/16jKz_whXSE/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Asia's 2026 Energy Crisis: The Race for Energy Independence",
-      "link": "https://www.youtube.com/watch?v=8V-kUDfDKds",
-      "publishDate": "2026-04-22T03:55:30.717893Z",
-      "thumbnail": "https://i.ytimg.com/vi/8V-kUDfDKds/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Indonesia's Solar Revolution: Powering Islands, Ending Energy Poverty",
-      "link": "https://www.youtube.com/watch?v=6rjfbaWfwmE",
-      "publishDate": "2026-04-22T03:55:30.717893Z",
-      "thumbnail": "https://i.ytimg.com/vi/6rjfbaWfwmE/hqdefault.jpg",
-      "description": "",
+      "publishDate": "2026-04-21T19:41:14.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/Op0FTk6bvgk/hqdefault.jpg",
+      "description": "Three-quarters of the global population relies on a constant, uninterrupted supply of imported fossil fuels, caught in what we call 'The Rental Trap.' This flow economy forces nations to rent their power day by day, lead",
       "author": "FutureKeepers"
     },
     {
@@ -473,9 +494,45 @@
       "title": "Trump's War and the Electric Windfall",
       "link": "https://proelectrica.substack.com/p/trumps-war-and-the-electric-windfall",
       "publishDate": "2026-04-21T19:01:48.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!WxJF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16161fc6-7079-4fec-b564-23f93b57a1aa_1280x1280.jpeg",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!WxJF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16161fc6-7079-4fec-b564-23f93b57a1aa_1280x1280.jpeg",
       "description": "Embers lighting the path to a Pax Electricana...",
       "author": "Danny Kennedy"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Panda Tech News: Why Solar Energy is Your NEXT BIG Investment!",
+      "link": "https://www.youtube.com/watch?v=16jKz_whXSE",
+      "publishDate": "2026-04-18T13:12:24.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/16jKz_whXSE/hqdefault.jpg",
+      "description": "Welcome to Panda Tech News, where our Engineering Correspondent VOAT brings you the hottest insights into the future of clean energy! In this episode, VOAT makes a powerful case for investing in solar energy, declaring i",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Asia's 2026 Energy Crisis: The Race for Energy Independence",
+      "link": "https://www.youtube.com/watch?v=8V-kUDfDKds",
+      "publishDate": "2026-04-18T04:44:14.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/8V-kUDfDKds/hqdefault.jpg",
+      "description": "Imagine March 2026: the world's most critical energy artery is suddenly severed, halting the global economy. This video explores a hypothetical scenario where a retaliatory blockade of the Strait of Hormuz cripples the f",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Indonesia's Solar Revolution: Powering Islands, Ending Energy Poverty",
+      "link": "https://www.youtube.com/watch?v=6rjfbaWfwmE",
+      "publishDate": "2026-04-18T04:43:47.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/6rjfbaWfwmE/hqdefault.jpg",
+      "description": "For millions living at the grid's edge in Indonesia, reliable energy is a distant dream, often relying on polluting diesel generators. The nation's fragmented geography, with thousands of islands, makes traditional centr",
+      "author": "FutureKeepers"
     },
     {
       "source": "ccAsia",
@@ -497,8 +554,8 @@
       "title": "পাকিস্তান সঠিক ছিল",
       "link": "https://proelectrica.substack.com/p/812",
       "publishDate": "2026-04-09T06:02:28.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!Tb2m!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8501d1d-417b-4155-8a56-fa7dd06344b8_1280x1045.jpeg",
-      "description": "' ' , ,",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!Tb2m!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8501d1d-417b-4155-8a56-fa7dd06344b8_1280x1045.jpeg",
+      "description": "কেন তাদের 'নতুন কয়লা নয়' নীতিটি সঠিক, তারা কীভাবে এটি করেছে, এবং কেন এটি বিশ্বের জন্য এত গুরুত্বপূর্ণ।",
       "author": "Danny Kennedy"
     },
     {
@@ -509,7 +566,7 @@
       "title": "Tama ang Pakistan",
       "link": "https://proelectrica.substack.com/p/tama-ang-pakistan",
       "publishDate": "2026-04-09T06:02:02.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!5ggl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ae362c3-d1dc-45d1-86ae-a66db779b755_1280x1045.jpeg",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!5ggl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ae362c3-d1dc-45d1-86ae-a66db779b755_1280x1045.jpeg",
       "description": "A translation of my post in English on the 6th April 2026",
       "author": "Danny Kennedy"
     },
@@ -521,7 +578,7 @@
       "title": "Pakistan Ternyata Benar",
       "link": "https://proelectrica.substack.com/p/pakistan-ternyata-benar",
       "publishDate": "2026-04-09T06:01:56.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!RUrb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27989cae-584e-4c18-81f1-71b1a13b5e37_1280x1045.jpeg",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!RUrb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27989cae-584e-4c18-81f1-71b1a13b5e37_1280x1045.jpeg",
       "description": "Setidaknya, dalam isu perubahan iklim.",
       "author": "Danny Kennedy"
     },
@@ -533,7 +590,7 @@
       "title": "پاکستان کا فیصلہ درست تھا",
       "link": "https://proelectrica.substack.com/p/160",
       "publishDate": "2026-04-09T06:01:55.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!zLBC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1178cbd9-0d29-4312-b8ff-7ea47f19a3af_1280x1045.jpeg",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!zLBC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1178cbd9-0d29-4312-b8ff-7ea47f19a3af_1280x1045.jpeg",
       "description": "A translation of my post in English on April 6th 2026.",
       "author": "Danny Kennedy"
     },
@@ -545,8 +602,8 @@
       "title": "पाकिस्तान सही था",
       "link": "https://proelectrica.substack.com/p/e37",
       "publishDate": "2026-04-09T06:01:49.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!iQie!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F718eac1b-9f1b-4f2a-be59-0bd1ef2bc05b_1280x1045.jpeg",
-      "description": "",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!iQie!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F718eac1b-9f1b-4f2a-be59-0bd1ef2bc05b_1280x1045.jpeg",
+      "description": "क्यों महंगे गैस से सस्ते सोलर की ओर देश का झुकाव दुनिया के लिए एक सबक है।",
       "author": "Danny Kennedy"
     },
     {
@@ -557,7 +614,7 @@
       "title": "标题：事实证明，巴基斯坦的能源战略走对了",
       "link": "https://proelectrica.substack.com/p/7c0",
       "publishDate": "2026-04-09T06:01:44.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!dX53!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1446541-9697-4244-9aac-1c5f0d644cf1_1280x1045.jpeg",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!dX53!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1446541-9697-4244-9aac-1c5f0d644cf1_1280x1045.jpeg",
       "description": "A translation of my post in English from April 6th using Gemini",
       "author": "Danny Kennedy"
     },
@@ -569,7 +626,7 @@
       "title": "Pakistan Was Right.",
       "link": "https://proelectrica.substack.com/p/pakistan-was-right",
       "publishDate": "2026-04-07T16:11:12.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!vwle!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe286d1a9-8501-44aa-a545-b111e146d938_1280x1045.jpeg",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!vwle!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe286d1a9-8501-44aa-a545-b111e146d938_1280x1045.jpeg",
       "description": "The Rest of us Should Be Paying Attention and buying batteries!",
       "author": "Danny Kennedy"
     },
@@ -581,7 +638,7 @@
       "title": "How to Power a Country During (and After) a Crisis",
       "link": "https://futurekeepers.substack.com/p/how-to-power-a-country-during-and",
       "publishDate": "2026-04-05T15:03:22.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!6Gfy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3779b97-0be7-48eb-889a-fbbb9edb2374_2816x1536.jpeg",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!6Gfy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3779b97-0be7-48eb-889a-fbbb9edb2374_2816x1536.jpeg",
       "description": "What Pakistan can teach the world in this crisis.",
       "author": "Steve Mudd"
     },
@@ -593,44 +650,8 @@
       "title": "The 3-D Mah-jongg Case Laid Bare",
       "link": "https://proelectrica.substack.com/p/the-3-d-mah-jongg-case-laid-bare",
       "publishDate": "2026-03-27T23:27:08.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!aoQm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa6c53cd-039c-4115-9a3c-332555b27faa_720x901.jpeg",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!aoQm!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa6c53cd-039c-4115-9a3c-332555b27faa_720x901.jpeg",
       "description": "A Rebuttal to the Petro/LNG-Dollar Dominance Thesis",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "Stating the Bleedingly Apparent: Go Electric Asia",
-      "link": "https://proelectrica.substack.com/p/stating-the-bleedingly-apparent-go",
-      "publishDate": "2026-03-20T05:56:48.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!ZpX_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fbd84cd-94e3-4647-969e-f95ad43671d0_1456x1092.webp",
-      "description": "The sun doesn t care what s happening in the Strait of Hormuz",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "Kepulauan Surya Akhirnya Bangkit",
-      "link": "https://proelectrica.substack.com/p/kepulauan-surya-akhirnya-bangkit",
-      "publishDate": "2026-03-02T05:47:39.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!TVoW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17aeed14-45f0-4a6b-a76e-698cbb42eece_2374x1122.png",
-      "description": "Bagaimana Indonesia Akhirnya Akan Beralih ke Energi Bersih: Dari Lapangan | Pos #1",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "The Solar Archipelago Rises at last",
-      "link": "https://proelectrica.substack.com/p/the-solar-archipelago-rises-at-last",
-      "publishDate": "2026-03-02T05:16:11.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!CV7Z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1c601d1-74f4-43d8-98e1-64dd0ff48759_2374x1122.png",
-      "description": "How Indonesia is finally going to go clean: From the Field | Post #1",
       "author": "Danny Kennedy"
     },
     {
@@ -641,7 +662,7 @@
       "title": "Who Powers AI Right?",
       "link": "https://futurekeepers.substack.com/p/who-powers-ai-right",
       "publishDate": "2026-03-01T03:37:11.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!hNh3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F452f08e5-53f0-4f59-99ab-2712ebb08088_2634x1517.jpeg",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!hNh3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F452f08e5-53f0-4f59-99ab-2712ebb08088_2634x1517.jpeg",
       "description": "The AI boom needs power. Here's who's building clean and who's not.",
       "author": "Steve Mudd"
     },
@@ -653,21 +674,9 @@
       "title": "Giddy Up, Planet Earth 🐴",
       "link": "https://futurekeepers.substack.com/p/giddy-up-planet-earth",
       "publishDate": "2026-02-21T22:36:50.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!LUiM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F831c57a8-3a61-4144-8ae9-2434e67fa2c2_1456x816.png",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!LUiM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F831c57a8-3a61-4144-8ae9-2434e67fa2c2_1456x816.png",
       "description": "The Wood Snake reshaped the world quietly. Now the Fire Horse is running. Here's what that means for the energy transition.",
       "author": "Steve Mudd"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "Thoughts on a Horse Bolting",
-      "link": "https://proelectrica.substack.com/p/thoughts-on-a-horse-bolting",
-      "publishDate": "2026-02-17T22:31:19.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!ij3r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8915ca20-914c-41d6-b53a-7421d43deaf5_988x825.png",
-      "description": "An end of year wrap as we celebrate CNY to encourage us to use our imaginations to electrify everything using renewables!",
-      "author": "Danny Kennedy"
     },
     {
       "source": "ebirchy",
@@ -694,42 +703,6 @@
       "author": "Andrew Birch (\"Birchy\")"
     },
     {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "Go Electric: This Time for Peace",
-      "link": "https://proelectrica.substack.com/p/go-electric-this-time-for-peace",
-      "publishDate": "2026-01-07T00:32:25.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!GugE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0603c301-aa96-48ab-89f8-021d6f80800f_1827x964.jpeg",
-      "description": "Reducing oil demand will reduce resources for making war",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "[Bahasa] Selamat Datang di ProElectrica",
-      "link": "https://proelectrica.substack.com/p/bahasa-selamat-datang-di-proelectrica",
-      "publishDate": "2026-01-02T20:38:33.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!hAsM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa279a242-4553-4062-9c71-2133d8d2a054_720x901.jpeg",
-      "description": "Substack yang didukung oleh FutureKeepers",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "Welcome to ProElectrica",
-      "link": "https://proelectrica.substack.com/p/welcome-to-proelectrica",
-      "publishDate": "2026-01-02T01:24:17.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!hAsM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa279a242-4553-4062-9c71-2133d8d2a054_720x901.jpeg",
-      "description": "A Substack powered by FutureKeepers",
-      "author": "Danny Kennedy"
-    },
-    {
       "source": "ebirchy",
       "sourceLabel": "Andrew Birch",
       "taxonomy": "voices",
@@ -749,7 +722,7 @@
       "title": "The Point of Forgetting Fossil Fuels",
       "link": "https://futurekeepers.substack.com/p/the-point-of-forgetting-fossil-fuels",
       "publishDate": "2025-12-06T15:09:08.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!nlrL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc53463b-84bb-4f30-9a2c-8df8d300e761_1456x816.png",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!nlrL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc53463b-84bb-4f30-9a2c-8df8d300e761_1456x816.png",
       "description": "What memory teaches us about a bright future, India's solar milestone, the best solar view in the world, a new Solar Panda movie, and Signal and Chill",
       "author": "Steve Mudd"
     },
@@ -785,8 +758,8 @@
       "title": "This Week at COP30: What the Future Is Telling Us",
       "link": "https://futurekeepers.substack.com/p/this-week-at-cop30-what-the-future",
       "publishDate": "2025-11-22T16:41:59.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!_7-a!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb79bf5d-0c52-494a-85dd-8781ea9b401d_2752x1536.png",
-      "description": "What s really happening beneath the negotiation noise and why economic momentum is shifting faster than the politics around it",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!_7-a!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb79bf5d-0c52-494a-85dd-8781ea9b401d_2752x1536.png",
+      "description": "What’s really happening beneath the negotiation noise and why economic momentum is shifting faster than the politics around it",
       "author": "Steve Mudd"
     },
     {
@@ -809,7 +782,7 @@
       "title": "Top Energy Stories from Climate Week NYC",
       "link": "https://futurekeepers.substack.com/p/top-energy-stories-from-climate-week",
       "publishDate": "2025-09-29T02:47:15.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!9vqB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49b004c0-3ead-47bf-be2d-5fd270aefd62_1456x816.png",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!9vqB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49b004c0-3ead-47bf-be2d-5fd270aefd62_1456x816.png",
       "description": "FutureKeepers tracked the action, from the press rooms to the power plays",
       "author": "Steve Mudd"
     },

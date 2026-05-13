@@ -1,19 +1,27 @@
 {
-  "generatedAt": "2026-05-13T04:06:03.755Z",
+  "generatedAt": "2026-05-13T07:25:16.162Z",
   "locale": "th",
   "counts": {
     "ytLongForm": 3,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 0,
-    "ytShorts": 0
+    "ytLongForm": 3,
+    "ytShorts": 15
   },
-  "rescuedSources": [
-    "ytLongForm",
-    "ytShorts"
-  ],
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "การปฏิวัติ EV ของอินโดนีเซีย: ปลดแอกพลังงานชาติ! #shorts",
+      "link": "https://www.youtube.com/shorts/mnU3UAT2kL8",
+      "publishDate": "2026-05-12T22:51:11.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/mnU3UAT2kL8/hqdefault.jpg",
+      "description": "การปฏิวัติยานยนต์ไฟฟ้าของอินโดนีเซียกำลังขับเคลื่อนด้วยเครื่องยนต์ที่ทรงพลังยิ่งกว่าแค่เรื่องสภาพภูมิอากาศ นั่นคือ \"อิสรภาพทางพลังงาน\" ในขณะที่ทั่วโลกมองว่าการเปลี่ยนผ่านสู่รถยนต์ไฟฟ้า (EV) เป็นสิ่งจำเป็นเพื่อรับมือกับกา",
+      "author": "FutureKeepers Thai"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -180,18 +188,6 @@
       "publishDate": "2026-04-15T22:28:16.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/oyBHCqgPJtY/hqdefault.jpg",
       "description": "เป็นเวลานานเกินไปที่เศรษฐกิจของอินโดนีเซียต้องพึ่งพาราคาน้ำมันโลกที่ผันผวน และเผชิญกับปัญหาการขาดแคลนพลังงาน ซึ่งส่งผลกระทบโดยตรงต่อค่าใช้จ่ายในชีวิตประจำวันของผู้คน แต่ตอนนี้มีทางออกที่สดใสอยู่เหนือศีรษะของเรา นั่นคือพล",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "พลังงานหมุนเวียน: อนาคตที่ยั่งยืนของอินโดนีเซีย | FutureKeepers #shorts",
-      "link": "https://www.youtube.com/shorts/b5VGY7c6pmo",
-      "publishDate": "2026-04-15T22:06:34.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/b5VGY7c6pmo/hqdefault.jpg",
-      "description": "ราคาพลังงานทั่วโลกกำลังพุ่งสูงขึ้น และความผันผวนทางภูมิรัฐศาสตร์ก็ยิ่งเพิ่มความไม่แน่นอนให้กับตลาดพลังงาน ในอินโดนีเซีย วิกฤตพลังงานที่รุนแรงได้เผยให้เห็นถึงการพึ่งพาเชื้อเพลิงฟอสซิลอย่างลึกซึ้งของประเทศ แต่ท่ามกลางความท",
       "author": "FutureKeepers Thai"
     },
     {

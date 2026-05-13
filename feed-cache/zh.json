@@ -1,19 +1,27 @@
 {
-  "generatedAt": "2026-05-13T04:05:53.237Z",
+  "generatedAt": "2026-05-13T07:25:05.928Z",
   "locale": "zh",
   "counts": {
     "ytLongForm": 15,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 0,
-    "ytShorts": 0
+    "ytLongForm": 15,
+    "ytShorts": 15
   },
-  "rescuedSources": [
-    "ytLongForm",
-    "ytShorts"
-  ],
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "印尼电动汽车：摆脱油价波动，掌握能源未来！#shorts",
+      "link": "https://www.youtube.com/shorts/Bwa6JnJYBdU",
+      "publishDate": "2026-05-12T22:49:57.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/Bwa6JnJYBdU/hqdefault.jpg",
+      "description": "电动汽车革命的背后，隐藏着一股强大而鲜为人知的力量：能源安全。我们通常认为，转向电动汽车是为了应对气候变化。但一项关于印尼的最新研究揭示了一个更直接的动因：摆脱动荡的国际油价影响。 对于一个拥有超过2.8亿人口的国家来说，这是一个极其重要的决定。雅加达街头的每一辆电动汽车或摩托车，不仅意味着更清洁的空气，更是印尼迈向自身能源和国家安全的关键一步。通过利用自身丰富的矿产资源，建立本土的电动汽车产业，印度尼西亚正将能源的未来牢牢掌握在自己手",
+      "author": "Future Keepers Mandarin"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -204,18 +212,6 @@
       "publishDate": "2026-04-22T18:22:34.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/7vjPUU54HKQ/hqdefault.jpg",
       "description": "中国在清洁能源领域迈出了激动人心的一步，宣布了一项宏伟目标：到2035年，其清洁能源装机容量将实现翻倍！这不仅是中国能源政策的重大更新，更是全球能源格局的一场颠覆性变革。这一承诺将以史无前例的规模，全面加速风能、太阳能等可再生能源技术的发展和应用。 视频深入探讨了中国这一里程碑式承诺的深远影响。如此巨大的投资将极大地推动技术创新，并有望显著降低全球清洁能源的成本，从而为世界各国树立新的气候行动标杆。这向全球发出了一个明确而振奋人心的信号",
-      "author": "Future Keepers Mandarin"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "印尼能源大转型：淘汰2400座柴油厂，迈向清洁未来 #shorts",
-      "link": "https://www.youtube.com/shorts/sT3T90HeI4Y",
-      "publishDate": "2026-04-18T00:37:24.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/sT3T90HeI4Y/hqdefault.jpg",
-      "description": "印度尼西亚正在进行一项具有里程碑意义的能源转型，计划逐步淘汰近2400座柴油发电厂。这一举措是东南亚地区当前最重要的能源转型行动之一，旨在彻底改变该国的电力格局。 印尼国家电力公司（PLN）正在积极替换其庞大而老旧、效率低下且污染严重的柴油发电机组。这些传统的燃油电厂不仅运营成本高昂，严重依赖进口燃料，更是主要的空气污染源，对环境和公共健康造成了巨大压力。 取而代之的是，PLN正加速发展清洁、本土化的能源解决方案。通过充分利用印度尼西亚",
       "author": "Future Keepers Mandarin"
     },
     {

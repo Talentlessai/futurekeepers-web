@@ -1,19 +1,51 @@
 {
-  "generatedAt": "2026-05-13T04:05:56.754Z",
+  "generatedAt": "2026-05-13T07:25:09.302Z",
   "locale": "bn",
   "counts": {
     "ytLongForm": 11,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 0,
-    "ytShorts": 0
+    "ytLongForm": 11,
+    "ytShorts": 15
   },
-  "rescuedSources": [
-    "ytLongForm",
-    "ytShorts"
-  ],
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "ব্যাটারি পাওয়ার: বৈশ্বিক উৎপাদন ও সঞ্চয় ক্ষমতা বৃদ্ধি",
+      "link": "https://www.youtube.com/shorts/OgkME9qMzMU",
+      "publishDate": "2026-05-13T07:00:40.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/OgkME9qMzMU/hqdefault.jpg",
+      "description": "ব্যাটারি উৎপাদনে বৈশ্বিক সক্ষমতা দ্রুত বৃদ্ধি পাচ্ছে, যা ২০২৫ সালের মধ্যে চাহিদা অতিক্রম করবে বলে পূর্বাভাস দেওয়া হয়েছে। আন্তর্জাতিক শক্তি সংস্থার (IEA) নিট জিরো আউটলুক অনুযায়ী, ২০২৮ সালের মধ্যে বার্ষিক ১৩ টেরাওয়াট-ঘণ",
+      "author": "Future Keepers Bengali"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "অক্টোপাসের মস্তিস্ক: নবায়নযোগ্য শক্তি ব্যবস্থাপনার অনুপ্রেরণা",
+      "link": "https://www.youtube.com/shorts/dBTL_i2PzwM",
+      "publishDate": "2026-05-13T03:00:40.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/dBTL_i2PzwM/hqdefault.jpg",
+      "description": "অক্টোপাসের মস্তিস্ক থেকে শিখুন কিভাবে নবায়নযোগ্য শক্তি ব্যবস্থা আরও কার্যকর হতে পারে। এই প্রাণীটির অনন্য স্নায়ুতন্ত্র বিতরণকৃত শক্তির ভবিষ্যৎ নির্দেশ করে। একটি অক্টোপাসের অর্ধেকেরও বেশি স্নায়ুকোষ তার বাহুতে অবস্থিত। প্রত",
+      "author": "Future Keepers Bengali"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "ইন্দোনেশিয়ার EV বিপ্লব: জ্বালানি স্বনির্ভরতা ও সমৃদ্ধির পথ #shorts",
+      "link": "https://www.youtube.com/shorts/JqoLttn4NH4",
+      "publishDate": "2026-05-12T22:47:09.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/JqoLttn4NH4/hqdefault.jpg",
+      "description": "বৈদ্যুতিক গাড়ির বিপ্লবের পেছনে কি শুধু পরিবেশ বাঁচানোর উদ্দেশ্য? ইন্দোনেশিয়ার অভিজ্ঞতা আমাদের অন্য একটি গুরুত্বপূর্ণ দিক দেখাচ্ছে: জ্বালানি স্বনির্ভরতা। আমরা প্রায়শই বৈদ্যুতিক গাড়িকে শুধুমাত্র পরিবেশ রক্ষার একটি উপায",
+      "author": "Future Keepers Bengali"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -156,42 +188,6 @@
       "publishDate": "2026-04-24T20:54:04.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/RpiA_BJc7ss/hqdefault.jpg",
       "description": "সম্প্রতি একটি আন্তর্জাতিক সংকট আমাদের জ্বালানি নিরাপত্তা নিয়ে এক নতুন সত্য সামনে এনেছে। এই মার্চে যখন একটি গুরুত্বপূর্ণ সমুদ্রপথ বন্ধ হয়ে যায়, তখন সারা বিশ্বে জীবাশ্ম গ্যাসের সরবরাহ বড় ধরনের ধাক্কা খায়। এর ফলে কী হল",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "চীন ২০৩৫ সালের মধ্যে দ্বিগুণ করবে পরিচ্ছন্ন জ্বালানি! 🚀 #shorts",
-      "link": "https://www.youtube.com/shorts/dZ43HCfFx-s",
-      "publishDate": "2026-04-22T18:23:52.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/dZ43HCfFx-s/hqdefault.jpg",
-      "description": "জলবায়ু পরিবর্তনের বিরুদ্ধে বিশ্বব্যাপী লড়াইয়ে এক নতুন দিগন্ত উন্মোচন করছে চীন! ২০৩৫ সালের মধ্যে তাদের পরিচ্ছন্ন জ্বালানি ক্ষমতা দ্বিগুণ করার বিশাল পরিকল্পনা ঘোষণা করেছে দেশটি। এই ভিডিওতে, আমরা চীনের উচ্চাকাঙ্ক্ষী লক্ষ",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "গরু ও সামুদ্রিক শৈবাল: জলবায়ু পরিবর্তনের এক নতুন সমাধান",
-      "link": "https://www.youtube.com/shorts/qDbIw-nA57I",
-      "publishDate": "2026-04-21T19:24:27.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/qDbIw-nA57I/hqdefault.jpg",
-      "description": "গরু পৃথিবীর ক্ষতি করছে? আপনি হয়তো এটা শুনেছেন, কিন্তু কীভাবে? আর এই প্রাণীগুলো কি আমাদের গ্রহকে সাহায্য করতে পারে? এর জন্য শুধু দরকার কিছু সামুদ্রিক শৈবাল! গরু এবং অন্যান্য রোমন্থক প্রাণী প্রচুর পরিমাণে মিথেন নির্গত করে",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "জ্বালানি সংকট: 2020-এর দশক কি বৈদ্যুতিক যুগের সূচনা?",
-      "link": "https://www.youtube.com/shorts/FQ-ex5v7vnc",
-      "publishDate": "2026-04-18T19:56:17.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/FQ-ex5v7vnc/hqdefault.jpg",
-      "description": "2020-এর দশক দুটি বিশাল জীবাশ্ম জ্বালানি সংকটের মুখোমুখি হয়েছে, যা আমাদের শক্তির ভবিষ্যৎকে নতুন রূপ দিচ্ছে। 2022 সালে ইউক্রেন আক্রমণ থেকে শুরু করে 2026 সালে হরমুজ প্রণালী বন্ধ হওয়ার আশঙ্কা পর্যন্ত, এই ঘটনাগুলো 1970-এর দ",
       "author": "Future Keepers Bengali"
     },
     {
