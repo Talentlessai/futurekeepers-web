@@ -59,6 +59,17 @@ const ENGLISH_ONLY_SOURCES = [
     sourceLabel: 'ProElectrica',
   },
   {
+    // Andrew Birch ("Birchy") — 20+ year solar industry veteran (Sungevity,
+    // OpenSolar). Blog publishes editorial takes on solar deployment,
+    // policy, and the energy transition. Voices bucket alongside Danny.
+    name: 'ebirchy',
+    url: 'https://www.ebirchy.com/blog-feed.xml',
+    feedType: 'rss',
+    taxonomy: 'voices',
+    format: 'article',
+    sourceLabel: 'Andrew Birch',
+  },
+  {
     name: 'ccAsia',
     url: 'https://www.climateandcapitalmedia.com/asia/feed/',
     feedType: 'rss',

@@ -1,39 +1,40 @@
 {
-  "generatedAt": "2026-05-13T03:36:11.333Z",
+  "generatedAt": "2026-05-13T04:05:45.253Z",
   "locales": {
     "en": {
-      "itemCount": 59,
-      "counts": {
-        "ytShorts": 10,
-        "fkSignal": 7,
-        "ccAsia": 10,
-        "proElectrica": 17,
-        "ytLongForm": 15
-      },
-      "freshCounts": {
-        "ytLongForm": 0,
-        "ytShorts": 10,
-        "fkSignal": 7,
-        "proElectrica": 17,
-        "ccAsia": 10
-      },
-      "bytes": 37727
-    },
-    "id": {
-      "itemCount": 30,
+      "itemCount": 79,
       "counts": {
         "ytLongForm": 15,
-        "ytShorts": 15
+        "ytShorts": 10,
+        "fkSignal": 7,
+        "proElectrica": 17,
+        "ebirchy": 20,
+        "ccAsia": 10
       },
       "freshCounts": {
         "ytLongForm": 0,
-        "ytShorts": 0
+        "ytShorts": 10,
+        "fkSignal": 7,
+        "proElectrica": 17,
+        "ebirchy": 20,
+        "ccAsia": 10
       },
       "rescuedSources": [
-        "ytLongForm",
-        "ytShorts"
+        "ytLongForm"
       ],
-      "bytes": 18050
+      "bytes": 44880
+    },
+    "id": {
+      "itemCount": 10,
+      "counts": {
+        "ytLongForm": 5,
+        "ytShorts": 5
+      },
+      "freshCounts": {
+        "ytLongForm": 5,
+        "ytShorts": 5
+      },
+      "bytes": 3979
     },
     "zh": {
       "itemCount": 30,

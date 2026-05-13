@@ -228,6 +228,15 @@
         // is fast enough to come in under our 6.5s fetchAll deadline.
         useRss2jsonOnly: true,
       },
+      ebirchy: {
+        // Andrew Birch — 20+ year solar industry veteran (Sungevity, OpenSolar)
+        rss: 'https://www.ebirchy.com/blog-feed.xml',
+        feedType: 'rss',
+        taxonomy: 'voices',
+        format: 'article',
+        sourceLabel: 'Andrew Birch',
+        localesOnly: ['en'],
+      },
       ccAsia: {
         rss: 'https://www.climateandcapitalmedia.com/asia/feed/',
         feedType: 'rss',

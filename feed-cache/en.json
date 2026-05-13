@@ -1,20 +1,25 @@
 {
-  "generatedAt": "2026-05-13T03:36:56.125Z",
+  "generatedAt": "2026-05-13T04:05:46.208Z",
   "locale": "en",
   "counts": {
+    "ytLongForm": 15,
     "ytShorts": 10,
     "fkSignal": 7,
-    "ccAsia": 10,
     "proElectrica": 17,
-    "ytLongForm": 15
+    "ebirchy": 20,
+    "ccAsia": 10
   },
   "freshCounts": {
     "ytLongForm": 0,
     "ytShorts": 10,
     "fkSignal": 7,
     "proElectrica": 17,
+    "ebirchy": 20,
     "ccAsia": 10
   },
+  "rescuedSources": [
+    "ytLongForm"
+  ],
   "items": [
     {
       "source": "ytShorts",
@@ -81,11 +86,11 @@
       "sourceLabel": "Climate & Capital Asia",
       "taxonomy": "ccasia",
       "format": "article",
-      "title": "CCA 023: Climate thriller: Godzilla El Ni\u00f1o vs King Kong energy shock",
+      "title": "CCA 023: Climate thriller: Godzilla El Niño vs King Kong energy shock",
       "link": "https://www.climateandcapitalmedia.com/climate-thriller-godzilla-el-nino-vs-king-kong-energy-shock/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=climate-thriller-godzilla-el-nino-vs-king-kong-energy-shock",
       "publishDate": "2026-05-10T15:18:25.000Z",
       "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/05/CCA-Newsletter-023-scaled.png",
-      "description": "Facing volatile weather and surging prices, Asia is taking charge The post CCA 023: Climate thriller: Godzilla El Ni\u00f1o vs King Kong energy shock appeared first on Climate and Capital Media .",
+      "description": "Facing volatile weather and surging prices, Asia is taking charge The post CCA 023: Climate thriller: Godzilla El Niño vs King Kong energy shock appeared first on Climate and Capital Media .",
       "author": "Kari Huus"
     },
     {
@@ -133,7 +138,7 @@
       "link": "https://www.climateandcapitalmedia.com/gas-projects-in-japan-funded-by-transition-bonds-barely-cut-emissions/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gas-projects-in-japan-funded-by-transition-bonds-barely-cut-emissions",
       "publishDate": "2026-05-07T20:14:50.000Z",
       "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/05/goi-thermal-power-station-climate-capital-media-asia.jpg",
-      "description": "Japan is a \u201ccritical test\u201d for transition finance in Asia, as risks from divergent taxonomies show up in real deals, warns Energy Shift Institute. The post Gas projects in Japan, funded by transition bonds, barely cut em",
+      "description": "Japan is a “critical test” for transition finance in Asia, as risks from divergent taxonomies show up in real deals, warns Energy Shift Institute. The post Gas projects in Japan, funded by transition bonds, barely cut em",
       "author": "Gabrielle See"
     },
     {
@@ -231,6 +236,18 @@
       "thumbnail": "https://i.ytimg.com/vi/VR7Sn1i2-AM/hqdefault.jpg",
       "description": "",
       "author": "FutureKeepers"
+    },
+    {
+      "source": "ebirchy",
+      "sourceLabel": "Andrew Birch",
+      "taxonomy": "voices",
+      "format": "article",
+      "title": "Rising Energy Prices Aren’t a Crisis. They’re a Design Flaw.",
+      "link": "https://www.ebirchy.com/post/rising-energy-prices-aren-t-a-crisis-they-re-a-design-flaw",
+      "publishDate": "2026-05-03T23:00:00.000Z",
+      "thumbnail": "https://static.wixstatic.com/media/415bc9_285190eea84749439ad9b7b5ecfbcfc4~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+      "description": "What’s happening in Iran will push energy prices higher, as markets react to uncertainty and the perceived risk to supply. The pattern is familiar because the system produces the same outcome whenever instability enters",
+      "author": "Andrew Birch (\"Birchy\")"
     },
     {
       "source": "ytLongForm",
@@ -369,11 +386,11 @@
       "sourceLabel": "Climate & Capital Asia",
       "taxonomy": "ccasia",
       "format": "article",
-      "title": "Hong Kong\u2019s outsized potential in the energy transition",
+      "title": "Hong Kong’s outsized potential in the energy transition",
       "link": "https://www.climateandcapitalmedia.com/hong-kongs-outsized-potential-in-the-energy-transition/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hong-kongs-outsized-potential-in-the-energy-transition",
       "publishDate": "2026-04-23T20:45:50.000Z",
       "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/04/hong-kong-climate-capital-media-asia.jpg",
-      "description": "Leveraging its place at the nexus of China\u2019s manufacturing might, foreign capital, and emerging markets The post Hong Kong\u2019s outsized potential in the energy transition appeared first on Climate and Capital Media .",
+      "description": "Leveraging its place at the nexus of China’s manufacturing might, foreign capital, and emerging markets The post Hong Kong’s outsized potential in the energy transition appeared first on Climate and Capital Media .",
       "author": "Anqi Dang"
     },
     {
@@ -465,11 +482,11 @@
       "sourceLabel": "Climate & Capital Asia",
       "taxonomy": "ccasia",
       "format": "article",
-      "title": "Indonesia\u2019s \u201cgreen\u201d nickel boom is anything but",
+      "title": "Indonesia’s “green” nickel boom is anything but",
       "link": "https://www.climateandcapitalmedia.com/indonesias-green-nickel-boom-is-anything-but/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=indonesias-green-nickel-boom-is-anything-but",
       "publishDate": "2026-04-17T00:00:30.000Z",
       "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/04/indonesia-nickel-mine-climate-capital-media-asia.jpg",
-      "description": "The industry, though fueled by coal, has argued that it is essential to the EV transition, but a new report says\u2026 not so much The post Indonesia\u2019s \u201cgreen\u201d nickel boom is anything but appeared first on Climate and Capital",
+      "description": "The industry, though fueled by coal, has argued that it is essential to the EV transition, but a new report says… not so much The post Indonesia’s “green” nickel boom is anything but appeared first on Climate and Capital",
       "author": "Gabrielle See"
     },
     {
@@ -477,7 +494,7 @@
       "sourceLabel": "ProElectrica",
       "taxonomy": "voices",
       "format": "newsletter",
-      "title": "\u09aa\u09be\u0995\u09bf\u09b8\u09cd\u09a4\u09be\u09a8 \u09b8\u09a0\u09bf\u0995 \u099b\u09bf\u09b2",
+      "title": "পাকিস্তান সঠিক ছিল",
       "link": "https://proelectrica.substack.com/p/812",
       "publishDate": "2026-04-09T06:02:28.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!Tb2m!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8501d1d-417b-4155-8a56-fa7dd06344b8_1280x1045.jpeg",
@@ -513,7 +530,7 @@
       "sourceLabel": "ProElectrica",
       "taxonomy": "voices",
       "format": "newsletter",
-      "title": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646 \u06a9\u0627 \u0641\u06cc\u0635\u0644\u06c1 \u062f\u0631\u0633\u062a \u062a\u06be\u0627",
+      "title": "پاکستان کا فیصلہ درست تھا",
       "link": "https://proelectrica.substack.com/p/160",
       "publishDate": "2026-04-09T06:01:55.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!zLBC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1178cbd9-0d29-4312-b8ff-7ea47f19a3af_1280x1045.jpeg",
@@ -525,7 +542,7 @@
       "sourceLabel": "ProElectrica",
       "taxonomy": "voices",
       "format": "newsletter",
-      "title": "\u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0938\u0939\u0940 \u0925\u093e",
+      "title": "पाकिस्तान सही था",
       "link": "https://proelectrica.substack.com/p/e37",
       "publishDate": "2026-04-09T06:01:49.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!iQie!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F718eac1b-9f1b-4f2a-be59-0bd1ef2bc05b_1280x1045.jpeg",
@@ -537,7 +554,7 @@
       "sourceLabel": "ProElectrica",
       "taxonomy": "voices",
       "format": "newsletter",
-      "title": "\u6807\u9898\uff1a\u4e8b\u5b9e\u8bc1\u660e\uff0c\u5df4\u57fa\u65af\u5766\u7684\u80fd\u6e90\u6218\u7565\u8d70\u5bf9\u4e86",
+      "title": "标题：事实证明，巴基斯坦的能源战略走对了",
       "link": "https://proelectrica.substack.com/p/7c0",
       "publishDate": "2026-04-09T06:01:44.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!dX53!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1446541-9697-4244-9aac-1c5f0d644cf1_1280x1045.jpeg",
@@ -633,7 +650,7 @@
       "sourceLabel": "FutureKeepers Signal",
       "taxonomy": "signal",
       "format": "newsletter",
-      "title": "Giddy Up, Planet Earth \ud83d\udc34",
+      "title": "Giddy Up, Planet Earth 🐴",
       "link": "https://futurekeepers.substack.com/p/giddy-up-planet-earth",
       "publishDate": "2026-02-21T22:36:50.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!LUiM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F831c57a8-3a61-4144-8ae9-2434e67fa2c2_1456x816.png",
@@ -651,6 +668,30 @@
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!ij3r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8915ca20-914c-41d6-b53a-7421d43deaf5_988x825.png",
       "description": "An end of year wrap as we celebrate CNY to encourage us to use our imaginations to electrify everything using renewables!",
       "author": "Danny Kennedy"
+    },
+    {
+      "source": "ebirchy",
+      "sourceLabel": "Andrew Birch",
+      "taxonomy": "voices",
+      "format": "article",
+      "title": "State of Solar 2026",
+      "link": "https://www.ebirchy.com/post/state-of-solar-2026",
+      "publishDate": "2026-02-16T00:00:00.000Z",
+      "thumbnail": "https://static.wixstatic.com/media/415bc9_d57dd4eb404b4f56a657a3caed3669a2~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+      "description": "After 5 years of 32% compound annual growth, solar will hit 3TW of cumulative installs next month. It is en route to supplying over 10% of the world’s electricity in 2026 and over half of global energy needs within the n",
+      "author": "Andrew Birch (\"Birchy\")"
+    },
+    {
+      "source": "ebirchy",
+      "sourceLabel": "Andrew Birch",
+      "taxonomy": "voices",
+      "format": "article",
+      "title": "UK Home Solar Hits New Heights in 2025 and Gets New Warm Homes Plan But Watch Out…",
+      "link": "https://www.ebirchy.com/post/uk-home-solar-hits-new-heights-in-2025-and-gets-a-new-warm-homes-plan-but-watch-out",
+      "publishDate": "2026-01-21T09:50:58.000Z",
+      "thumbnail": "https://static.wixstatic.com/media/415bc9_133f462cfced4903af3f0e56428635dd~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+      "description": "UK solar has been doing great since the prior government killed feed in tariffs and the market bombed 10 years ago. In the last 5 years UK installs have grown 9X off that low base from 25,000 installs in 2020 to 228,000",
+      "author": "Andrew Birch (\"Birchy\")"
     },
     {
       "source": "proElectrica",
@@ -689,6 +730,18 @@
       "author": "Danny Kennedy"
     },
     {
+      "source": "ebirchy",
+      "sourceLabel": "Andrew Birch",
+      "taxonomy": "voices",
+      "format": "article",
+      "title": "The UK needs to think bottoms up this Christmas, not more top down.",
+      "link": "https://www.ebirchy.com/post/the-uk-needs-to-think-bottoms-up-this-christmas-not-more-top-down",
+      "publishDate": "2025-12-16T09:54:28.000Z",
+      "thumbnail": "https://static.wixstatic.com/media/415bc9_2dd40012937d43a99db2bacf9b763887~mv2.webp/v1/fit/w_1000,h_576,al_c,q_80/file.png",
+      "description": "I read the Great British Energy strategy paper this week — what a disaster. It’s big, top-down, 20th-century, communist-era thinking on energy. Whenever a government says it wants to “shape markets” and “respond to marke",
+      "author": "Andrew Birch (\"Birchy\")"
+    },
+    {
       "source": "fkSignal",
       "sourceLabel": "FutureKeepers Signal",
       "taxonomy": "signal",
@@ -699,6 +752,30 @@
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!nlrL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc53463b-84bb-4f30-9a2c-8df8d300e761_1456x816.png",
       "description": "What memory teaches us about a bright future, India's solar milestone, the best solar view in the world, a new Solar Panda movie, and Signal and Chill",
       "author": "Steve Mudd"
+    },
+    {
+      "source": "ebirchy",
+      "sourceLabel": "Andrew Birch",
+      "taxonomy": "voices",
+      "format": "article",
+      "title": "Stop COPlicating things: apply the 80/20 rule and build the grid of the future with Solar and Storage",
+      "link": "https://www.ebirchy.com/post/stop-coplicating-things-apply-the-80-20-rule-and-build-the-grid-of-the-future-with-solar-and-storag",
+      "publishDate": "2025-11-24T08:32:08.000Z",
+      "thumbnail": "https://static.wixstatic.com/media/415bc9_6eab3edc4f0d4667a4dee7abe24ff10a~mv2.png/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+      "description": "How to solve 80% of climate: just digitise the grid and let solar fly! I love the global village that is COP, especially in the polarised, war-mongering world we’re now in. Honestly, it is quite beautiful mingling with a",
+      "author": "Andrew Birch (\"Birchy\")"
+    },
+    {
+      "source": "ebirchy",
+      "sourceLabel": "Andrew Birch",
+      "taxonomy": "voices",
+      "format": "article",
+      "title": "Solar Down Under: Australian Solar Visit",
+      "link": "https://www.ebirchy.com/post/solar-down-under-australian-solar-visit",
+      "publishDate": "2025-11-23T18:39:30.000Z",
+      "thumbnail": "https://static.wixstatic.com/media/415bc9_9a863a43e652427f91e359e71ff6cf21~mv2.jpeg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+      "description": "From an inspiring visit to India with 70% solar growth and an ambitious 10m rooftop program, to a week in Australia - another solar star country! We’re seeing huge growth in battery adoption to add to the 35% solar penet",
+      "author": "Andrew Birch (\"Birchy\")"
     },
     {
       "source": "fkSignal",
@@ -713,6 +790,18 @@
       "author": "Steve Mudd"
     },
     {
+      "source": "ebirchy",
+      "sourceLabel": "Andrew Birch",
+      "taxonomy": "voices",
+      "format": "article",
+      "title": "$20M Equity Raise to Accelerate AI Innovation and Global Electrification",
+      "link": "https://www.ebirchy.com/post/20m-equity-raise-to-accelerate-ai-innovation-and-global-electrification",
+      "publishDate": "2025-10-15T14:39:25.000Z",
+      "thumbnail": "https://static.wixstatic.com/media/415bc9_cea44a1fa78f4775b8f367b9d6a08b5b~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+      "description": "We’ve recently completed a $20 million equity raise from leading technology investors including Titanium Ventures, Google, and 2150 Sustainability Fund, among others, who share our belief that clean-energy progress comes",
+      "author": "Andrew Birch (\"Birchy\")"
+    },
+    {
       "source": "fkSignal",
       "sourceLabel": "FutureKeepers Signal",
       "taxonomy": "signal",
@@ -723,10 +812,162 @@
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!9vqB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49b004c0-3ead-47bf-be2d-5fd270aefd62_1456x816.png",
       "description": "FutureKeepers tracked the action, from the press rooms to the power plays",
       "author": "Steve Mudd"
+    },
+    {
+      "source": "ebirchy",
+      "sourceLabel": "Andrew Birch",
+      "taxonomy": "voices",
+      "format": "article",
+      "title": "The Path to a Sustainable Solar Future",
+      "link": "https://www.ebirchy.com/post/the-path-to-a-sustainable-solar-future",
+      "publishDate": "2025-09-03T16:19:56.000Z",
+      "thumbnail": "https://static.wixstatic.com/media/415bc9_a0484974681a4597a76e5f171ff25e4c~mv2.jpg/v1/fit/w_723,h_500,al_c,q_80/file.png",
+      "description": "The resi solar industry in the US stands at a crossroads. We either accept the one side: complexity, shrinking incentives, fading net metering and falling demand. Or the other: affordable, reliable, incentive-free clean",
+      "author": "Andrew Birch (\"Birchy\")"
+    },
+    {
+      "source": "ebirchy",
+      "sourceLabel": "Andrew Birch",
+      "taxonomy": "voices",
+      "format": "article",
+      "title": "Cities Are Cooking. Solar Is the Cold Front.",
+      "link": "https://www.ebirchy.com/post/cities-are-cooking-solar-is-the-cold-front",
+      "publishDate": "2025-08-26T11:01:59.000Z",
+      "thumbnail": "https://static.wixstatic.com/media/b210ca_ca5c626f8c9d4dffa96f26d3122d2ff7~mv2.png/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+      "description": "Heat is officially a frontline equity issue. And this is where solar comes in, not just as a clean energy source, but as literal cooling infrastructure.",
+      "author": "Andrew Birch (\"Birchy\")"
+    },
+    {
+      "source": "ebirchy",
+      "sourceLabel": "Andrew Birch",
+      "taxonomy": "voices",
+      "format": "article",
+      "title": "OS 3.0: The Revolution Will Be Free",
+      "link": "https://www.ebirchy.com/post/os-3-0-the-revolution-will-be-free",
+      "publishDate": "2025-08-14T08:33:09.000Z",
+      "thumbnail": "https://static.wixstatic.com/media/415bc9_55c25daab3864438981c4c97decdf506~mv2.png/v1/fit/w_336,h_280,al_c,q_80/file.png",
+      "description": "Back in 2019, we had this crazy idea: what if we gave away the world’s best solar design software…for free? No catch. No upsell. No subscription plan lurking behind a 14-day trial. Just pure, open access to solar softwar",
+      "author": "Andrew Birch (\"Birchy\")"
+    },
+    {
+      "source": "ebirchy",
+      "sourceLabel": "Andrew Birch",
+      "taxonomy": "voices",
+      "format": "article",
+      "title": "UK USA Locking in High Cost Energy",
+      "link": "https://www.ebirchy.com/post/uk-usa-locking-in-high-cost-energy",
+      "publishDate": "2025-07-23T14:44:14.000Z",
+      "thumbnail": "https://static.wixstatic.com/media/415bc9_a2f5c7b29be34a0cb55ea84742705ffc~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+      "description": "What a strange world we live in. The UK and US, long-time bastions of the free market, are now pulling the strings, dictating the energy mix from upon high, setting the supply dial for years to come. In a world of rapidl",
+      "author": "Andrew Birch (\"Birchy\")"
+    },
+    {
+      "source": "ebirchy",
+      "sourceLabel": "Andrew Birch",
+      "taxonomy": "voices",
+      "format": "article",
+      "title": "Six Lessons Learned From the Road to $10 Billion",
+      "link": "https://www.ebirchy.com/post/six-lessons-learned-from-the-road-to-10-billion",
+      "publishDate": "2025-07-22T09:38:39.000Z",
+      "thumbnail": "https://static.wixstatic.com/media/b210ca_f1f993213c494c2abe9eef36052fa193~mv2.png/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+      "description": "Inside OpenSolar’s milestone and what it says about the future of clean energy.",
+      "author": "Andrew Birch (\"Birchy\")"
+    },
+    {
+      "source": "ebirchy",
+      "sourceLabel": "Andrew Birch",
+      "taxonomy": "voices",
+      "format": "article",
+      "title": "Let’s Cut the Costs. Let’s Own Our Future.",
+      "link": "https://www.ebirchy.com/post/let-s-cut-the-costs-let-s-own-our-future",
+      "publishDate": "2025-07-09T11:31:58.000Z",
+      "thumbnail": "https://static.wixstatic.com/media/b210ca_0176edaee13c4faa834e243961dabda7~mv2.png/v1/fit/w_1000,h_956,al_c,q_80/file.png",
+      "description": "Let’s talk numbers...",
+      "author": "Andrew Birch (\"Birchy\")"
+    },
+    {
+      "source": "ebirchy",
+      "sourceLabel": "Andrew Birch",
+      "taxonomy": "voices",
+      "format": "article",
+      "title": "Ron Bousso’s article “The Path to cheap power will be very expensive” is purposefully controversial and contradictory - but ultimately wrong.",
+      "link": "https://www.ebirchy.com/post/ron-bousso-s-article-the-path-to-cheap-power-will-be-very-expensive-is-purposefully-controversial",
+      "publishDate": "2025-06-23T04:00:00.000Z",
+      "thumbnail": "https://static.wixstatic.com/media/b210ca_c24699d378414dff8573414ebee1d8cf~mv2.webp/v1/fit/w_1000,h_510,al_c,q_80/file.png",
+      "description": "As with so much coverage of solar these days, journalists are just itching to jump on a potential negative news story.",
+      "author": "Andrew Birch (\"Birchy\")"
+    },
+    {
+      "source": "ebirchy",
+      "sourceLabel": "Andrew Birch",
+      "taxonomy": "voices",
+      "format": "article",
+      "title": "Solar Surpasses Nuclear – The S-Curve Was Right",
+      "link": "https://www.ebirchy.com/post/solar-surpasses-nuclear-the-s-curve-was-right",
+      "publishDate": "2025-06-17T04:00:00.000Z",
+      "thumbnail": "https://static.wixstatic.com/media/b210ca_f96916f840284f8eb65c6592139f0da2~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+      "description": "April 2025 gave us three huge milestones in clean energy...",
+      "author": "Andrew Birch (\"Birchy\")"
+    },
+    {
+      "source": "ebirchy",
+      "sourceLabel": "Andrew Birch",
+      "taxonomy": "voices",
+      "format": "article",
+      "title": "Plastic Is a Design Problem. So Is Our Energy System.",
+      "link": "https://www.ebirchy.com/post/plastic-is-a-design-problem-so-is-our-energy-system",
+      "publishDate": "2025-06-05T04:00:00.000Z",
+      "thumbnail": "https://static.wixstatic.com/media/b210ca_a04242aa0f4240be9ad27b58ea206ed7~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+      "description": "To end pollution, we have to end old ways of thinking",
+      "author": "Andrew Birch (\"Birchy\")"
+    },
+    {
+      "source": "ebirchy",
+      "sourceLabel": "Andrew Birch",
+      "taxonomy": "voices",
+      "format": "article",
+      "title": "Why Smarter Trade Deals Can Save the Planet and Boost Prosperity",
+      "link": "https://www.ebirchy.com/post/why-smarter-trade-deals-can-save-the-planet-and-boost-prosperity",
+      "publishDate": "2025-04-21T23:43:01.000Z",
+      "thumbnail": "https://static.wixstatic.com/media/843fed_3039d39deaec42af8bfc4795f5c3269b~mv2.png/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+      "description": "How global cooperation, cleantech innovation, and fair trade can create a sustainable future for people, profit, and the planet. As we...",
+      "author": "Andrew Birch (\"Birchy\")"
+    },
+    {
+      "source": "ebirchy",
+      "sourceLabel": "Andrew Birch",
+      "taxonomy": "voices",
+      "format": "article",
+      "title": "Unlocking Solar’s Full Potential: Market Growth and Reducing Friction",
+      "link": "https://www.ebirchy.com/post/unlocking-solar-s-full-potential-market-growth-and-reducing-friction",
+      "publishDate": "2025-02-24T18:43:48.000Z",
+      "thumbnail": "https://static.wixstatic.com/media/b210ca_155f0b707e6e4ecfb47b24ffc80b2f7e~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+      "description": "For decades, energy analysts have underestimated solar. They assumed cost declines would plateau. They predicted growth would stall.",
+      "author": "Andrew Birch (\"Birchy\")"
+    },
+    {
+      "source": "ebirchy",
+      "sourceLabel": "Andrew Birch",
+      "taxonomy": "voices",
+      "format": "article",
+      "title": "Drill, baby, drill. Trump and Power - thoughts",
+      "link": "https://www.ebirchy.com/post/drill-baby-drill-trump-and-power-thoughts",
+      "publishDate": "2025-01-22T19:36:23.000Z",
+      "thumbnail": "https://static.wixstatic.com/media/843fed_0ab9687176d54c3aae2d01d189d76899~mv2.png/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+      "description": "On the 1st of July 2007 the UK government banned smoking in pubs. This was after the proportion of adults smoking had fallen from a...",
+      "author": "Andrew Birch (\"Birchy\")"
+    },
+    {
+      "source": "ebirchy",
+      "sourceLabel": "Andrew Birch",
+      "taxonomy": "voices",
+      "format": "article",
+      "title": "The Solar Decade 2025-2035",
+      "link": "https://www.ebirchy.com/post/the-solar-decade-2025-2035",
+      "publishDate": "2025-01-13T17:56:54.000Z",
+      "thumbnail": "https://static.wixstatic.com/media/843fed_458b542dd2624363bf2a04e70d2870c4~mv2.png/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+      "description": "Friends, Delighted to be posting my first ebirchy blog today, as I wish you all a happy 2025 - and an even happier 2035, as we enter...",
+      "author": "Andrew Birch (\"Birchy\")"
     }
-  ],
-  "seededLongForm": {
-    "addedAt": "2026-05-13T03:55:30.717893Z",
-    "count": 15
-  }
+  ]
 }
