@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T07:25:02.657Z",
+  "generatedAt": "2026-05-14T07:19:33.116Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,54 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Matahari Gerilya: Bagaimana Masyarakat Biasa Mengambil Alih Energi",
+      "link": "https://www.youtube.com/watch?v=Xk_3b4Ne1G0",
+      "publishDate": "2026-05-14T06:00:40.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/Xk_3b4Ne1G0/hqdefault.jpg",
+      "description": "Saksikan \"Matahari Gerilya\" – sebuah revolusi energi senyap yang dimulai dari atap-atap rumah di Manila, Filipina, dan kini menjadi cetak biru harapan bagi Indonesia. Video ini mengungkap bagaimana warga biasa, yang muak",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Revolusi Atap ASEAN: Mengapa Warga Memilih Energi Surya Mandiri?",
+      "link": "https://www.youtube.com/watch?v=m-CSn7856J4",
+      "publishDate": "2026-05-14T02:15:39.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/m-CSn7856J4/hqdefault.jpg",
+      "description": "Krisis energi global dan birokrasi yang lambat memaksa warga ASEAN mengambil alih kendali listrik mereka. Revolusi Atap ASEAN menunjukkan bagaimana panel surya rumahan mengguncang sistem energi tradisional, dimulai dari ",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Matahari Gerilya: Bagaimana Solar Atap Mengubah Ekonomi Rumah Tangga & Nasional",
+      "link": "https://www.youtube.com/watch?v=QRnUHQNv1pA",
+      "publishDate": "2026-05-14T02:00:46.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/QRnUHQNv1pA/hqdefault.jpg",
+      "description": "Tagihan listrik rumah tangga terus meroket tanpa henti? Merasa tak berdaya melawan kekuatan pasar global? Video ini mengungkap bagaimana energi surya atap bisa menjadi solusi nyata untuk menyelamatkan dompet keluarga And",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Energi Bersih Terpercaya: Inovasi Surya, Baterai, dan Startup di Asia",
+      "link": "https://www.youtube.com/shorts/TZsJqtTUHjM",
+      "publishDate": "2026-05-13T10:00:51.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/TZsJqtTUHjM/hqdefault.jpg",
+      "description": "Bagaimana Asia memimpin revolusi energi bersih? Temukan inovasi terbaru dari Sunseap, Gotion High-Tech, dan New Energy Nexus Indonesia yang membentuk masa depan energi terbarukan. Sunseap, pengembang energi bersih terkem",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -203,18 +251,6 @@
       "author": "FutureKeepers Indonesian"
     },
     {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Filipina Hadapi Krisis Energi: Ini Solusi Terbarukannya! #shorts",
-      "link": "https://www.youtube.com/shorts/6dMi43WhhzA",
-      "publishDate": "2026-04-24T23:25:41.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/6dMi43WhhzA/hqdefault.jpg",
-      "description": "Lampu yang berkedip-kedip di Filipina bukan hanya gangguan kecil, tapi peringatan keras akan krisis energi global yang mengancam. Negara kepulauan ini menghadapi lonjakan harga listrik dan ketergantungan berbahaya pada b",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "signal",
@@ -332,42 +368,6 @@
       "publishDate": "2025-08-08T23:59:21.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/_uIGehhE2yQ/hqdefault.jpg",
       "description": "🇮🇩 Net Positive: Episode 1 Selamat datang di episode perdana Net Positive, kolaborasi antara Climate & Capital Media dan FutureKeepers. Serial ini membahas uang, kekuasaan, dan kebijakan yang membentuk ekonomi iklim. D",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Pemerintah Pakistan akan menyediakan 500.000 panel surya gratis di seluruh negeri!",
-      "link": "https://www.youtube.com/watch?v=6K-wSYcoRU0",
-      "publishDate": "2025-07-10T21:30:00.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/6K-wSYcoRU0/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "NDC 3.0: Negara Mana yang SERIUS vs. NGAKAK di Isu Iklim? 🌍🤥⚡",
-      "link": "https://www.youtube.com/watch?v=N7PGJjtYs40",
-      "publishDate": "2025-04-26T00:03:11.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/N7PGJjtYs40/hqdefault.jpg",
-      "description": "Hanya 19 dari 195 negara penandatangan Perjanjian Paris yang telah menyerahkan Nationally Determined Contributions (NDCs) atau rencana iklim mereka per 10 Maret tahun ini, menurut laporan dari 350.org. Putaran terbaru ND",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Koboi Amerika Kini Ditunggangi Energi Terbarukan!",
-      "link": "https://www.youtube.com/watch?v=tTd2NtZsM6c",
-      "publishDate": "2025-04-02T18:11:42.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/tTd2NtZsM6c/hqdefault.jpg",
-      "description": "Texas = Minyak dan Koboi? Tidak lagi. Sekarang: Koboi Bertenaga Surya dan Angin. Serial drama Landman menggambarkan Texas sebagai negara bagian yang keras, kaya minyak, dan penuh semangat koboi sejati. Tapi generasi baru",
       "author": "FutureKeepers Indonesian"
     }
   ]

@@ -1,15 +1,63 @@
 {
-  "generatedAt": "2026-05-13T07:25:16.162Z",
+  "generatedAt": "2026-05-14T07:19:46.357Z",
   "locale": "th",
   "counts": {
-    "ytLongForm": 3,
+    "ytLongForm": 7,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 3,
+    "ytLongForm": 7,
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "โซลาร์กังโจรสู้ค่าไฟแพง: ปฏิวัติพลังงานจากหลังคาบ้านของคุณ",
+      "link": "https://www.youtube.com/watch?v=WZLG9CMsXaw",
+      "publishDate": "2026-05-14T02:30:39.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/WZLG9CMsXaw/hqdefault.jpg",
+      "description": "เอาล่ะครับ ยินดีต้อนรับทุกคนเข้าสู่การเจาะลึกข้อมูลในวันนี้ครับ เราจะมาเปิดประเด็นกันด้วยความรู้สึกที่พวกเราทุกคนน่าจะคุ้นเคยกันดีมากๆ นั่นก็คือตอนที่นั่งถอนหายใจยาวๆ มองบิลค่าไฟที่พุ่งปรี๊ดอยู่บนโต๊ะอาหารครับ ในวิดีโอนี",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Guerrilla Sun: ปฏิวัติบนหลังคา",
+      "link": "https://www.youtube.com/watch?v=tlTuz9yjh_o",
+      "publishDate": "2026-05-13T22:45:39.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/tlTuz9yjh_o/hqdefault.jpg",
+      "description": "ลองคิดดูนะครับ การปฏิวัติที่เงียบเชียบที่สุดในตอนนี้ ไม่ได้เกิดขึ้นบนท้องถนนหรือในสภาเลยครับ แต่มันกำลังเกิดขึ้นบนหลังคาบ้านของพวกเรานี่แหละ ทั่วทั้งเอเชียตะวันออกเฉียงใต้เลย ในเรื่องที่ เราจะมาคุยกันวันนี้ เราจะมาดูกันค",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "ปฏิวัติโซลาร์รูฟท็อปอาเซียน: พลังงานในมือประชาชน",
+      "link": "https://www.youtube.com/watch?v=9hxVP4vob2Y",
+      "publishDate": "2026-05-13T22:30:39.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/9hxVP4vob2Y/hqdefault.jpg",
+      "description": "การปฏิวัติเงียบกำลังเกิดขึ้นบนหลังคาบ้านทั่วอาเซียน! วิกฤตเชื้อเพลิงโลกดันราคาพลังงานพุ่งสูง ทำให้ประชาชนหันมาพึ่งพาโซลาร์รูฟท็อปเพื่อผลิตไฟฟ้าใช้เอง บทเรียนจากฟิลิปปินส์และปากีสถานแสดงให้เห็นว่าการเคลื่อนไหวระดับรากหญ้า",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "โซลาร์กองโจรและค่าไฟ: ปฏิวัติพลังงานบนโต๊ะอาหาร",
+      "link": "https://www.youtube.com/watch?v=sStXQTtmRdQ",
+      "publishDate": "2026-05-13T22:15:39.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/sStXQTtmRdQ/hqdefault.jpg",
+      "description": "เอาล่ะครับ ยินดีต้อนรับทุกคนเข้าสู่การเจาะลึกข้อมูลในวันนี้ครับ เราจะมาเปิดประเด็นกันด้วยความรู้สึกที่พวกเราทุกคนน่าจะคุ้นเคยกันดีมากๆ นั่นก็คือตอนนี้นั่งถอนหายใจยาวๆ มองบิลค่าไฟที่พุ่งปรี๊ดอยู่บนโต๊ะอาหารครับ ในวันนี้ F",
+      "author": "FutureKeepers Thai"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",

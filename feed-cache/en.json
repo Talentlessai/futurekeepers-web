@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T07:24:59.315Z",
+  "generatedAt": "2026-05-14T07:19:29.752Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,42 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Reliable Clean Power: Innovation in Solar, Battery, and Wind Energy",
+      "link": "https://www.youtube.com/shorts/mh0YiiuHGHo",
+      "publishDate": "2026-05-13T22:00:49.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/mh0YiiuHGHo/hqdefault.jpg",
+      "description": "Explore the cutting-edge innovations driving reliable clean power solutions worldwide. From floating solar farms to advanced battery storage and wind energy projects, discover how technology is transforming our energy fu",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Battery Power Surge: Global Capacity Outpaces Net-Zero Demand",
+      "link": "https://www.youtube.com/shorts/V6Cvy5tTy8A",
+      "publishDate": "2026-05-13T18:00:38.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/V6Cvy5tTy8A/hqdefault.jpg",
+      "description": "Rows and rows of silent white boxes stretch to the horizon, not a wisp of smoke or a fuel truck in sight. This is pure energy storage, at a scale previous generations couldn't have imagined. Global battery manufacturing ",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Octopus-Inspired Grids: How Distributed Intelligence Powers the Future",
+      "link": "https://www.youtube.com/shorts/K5pzYbHpoOg",
+      "publishDate": "2026-05-13T14:00:41.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/K5pzYbHpoOg/hqdefault.jpg",
+      "description": "Imagine a power grid as smart and adaptable as an octopus! Learn how the incredible distributed intelligence of octopuses is inspiring a revolutionary shift in how we manage and power our world. Octopuses possess a uniqu",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -403,30 +439,6 @@
       "author": "Kari Huus"
     },
     {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Philippines' Energy Future: Renewable Power for a Brighter Tomorrow",
-      "link": "https://www.youtube.com/shorts/0_zTmpyeTk0",
-      "publishDate": "2026-04-24T23:31:49.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/0_zTmpyeTk0/hqdefault.jpg",
-      "description": "For millions of Filipinos, lights flicker—a warning for us all. The nation faces a severe energy crisis, driven by relentlessly rising prices and our heavy reliance on imported fossil fuels. This dependence leaves us vul",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Energy Crisis Reveals SHOCKING Truth About Clean Energy Future #shorts",
-      "link": "https://www.youtube.com/shorts/h4D8OyrvxUg",
-      "publishDate": "2026-04-24T19:08:46.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/h4D8OyrvxUg/hqdefault.jpg",
-      "description": "A recent geopolitical crisis accidentally revealed a powerful truth about our energy future. When a major shipping lane, the Strait of Hormuz, was disrupted, the global supply of fossil gas took a significant hit. The re",
-      "author": "FutureKeepers"
-    },
-    {
       "source": "ccAsia",
       "sourceLabel": "Climate & Capital Asia",
       "taxonomy": "ccasia",
@@ -449,18 +461,6 @@
       "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/04/lng-tank-climate-capital-media-asia.jpg",
       "description": "Conflict-driven price volatility, turbine shortages, and currency risk prompt regional leaders to rethink the fossil gas The post Iran war is undercutting the role of LNG in Asia appeared first on Climate and Capital Med",
       "author": "Kari Huus"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "China's Green Revolution: Doubling Clean Energy by 2035! #shorts",
-      "link": "https://www.youtube.com/shorts/LDQ6v5EFz_I",
-      "publishDate": "2026-04-22T18:24:27.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/LDQ6v5EFz_I/hqdefault.jpg",
-      "description": "This is what true climate leadership on a global scale looks like! China has just announced an ambitious plan to double its clean energy capacity by 2035. This isn't just another policy update; it's a seismic shift in th",
-      "author": "FutureKeepers"
     },
     {
       "source": "ccAsia",

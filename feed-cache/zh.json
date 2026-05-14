@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T07:25:05.928Z",
+  "generatedAt": "2026-05-14T07:19:36.366Z",
   "locale": "zh",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "章鱼启发：分布式能源如何优化电网管理",
+      "link": "https://www.youtube.com/shorts/IAXeuuj4Kvo",
+      "publishDate": "2026-05-14T01:00:43.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/IAXeuuj4Kvo/hqdefault.jpg",
+      "description": "章鱼拥有独特的分散式神经系统，其超过一半的神经元分布在八条触手中，每条触手都能独立感知和反应。这种去中心化的控制方式在不断变化的复杂系统中表现出色，赋予章鱼极高的适应性。 与此形成对比的是，传统的电力系统通常围绕少数大型集中式发电机构建，其控制设计旨在满足相对可预测的需求。然而，随着风能和太阳能等间歇性可再生能源的日益普及，发电输出受天气、地点和时间等多种因素影响，使得传统集中式管理模式面临前所未有的挑战。 为了有效管理这种固有的波动性",
+      "author": "Future Keepers Mandarin"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -200,18 +212,6 @@
       "publishDate": "2026-04-24T20:34:38.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/f8msLT4UaUI/hqdefault.jpg",
       "description": "一场国际突发事件意外揭示了我们能源未来的一个重要真相。 今年三月，一条主要的航运通道受阻，全球化石燃料的供应受到了冲击。结果，全球的化石燃料发电量同比去年下降了惊人的7%，但电力供应依然稳定。这次真实世界的压力测试证明了：当化石燃料的供应链紧张时，清洁能源已经准备好，随时可以填补缺口。 数据显示，太阳能发电量飙升27%，风力发电量增长12%，迅速满足了能源需求。这不仅仅是数字的变化，它更有力地证明了新能源系统的强大韧性。我们对价格波动、",
-      "author": "Future Keepers Mandarin"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "中国清洁能源：全球气候行动新标杆 | 未来守护者 #shorts",
-      "link": "https://www.youtube.com/shorts/7vjPUU54HKQ",
-      "publishDate": "2026-04-22T18:22:34.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/7vjPUU54HKQ/hqdefault.jpg",
-      "description": "中国在清洁能源领域迈出了激动人心的一步，宣布了一项宏伟目标：到2035年，其清洁能源装机容量将实现翻倍！这不仅是中国能源政策的重大更新，更是全球能源格局的一场颠覆性变革。这一承诺将以史无前例的规模，全面加速风能、太阳能等可再生能源技术的发展和应用。 视频深入探讨了中国这一里程碑式承诺的深远影响。如此巨大的投资将极大地推动技术创新，并有望显著降低全球清洁能源的成本，从而为世界各国树立新的气候行动标杆。这向全球发出了一个明确而振奋人心的信号",
       "author": "Future Keepers Mandarin"
     },
     {

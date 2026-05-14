@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T07:24:58.308Z",
+  "generatedAt": "2026-05-14T07:19:29.013Z",
   "locales": {
     "en": {
       "itemCount": 77,
@@ -19,7 +19,7 @@
         "ebirchy": 20,
         "ccAsia": 10
       },
-      "bytes": 49919
+      "bytes": 49914
     },
     "id": {
       "itemCount": 30,
@@ -31,7 +31,7 @@
         "ytLongForm": 15,
         "ytShorts": 15
       },
-      "bytes": 18016
+      "bytes": 18254
     },
     "zh": {
       "itemCount": 30,
@@ -43,19 +43,19 @@
         "ytLongForm": 15,
         "ytShorts": 15
       },
-      "bytes": 29328
+      "bytes": 29314
     },
     "bn": {
-      "itemCount": 26,
+      "itemCount": 29,
       "counts": {
-        "ytLongForm": 11,
+        "ytLongForm": 14,
         "ytShorts": 15
       },
       "freshCounts": {
-        "ytLongForm": 11,
+        "ytLongForm": 14,
         "ytShorts": 15
       },
-      "bytes": 27034
+      "bytes": 30292
     },
     "ur": {
       "itemCount": 30,
@@ -67,31 +67,31 @@
         "ytLongForm": 15,
         "ytShorts": 15
       },
-      "bytes": 23703
+      "bytes": 23993
     },
     "th": {
-      "itemCount": 18,
+      "itemCount": 22,
       "counts": {
-        "ytLongForm": 3,
+        "ytLongForm": 7,
         "ytShorts": 15
       },
       "freshCounts": {
-        "ytLongForm": 3,
+        "ytLongForm": 7,
         "ytShorts": 15
       },
-      "bytes": 19931
+      "bytes": 24292
     },
     "hi": {
-      "itemCount": 25,
+      "itemCount": 26,
       "counts": {
-        "ytLongForm": 10,
+        "ytLongForm": 11,
         "ytShorts": 15
       },
       "freshCounts": {
-        "ytLongForm": 10,
+        "ytLongForm": 11,
         "ytShorts": 15
       },
-      "bytes": 25775
+      "bytes": 26921
     }
   }
 }

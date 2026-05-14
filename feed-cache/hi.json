@@ -1,15 +1,51 @@
 {
-  "generatedAt": "2026-05-13T07:25:19.514Z",
+  "generatedAt": "2026-05-14T07:19:49.583Z",
   "locale": "hi",
   "counts": {
-    "ytLongForm": 10,
+    "ytLongForm": 11,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 10,
+    "ytLongForm": 11,
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "गरिल्ला सन: रूफटॉप सोलर से बिजली बिल पर बड़ी बचत | फ्यूचरकीपर्स",
+      "link": "https://www.youtube.com/watch?v=kDLn3sBgR10",
+      "publishDate": "2026-05-14T03:45:39.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/kDLn3sBgR10/hqdefault.jpg",
+      "description": "क्या आप भी बढ़ते बिजली बिलों से परेशान हैं? जानिए कैसे फिलीपींस ने 'गरिल्ला सोलर' मॉडल से अपनी ऊर्जा की जरूरतों को पूरा किया और भारत में भी यह क्रांति कैसे आ सकती है। यह वीडियो बताता है कि कैसे ग्लोबल एनर्जी शॉक के कारण ",
+      "author": "Future Keepers Hindi"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "स्वच्छ ऊर्जा क्रांति: एशिया के पावर नेटवर्क में नवाचार",
+      "link": "https://www.youtube.com/shorts/p38AOQ4A8_s",
+      "publishDate": "2026-05-13T11:30:42.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/p38AOQ4A8_s/hqdefault.jpg",
+      "description": "एशिया में स्वच्छ ऊर्जा के क्षेत्र में हो रहे बड़े बदलावों को जानें! यह रिपोर्ट आपको सनसीप के सिंगापुर में तैरते सौर फार्मों से लेकर गोटियन हाई-टेक की उन्नत बैटरी तकनीक और न्यू एनर्जी नेक्सस इंडोनेशिया के स्टार्टअप्स तक ल",
+      "author": "Future Keepers Hindi"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "ऑक्टोपस का दिमाग और भविष्य की बिजली ग्रिड का अद्भुत कनेक्शन",
+      "link": "https://www.youtube.com/shorts/FFyvsJopIsM",
+      "publishDate": "2026-05-13T07:30:40.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/FFyvsJopIsM/hqdefault.jpg",
+      "description": "क्या आप जानते हैं कि एक ऑक्टोपस का दिमाग हमें भविष्य की बिजली ग्रिड के बारे में क्या सिखा सकता है? इस वीडियो में, हम ऑक्टोपस के अद्भुत न्यूरल सिस्टम और आधुनिक ऊर्जा प्रणालियों के बीच के आश्चर्यजनक संबंध का पता लगाएंगे। ऑ",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -164,30 +200,6 @@
       "publishDate": "2026-04-24T20:53:23.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/yxucZITjdOI/hqdefault.jpg",
       "description": "हाल ही में एक वैश्विक तनाव ने दुनिया को चौंका दिया, जब जीवाश्म ईंधन की सप्लाई बाधित हुई। गैस और कोयले की आपूर्ति पर बड़ा असर पड़ा, जिससे जीवाश्म ईंधन से बिजली उत्पादन में पिछले साल के मुकाबले 7% की बड़ी गिरावट आई। लेकिन ",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "चीन का Climate Leadership: 2035 तक दोगुनी Clean Energy क्षमता! #shorts",
-      "link": "https://www.youtube.com/shorts/Nxa87zauc8Q",
-      "publishDate": "2026-04-22T18:23:27.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/Nxa87zauc8Q/hqdefault.jpg",
-      "description": "दुनिया भर में क्लाइमेट लीडरशिप की सबसे ताजा मिसाल! चीन ने 2035 तक अपनी क्लीन एनर्जी क्षमता को दोगुना करने का एक बड़ा ऐलान किया है। यह सिर्फ एक नीतिगत अपडेट नहीं है, बल्कि ग्लोबल एनर्जी की दुनिया में एक भूचाल लाने जैसा है",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "गायों की मीथेन कम करेगा समुद्री शैवाल! 🐄🌿",
-      "link": "https://www.youtube.com/shorts/d6Jts96dDEk",
-      "publishDate": "2026-04-21T19:25:42.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/d6Jts96dDEk/hqdefault.jpg",
-      "description": "गायों की मीथेन उत्सर्जन एक बड़ी चुनौती है, लेकिन क्या एक साधारण समुद्री शैवाल इसका समाधान हो सकता है? आपने गायों की गैसों के ग्रह को नुकसान पहुँचाने वाले मज़ाक सुने होंगे, लेकिन अगर वही गायें इसे बचाने में मदद कर सकें तो",
       "author": "Future Keepers Hindi"
     },
     {

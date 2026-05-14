@@ -1,15 +1,63 @@
 {
-  "generatedAt": "2026-05-13T07:25:09.302Z",
+  "generatedAt": "2026-05-14T07:19:39.757Z",
   "locale": "bn",
   "counts": {
-    "ytLongForm": 11,
+    "ytLongForm": 14,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 11,
+    "ytLongForm": 14,
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "দ্যা গেরিলা সান: এশিয়ার ছাদে নীরবে সৌর বিপ্লব",
+      "link": "https://www.youtube.com/watch?v=1QE9j6oiEvA",
+      "publishDate": "2026-05-14T07:00:39.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/1QE9j6oiEvA/hqdefault.jpg",
+      "description": "এশিয়ার সাধারণ পরিবারগুলো সরকারি নীতির তোয়াক্কা না করে কীভাবে নিজেদের বিদ্যুৎ বিলের নিয়ন্ত্রণ নিজেদের হাতে তুলে নিচ্ছে, তা আজ আমরা দেখব। এই নীরবে ঘটে যাওয়া সৌর বিপ্লব, যা 'গেরিলা সোলার' নামে পরিচিত, তা বিশ্বজুড়ে শক্তি স",
+      "author": "Future Keepers Bengali"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "গেরিলা সোলার: ছাদের অর্থনীতি থেকে জ্বালানি স্বাধীনতা",
+      "link": "https://www.youtube.com/watch?v=CgCOyIHrg2I",
+      "publishDate": "2026-05-14T03:15:38.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/CgCOyIHrg2I/hqdefault.jpg",
+      "description": "মাস শেষে বিদ্যুতের বিল হাতে এলেই কি আপনার মাথায় হাত? বিদ্যুৎ বিলের আকাশছোঁয়া দাম শুধু আমাদের একার সমস্যা নয়, এটি সারা বিশ্বের সাধারণ মানুষের প্রতিদিনের একটি মস্ত বড় চিন্তার বিষয়। কিন্তু ভাবুন তো, যদি খুব সাধারণ একটি প্রয",
+      "author": "Future Keepers Bengali"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "এশিয়ার ছাদে সৌর বিপ্লব: সাধারণ মানুষের জ্বালানি স্বাধীনতা",
+      "link": "https://www.youtube.com/watch?v=bHj4MD6ZPeQ",
+      "publishDate": "2026-05-14T03:00:39.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/bHj4MD6ZPeQ/hqdefault.jpg",
+      "description": "দক্ষিণ ও দক্ষিণ-পূর্ব এশিয়া জুড়ে নীরবে একটি বিশাল পরিবর্তন ঘটে চলেছে। সাধারণ মানুষ নিজেদের বাড়ির ছাদে সৌর প্যানেল বসিয়ে জ্বালানির নিয়ন্ত্রণ নিজেদের হাতে তুলে নিচ্ছে। এই ভিডিওতে আমরা দেখব কীভাবে পাকিস্তান, ফিলিপাইন এব",
+      "author": "Future Keepers Bengali"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "এশিয়াতে নির্ভরযোগ্য পরিচ্ছন্ন শক্তি: ভাসমান সোলার, ব্যাটারি উদ্ভাবন ও ক্লিনটেক স্টার্টআপ",
+      "link": "https://www.youtube.com/shorts/svXrcqtKKK0",
+      "publishDate": "2026-05-13T11:00:54.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/svXrcqtKKK0/hqdefault.jpg",
+      "description": "এশিয়াতে নির্ভরযোগ্য পরিচ্ছন্ন শক্তি সরবরাহ নিশ্চিত করা অত্যন্ত গুরুত্বপূর্ণ। এই ভিডিওতে আমরা এশিয়ার ক্লিন এনার্জি খাতের সাম্প্রতিক গুরুত্বপূর্ণ অগ্রগতিগুলি তুলে ধরব। সুনসিয়াপ (Sunseap) দক্ষিণ-পূর্ব এশিয়ার অন্যতম গুরু",
+      "author": "Future Keepers Bengali"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -176,18 +224,6 @@
       "publishDate": "2026-04-24T23:29:47.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/LVmkueyKe10/hqdefault.jpg",
       "description": "ফিলিপাইনে লোডশেডিং একটি নিত্যদিনের বাস্তবতা, যা লাখ লাখ মানুষের জীবনকে প্রভাবিত করে। আকাশছোঁয়া বিদ্যুতের দাম এবং আমদানি করা জীবাশ্ম জ্বালানির উপর গভীর নির্ভরতা দেশটিকে এক চরম শক্তি সংকটের দিকে ঠেলে দিয়েছে। এটি কেবল ফিল",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "জ্বালানি সংকট? নবায়নযোগ্য শক্তিই ভরসা! #shorts",
-      "link": "https://www.youtube.com/shorts/RpiA_BJc7ss",
-      "publishDate": "2026-04-24T20:54:04.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/RpiA_BJc7ss/hqdefault.jpg",
-      "description": "সম্প্রতি একটি আন্তর্জাতিক সংকট আমাদের জ্বালানি নিরাপত্তা নিয়ে এক নতুন সত্য সামনে এনেছে। এই মার্চে যখন একটি গুরুত্বপূর্ণ সমুদ্রপথ বন্ধ হয়ে যায়, তখন সারা বিশ্বে জীবাশ্ম গ্যাসের সরবরাহ বড় ধরনের ধাক্কা খায়। এর ফলে কী হল",
       "author": "Future Keepers Bengali"
     },
     {
