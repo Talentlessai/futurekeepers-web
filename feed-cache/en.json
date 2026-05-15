@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T07:19:29.752Z",
+  "generatedAt": "2026-05-15T07:32:19.643Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,42 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Grassroots Solar Power: Citizens Bypass Utilities, Drive Energy Transition",
+      "link": "https://www.youtube.com/watch?v=1wuebOS2b7U",
+      "publishDate": "2026-05-14T22:00:27.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/1wuebOS2b7U/hqdefault.jpg",
+      "description": "In Pakistan, ordinary citizens bypassed the state by independently installing their own solar power, leading to a massive 46 gigawatts of imported solar and saving $12 billion in fuel costs in just two years. This \"grass",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Philippines' Grassroots Solar Revolution: How Households Beat High Energy Costs",
+      "link": "https://www.youtube.com/watch?v=n76_uUcYsZg",
+      "publishDate": "2026-05-14T18:00:13.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/n76_uUcYsZg/hqdefault.jpg",
+      "description": "Millions of Filipino families face high electricity bills tied to volatile global fossil fuel markets. But a quiet revolution is underway on rooftops across the nation, driven by communities taking power into their own h",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Reliable Clean Power: Asia's Leaders in Sustainable Energy Innovation",
+      "link": "https://www.youtube.com/shorts/hCP9G5cnzro",
+      "publishDate": "2026-05-14T14:00:25.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/hCP9G5cnzro/hqdefault.jpg",
+      "description": "Asia is at the forefront of the clean energy revolution, with innovative companies and initiatives driving significant advancements in sustainable power. This FutureKeepers News report highlights key players shaping the ",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -403,18 +439,6 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Solar Power Revolution: Asia Leads a Green Energy Future! #shorts",
-      "link": "https://www.youtube.com/shorts/dkL9UPeP_JM",
-      "publishDate": "2026-04-29T17:13:25.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/dkL9UPeP_JM/hqdefault.jpg",
-      "description": "A solar-powered world isn't a distant dream – it's being built right now, faster than anyone predicted! We are on the brink of shattering global solar installation records in 2025, marking a pivotal moment in our quest f",
-      "author": "FutureKeepers"
-    },
-    {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "signal",
@@ -508,30 +532,6 @@
       "publishDate": "2026-04-18T13:12:24.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/16jKz_whXSE/hqdefault.jpg",
       "description": "Welcome to Panda Tech News, where our Engineering Correspondent VOAT brings you the hottest insights into the future of clean energy! In this episode, VOAT makes a powerful case for investing in solar energy, declaring i",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Asia's 2026 Energy Crisis: The Race for Energy Independence",
-      "link": "https://www.youtube.com/watch?v=8V-kUDfDKds",
-      "publishDate": "2026-04-18T04:44:14.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/8V-kUDfDKds/hqdefault.jpg",
-      "description": "Imagine March 2026: the world's most critical energy artery is suddenly severed, halting the global economy. This video explores a hypothetical scenario where a retaliatory blockade of the Strait of Hormuz cripples the f",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Indonesia's Solar Revolution: Powering Islands, Ending Energy Poverty",
-      "link": "https://www.youtube.com/watch?v=6rjfbaWfwmE",
-      "publishDate": "2026-04-18T04:43:47.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/6rjfbaWfwmE/hqdefault.jpg",
-      "description": "For millions living at the grid's edge in Indonesia, reliable energy is a distant dream, often relying on polluting diesel generators. The nation's fragmented geography, with thousands of islands, makes traditional centr",
       "author": "FutureKeepers"
     },
     {

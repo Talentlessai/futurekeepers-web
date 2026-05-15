@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T07:19:33.116Z",
+  "generatedAt": "2026-05-15T07:32:22.966Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Gerakan Matahari Gerilya: Bagaimana Rakyat Berdaya Sendiri dengan Surya Atap",
+      "link": "https://www.youtube.com/shorts/tnNV337w88E",
+      "publishDate": "2026-05-14T10:00:23.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/tnNV337w88E/hqdefault.jpg",
+      "description": "Filipina baru saja memasang 370 megawatt tenaga surya di atap rumah mereka, menunjukkan kekuatan gerakan \"Matahari Gerilya\". Hebatnya, warga tidak menunggu izin atau instruksi dari pemerintah pusat. Ini adalah contoh nya",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -223,18 +235,6 @@
       "link": "https://www.youtube.com/shorts/pD5wkcctBC4",
       "publishDate": "2026-04-29T16:28:23.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/pD5wkcctBC4/hqdefault.jpg",
-      "description": "Masa depan energi surya tidak pernah secerah ini! Pada tahun 2025, energi surya diprediksi akan memecahkan rekor dan merevolusi lanskap energi global kita. Kemajuan pesat dalam teknologi panel surya dan lonjakan tingkat ",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Masa Depan Energi Surya: Lebih Cerah dari yang Anda Bayangkan! #shorts",
-      "link": "https://www.youtube.com/shorts/1Y-IDFCRs-A",
-      "publishDate": "2026-04-28T23:32:06.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/1Y-IDFCRs-A/hqdefault.jpg",
       "description": "Masa depan energi surya tidak pernah secerah ini! Pada tahun 2025, energi surya diprediksi akan memecahkan rekor dan merevolusi lanskap energi global kita. Kemajuan pesat dalam teknologi panel surya dan lonjakan tingkat ",
       "author": "FutureKeepers Indonesian"
     },

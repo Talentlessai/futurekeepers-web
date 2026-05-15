@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T07:19:39.757Z",
+  "generatedAt": "2026-05-15T07:32:29.575Z",
   "locale": "bn",
   "counts": {
     "ytLongForm": 14,
@@ -10,6 +10,30 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "গেরিলা সোলার: বাংলাদেশে জ্বালানি ভর্তুকি কমানোর সুযোগ",
+      "link": "https://www.youtube.com/shorts/e0HrnGcOOuQ",
+      "publishDate": "2026-05-15T03:00:25.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/e0HrnGcOOuQ/hqdefault.jpg",
+      "description": "ফিলিপাইনে 'গেরিলা সোলার' মডেল কীভাবে 370 মেগাওয়াট সৌর প্যানেল ছাদের উপর স্থাপন করে বিদ্যুৎ উৎপাদন করছে, তা কি জানেন? বাংলাদেশেও SREDA এবং IDCOL-এর মাধ্যমে এমন উদ্যোগ নেওয়া হয়েছে, যা আমাদের জ্বালানি স্বাধীনতা অর্জনে সা",
+      "author": "Future Keepers Bengali"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "গরিলা সান: সৌরশক্তি দিয়ে বাংলাদেশ কীভাবে বিলিয়ন ডলার সাশ্রয় করতে পারে?",
+      "link": "https://www.youtube.com/shorts/3zuB6FnE0co",
+      "publishDate": "2026-05-14T11:00:16.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/3zuB6FnE0co/hqdefault.jpg",
+      "description": "ফিলিপাইনে 'গরিলা সান' আন্দোলনের মাধ্যমে ৩০০ মেগাওয়াটেরও বেশি অপরিকল্পিত সৌর প্যানেল ছাদে বসানো হয়েছে। এটি দেখায় যে কীভাবে স্থানীয় উদ্যোগগুলি একটি দেশের শক্তি ল্যান্ডস্কেপকে রূপান্তর করতে পারে। বাংলাদেশে SREDA এবং IDC",
+      "author": "Future Keepers Bengali"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -200,30 +224,6 @@
       "publishDate": "2026-04-30T04:00:00.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/wSFeRvp2Q9M/hqdefault.jpg",
       "description": "বিশ্বজুড়ে জ্বালানি ও গ্যাসের তীব্র সংকট দেখা দিয়েছে, যা সাম্প্রতিক আন্তর্জাতিক অস্থিরতার কারণে আরও বেড়েছে। এই পরিস্থিতিতে কিছু দেশ সাময়িকভাবে কয়লার মতো জীবাশ্ম জ্বালানির দিকে ঝুঁকছে, যা পরিবেশের জন্য ক্ষতিকর। কিন্তু",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "সৌর শক্তি বিপ্লব: এশিয়া যেভাবে বিশ্বকে বদলে দিচ্ছে #shorts",
-      "link": "https://www.youtube.com/shorts/dz7nwgfpVKU",
-      "publishDate": "2026-04-29T17:12:46.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/dz7nwgfpVKU/hqdefault.jpg",
-      "description": "একটি সৌরশক্তি-চালিত বিশ্ব এখন আর দূরবর্তী স্বপ্ন নয়; এটি এখনই নির্মিত হচ্ছে, যা কারো পূর্বাভাসের চেয়েও দ্রুত। আমরা ২০২৫ সালের মধ্যে বৈশ্বিক সৌর স্থাপনার রেকর্ড ভাঙার দ্বারপ্রান্তে আছি। এটি কেবল ধাপে ধাপে অগ্রগতি নয়, এ",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "ফিলিপাইনের বিদ্যুৎ সংকট: নবায়নযোগ্য শক্তির পথে বৈশ্বিক বার্তা #shorts",
-      "link": "https://www.youtube.com/shorts/LVmkueyKe10",
-      "publishDate": "2026-04-24T23:29:47.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/LVmkueyKe10/hqdefault.jpg",
-      "description": "ফিলিপাইনে লোডশেডিং একটি নিত্যদিনের বাস্তবতা, যা লাখ লাখ মানুষের জীবনকে প্রভাবিত করে। আকাশছোঁয়া বিদ্যুতের দাম এবং আমদানি করা জীবাশ্ম জ্বালানির উপর গভীর নির্ভরতা দেশটিকে এক চরম শক্তি সংকটের দিকে ঠেলে দিয়েছে। এটি কেবল ফিল",
       "author": "Future Keepers Bengali"
     },
     {

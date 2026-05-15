@@ -1,15 +1,51 @@
 {
-  "generatedAt": "2026-05-14T07:19:49.583Z",
+  "generatedAt": "2026-05-15T07:32:39.524Z",
   "locale": "hi",
   "counts": {
-    "ytLongForm": 11,
+    "ytLongForm": 13,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 11,
+    "ytLongForm": 13,
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "गुएरिल्ला सोलर: कैसे लोग खुद को बिजली दे रहे हैं जब सरकारें नहीं कर रहीं?",
+      "link": "https://www.youtube.com/shorts/5aayFdk-ryg",
+      "publishDate": "2026-05-15T03:30:16.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/5aayFdk-ryg/hqdefault.jpg",
+      "description": "फिलीपींस और पाकिस्तान में, लोगों ने अपने घरों की छतों पर सोलर पैनल लगाकर अपनी ऊर्जा क्रांति शुरू कर दी है, बिना सरकारों या बिजली कंपनियों का इंतजार किए। यह 'गुएरिल्ला सोलर' आंदोलन दिखा रहा है कि कैसे समुदाय खुद को सशक्त ",
+      "author": "Future Keepers Hindi"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "गुरील्ला सोलर: भारत में एक नई ऊर्जा क्रांति",
+      "link": "https://www.youtube.com/watch?v=XIpQDCves2o",
+      "publishDate": "2026-05-14T11:30:16.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/XIpQDCves2o/hqdefault.jpg",
+      "description": "क्या आप जानते हैं कि दक्षिण और दक्षिण पूर्व एशिया में लाखों लोग सरकारों और पुरानी नीतियों का इंतजार किए बिना अपनी छतों पर खुद ही सोलर पैनल लगा रहे हैं? इसे 'गुरील्ला सोलर' क्रांति कहा जा रहा है, जो चुपचाप लेकिन तेजी से ऊ",
+      "author": "Future Keepers Hindi"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "गुरीला सोलर: आम लोगों का शांत विद्रोह, सरकार से तेज",
+      "link": "https://www.youtube.com/watch?v=KL2ARgDnz5c",
+      "publishDate": "2026-05-14T07:30:40.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/KL2ARgDnz5c/hqdefault.jpg",
+      "description": "क्या आप जानते हैं कि साउथ और साउथ-ईस्ट एशिया में एक 'शांत विद्रोह' चल रहा है? आम लोग ऊर्जा सुरक्षा के लिए सरकारी नीतियों का इंतजार नहीं कर रहे, बल्कि खुद सोलर अपनाकर बिजली के बिल कम कर रहे हैं। इस एक्सप्लेनर में, हम देखे",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -188,18 +224,6 @@
       "publishDate": "2026-04-24T23:29:23.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/KX98Cky8Xjg/hqdefault.jpg",
       "description": "फिलिपींस में लाखों लोगों के लिए बत्तियां टिमटिमा रही हैं—और यह हम सबके लिए एक चेतावनी है। देश एक गंभीर ऊर्जा संकट से जूझ रहा है। इसकी वजह आसमान छूती बिजली की कीमतें और बाहर से आने वाले ईंधन पर गहरी निर्भरता है। अंतरराष्ट",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "ऊर्जा संकट और हरित क्रांति: भविष्य की एक झलक! #shorts",
-      "link": "https://www.youtube.com/shorts/yxucZITjdOI",
-      "publishDate": "2026-04-24T20:53:23.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/yxucZITjdOI/hqdefault.jpg",
-      "description": "हाल ही में एक वैश्विक तनाव ने दुनिया को चौंका दिया, जब जीवाश्म ईंधन की सप्लाई बाधित हुई। गैस और कोयले की आपूर्ति पर बड़ा असर पड़ा, जिससे जीवाश्म ईंधन से बिजली उत्पादन में पिछले साल के मुकाबले 7% की बड़ी गिरावट आई। लेकिन ",
       "author": "Future Keepers Hindi"
     },
     {

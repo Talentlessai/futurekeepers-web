@@ -1,15 +1,51 @@
 {
-  "generatedAt": "2026-05-14T07:19:43.137Z",
+  "generatedAt": "2026-05-15T07:32:32.939Z",
   "locale": "ur",
   "counts": {
-    "ytLongForm": 15,
+    "ytLongForm": 14,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 15,
+    "ytLongForm": 14,
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "ایشیا کا روف ٹاپ انقلاب: پاکستان سے فلپائن تک خود مختار شمسی توانائی",
+      "link": "https://www.youtube.com/watch?v=YWor3oAVhK8",
+      "publishDate": "2026-05-14T12:15:16.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/YWor3oAVhK8/hqdefault.jpg",
+      "description": "ہمارے ساتھ ایک ایسی زبردست انرجی موومنٹ کا جائزہ لیں جس کی شروعات پاکستان سے ہوئی اور اب یہ پورے ساؤتھ ایسٹ ایشیا کو بدل رہی ہے۔ کراچی کی چھتوں سے اٹھنے والی یہ لہر لوگوں کو مہنگے بجلی کے بلوں اور سست سرکاری نظام سے نجات",
+      "author": "FutureKeepers Urdu"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "گوریلا سولر: گھر گھر بجلی انقلاب اور معاشی بچت",
+      "link": "https://www.youtube.com/watch?v=yyWRUoHQRmw",
+      "publishDate": "2026-05-14T12:00:16.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/yyWRUoHQRmw/hqdefault.jpg",
+      "description": "دنیا بھر میں توانائی کے بحران کے درمیان، عام گھرانے خاموشی سے اپنے بجلی کے بلوں کا کنٹرول واپس لے رہے ہیں۔ یہ ویڈیو \"گوریلا سولر\" کی معیشت کا گہرائی سے تجزیہ کرتا ہے، یعنی عام گھروں میں سولر پینلز کی تنصیب جو اکثر سرکاری",
+      "author": "FutureKeepers Urdu"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "ایشیا میں قابل بھروسہ صاف توانائی: Sunseap، Gotion High-Tech، اور New Energy Nexus Indonesia",
+      "link": "https://www.youtube.com/shorts/vXODexiV3mQ",
+      "publishDate": "2026-05-14T08:00:46.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/vXODexiV3mQ/hqdefault.jpg",
+      "description": "ایشیا میں صاف توانائی کے شعبے میں تیزی سے ترقی ہو رہی ہے، جس میں Sunseap، Gotion High-Tech، اور New Energy Nexus Indonesia جیسے ادارے اہم کردار ادا کر رہے ہیں۔ یہ کمپنیاں نہ صرف جدید حل پیش کر رہی ہیں بلکہ خطے کے توانائی",
+      "author": "FutureKeepers Urdu"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -203,18 +239,6 @@
       "author": "FutureKeepers Urdu"
     },
     {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "عالمی بحران: صاف توانائی ہی مستقبل کی ضمانت؟ #shorts",
-      "link": "https://www.youtube.com/shorts/FuTINxKEsrI",
-      "publishDate": "2026-04-24T20:52:44.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/FuTINxKEsrI/hqdefault.jpg",
-      "description": "ایک حالیہ عالمی بحران نے نادانستہ طور پر ہمارے توانائی کے مستقبل کی ایک طاقتور حقیقت آشکار کر دی۔ جب مشرق میں ایک اہم بحری راستہ متاثر ہوا تو قدرتی گیس کی عالمی سپلائی پر گہرا اثر پڑا، جس کے نتیجے میں بجلی کی پیداوار میں",
-      "author": "FutureKeepers Urdu"
-    },
-    {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "signal",
@@ -332,42 +356,6 @@
       "publishDate": "2025-08-07T20:10:31.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/RsA45n3rYFo/hqdefault.jpg",
       "description": "نیٹ پازیٹو: قسط 1 نیٹ پازیٹو کے پہلے ایپی سوڈ میں خوش آمدید—یہ Climate & Capital Media اور FutureKeepers کا مشترکہ منصوبہ ہے۔ یہ سیریز اس بات کا جائزہ لیتی ہے کہ کس طرح پیسہ، طاقت، اور پالیسیز ماحولیاتی معیشت کو تشکیل دے",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "چین میں کاربن کے اخراج میں تاریخی کمی—صاف توانائی کے عروج کی بدولت",
-      "link": "https://www.youtube.com/watch?v=iOTZqcZA6CM",
-      "publishDate": "2025-05-21T05:36:22.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/iOTZqcZA6CM/hqdefault.jpg",
-      "description": "اس ایپی سوڈ میں ہم ایک انقلابی پیش رفت کا جائزہ لیتے ہیں: تاریخ میں پہلی بار چین کے کاربن ڈائی آکسائیڈ (CO₂) کے اخراج میں کمی معاشی سست روی کی وجہ سے نہیں، بلکہ صاف توانائی کی تیز رفتار ترقی کی وجہ سے ہوئی ہے۔ Carbon Bri",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "NDC 3.0s: کون ترقی کی راہ پر ہیں، اور کون صرف دکھاوا کر رہے ہیں؟",
-      "link": "https://www.youtube.com/watch?v=SLXpZtKJyks",
-      "publishDate": "2025-04-18T22:05:29.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/SLXpZtKJyks/hqdefault.jpg",
-      "description": "صرف 195 میں سے 19 ممالک—جو پیرس معاہدے پر دستخط کرنے والے ہیں—نے 10 مارچ تک اپنی نئی ماحولیاتی حکمتِ عملی (NDCs: Nationally Determined Contributions) جمع کرائی ہے، جیسا کہ 350.org نے رپورٹ کیا ہے۔ NDC 3.0 کی یہ تازہ ترین",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "چین کی 1.9 ٹریلین ڈالر کی کلین انرجی بوم—اور اس کا دنیا پر اثر",
-      "link": "https://www.youtube.com/watch?v=qjod0ECJq4g",
-      "publishDate": "2025-03-12T23:20:00.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/qjod0ECJq4g/hqdefault.jpg",
-      "description": "💰 1.9 ٹریلین ڈالر—یہ وہ رقم ہے جو 2024 میں چین کی معیشت میں صاف توانائی (کلین انرجی) نے شامل کی، جو کہ ملک کی مجموعی قومی پیداوار (GDP) کا 10% سے زیادہ ہے! 🌱⚡ موازنہ کریں: 🔹 امریکہ میں کلین انرجی صرف 1.5% GDP کا حصہ ہ",
       "author": "FutureKeepers Urdu"
     }
   ]
