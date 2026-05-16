@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T07:32:26.233Z",
+  "generatedAt": "2026-05-16T06:33:23.351Z",
   "locale": "zh",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,42 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "游击太阳能：亚洲屋顶革命",
+      "link": "https://www.youtube.com/watch?v=tNZZVE4Y2DY",
+      "publishDate": "2026-05-16T05:00:16.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/tNZZVE4Y2DY/hqdefault.jpg",
+      "description": "亚洲屋顶正在经历一场悄然但震撼的革命，而中国制造的太阳能板正是这场变革的核心驱动力。面对飙升的能源账单，从巴基斯坦到菲律宾的普通家庭正在积极行动，绕过缓慢的官僚系统和脆弱的电网，直接将清洁、经济的太阳能安装在自家屋顶上。 本期FutureKeepers信号简报将深入解读这一现象。数据显示，受全球宏观因素冲击，亚洲液化天然气基准价格暴涨91%，全球煤炭基准价格也跳涨17%。高昂的进口燃料成本最终都转嫁到了普通家庭的电费账单上，让民众苦不堪",
+      "author": "Future Keepers Mandarin"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "游击队太阳能：颠覆东南亚能源格局的屋顶革命",
+      "link": "https://www.youtube.com/watch?v=86yyLz9JxA0",
+      "publishDate": "2026-05-16T01:00:17.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/86yyLz9JxA0/hqdefault.jpg",
+      "description": "全球能源危机正以飙升的电费账单直接影响着千家万户。然而，一场由普通民众主导的“游击队太阳能”浪潮正在东南亚悄然兴起，绕过繁琐的政府审批和行动迟缓的机构，直接为家庭提供解决方案。 本期解读深入探讨了这一现象，揭示了菲律宾等国未注册屋顶太阳能容量远超官方记录的惊人事实。我们分析了传统公用事业公司在作为电网运营商和电力销售商之间的结构性垄断与利益冲突，正是这种冲突导致了政策审批的滞后和监管的不足。然而，正如巴基斯坦的经验所示，自下而上的民间力",
+      "author": "Future Keepers Mandarin"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "可靠的清洁能源：亚洲能源转型中的创新力量",
+      "link": "https://www.youtube.com/shorts/oZSfT_7cE7w",
+      "publishDate": "2026-05-15T09:00:21.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/oZSfT_7cE7w/hqdefault.jpg",
+      "description": "亚洲正在经历一场前所未有的能源转型，而可靠的清洁能源是这场变革的核心。本期FutureKeepers新闻聚焦于在该地区推动这一转变的关键参与者和创新解决方案。 Sunseap，作为东南亚最大的清洁能源开发商之一，正在通过其在新加坡的世界级浮动太阳能电站和数千栋建筑上的屋顶太阳能部署，引领分布式太阳能的潮流。他们独特的商业模式，包括企业购电协议（PPA）和创新项目，成功将水库、屋顶和工业区转化为高价值的清洁能源资产。 Gotion Hig",
+      "author": "Future Keepers Mandarin"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -203,18 +239,6 @@
       "author": "Future Keepers Mandarin"
     },
     {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "菲律宾能源危机：通往可再生未来的挑战与机遇 #shorts",
-      "link": "https://www.youtube.com/shorts/o6XF-wb-p5I",
-      "publishDate": "2026-04-24T23:26:02.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/o6XF-wb-p5I/hqdefault.jpg",
-      "description": "菲律宾数百万家庭的灯光正在闪烁，这敲响了警钟。这个国家正面临一场严峻的能源危机，根源在于电价飙升和对进口化石燃料的严重依赖。这种在全球市场冲击面前的脆弱性，正在世界各国上演，威胁着经济稳定与能源安全。 然而，菲律宾也拥有得天独厚的自然禀赋。它在太阳能、风能和地热能方面，蕴藏着巨大的、尚未开发的潜力。果断转向这些本土可再生能源，不仅是一个气候目标，更是通往能源独立、降低成本和构建更具韧性经济的直接道路。技术已然成熟，资源也十分丰富。真正的",
-      "author": "Future Keepers Mandarin"
-    },
-    {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "signal",
@@ -344,30 +368,6 @@
       "publishDate": "2025-07-10T21:30:04.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/RyZA82kA4EA/hqdefault.jpg",
       "description": "",
-      "author": "Future Keepers Mandarin"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "中国清洁能源里程碑：碳排放首次因绿色转型而下降",
-      "link": "https://www.youtube.com/watch?v=bHYHQQhKRV0",
-      "publishDate": "2025-05-22T00:20:54.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/bHYHQQhKRV0/hqdefault.jpg",
-      "description": "中国在环保领域迈出了历史性的一步。首次出现的碳排放下降，并非因经济放缓，而是清洁能源快速增长的结果。 根据 Carbon Brief 报告，2025年第一季度，中国碳排放同比下降1.6%，过去一年则下降了1%。这主要得益于风能、太阳能和核能的强劲扩张，大幅降低了对煤电的依赖。 不过，当前排放水平仅比近期峰值低1%，未来仍有反弹的可能性。 📖 数据来源：Carbon Brief https://www.carbonbrief.org/a",
-      "author": "Future Keepers Mandarin"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "中国碳排放首现下降，清洁能源成关键转折点",
-      "link": "https://www.youtube.com/watch?v=gzNQeOSftls",
-      "publishDate": "2025-05-21T05:44:16.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/gzNQeOSftls/hqdefault.jpg",
-      "description": "在本期节目中，我们聚焦一个具有里程碑意义的进展：中国的二氧化碳（CO₂）排放首次因清洁能源扩张而下降，而非经济放缓所致。 根据 Carbon Brief 的最新分析，2025年第一季度，中国碳排放同比下降1.6%；过去12个月则下降了1%。这一变化主要来自风能、太阳能和核能等清洁能源的大规模并网，使煤电发电量减少，即便电力需求持续上升，电力行业的排放仍同比下降2%。 这或许标志着中国电力行业排放的峰值已至。但值得注意的是，目前排放量仅比",
       "author": "Future Keepers Mandarin"
     }
   ]

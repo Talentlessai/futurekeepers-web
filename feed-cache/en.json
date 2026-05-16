@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T07:32:19.643Z",
+  "generatedAt": "2026-05-16T06:33:16.774Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,54 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Guerrilla Solar: How Filipinos Bypassed Big Energy to Power Themselves",
+      "link": "https://www.youtube.com/shorts/zKEnIW-e4Oc",
+      "publishDate": "2026-05-15T18:15:16.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/zKEnIW-e4Oc/hqdefault.jpg",
+      "description": "A secret energy revolution is underway on the rooftops of the Philippines! Faced with skyrocketing electricity bills and government inaction, ordinary Filipinos are taking power into their own hands. This isn't just abou",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Philippines' Solar Revolution: How One Province Bypassed Energy Gridlock",
+      "link": "https://www.youtube.com/watch?v=I-49QNgRO5A",
+      "publishDate": "2026-05-15T18:00:13.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/I-49QNgRO5A/hqdefault.jpg",
+      "description": "Manila is tangled in traffic and rising utility bills, but 250 miles north, Ilocos Norte is doing something radical. This peaceful, agriculture-driven province is building a province-led rooftop solar campaign, offering ",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Philippines' 'Gorilla Solar' Outsmarts High Energy Costs & Slow Bureaucracy",
+      "link": "https://www.youtube.com/watch?v=OFyXJLsT_To",
+      "publishDate": "2026-05-15T14:15:16.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/OFyXJLsT_To/hqdefault.jpg",
+      "description": "Filipinos are fighting back against soaring electricity bills with a surprising solution: 'gorilla solar.' Learn how households in Metro Manila and beyond are bypassing traditional utilities and slow regulatory processes",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Guerrilla Solar: How Filipinos Built a Secret Energy Grid",
+      "link": "https://www.youtube.com/watch?v=yCLIpqYebFo",
+      "publishDate": "2026-05-15T14:00:17.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/yCLIpqYebFo/hqdefault.jpg",
+      "description": "Powering a dense metropolis requires an immense flow of electricity every single day. In the Philippines, the official registered rooftop solar capacity is 170 MW, but satellite imagery reveals another 370 MW of unregist",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -52,18 +100,6 @@
       "publishDate": "2026-05-14T14:00:25.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/hCP9G5cnzro/hqdefault.jpg",
       "description": "Asia is at the forefront of the clean energy revolution, with innovative companies and initiatives driving significant advancements in sustainable power. This FutureKeepers News report highlights key players shaping the ",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Reliable Clean Power: Innovation in Solar, Battery, and Wind Energy",
-      "link": "https://www.youtube.com/shorts/mh0YiiuHGHo",
-      "publishDate": "2026-05-13T22:00:49.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/mh0YiiuHGHo/hqdefault.jpg",
-      "description": "Explore the cutting-edge innovations driving reliable clean power solutions worldwide. From floating solar farms to advanced battery storage and wind energy projects, discover how technology is transforming our energy fu",
       "author": "FutureKeepers"
     },
     {
@@ -112,18 +148,6 @@
       "publishDate": "2026-05-12T22:00:40.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/Xm4bkpxtR5Q/hqdefault.jpg",
       "description": "In Thailand, a low-tech idea is making a big impact on reforestation efforts. Discover how old plastic crates are giving young trees a better chance of survival against harsh tropical conditions and grazing animals. Futu",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Thailand's Low-Tech Crate Solution: Boosting Sapling Survival for Forest Impact",
-      "link": "https://www.youtube.com/shorts/HS9yrvGYU2U",
-      "publishDate": "2026-05-12T18:15:36.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/HS9yrvGYU2U/hqdefault.jpg",
-      "description": "A simple, low-tech idea is making a significant impact on forest restoration efforts in Thailand. Discover how old plastic crates are giving young trees a better chance at survival against harsh environmental challenges.",
       "author": "FutureKeepers"
     },
     {
@@ -439,15 +463,15 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Pakistan's Solar Revolution: Energy Sovereignty in a Crisis",
-      "link": "https://www.youtube.com/watch?v=pPNilMyxMco",
-      "publishDate": "2026-04-27T16:59:26.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/pPNilMyxMco/hqdefault.jpg",
-      "description": "In February 2026, a sudden escalation of military strikes over Tehran shattered the stability of the Middle East. Iranian forces retaliated by shutting down the Strait of Hormuz, plunging global shipping traffic by 90% a",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Solar Power Revolution: Asia Leads a Green Energy Future! #shorts",
+      "link": "https://www.youtube.com/shorts/dkL9UPeP_JM",
+      "publishDate": "2026-04-29T17:13:25.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/dkL9UPeP_JM/hqdefault.jpg",
+      "description": "A solar-powered world isn't a distant dream – it's being built right now, faster than anyone predicted! We are on the brink of shattering global solar installation records in 2025, marking a pivotal moment in our quest f",
       "author": "FutureKeepers"
     },
     {
@@ -499,18 +523,6 @@
       "author": "Gabrielle See"
     },
     {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "The Rental Trap: How Electrotech Creates Sovereign Power",
-      "link": "https://www.youtube.com/watch?v=Op0FTk6bvgk",
-      "publishDate": "2026-04-21T19:41:14.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/Op0FTk6bvgk/hqdefault.jpg",
-      "description": "Three-quarters of the global population relies on a constant, uninterrupted supply of imported fossil fuels, caught in what we call 'The Rental Trap.' This flow economy forces nations to rent their power day by day, lead",
-      "author": "FutureKeepers"
-    },
-    {
       "source": "proElectrica",
       "sourceLabel": "ProElectrica",
       "taxonomy": "voices",
@@ -521,18 +533,6 @@
       "thumbnail": "https://substackcdn.com/image/fetch/%24s_!WxJF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16161fc6-7079-4fec-b564-23f93b57a1aa_1280x1280.jpeg",
       "description": "Embers lighting the path to a Pax Electricana...",
       "author": "Danny Kennedy"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Panda Tech News: Why Solar Energy is Your NEXT BIG Investment!",
-      "link": "https://www.youtube.com/watch?v=16jKz_whXSE",
-      "publishDate": "2026-04-18T13:12:24.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/16jKz_whXSE/hqdefault.jpg",
-      "description": "Welcome to Panda Tech News, where our Engineering Correspondent VOAT brings you the hottest insights into the future of clean energy! In this episode, VOAT makes a powerful case for investing in solar energy, declaring i",
-      "author": "FutureKeepers"
     },
     {
       "source": "ccAsia",
