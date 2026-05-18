@@ -1,19 +1,51 @@
 {
-  "generatedAt": "2026-05-17T06:52:21.206Z",
+  "generatedAt": "2026-05-18T08:14:30.160Z",
   "locale": "zh",
   "counts": {
     "ytLongForm": 15,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 0,
-    "ytShorts": 0
+    "ytLongForm": 15,
+    "ytShorts": 15
   },
-  "rescuedSources": [
-    "ytLongForm",
-    "ytShorts"
-  ],
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "游击太阳：中国制造如何重塑亚洲能源地图？",
+      "link": "https://www.youtube.com/shorts/QRiRzIDIygQ",
+      "publishDate": "2026-05-17T05:00:16.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/QRiRzIDIygQ/hqdefault.jpg",
+      "description": "菲律宾的屋顶正悄然发生一场宏大的能源革命，这就是“游击太阳”。当西方还在争论关税时，全球南方国家正利用中国制造的太阳能板实现能源自给自足。 菲律宾刚刚增加了370兆瓦的屋顶太阳能，甚至连电力公司都毫不知情，这比注册数量多出一倍多，而这些面板绝大多数都来自中国。巴基斯坦也安装了46吉瓦的中国太阳能板，两年内节省了120亿美元的燃料费。随着天然气价格飙升91%，人们不再等待。化石燃料游说团体可以影响政府，但他们无法触及每一个家庭。从卡拉奇到",
+      "author": "Future Keepers Mandarin"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "游击太阳能：亚洲屋顶革命",
+      "link": "https://www.youtube.com/watch?v=ua2eqJdA2W0",
+      "publishDate": "2026-05-17T01:00:16.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/ua2eqJdA2W0/hqdefault.jpg",
+      "description": "大家好！今天我们深入探讨FutureKeepers的这份信号简报，揭示一场悄然却震撼人心的革命正在亚洲各地屋顶上演。这场革命的核心是中国制造的高效、经济的太阳能电池板。 面对全球宏观因素（如中东冲突）对亚洲能源市场造成的剧烈冲击，液化天然气价格飙升91%，煤炭价格上涨17%，普通家庭的电费账单苦不堪言。我们的解读将带大家看看，庞大的中国太阳能制造业如何在海外市场催生出引人入胜的下游延伸故事。 以巴基斯坦为例，面对反应迟缓的官僚机构和脆弱",
+      "author": "Future Keepers Mandarin"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "电费飙升？屋顶太阳能如何帮普通家庭省钱，改变经济格局！",
+      "link": "https://www.youtube.com/watch?v=Y_A3vJSCIvE",
+      "publishDate": "2026-05-16T09:00:16.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/Y_A3vJSCIvE/hqdefault.jpg",
+      "description": "面对不断上涨的电费账单，普通家庭如何才能摆脱能源成本的困境？答案可能就在你家的屋顶上！ 本视频深入探讨了全球冲突如何推高进口化石燃料成本，导致家庭电费飙升（例如，菲律宾Meralco用户每度电多支付5比索）。接着，介绍了中国在分布式屋顶太阳能设备大规模制造方面的领先地位，这使得太阳能变得经济实惠，并在整个亚洲引发了一股太阳能热潮。视频解释了“游击太阳能”的概念——未经注册的屋顶太阳能系统直接连接到家庭电网，旨在绕过缓慢且昂贵的电力公司审",
+      "author": "Future Keepers Mandarin"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -231,18 +263,6 @@
       "author": "Future Keepers Mandarin"
     },
     {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "太阳能革命：亚洲如何引领未来能源转型？#shorts",
-      "link": "https://www.youtube.com/shorts/LW9oOJ58teE",
-      "publishDate": "2026-04-29T17:14:56.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/LW9oOJ58teE/hqdefault.jpg",
-      "description": "一个由太阳能驱动的世界不再是遥远的梦想，它正在以超乎所有人预期的速度迅速建成。到2025年，我们即将打破全球太阳能安装记录，这不仅仅是渐进的进步，更是一场势不可挡的能源革命！ 亚洲正处于这场变革的核心。在中国大规模的制造和部署的带动下，印度、越南以及整个东南亚的国家正以前所未有的规模利用太阳能。受成本下降的推动，太阳能现在是许多国家历史上最便宜的新电力来源。 这一繁荣不仅仅是数字。它关乎推动经济增长，创造新的就业机会，改善能源安全，以及",
-      "author": "Future Keepers Mandarin"
-    },
-    {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "signal",
@@ -348,30 +368,6 @@
       "publishDate": "2025-09-05T18:06:21.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/VTm-gUMTWbQ/hqdefault.jpg",
       "description": "从韧性走向领导力｜净正效应｜第2集 从北京雄心勃勃的虚拟电厂政策，到斐济海平面上升带来的生存挑战，《净正效应》第2集深入探讨正在塑造亚洲气候与能源未来的关键故事。 本期内容包括： 🌏 中国的“虚拟电厂”革命 —— 一项旨在平衡电网并加速可再生能源发展的政策。 💹 中国绿色金融分类标准 —— 重塑资本如何流向可持续项目。 🔥 印尼 Indika Energy —— 一家煤炭巨头在能源转型中的自我重塑。 🌊 太平洋岛国的韧性 —— ",
-      "author": "Future Keepers Mandarin"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "压力催生进步｜净正效应｜第1集",
-      "link": "https://www.youtube.com/watch?v=aZt9lkv9cJw",
-      "publishDate": "2025-09-03T20:07:01.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/aZt9lkv9cJw/hqdefault.jpg",
-      "description": "净正效应：第1集 欢迎收看《净正效应》的第一集，这是 Climate & Capital Media 与 FutureKeepers 联合推出的系列节目。我们将一起探讨金钱、权力与政策如何塑造气候经济的未来。 本期我们聚焦四个重要故事： 🌱 为什么“再生农业”被称为“绿色黄金” 🏠 气候风险如何让世界部分地区变得无法投保 ⚖️ 联合国法院裁定：气候不作为可能违反国际法 🌳 美中贸易紧张如何加速南美洲的森林砍伐 本期嘉宾记者： Pe",
-      "author": "Future Keepers Mandarin"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "巴基斯坦政府将在全国范围内免费提供50万个太阳能板！",
-      "link": "https://www.youtube.com/watch?v=RyZA82kA4EA",
-      "publishDate": "2025-07-10T21:30:04.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/RyZA82kA4EA/hqdefault.jpg",
-      "description": "",
       "author": "Future Keepers Mandarin"
     }
   ]

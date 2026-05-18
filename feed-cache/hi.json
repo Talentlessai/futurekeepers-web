@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-05-17T06:54:38.190Z",
+  "generatedAt": "2026-05-18T08:14:43.393Z",
   "locale": "hi",
   "counts": {
-    "ytLongForm": 7,
-    "ytShorts": 3
+    "ytLongForm": 13,
+    "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 7,
-    "ytShorts": 3
+    "ytLongForm": 13,
+    "ytShorts": 15
   },
   "items": [
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "गुएरिल्ला सोलर: कैसे लोग खुद को बिजली दे रहे हैं जब सरकारें नहीं कर रहीं?",
       "link": "https://www.youtube.com/shorts/5aayFdk-ryg",
       "publishDate": "2026-05-15T03:30:16.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/5aayFdk-ryg/hqdefault.jpg",
-      "description": "",
+      "description": "फिलीपींस और पाकिस्तान में, लोगों ने अपने घरों की छतों पर सोलर पैनल लगाकर अपनी ऊर्जा क्रांति शुरू कर दी है, बिना सरकारों या बिजली कंपनियों का इंतजार किए। यह 'गुएरिल्ला सोलर' आंदोलन दिखा रहा है कि कैसे समुदाय खुद को सशक्त ",
       "author": "Future Keepers Hindi"
     },
     {
@@ -31,7 +31,7 @@
       "link": "https://www.youtube.com/watch?v=XIpQDCves2o",
       "publishDate": "2026-05-14T11:30:16.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/XIpQDCves2o/hqdefault.jpg",
-      "description": "",
+      "description": "क्या आप जानते हैं कि दक्षिण और दक्षिण पूर्व एशिया में लाखों लोग सरकारों और पुरानी नीतियों का इंतजार किए बिना अपनी छतों पर खुद ही सोलर पैनल लगा रहे हैं? इसे 'गुरील्ला सोलर' क्रांति कहा जा रहा है, जो चुपचाप लेकिन तेजी से ऊ",
       "author": "Future Keepers Hindi"
     },
     {
@@ -43,7 +43,7 @@
       "link": "https://www.youtube.com/watch?v=KL2ARgDnz5c",
       "publishDate": "2026-05-14T07:30:40.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/KL2ARgDnz5c/hqdefault.jpg",
-      "description": "",
+      "description": "क्या आप जानते हैं कि साउथ और साउथ-ईस्ट एशिया में एक 'शांत विद्रोह' चल रहा है? आम लोग ऊर्जा सुरक्षा के लिए सरकारी नीतियों का इंतजार नहीं कर रहे, बल्कि खुद सोलर अपनाकर बिजली के बिल कम कर रहे हैं। इस एक्सप्लेनर में, हम देखे",
       "author": "Future Keepers Hindi"
     },
     {
@@ -55,43 +55,43 @@
       "link": "https://www.youtube.com/watch?v=kDLn3sBgR10",
       "publishDate": "2026-05-14T03:45:39.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/kDLn3sBgR10/hqdefault.jpg",
-      "description": "",
+      "description": "क्या आप भी बढ़ते बिजली बिलों से परेशान हैं? जानिए कैसे फिलीपींस ने 'गरिल्ला सोलर' मॉडल से अपनी ऊर्जा की जरूरतों को पूरा किया और भारत में भी यह क्रांति कैसे आ सकती है। यह वीडियो बताता है कि कैसे ग्लोबल एनर्जी शॉक के कारण ",
       "author": "Future Keepers Hindi"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "स्वच्छ ऊर्जा क्रांति: एशिया के पावर नेटवर्क में नवाचार",
       "link": "https://www.youtube.com/shorts/p38AOQ4A8_s",
       "publishDate": "2026-05-13T11:30:42.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/p38AOQ4A8_s/hqdefault.jpg",
-      "description": "",
+      "description": "एशिया में स्वच्छ ऊर्जा के क्षेत्र में हो रहे बड़े बदलावों को जानें! यह रिपोर्ट आपको सनसीप के सिंगापुर में तैरते सौर फार्मों से लेकर गोटियन हाई-टेक की उन्नत बैटरी तकनीक और न्यू एनर्जी नेक्सस इंडोनेशिया के स्टार्टअप्स तक ल",
       "author": "Future Keepers Hindi"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "ऑक्टोपस का दिमाग और भविष्य की बिजली ग्रिड का अद्भुत कनेक्शन",
       "link": "https://www.youtube.com/shorts/FFyvsJopIsM",
       "publishDate": "2026-05-13T07:30:40.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/FFyvsJopIsM/hqdefault.jpg",
-      "description": "",
+      "description": "क्या आप जानते हैं कि एक ऑक्टोपस का दिमाग हमें भविष्य की बिजली ग्रिड के बारे में क्या सिखा सकता है? इस वीडियो में, हम ऑक्टोपस के अद्भुत न्यूरल सिस्टम और आधुनिक ऊर्जा प्रणालियों के बीच के आश्चर्यजनक संबंध का पता लगाएंगे। ऑ",
       "author": "Future Keepers Hindi"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "थाईलैंड में प्लास्टिक क्रेट से जंगल बहाली: एक कम लागत वाला क्रांतिकारी समाधान",
       "link": "https://www.youtube.com/shorts/Zswpyq2h6-I",
       "publishDate": "2026-05-13T03:30:39.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/Zswpyq2h6-I/hqdefault.jpg",
-      "description": "",
+      "description": "थाईलैंड में एक साधारण, कम तकनीक वाला विचार हजारों युवा पेड़ों को भीषण गर्मी और चरने वाले जानवरों से बचाकर जंगल बहाली में बड़ा प्रभाव डाल रहा है। यह अनूठा समाधान, पुराने प्लास्टिक क्रेट का उपयोग करके, नवजात पौधों को पनपने",
       "author": "Future Keepers Hindi"
     },
     {
@@ -103,7 +103,7 @@
       "link": "https://www.youtube.com/shorts/BGkgRwTeZCs",
       "publishDate": "2026-05-12T22:45:57.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/BGkgRwTeZCs/hqdefault.jpg",
-      "description": "",
+      "description": "इलेक्ट्रिक वाहनों (EVs) की क्रांति के पीछे एक बड़ी और छिपी हुई ताकत है - ऊर्जा में आत्मनिर्भरता, या एनर्जी इंडिपेंडेंस। हम अक्सर EVs को जलवायु परिवर्तन से लड़ने के लिए जरूरी मानते हैं, लेकिन इंडोनेशिया पर हुई एक हालिया स",
       "author": "Future Keepers Hindi"
     },
     {
@@ -115,7 +115,7 @@
       "link": "https://www.youtube.com/shorts/aNtQv5-m2IA",
       "publishDate": "2026-05-08T21:11:56.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/aNtQv5-m2IA/hqdefault.jpg",
-      "description": "",
+      "description": "जब समुद्र के रास्ते बंद होते हैं, तो दुनिया की अर्थव्यवस्था पर क्या असर पड़ता है? विशेषकर जब तेल की कीमतें आसमान छूने लगती हैं और आम आदमी का बजट बिगड़ जाता है, तो ऐसे में एक नई क्रांति उभर रही है: सोलर ऊर्जा क्रांति। यह ",
       "author": "Future Keepers Hindi"
     },
     {
@@ -127,7 +127,223 @@
       "link": "https://www.youtube.com/shorts/Kypnk3kjjcU",
       "publishDate": "2026-05-06T22:15:47.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/Kypnk3kjjcU/hqdefault.jpg",
-      "description": "",
+      "description": "जीवाश्म ईंधन का युग अब अपने अंत की ओर है, और दुनिया एक बड़े ऊर्जा परिवर्तन के मुहाने पर खड़ी है। क्या आप इस बदलाव के लिए तैयार हैं? इस वीडियो में, हम अपने पड़ोसी देश पाकिस्तान के उदाहरण से समझेंगे कि कैसे नवीकरणीय ऊर्जा ",
+      "author": "Future Keepers Hindi"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "भारत की ऊर्जा क्रांति: सूरज से आत्मनिर्भरता! #shorts",
+      "link": "https://www.youtube.com/shorts/XwbdRXdpk7A",
+      "publishDate": "2026-05-06T21:34:18.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/XwbdRXdpk7A/hqdefault.jpg",
+      "description": "भारत की ऊर्जा सुरक्षा अब पाइपलाइन से नहीं, सूरज से आएगी! जानिए कैसे भारत अपनी ऊर्जा ज़रूरतों के लिए आत्मनिर्भर बन रहा है और एक मज़बूत भविष्य की नींव रख रहा है। दशकों से हमें बताया गया है कि देश की सुरक्षा पेट्रोल, डीज़ल औ",
+      "author": "Future Keepers Hindi"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "नमक और ज्वारीय ऊर्जा: जलवायु परिवर्तन से लड़ने में नई सफलताएँ!",
+      "link": "https://www.youtube.com/shorts/mbNOD-2NVNM",
+      "publishDate": "2026-05-06T03:30:26.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/mbNOD-2NVNM/hqdefault.jpg",
+      "description": "क्या आप जानते हैं कि गर्म नमक आपके घर को दो हफ्तों तक ऊर्जा दे सकता है? इस सप्ताह की फ्यूचरकीपर्स की \"छोटी जीत\" के साथ, जलवायु परिवर्तन से लड़ने में आशा की किरणें देखें! जलवायु समाचार अक्सर भारी लग सकते हैं, लेकिन इस सप्",
+      "author": "Future Keepers Hindi"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "एशिया में ऊर्जा क्रांति: भारत, चीन, पाकिस्तान, दक्षिण कोरिया में बड़े बदलाव",
+      "link": "https://www.youtube.com/shorts/CpyBfjKCnMI",
+      "publishDate": "2026-05-06T00:30:23.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/CpyBfjKCnMI/hqdefault.jpg",
+      "description": "एशिया में ऊर्जा क्षेत्र में बड़े बदलाव हो रहे हैं, जो बिजली उत्पादन और उपयोग के तरीकों को नया आकार दे रहे हैं। भारत, चीन, पाकिस्तान और दक्षिण कोरिया जैसे देश नवीकरणीय ऊर्जा और इलेक्ट्रिक परिवहन में महत्वपूर्ण प्रगति कर र",
+      "author": "Future Keepers Hindi"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "क्लीन एनर्जी: भारत की ऊर्जा सुरक्षा और आर्थिक आज़ादी का रास्ता #shorts",
+      "link": "https://www.youtube.com/shorts/Dh2U1zQ97Vo",
+      "publishDate": "2026-05-05T23:05:18.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/Dh2U1zQ97Vo/hqdefault.jpg",
+      "description": "वो ज़माना गया जब हमारी ऊर्जा सुरक्षा पेट्रोल-डीजल पर निर्भर थी। दशकों से, दुनिया में कहीं भी तनाव होता है, तो उसका सीधा असर हमारी जेब पर पड़ता है। पेट्रोल-डीजल के दाम आसमान छूने लगते हैं, जिससे हर परिवार और कारोबार पर बो",
+      "author": "Future Keepers Hindi"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "इलेक्ट्रो-टेक क्रांति: ऊर्जा निवेश में बदलाव",
+      "link": "https://www.youtube.com/shorts/AX34FP2ygFM",
+      "publishDate": "2026-04-30T18:19:57.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/AX34FP2ygFM/hqdefault.jpg",
+      "description": "क्या आप जानते हैं कि ऊर्जा का भविष्य बदल रहा है? एम्बर एनर्जी की एक नई रिपोर्ट बताती है कि दुनिया एक ऐसी इलेक्ट्रो-टेक क्रांति के दौर में प्रवेश कर रही है, जो ऊर्जा उत्पादन, उपयोग और कनेक्शन के तरीके को मौलिक रूप से बदल ",
+      "author": "Future Keepers Hindi"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "कोयला नहीं, क्लीन एनर्जी है भविष्य! | ऊर्जा संकट का समाधान #shorts",
+      "link": "https://www.youtube.com/shorts/SktBJf7pfH8",
+      "publishDate": "2026-04-30T04:00:35.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/SktBJf7pfH8/hqdefault.jpg",
+      "description": "दुनिया भर में पेट्रोल, डीजल और गैस के संकट के बीच, क्या कोयले का दौर वापस आ रहा है? अंतरराष्ट्रीय तनावों के कारण तेल और गैस की कीमतें आसमान छू रही हैं, जिससे कई देश अस्थायी रूप से ऊर्जा सुरक्षा के लिए कोयले की ओर लौट रहे",
+      "author": "Future Keepers Hindi"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "सौर ऊर्जा क्रांति: एशिया की नई शक्ति! | FutureKeepers #shorts",
+      "link": "https://www.youtube.com/shorts/NUytWK-kkC8",
+      "publishDate": "2026-04-29T17:08:24.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/NUytWK-kkC8/hqdefault.jpg",
+      "description": "क्या आप जानते हैं कि सौर ऊर्जा से संचालित दुनिया अब कोई दूर का सपना नहीं है? यह हकीकत बन रही है, और वो भी इतनी तेज़ी से जिसकी किसी ने कल्पना भी नहीं की थी! 2025 तक, हम वैश्विक सौर स्थापना के सभी रिकॉर्ड तोड़ने के कगार पर",
+      "author": "Future Keepers Hindi"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "फिलिपींस का ऊर्जा संकट: अक्षय ऊर्जा से आत्मनिर्भरता की राह #shorts",
+      "link": "https://www.youtube.com/shorts/KX98Cky8Xjg",
+      "publishDate": "2026-04-24T23:29:23.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/KX98Cky8Xjg/hqdefault.jpg",
+      "description": "फिलिपींस में लाखों लोगों के लिए बत्तियां टिमटिमा रही हैं—और यह हम सबके लिए एक चेतावनी है। देश एक गंभीर ऊर्जा संकट से जूझ रहा है। इसकी वजह आसमान छूती बिजली की कीमतें और बाहर से आने वाले ईंधन पर गहरी निर्भरता है। अंतरराष्ट",
+      "author": "Future Keepers Hindi"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "अल्पकालिक समाधान राष्ट्रीय सुरक्षा नहीं बनाते।",
+      "link": "https://www.youtube.com/watch?v=VZC9pf0gxXA",
+      "publishDate": "2026-04-02T23:20:44.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/VZC9pf0gxXA/hqdefault.jpg",
+      "description": "संघर्ष और उसके बाद आए ऊर्जा झटके के प्रभावों में शामिल हैं: लॉजिस्टिक बाधा: अमेरिका और इज़राइल का ईरान के खिलाफ संघर्ष, होरमुज़ जलडमरूमध्य को प्रभावित कर रहा है, जो दुनिया के लगभग 20% तेल और बड़ी मात्रा में प्राकृतिक गैस",
+      "author": "Future Keepers Hindi"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "काली बारिश, उजले संकेत",
+      "link": "https://www.youtube.com/watch?v=WdCYI3giZ6I",
+      "publishDate": "2026-03-25T18:39:18.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/WdCYI3giZ6I/hqdefault.jpg",
+      "description": "तेहरान के ऊपर काली बारिश, आसमान में उठता हुआ कार्बन, और वैश्विक अर्थव्यवस्था में फैलती एक झटके की लहर। अमेरिका–इज़राइल और ईरान के बीच का युद्ध वैश्विक ऊर्जा सुरक्षा को फिर से आकार दे रहा है। यह एक कड़ा चेतावनी संकेत है, ",
+      "author": "Future Keepers Hindi"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "फ़्यूचरकीपर्स में आपका स्वागत है: इस रफ़्तार से जुड़ें — जिसे कोई रोक नहीं सकता।",
+      "link": "https://www.youtube.com/watch?v=tW9D_Ft3_Qo",
+      "publishDate": "2025-09-24T00:01:59.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/tW9D_Ft3_Qo/hqdefault.jpg",
+      "description": "फ़्यूचरकीपर्स एक वैश्विक स्टोरीटेलिंग प्लेटफ़ॉर्म है — जिसे लोग आगे बढ़ाते हैं और AI और भी प्रभावशाली बनाता है। हम उन विचारों, खोजों और समुदायों पर रोशनी डालते हैं जो एक टिकाऊ, जुड़े हुए और न्यायपूर्ण दुनिया का निर्माण क",
+      "author": "Future Keepers Hindi"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "नेट रेज़िलिएंस से नेतृत्व तक | द नेट पॉज़िटिव | एपिसोड 2",
+      "link": "https://www.youtube.com/watch?v=T2BWFs6OTf4",
+      "publishDate": "2025-09-05T18:13:24.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/T2BWFs6OTf4/hqdefault.jpg",
+      "description": "नेट रेज़िलिएंस से नेतृत्व तक | द नेट पॉज़िटिव | एपिसोड 2 बीजिंग की वर्चुअल पावर प्लांट पॉलिसी से लेकर फ़िजी में बढ़ते समुद्र और उसके असर तक — द नेट पॉज़िटिव का दूसरा एपिसोड आपको एशिया के जलवायु और ऊर्जा भविष्य को आकार दे",
+      "author": "Future Keepers Hindi"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "प्रेशर से प्रोग्रेस तक | द नेट पॉज़िटिव | एपिसोड 1",
+      "link": "https://www.youtube.com/watch?v=OAto_pDfbfI",
+      "publishDate": "2025-08-07T20:29:39.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/OAto_pDfbfI/hqdefault.jpg",
+      "description": "🎬 नेट पॉज़िटिव: एपिसोड 1 स्वागत है नेट पॉज़िटिव के पहले एपिसोड में — यह क्लाइमेट एंड कैपिटल मीडिया और फ़्यूचरकीपर्स का एक सहयोग है। इस सीरीज़ में हम उन पैसों, ताकतों और नीतियों की पड़ताल करते हैं जो जलवायु अर्थव्यवस्था ",
+      "author": "Future Keepers Hindi"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "चीन की स्वच्छ ऊर्जा उपलब्धि: पहली बार CO₂ उत्सर्जन में गिरावट 🌱⚡",
+      "link": "https://www.youtube.com/watch?v=Y1pk5Rakew4",
+      "publishDate": "2025-05-21T06:17:13.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/Y1pk5Rakew4/hqdefault.jpg",
+      "description": "चीन ने पर्यावरण के क्षेत्र में एक ऐतिहासिक उपलब्धि हासिल की है। पहली बार, देश में CO₂ उत्सर्जन में गिरावट स्वच्छ ऊर्जा उत्पादन में तेज़ बढ़ोतरी के कारण हुई है — न कि आर्थिक मंदी की वजह से। Carbon Brief की रिपोर्ट के अनुस",
+      "author": "Future Keepers Hindi"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "इतिहास में पहली बार: चीन में CO₂ उत्सर्जन में गिरावट, वजह है स्वच्छ ऊर्जा की तेज़ रफ्तार! 🌱⚡",
+      "link": "https://www.youtube.com/watch?v=zB-peMwh910",
+      "publishDate": "2025-05-21T06:15:59.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/zB-peMwh910/hqdefault.jpg",
+      "description": "इस एपिसोड में हम एक ऐतिहासिक मोड़ पर नज़र डालते हैं — पहली बार, चीन के कार्बन डाइऑक्साइड (CO₂) उत्सर्जन में गिरावट देखने को मिली है, और वह भी आर्थिक मंदी के कारण नहीं, बल्कि स्वच्छ ऊर्जा के बड़े विस्तार की वजह से। Carbon",
+      "author": "Future Keepers Hindi"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "NDC 3.0: जलवायु के असली खिलाड़ी कौन? और कौन हैं बस भाषण के बाज़ीगर? 😎🌏",
+      "link": "https://www.youtube.com/watch?v=7AOqkqlhK0g",
+      "publishDate": "2025-04-25T03:01:36.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/7AOqkqlhK0g/hqdefault.jpg",
+      "description": "सिर्फ 19 देशों ने भेजी हैं अपनी NDC 3.0 जलवायु योजनाएँ—क्या आपका देश सिर्फ दिखावा कर रहा है या असली काम भी हो रहा है? 🤔🌍 350.org की रिपोर्ट के अनुसार, 195 देशों में से केवल 19 ने अब तक (10 मार्च तक) अपनी NDC 3.0 यानि 2",
+      "author": "Future Keepers Hindi"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "2024 में चीन की अर्थव्यवस्था में साफ ऊर्जा का योगदान | FutureKeepers - हिंदी",
+      "link": "https://www.youtube.com/watch?v=m7ZCjVq-Y-0",
+      "publishDate": "2025-03-07T22:35:06.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/m7ZCjVq-Y-0/hqdefault.jpg",
+      "description": "1.9 ट्रिलियन डॉलर। 2024 में चीन की अर्थव्यवस्था में साफ ऊर्जा का योगदान इतना था—इसके GDP का 10% से अधिक। अमेरिका में यह सिर्फ 1.5% है। सारांश? अक्षय ऊर्जा सिर्फ डीकार्बोनाइजेशन के बारे में नहीं है—यह आर्थिक विकास के बारे",
+      "author": "Future Keepers Hindi"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "ब्रेकिंग न्यूज़: पांडा ने चीन में सोलर पैनल लगाए?! 🐼☀️",
+      "link": "https://www.youtube.com/watch?v=Spu1E5a9l1g",
+      "publishDate": "2025-03-07T19:09:29.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/Spu1E5a9l1g/hqdefault.jpg",
+      "description": "बिलकुल, यह सिर्फ एक मज़ाक है! लेकिन सच्चाई यह है कि चीन वास्तव में सौर ऊर्जा विकास में दुनिया में अग्रणी बना हुआ है, जबकि अमेरिका और अन्य देश धीरे-धीरे पीछे छूट रहे हैं। और मज़ेदार और प्यारी जलवायु से जुड़ी खबरों के लिए ",
       "author": "Future Keepers Hindi"
     }
   ]
