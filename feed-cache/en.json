@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-20T07:55:24.282Z",
+  "generatedAt": "2026-05-21T08:03:31.475Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
     "ytShorts": 15,
-    "fkSignal": 7,
+    "fkSignal": 8,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
@@ -12,12 +12,60 @@
   "freshCounts": {
     "ytLongForm": 15,
     "ytShorts": 15,
-    "fkSignal": 7,
+    "fkSignal": 8,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "The Global EV Boom You Didn't See Coming: Asia & LatAm Lead the Charge! #shorts",
+      "link": "https://www.youtube.com/shorts/39Yp7lp2nrU",
+      "publishDate": "2026-05-20T22:01:27.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/39Yp7lp2nrU/hqdefault.jpg",
+      "description": "The global energy crisis is accelerating the clean transport transition in unexpected regions. While much of the world's attention has been focused on electric vehicle (EV) adoption in Europe and North America, the real ",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "South Korea Triples Renewables Capacity to 100GW by 2030",
+      "link": "https://www.youtube.com/shorts/z87WxTCfzLg",
+      "publishDate": "2026-05-20T20:03:07.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/z87WxTCfzLg/hqdefault.jpg",
+      "description": "South Korea is making a massive shift to renewable energy, tripling its solar and wind capacity in response to global energy shocks and the increasing affordability of clean power. South Korea plans to increase its solar",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Solar & Batteries: Own The Night with 24/7 Power!",
+      "link": "https://www.youtube.com/shorts/SxWVIS_uB_A",
+      "publishDate": "2026-05-20T18:22:20.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/SxWVIS_uB_A/hqdefault.jpg",
+      "description": "Ever wondered how to keep the lights on when the sun goes down, even with solar panels? Discover how solar panels and battery storage can provide 24-hour power and achieve true energy independence! 🔋☀️ This fun, stop-mo",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "fkSignal",
+      "sourceLabel": "FutureKeepers Signal",
+      "taxonomy": "signal",
+      "format": "newsletter",
+      "title": "Batteries Included",
+      "link": "https://futurekeepers.substack.com/p/batteries-included",
+      "publishDate": "2026-05-20T18:14:48.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!UnKA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba666630-b7fc-4417-b693-3417639e21fc_1376x768.jpeg",
+      "description": "An ode to the thing that used to be sold separately.",
+      "author": "Steve Mudd"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -307,18 +355,6 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Small Wins: Salt Energy Storage & Durable Tidal Power Breakthroughs",
-      "link": "https://www.youtube.com/shorts/hi4S1UW6qP8",
-      "publishDate": "2026-05-05T18:00:21.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/hi4S1UW6qP8/hqdefault.jpg",
-      "description": "Climate news can often feel overwhelming, but this week, we're celebrating uplifting stories that prove positive change is happening! Discover how innovative technologies are tackling renewable energy's biggest challenge",
-      "author": "FutureKeepers"
-    },
-    {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "signal",
@@ -391,18 +427,6 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Clean Energy's Unstoppable Rise: Beyond the Coal Blip #shorts",
-      "link": "https://www.youtube.com/shorts/QwLXYwd1Zo4",
-      "publishDate": "2026-04-29T23:51:07.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/QwLXYwd1Zo4/hqdefault.jpg",
-      "description": "Amidst global energy crises and geopolitical shocks, whispers of coal's return for energy security are circulating. But don't be fooled—this is a temporary blip, not a long-term U-turn for our planet's energy future. Rec",
-      "author": "FutureKeepers"
-    },
-    {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "signal",
@@ -460,18 +484,6 @@
       "publishDate": "2026-04-29T19:38:00.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/kvE1whSSNiM/hqdefault.jpg",
       "description": "In a world increasingly vulnerable to international energy disruptions, like a hypothetical Strait of Hormuz blockade in 2026, true energy security demands physical insulation and decentralized power grids. Pakistan has ",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Solar Power Revolution: Asia Leads a Green Energy Future! #shorts",
-      "link": "https://www.youtube.com/shorts/dkL9UPeP_JM",
-      "publishDate": "2026-04-29T17:13:25.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/dkL9UPeP_JM/hqdefault.jpg",
-      "description": "A solar-powered world isn't a distant dream – it's being built right now, faster than anyone predicted! We are on the brink of shattering global solar installation records in 2025, marking a pivotal moment in our quest f",
       "author": "FutureKeepers"
     },
     {

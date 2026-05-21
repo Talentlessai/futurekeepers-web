@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T07:55:27.565Z",
+  "generatedAt": "2026-05-21T08:03:34.749Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Krisis Energi Global: Asia & Amerika Latin Pimpin Revolusi Kendaraan Listrik! #shorts",
+      "link": "https://www.youtube.com/shorts/G9iL8JMu9lY",
+      "publishDate": "2026-05-20T22:01:45.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/G9iL8JMu9lY/hqdefault.jpg",
+      "description": "Krisis energi global ternyata mempercepat transisi ke transportasi ramah lingkungan di tempat yang tidak kita duga: Asia Tenggara dan Amerika Latin! Selama ini, perhatian dunia mungkin tertuju pada mobil listrik di Eropa",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -224,18 +236,6 @@
       "publishDate": "2026-04-30T03:01:04.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/rfs8AIw4CAE/hqdefault.jpg",
       "description": "Di tengah krisis bahan bakar dan gas global yang sedang berlangsung, ide untuk kembali menggunakan batu bara mungkin terdengar masuk akal bagi sebagian pihak. Bahkan, beberapa negara sedang mempertimbangkan untuk memanfa",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Masa Depan Energi Surya: Lebih Cerah dari yang Anda Bayangkan! #shorts",
-      "link": "https://www.youtube.com/shorts/pD5wkcctBC4",
-      "publishDate": "2026-04-29T16:28:23.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/pD5wkcctBC4/hqdefault.jpg",
-      "description": "Masa depan energi surya tidak pernah secerah ini! Pada tahun 2025, energi surya diprediksi akan memecahkan rekor dan merevolusi lanskap energi global kita. Kemajuan pesat dalam teknologi panel surya dan lonjakan tingkat ",
       "author": "FutureKeepers Indonesian"
     },
     {

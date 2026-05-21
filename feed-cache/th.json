@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T07:55:40.790Z",
+  "generatedAt": "2026-05-21T08:03:47.892Z",
   "locale": "th",
   "counts": {
     "ytLongForm": 7,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "วิกฤตพลังงานโลก: จุดเปลี่ยนสู่ EV ในเอเชียตะวันออกเฉียงใต้และลาตินอเมริกา #shorts",
+      "link": "https://www.youtube.com/shorts/F5H7H_HuvPo",
+      "publishDate": "2026-05-20T21:59:25.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/F5H7H_HuvPo/hqdefault.jpg",
+      "description": "วิกฤตพลังงานทั่วโลกกำลังเร่งการเปลี่ยนผ่านสู่การขนส่งสะอาดในพื้นที่ที่เราแทบไม่เคยคาดคิดมาก่อน ในขณะที่ความสนใจส่วนใหญ่ของโลกมุ่งเน้นไปที่การยอมรับรถยนต์ไฟฟ้าในยุโรปและอเมริกาเหนือ เรื่องราวที่แท้จริงกลับกำลังเกิดขึ้นบนท",
+      "author": "FutureKeepers Thai"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -224,18 +236,6 @@
       "publishDate": "2026-04-18T00:47:06.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/FZRpvbEf75Q/hqdefault.jpg",
       "description": "อินโดนีเซียกำลังก้าวสู่การเปลี่ยนแปลงด้านพลังงานครั้งใหญ่ที่สุดในเอเชียตะวันออกเฉียงใต้! เตรียมพบกับการปฏิวัติพลังงานสะอาดที่จะพลิกโฉมประเทศหมู่เกาะแห่งนี้สู่ความยั่งยืน ในความเคลื่อนไหวครั้งสำคัญ อินโดนีเซียกำลังทยอยยกเ",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "ปลดล็อกพลังงานแสงอาทิตย์: อินโดนีเซียสร้างอนาคตที่ยั่งยืน #shorts",
-      "link": "https://www.youtube.com/shorts/oyBHCqgPJtY",
-      "publishDate": "2026-04-15T22:28:16.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/oyBHCqgPJtY/hqdefault.jpg",
-      "description": "เป็นเวลานานเกินไปที่เศรษฐกิจของอินโดนีเซียต้องพึ่งพาราคาน้ำมันโลกที่ผันผวน และเผชิญกับปัญหาการขาดแคลนพลังงาน ซึ่งส่งผลกระทบโดยตรงต่อค่าใช้จ่ายในชีวิตประจำวันของผู้คน แต่ตอนนี้มีทางออกที่สดใสอยู่เหนือศีรษะของเรา นั่นคือพล",
       "author": "FutureKeepers Thai"
     },
     {
