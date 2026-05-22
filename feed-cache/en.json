@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-21T08:03:31.475Z",
+  "generatedAt": "2026-05-22T07:52:55.113Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
     "ytShorts": 15,
-    "fkSignal": 8,
+    "fkSignal": 9,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
@@ -12,12 +12,36 @@
   "freshCounts": {
     "ytLongForm": 15,
     "ytShorts": 15,
-    "fkSignal": 8,
+    "fkSignal": 9,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "fkSignal",
+      "sourceLabel": "FutureKeepers Signal",
+      "taxonomy": "signal",
+      "format": "newsletter",
+      "title": "OK, Burgum",
+      "link": "https://futurekeepers.substack.com/p/ok-burgum",
+      "publishDate": "2026-05-21T21:39:36.000Z",
+      "thumbnail": null,
+      "description": "Some things are just so obvious.",
+      "author": "Steve Mudd"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Energy Security: Why Renewables Are Our Only Path to Stability #shorts",
+      "link": "https://www.youtube.com/shorts/Vymw1kfzmFk",
+      "publishDate": "2026-05-21T21:35:29.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/Vymw1kfzmFk/hqdefault.jpg",
+      "description": "Our energy security shouldn't be dictated by global headlines and geopolitical tensions. Recent events in the Middle East serve as a stark reminder of just how volatile our fossil fuel-dependent energy system truly is. T",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -340,18 +364,6 @@
       "publishDate": "2026-05-05T23:04:19.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/hSbkLYJeVOs/hqdefault.jpg",
       "description": "The era of energy security tied to fossil fuels is over. Discover how clean energy is not just a climate strategy, but our greatest opportunity for true energy independence. For decades, global conflicts and faraway poli",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "War, Gas Prices, & Your Wallet: Renewables Offer Stability! #shorts",
-      "link": "https://www.youtube.com/shorts/0WZpv2FbYAc",
-      "publishDate": "2026-05-05T22:57:52.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/0WZpv2FbYAc/hqdefault.jpg",
-      "description": "Global conflicts are sending shockwaves through energy markets, driving up oil and gas prices worldwide. For everyday families, this means more than just a number on a screen – it translates into skyrocketing costs for c",
       "author": "FutureKeepers"
     },
     {

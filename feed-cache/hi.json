@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T08:03:51.111Z",
+  "generatedAt": "2026-05-22T07:53:15.145Z",
   "locale": "hi",
   "counts": {
     "ytLongForm": 13,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "तेल के झटके से आज़ादी: अक्षय ऊर्जा में निवेश क्यों ज़रूरी? #shorts",
+      "link": "https://www.youtube.com/shorts/eobHPEJcDcA",
+      "publishDate": "2026-05-21T21:25:20.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/eobHPEJcDcA/hqdefault.jpg",
+      "description": "क्या आप जानते हैं कि हमारी ऊर्जा सुरक्षा विदेशी हलचल पर कितनी निर्भर करती है? मध्य पूर्व में हालिया तनाव इस बात की याद दिलाता है कि जीवाश्म ईंधन पर हमारी व्यवस्था कितनी अस्थिर है। किसी भी भू-राजनीतिक टकराव का खतरा तेल बा",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -212,18 +224,6 @@
       "publishDate": "2026-04-30T18:19:57.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/AX34FP2ygFM/hqdefault.jpg",
       "description": "क्या आप जानते हैं कि ऊर्जा का भविष्य बदल रहा है? एम्बर एनर्जी की एक नई रिपोर्ट बताती है कि दुनिया एक ऐसी इलेक्ट्रो-टेक क्रांति के दौर में प्रवेश कर रही है, जो ऊर्जा उत्पादन, उपयोग और कनेक्शन के तरीके को मौलिक रूप से बदल ",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "कोयला नहीं, क्लीन एनर्जी है भविष्य! | ऊर्जा संकट का समाधान #shorts",
-      "link": "https://www.youtube.com/shorts/SktBJf7pfH8",
-      "publishDate": "2026-04-30T04:00:35.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/SktBJf7pfH8/hqdefault.jpg",
-      "description": "दुनिया भर में पेट्रोल, डीजल और गैस के संकट के बीच, क्या कोयले का दौर वापस आ रहा है? अंतरराष्ट्रीय तनावों के कारण तेल और गैस की कीमतें आसमान छू रही हैं, जिससे कई देश अस्थायी रूप से ऊर्जा सुरक्षा के लिए कोयले की ओर लौट रहे",
       "author": "Future Keepers Hindi"
     },
     {

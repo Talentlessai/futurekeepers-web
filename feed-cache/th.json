@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T08:03:47.892Z",
+  "generatedAt": "2026-05-22T07:53:11.722Z",
   "locale": "th",
   "counts": {
     "ytLongForm": 7,
@@ -10,6 +10,42 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "ฟิลิปปินส์เร่งพลังงานหมุนเวียน: ก้าวข้ามอุปสรรคใบอนุญาต",
+      "link": "https://www.youtube.com/shorts/K7ain1yUn6U",
+      "publishDate": "2026-05-22T02:00:16.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/K7ain1yUn6U/hqdefault.jpg",
+      "description": "ฟิลิปปินส์กำลังเร่งโครงการพลังงานหมุนเวียนเพื่อรับมือวิกฤตพลังงาน โดยมุ่งแก้ปัญหาความล่าช้าในการขอใบอนุญาตที่เคยเป็นอุปสรรคสำคัญ ซึ่งอาจเป็นจุดเปลี่ยนในการเปลี่ยนผ่านพลังงานของประเทศ พลังงานหมุนเวียน เช่น พลังงานแสงอาทิต",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "พลังงานหมุนเวียน: ก้าวสำคัญสู่ความมั่นคงทางเศรษฐกิจ #shorts",
+      "link": "https://www.youtube.com/shorts/8Xzb4FbFHWU",
+      "publishDate": "2026-05-21T20:48:16.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/8Xzb4FbFHWU/hqdefault.jpg",
+      "description": "ความมั่นคงทางพลังงานของโลกไม่ควรขึ้นอยู่กับสถานการณ์ความขัดแย้งทางภูมิรัฐศาสตร์ การพึ่งพาเชื้อเพลิงฟอสซิลทำให้ระบบพลังงานของเราเปราะบางและผันผวนอย่างมาก วิกฤตการณ์ล่าสุดในตะวันออกกลางเป็นเครื่องเตือนใจอย่างชัดเจนว่าความเ",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "เกาหลีใต้: ผู้นำเอเชีย สู่พลังงานหมุนเวียน 100 GW ปี 2030",
+      "link": "https://www.youtube.com/shorts/DNWK6GHgtjI",
+      "publishDate": "2026-05-21T20:14:24.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/DNWK6GHgtjI/hqdefault.jpg",
+      "description": "พลังงานหมุนเวียนอย่างแสงอาทิตย์และลมมีราคาถูกกว่าเชื้อเพลิงฟอสซิลแล้ว และเกาหลีใต้กำลังเป็นผู้นำในการเปลี่ยนผ่านครั้งสำคัญนี้! วิดีโอนี้จะพาคุณไปสำรวจแผนการอันทะเยอทะยานของเกาหลีใต้ในการเพิ่มขีดความสามารถด้านพลังงานหมุนเ",
+      "author": "FutureKeepers Thai"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -200,42 +236,6 @@
       "publishDate": "2026-04-24T23:27:41.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/vowxKJDujEo/hqdefault.jpg",
       "description": "สำหรับผู้คนนับล้านในฟิลิปปินส์ การขาดแคลนไฟฟ้ากำลังสั่นคลอน และนี่คือสัญญาณเตือนสำหรับพวกเราทุกคน ประเทศกำลังเผชิญกับวิกฤตพลังงานอย่างรุนแรง ซึ่งขับเคลื่อนโดยราคาค่าไฟฟ้าที่พุ่งสูง และการพึ่งพาเชื้อเพลิงฟอสซิลนำเข้าอย่าง",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "วิกฤตพลังงานเผยอนาคต: พลังงานสะอาดคือทางออก? #shorts",
-      "link": "https://www.youtube.com/shorts/O4nZxFmKIgs",
-      "publishDate": "2026-04-24T20:49:00.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/O4nZxFmKIgs/hqdefault.jpg",
-      "description": "วิกฤตภูมิรัฐศาสตร์ที่เกิดขึ้นเมื่อเร็วๆ นี้ได้เปิดเผยความจริงอันสำคัญเกี่ยวกับอนาคตพลังงานของโลกเราโดยไม่ตั้งใจ เมื่อเส้นทางขนส่งหลักแห่งหนึ่งถูกรบกวนในเดือนมีนาคม อุปทานเชื้อเพลิงฟอสซิลทั่วโลกได้รับผลกระทบอย่างรุนแรง ส่",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "จีนนำทัพพลังงานสะอาด: เร่งเปลี่ยนโลกสู่พลังงานหมุนเวียน! #shorts",
-      "link": "https://www.youtube.com/shorts/eHx1snoItxg",
-      "publishDate": "2026-04-22T18:20:56.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/eHx1snoItxg/hqdefault.jpg",
-      "description": "จีนกำลังก้าวขึ้นเป็นผู้นำด้านสภาพภูมิอากาศระดับโลกด้วยแผนการปฏิวัติพลังงานสะอาด! ในวิดีโอนี้ เราจะสำรวจรายละเอียดของแผนอันทะเยอทะยานของจีนที่ตั้งเป้าจะเพิ่มกำลังการผลิตพลังงานสะอาดเป็นสองเท่าภายในปี 2035 นี่ไม่ใช่แค่การอ",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "อินโดนีเซียยกเลิกโรงไฟฟ้าดีเซล 2,400 แห่ง สู่พลังงานสะอาด 2060 #shorts",
-      "link": "https://www.youtube.com/shorts/FZRpvbEf75Q",
-      "publishDate": "2026-04-18T00:47:06.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/FZRpvbEf75Q/hqdefault.jpg",
-      "description": "อินโดนีเซียกำลังก้าวสู่การเปลี่ยนแปลงด้านพลังงานครั้งใหญ่ที่สุดในเอเชียตะวันออกเฉียงใต้! เตรียมพบกับการปฏิวัติพลังงานสะอาดที่จะพลิกโฉมประเทศหมู่เกาะแห่งนี้สู่ความยั่งยืน ในความเคลื่อนไหวครั้งสำคัญ อินโดนีเซียกำลังทยอยยกเ",
       "author": "FutureKeepers Thai"
     },
     {
