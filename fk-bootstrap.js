@@ -298,16 +298,10 @@
           '</h2>' +
           '<div class="event-grid" id="fk-events-target"></div>' +
         '</div>' +
-        // Subscribe — Substack embed for FK Signal. The iframe is
-        // self-contained (its email POST is same-origin inside the
-        // iframe), so this just works with zero JS and zero CORS.
-        '<div class="container fk-subscribe">' +
-          '<h2 class="section-title">' + t.subscribe + '</h2>' +
-          '<iframe class="fk-subscribe-frame" ' +
-            'src="https://futurekeepers.substack.com/embed" ' +
-            'title="Subscribe to FK Signal" ' +
-            'frameborder="0" scrolling="no" loading="lazy"></iframe>' +
-        '</div>' +
+        // No mid-page Subscribe section. FK Signal signup lives in the
+        // site footer's Subscribe column (Webflow-native form swapped to
+        // the Substack embed by the fk_subscribe_embed site script) — one
+        // consistent subscribe spot on every page. Steve, May 22 2026.
       '</div>';
 
     main.insertAdjacentHTML('afterbegin', html);

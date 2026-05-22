@@ -496,19 +496,8 @@
 }
 #fk-feed-host .event-add::after { content: " →"; }
 
-/* ============================================================
-   SUBSCRIBE — FK Signal Substack embed
-   ============================================================ */
-#fk-feed-host .fk-subscribe-frame {
-  display: block;
-  width: 100%;
-  max-width: 480px;
-  height: 320px;
-  margin: 0 auto;
-  border: 1px solid var(--grey-2);
-  border-radius: 12px;
-  background: #fff;
-}
+/* Subscribe lives in the site footer (Substack embed swapped in by the
+   fk_subscribe_embed site script) — no mid-page section, no CSS here. */
 
 /* ============================================================
    RESPONSIVE

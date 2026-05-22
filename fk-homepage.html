@@ -47,19 +47,12 @@
   </div>
 
   <!--
-    Subscribe — FK Signal Substack embed. Re-added May 13 2026.
-    The old hand-built form was killed May 6 (ugly placeholder). This
-    is Substack's official embed iframe — self-contained, zero JS,
-    Substack owns validation / double-opt-in / anti-bot / confirmation.
-    NOTE: the live markup is built as a string in fk-bootstrap.js
-    inject(); this file is the readable source-of-truth reference.
+    No mid-page Subscribe section. FK Signal signup lives in the site
+    footer's Subscribe column — the Webflow-native footer form is
+    swapped to the Substack embed by the fk_subscribe_embed site
+    script, giving one consistent subscribe spot on every page.
+    (Mid-page section tried May 13, removed May 22 — stacked with the
+    footer's own Subscribe column, looked redundant.)
   -->
-  <div class="container fk-subscribe">
-    <h2 class="section-title">Subscribe</h2>
-    <iframe class="fk-subscribe-frame"
-            src="https://futurekeepers.substack.com/embed"
-            title="Subscribe to FK Signal"
-            frameborder="0" scrolling="no" loading="lazy"></iframe>
-  </div>
 
 </div>
