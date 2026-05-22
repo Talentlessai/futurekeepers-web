@@ -497,75 +497,17 @@
 #fk-feed-host .event-add::after { content: " →"; }
 
 /* ============================================================
-   SUBSCRIBE
+   SUBSCRIBE — FK Signal Substack embed
    ============================================================ */
-#fk-feed-host .subscribe {
-  background: linear-gradient(135deg, #c8e6d4, #4db6ac 70%, #00695c);
-  color: #fff;
-  padding: 80px 32px;
-  margin-top: 60px;
-}
-#fk-feed-host .subscribe-inner {
-  max-width: 1280px;
+#fk-feed-host .fk-subscribe-frame {
+  display: block;
+  width: 100%;
+  max-width: 480px;
+  height: 320px;
   margin: 0 auto;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 60px;
-  align-items: center;
-}
-#fk-feed-host .subscribe-tag {
-  display: inline-block;
-  background: rgba(255,255,255,0.25);
-  padding: 4px 14px;
-  border-radius: 999px;
-  font-size: 12px;
-  font-weight: 700;
-  margin-bottom: 16px;
-}
-#fk-feed-host .subscribe h2 {
-  font-size: 48px;
-  font-weight: 800;
-  letter-spacing: -0.02em;
-  margin-bottom: 32px;
-}
-#fk-feed-host .subscribe-form {
-  display: flex;
-  gap: 8px;
+  border: 1px solid var(--grey-2);
+  border-radius: 12px;
   background: #fff;
-  padding: 6px;
-  border-radius: 999px;
-  box-shadow: 0 4px 16px rgba(0,0,0,0.1);
-}
-#fk-feed-host .subscribe-form input {
-  flex: 1;
-  border: 0;
-  padding: 12px 18px;
-  font-size: 14px;
-  background: none;
-  outline: none;
-  color: #111;
-}
-#fk-feed-host .subscribe-form button {
-  background: var(--fk-orange);
-  color: #fff;
-  padding: 12px 28px;
-  border-radius: 999px;
-  font-weight: 700;
-  font-size: 14px;
-}
-#fk-feed-host .subscribe-mockup {
-  background: linear-gradient(135deg, #1a3a5e 0%, #c2185b 100%);
-  border-radius: 16px;
-  box-shadow: 0 12px 40px rgba(0,0,0,0.2);
-  aspect-ratio: 16 / 10;
-  overflow: hidden;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: #fff;
-  font-weight: 800;
-  font-size: 36px;
-  text-shadow: 0 2px 12px rgba(0,0,0,0.3);
 }
 
 /* ============================================================
@@ -576,7 +518,6 @@
   #fk-feed-host .grid-4 { grid-template-columns: repeat(2, 1fr); }
   #fk-feed-host .shorts-grid { grid-template-columns: repeat(3, 1fr); }
   #fk-feed-host .event-grid { grid-template-columns: 1fr; }
-  #fk-feed-host .subscribe-inner { grid-template-columns: 1fr; }
   #fk-feed-host .hero { height: 360px; }
   #fk-feed-host .hero h1 { font-size: 28px; }
 }
@@ -586,6 +527,4 @@
   #fk-feed-host .hero h1 { font-size: 24px; }
   #fk-feed-host .hero-content { padding: 24px; }
   #fk-feed-host .container { padding: 32px 16px; }
-  #fk-feed-host .subscribe { padding: 40px 16px; }
-  #fk-feed-host .subscribe h2 { font-size: 32px; }
 }

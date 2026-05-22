@@ -105,6 +105,7 @@
       fullCalendar: 'Full calendar',
       liveFeed: '⚡ Live feed',
       loadingHero: 'Loading hero…',
+      subscribe: 'Subscribe',
     },
     id: {
       watch: 'Tonton',
@@ -117,6 +118,7 @@
       fullCalendar: 'Kalender lengkap',
       liveFeed: '⚡ Umpan langsung',
       loadingHero: 'Memuat…',
+      subscribe: 'Berlangganan',
     },
     zh: {
       watch: '观看',
@@ -129,6 +131,7 @@
       fullCalendar: '完整日历',
       liveFeed: '⚡ 实时更新',
       loadingHero: '加载中…',
+      subscribe: '订阅',
     },
     bn: {
       watch: 'দেখুন',
@@ -141,6 +144,7 @@
       fullCalendar: 'পূর্ণ ক্যালেন্ডার',
       liveFeed: '⚡ লাইভ ফিড',
       loadingHero: 'লোড হচ্ছে…',
+      subscribe: 'সাবস্ক্রাইব করুন',
     },
     ur: {
       watch: 'دیکھیں',
@@ -153,6 +157,7 @@
       fullCalendar: 'مکمل کیلنڈر',
       liveFeed: '⚡ لائو فیڈ',
       loadingHero: 'لوڈ ہو رہا ہے…',
+      subscribe: 'سبسکرائب کریں',
     },
     th: {
       watch: 'ดู',
@@ -165,6 +170,7 @@
       fullCalendar: 'ปฏิทินเต็ม',
       liveFeed: '⚡ ฟีดสด',
       loadingHero: 'กำลังโหลด…',
+      subscribe: 'ติดตาม',
     },
     hi: {
       watch: 'देखें',
@@ -177,6 +183,7 @@
       fullCalendar: 'पूरा कैलेंडर',
       liveFeed: '⚡ लाइव फ़ीड',
       loadingHero: 'लोड हो रहा है…',
+      subscribe: 'सदस्यता लें',
     },
   };
   var t = T[locale] || T.en;
@@ -290,6 +297,16 @@
             ' <a class="more" href="#">' + t.fullCalendar + arrow + '</a>' +
           '</h2>' +
           '<div class="event-grid" id="fk-events-target"></div>' +
+        '</div>' +
+        // Subscribe — Substack embed for FK Signal. The iframe is
+        // self-contained (its email POST is same-origin inside the
+        // iframe), so this just works with zero JS and zero CORS.
+        '<div class="container fk-subscribe">' +
+          '<h2 class="section-title">' + t.subscribe + '</h2>' +
+          '<iframe class="fk-subscribe-frame" ' +
+            'src="https://futurekeepers.substack.com/embed" ' +
+            'title="Subscribe to FK Signal" ' +
+            'frameborder="0" scrolling="no" loading="lazy"></iframe>' +
         '</div>' +
       '</div>';
 
