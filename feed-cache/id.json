@@ -1,19 +1,51 @@
 {
-  "generatedAt": "2026-05-23T06:45:32.885Z",
+  "generatedAt": "2026-05-24T07:29:50.171Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 0,
-    "ytShorts": 0
+    "ytLongForm": 15,
+    "ytShorts": 15
   },
-  "rescuedSources": [
-    "ytLongForm",
-    "ytShorts"
-  ],
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Panda, Barbie & Tentara: Energi Surya 24 Jam!",
+      "link": "https://www.youtube.com/shorts/a1JDnHX4R_Q",
+      "publishDate": "2026-05-24T02:00:18.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/a1JDnHX4R_Q/hqdefault.jpg",
+      "description": "Pernahkah Anda membayangkan seekor panda, Barbie, dan seorang tentara menjelaskan cara kerja energi surya dan baterai? Video unik ini menampilkan trio tak terduga yang menunjukkan bagaimana Anda bisa memiliki listrik sep",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Filipina Percepat Proyek Energi Terbarukan, Atasi Guncangan Minyak",
+      "link": "https://www.youtube.com/shorts/flHezQ3plP0",
+      "publishDate": "2026-05-23T06:00:23.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/flHezQ3plP0/hqdefault.jpg",
+      "description": "Filipina menghadapi krisis energi dan guncangan harga minyak, tetapi mereka punya rencana berani: mempercepat proyek energi terbarukan dengan memangkas birokrasi perizinan yang rumit. Ini adalah terobosan besar untuk men",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Harga Baterai Turun 99% Jadi $108: Masa Depan Energi Indonesia",
+      "link": "https://www.youtube.com/shorts/1fZef-2tpm4",
+      "publishDate": "2026-05-23T02:00:20.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/1fZef-2tpm4/hqdefault.jpg",
+      "description": "Tahukah Anda bahwa jantung baterai dunia sebenarnya ada di tanah kita sendiri, Indonesia? Dan harga baterai yang dulu mahal kini telah anjlok drastis, membuka era baru energi mandiri. Harga baterai lithium-ion telah turu",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -195,30 +227,6 @@
       "author": "FutureKeepers Indonesian"
     },
     {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Era Fosil Berakhir! Ini Manfaat Energi Terbarukan untuk Indonesia #shorts",
-      "link": "https://www.youtube.com/shorts/NGtV8D4A8Mg",
-      "publishDate": "2026-05-05T23:10:52.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/NGtV8D4A8Mg/hqdefault.jpg",
-      "description": "Era di mana nasib energi kita ditentukan oleh bahan bakar fosil sudah lewat. Konflik di belahan dunia lain dan gejolak politik bisa langsung berdampak pada harga BBM dan tagihan listrik kita, menciptakan ketidakpastian b",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Kemenangan Kecil: Garam Panas & Energi Pasang Surut yang Tahan Lama",
-      "link": "https://www.youtube.com/shorts/d0XPduFxET0",
-      "publishDate": "2026-05-05T17:52:46.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/d0XPduFxET0/hqdefault.jpg",
-      "description": "Berita iklim seringkali terasa membebani, tetapi ada banyak kisah inspiratif yang menunjukkan bahwa perubahan positif sedang terjadi. Di FutureKeepers, kami membawa Anda \"Kemenangan Kecil Mingguan\" yang membuktikan kemaj",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "signal",
@@ -228,18 +236,6 @@
       "publishDate": "2026-05-05T02:00:24.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/zB3-AN6RF-I/hqdefault.jpg",
       "description": "Bayangkan ribuan desa dan sekolah di pelosok Indonesia menjadi pusat listrik mandiri. Indonesia punya ambisi besar: 100 GW tenaga surya. Tapi, bisakah mimpi ini jadi kenyataan? Indonesia duduk di atas harta karun energi ",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Revolusi Elektroteknik: Energi Bersih Mengungguli Fosil!",
-      "link": "https://www.youtube.com/shorts/okHXPrQemf0",
-      "publishDate": "2026-04-30T18:21:33.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/okHXPrQemf0/hqdefault.jpg",
-      "description": "Selamat datang di FutureKeepers News! Dunia sedang berada di ambang revolusi energi besar yang disebut \"revolusi elektroteknik\". Sebuah laporan baru dari Ember Energy menyoroti perubahan fundamental dalam cara kita mengh",
       "author": "FutureKeepers Indonesian"
     },
     {

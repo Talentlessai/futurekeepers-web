@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T06:44:58.495Z",
+  "generatedAt": "2026-05-24T07:29:46.878Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -10,18 +10,53 @@
     "ccAsia": 10
   },
   "freshCounts": {
-    "ytLongForm": 0,
-    "ytShorts": 0,
+    "ytLongForm": 15,
+    "ytShorts": 15,
     "fkSignal": 9,
     "proElectrica": 10,
     "ebirchy": 20,
-    "ccAsia": 10
+    "ccAsia": 0
   },
   "rescuedSources": [
-    "ytLongForm",
-    "ytShorts"
+    "ccAsia"
   ],
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "How Consumer Tech Solved the Energy Grid's Oldest Problem",
+      "link": "https://www.youtube.com/watch?v=O7tVzYq8Plo",
+      "publishDate": "2026-05-23T14:00:26.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/O7tVzYq8Plo/hqdefault.jpg",
+      "description": "In 2008, an experimental battery the size of two semi-trailers was deployed on a Minnesota prairie. Its purpose: to store wind energy and deploy it during peak demand, challenging the grid's fragile 'use it or lose it' e",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Philippines fast-tracks renewables by fixing permits",
+      "link": "https://www.youtube.com/shorts/_FcQpfnSOCk",
+      "publishDate": "2026-05-22T18:00:13.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/_FcQpfnSOCk/hqdefault.jpg",
+      "description": "The Philippines is taking a decisive step towards energy independence by fast-tracking renewable energy projects, directly tackling the complex permitting issues that often hinder progress. This move is particularly crit",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Your Home Battery Is Building A New Power Grid",
+      "link": "https://www.youtube.com/watch?v=y7PJIc-DDKA",
+      "publishDate": "2026-05-22T14:00:31.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/y7PJIc-DDKA/hqdefault.jpg",
+      "description": "Imagine millions of homes, each equipped with its own sleek battery, silently working together to power entire regions. This isn't a futuristic fantasy, it's the quiet revolution happening right now in your backyard, tra",
+      "author": "FutureKeepers"
+    },
     {
       "source": "fkSignal",
       "sourceLabel": "FutureKeepers Signal",
@@ -359,18 +394,6 @@
       "author": "Nithin Coca"
     },
     {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "End of Fossil Fuels? The Rise of Energy Independence! #shorts",
-      "link": "https://www.youtube.com/shorts/hSbkLYJeVOs",
-      "publishDate": "2026-05-05T23:04:19.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/hSbkLYJeVOs/hqdefault.jpg",
-      "description": "The era of energy security tied to fossil fuels is over. Discover how clean energy is not just a climate strategy, but our greatest opportunity for true energy independence. For decades, global conflicts and faraway poli",
-      "author": "FutureKeepers"
-    },
-    {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "signal",
@@ -476,30 +499,6 @@
       "publishDate": "2026-04-29T19:38:51.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/BklrWt6tJjI/hqdefault.jpg",
       "description": "In February 2026, the global energy system faced a stark challenge: the closure of the Strait of Hormuz halted 20% of global oil and gas shipments, sending Brent crude prices to historic highs. This fossil fuel choke poi",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Solar Power: Bangladesh's Path to Energy & Food Security",
-      "link": "https://www.youtube.com/watch?v=jzCdccpaPe4",
-      "publishDate": "2026-04-29T19:38:08.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/jzCdccpaPe4/hqdefault.jpg",
-      "description": "The closure of the Strait of Hormuz has exposed Bangladesh's extreme vulnerability to global energy disruptions, halting the flow of vital liquid natural gas and crude oil. As a nation relying on imports for 95% of its e",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Rooftop Revolution: Pakistan's Solar Boom & India's Energy Future",
-      "link": "https://www.youtube.com/watch?v=kvE1whSSNiM",
-      "publishDate": "2026-04-29T19:38:00.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/kvE1whSSNiM/hqdefault.jpg",
-      "description": "In a world increasingly vulnerable to international energy disruptions, like a hypothetical Strait of Hormuz blockade in 2026, true energy security demands physical insulation and decentralized power grids. Pakistan has ",
       "author": "FutureKeepers"
     },
     {

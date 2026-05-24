@@ -1,19 +1,27 @@
 {
-  "generatedAt": "2026-05-23T06:46:41.534Z",
+  "generatedAt": "2026-05-24T07:29:56.932Z",
   "locale": "bn",
   "counts": {
     "ytLongForm": 14,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 0,
-    "ytShorts": 0
+    "ytLongForm": 14,
+    "ytShorts": 15
   },
-  "rescuedSources": [
-    "ytLongForm",
-    "ytShorts"
-  ],
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "বার্বি, পান্ডা আর সোলজার: ২৪ ঘন্টা বিদ্যুৎ!",
+      "link": "https://www.youtube.com/shorts/1v8VSM0yv5o",
+      "publishDate": "2026-05-24T03:00:17.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/1v8VSM0yv5o/hqdefault.jpg",
+      "description": "আপনি কি সোলার প্যানেল এবং ব্যাটারির শক্তিকে একটি নতুন উপায়ে দেখতে প্রস্তুত? বার্বি, পান্ডা এবং একজন সৈনিকের সাথে আবিষ্কার করুন কিভাবে তারা রাতকেও আলোকিত করতে পারে! এই ভিডিওতে, আমরা দেখাই কিভাবে সোলার এবং ব্যাটারি একসাথে",
+      "author": "Future Keepers Bengali"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -216,18 +224,6 @@
       "publishDate": "2026-05-06T21:38:27.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/liMfaeXT-Is/hqdefault.jpg",
       "description": "জ্বালানি নিরাপত্তা মানে কেবল তেলের পাইপলাইন নয়, বরং মাথার উপরে থাকা সূর্য। দশকের পর দশক ধরে আমাদের বোঝানো হয়েছে যে, জাতীয় নিরাপত্তার জন্য জীবাশ্ম জ্বালানির সরবরাহ ব্যবস্থা নিয়ন্ত্রণ করা জরুরি। কিন্তু এই ধারণা এখন ভেঙে পড়",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "গরম লবণ আপনার বাড়িকে ২ সপ্তাহ চালাতে পারে! ছোট কিন্তু গুরুত্বপূর্ণ জয়",
-      "link": "https://www.youtube.com/shorts/OXedhNmMn3E",
-      "publishDate": "2026-05-06T03:00:30.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/OXedhNmMn3E/hqdefault.jpg",
-      "description": "জলবায়ু সংবাদ প্রায়শই হতাশাজনক মনে হতে পারে, কিন্তু এই সপ্তাহে আমাদের কিছু অনুপ্রেরণামূলক গল্প রয়েছে যা ইতিবাচক পরিবর্তন ঘটছে তার প্রমাণ। ফিউচারকিপারস নিউজ-এর এই পর্বে, আমরা দুটি গুরুত্বপূর্ণ উদ্ভাবন তুলে ধরছি: প্রথমত,",
       "author": "Future Keepers Bengali"
     },
     {

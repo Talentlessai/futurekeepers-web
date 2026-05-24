@@ -1,19 +1,39 @@
 {
-  "generatedAt": "2026-05-23T06:48:36.684Z",
+  "generatedAt": "2026-05-24T07:30:07.043Z",
   "locale": "hi",
   "counts": {
     "ytLongForm": 13,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 0,
-    "ytShorts": 0
+    "ytLongForm": 13,
+    "ytShorts": 15
   },
-  "rescuedSources": [
-    "ytLongForm",
-    "ytShorts"
-  ],
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "बैटरी हुई 99% सस्ती: अब घर को मिलेगी 24/7 बिजली!",
+      "link": "https://www.youtube.com/shorts/lFKJtwlmN7U",
+      "publishDate": "2026-05-24T03:30:16.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/lFKJtwlmN7U/hqdefault.jpg",
+      "description": "क्या आपको याद है वो दौर जब घर के लिए बैटरी सिर्फ अमीरों का एक महंगा सपना हुआ करती थी? अब वो वक्त बदल चुका है, और भारत इस बदलाव के केंद्र में है! 1991 में एक लिथियम-आयन बैटरी की कीमत करीब 9,200 डॉलर प्रति किलोवाट घंटा थी।",
+      "author": "Future Keepers Hindi"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "सोलर और बैटरियां: रात पर भी राज!",
+      "link": "https://www.youtube.com/shorts/fK5bSDoVsOU",
+      "publishDate": "2026-05-23T03:30:16.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/fK5bSDoVsOU/hqdefault.jpg",
+      "description": "क्या आपको लगता है कि सौर ऊर्जा रात में काम नहीं करती? यह वीडियो बताता है कि कैसे सोलर पैनल और बैटरियां 24 घंटे बिजली की आपूर्ति कर सकते हैं, चाहे दिन हो या रात। सौर ऊर्जा और बैटरियों के साथ, आप 24 घंटे बिजली पा सकते हैं!",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -204,30 +224,6 @@
       "publishDate": "2026-05-06T00:30:23.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/CpyBfjKCnMI/hqdefault.jpg",
       "description": "एशिया में ऊर्जा क्षेत्र में बड़े बदलाव हो रहे हैं, जो बिजली उत्पादन और उपयोग के तरीकों को नया आकार दे रहे हैं। भारत, चीन, पाकिस्तान और दक्षिण कोरिया जैसे देश नवीकरणीय ऊर्जा और इलेक्ट्रिक परिवहन में महत्वपूर्ण प्रगति कर र",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "क्लीन एनर्जी: भारत की ऊर्जा सुरक्षा और आर्थिक आज़ादी का रास्ता #shorts",
-      "link": "https://www.youtube.com/shorts/Dh2U1zQ97Vo",
-      "publishDate": "2026-05-05T23:05:18.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/Dh2U1zQ97Vo/hqdefault.jpg",
-      "description": "वो ज़माना गया जब हमारी ऊर्जा सुरक्षा पेट्रोल-डीजल पर निर्भर थी। दशकों से, दुनिया में कहीं भी तनाव होता है, तो उसका सीधा असर हमारी जेब पर पड़ता है। पेट्रोल-डीजल के दाम आसमान छूने लगते हैं, जिससे हर परिवार और कारोबार पर बो",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "इलेक्ट्रो-टेक क्रांति: ऊर्जा निवेश में बदलाव",
-      "link": "https://www.youtube.com/shorts/AX34FP2ygFM",
-      "publishDate": "2026-04-30T18:19:57.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/AX34FP2ygFM/hqdefault.jpg",
-      "description": "क्या आप जानते हैं कि ऊर्जा का भविष्य बदल रहा है? एम्बर एनर्जी की एक नई रिपोर्ट बताती है कि दुनिया एक ऐसी इलेक्ट्रो-टेक क्रांति के दौर में प्रवेश कर रही है, जो ऊर्जा उत्पादन, उपयोग और कनेक्शन के तरीके को मौलिक रूप से बदल ",
       "author": "Future Keepers Hindi"
     },
     {

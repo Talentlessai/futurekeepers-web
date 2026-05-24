@@ -1,19 +1,51 @@
 {
-  "generatedAt": "2026-05-23T06:47:27.865Z",
+  "generatedAt": "2026-05-24T07:30:00.395Z",
   "locale": "ur",
   "counts": {
     "ytLongForm": 15,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 0,
-    "ytShorts": 0
+    "ytLongForm": 15,
+    "ytShorts": 15
   },
-  "rescuedSources": [
-    "ytLongForm",
-    "ytShorts"
-  ],
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "شمسی توانائی اور بیٹریاں: رات کے مالک!",
+      "link": "https://www.youtube.com/shorts/GQFnPBIKyMs",
+      "publishDate": "2026-05-24T04:00:20.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/GQFnPBIKyMs/hqdefault.jpg",
+      "description": "کیا آپ نے کبھی سوچا ہے کہ شمسی توانائی اور بیٹریاں کیسے آپ کو رات بھر بجلی فراہم کر سکتی ہیں؟ اس دلچسپ ویڈیو میں ہم کھلونوں کی مدد سے سمجھائیں گے کہ کیسے دن کی دھوپ رات کی تاریکی کو روشن کر سکتی ہے۔ ایک اہم دعویٰ: شمسی ت",
+      "author": "FutureKeepers Urdu"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "تیل کا بحران: فلپائن کا قابل تجدید توانائی کا تیز رفتار منصوبہ",
+      "link": "https://www.youtube.com/shorts/WXWNcF3a9q4",
+      "publishDate": "2026-05-23T08:00:18.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/WXWNcF3a9q4/hqdefault.jpg",
+      "description": "ایک ایسے وقت میں جب قابل تجدید توانائی کی لاگت فوسل فیول سے کم ہو چکی ہے، فلپائن نے تیل کے بحران کے باعث اپنے توانائی کے نظام کو محفوظ بنانے کے لیے ایک بڑا قدم اٹھایا ہے۔ ملک نے قابل تجدید توانائی کے منصوبوں کو تیزی سے آ",
+      "author": "FutureKeepers Urdu"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "پاکستان میں شمسی توانائی: بیٹریوں کی 99% قیمت میں کمی",
+      "link": "https://www.youtube.com/shorts/6AqR4pD5TWc",
+      "publishDate": "2026-05-23T04:00:18.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/6AqR4pD5TWc/hqdefault.jpg",
+      "description": "پاکستان نے خاموشی سے دنیا کی سب سے تیز رفتار شمسی دوڑ جیت لی ہے، لیکن اصل کہانی بیٹری ہے! یہ صرف چند سالوں میں ہماری چھتوں پر گیگا واٹ شمسی پینل لگانے کے بارے میں نہیں ہے، یہ اس بات کے بارے میں ہے کہ رات کو بجلی کیسے دست",
+      "author": "FutureKeepers Urdu"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -240,42 +272,6 @@
       "publishDate": "2026-05-06T19:45:49.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/avJs7HC2KvQ/hqdefault.jpg",
       "description": "کیا آپ جانتے ہیں کہ حقیقی توانائی کا تحفظ پائپ لائنوں سے نہیں بلکہ سورج کی روشنی سے ملتا ہے؟ برسوں سے ہمیں یہ بتایا گیا ہے کہ قومی سلامتی کا انحصار درآمدی ایندھن کی سپلائی لائنوں پر قابو پانے میں ہے، لیکن یہ سوچ اب پرانی",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "ایشیا میں توانائی کا انقلاب: الیکٹرک ٹرینوں سے شمسی توانائی تک",
-      "link": "https://www.youtube.com/shorts/B986ERFYF1g",
-      "publishDate": "2026-05-06T01:15:24.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/B986ERFYF1g/hqdefault.jpg",
-      "description": "ایشیا بھر میں متعدد شفٹیں بیک وقت رونما ہو رہی ہیں اور بڑے پیمانے پر بجلی کی پیداوار اور استعمال کے طریقے کو بدل رہی ہیں۔ یہ فیوچر کیپرز خبریں ہیں۔ بھارت میں ریل لائنیں تیزی سے ڈیزل سے برقی ٹریکشن میں تبدیل ہو رہی ہیں، ج",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "توانائی کی آزادی: صاف توانائی کے ساتھ ایک محفوظ مستقبل #shorts",
-      "link": "https://www.youtube.com/shorts/MTHpfgV5L-s",
-      "publishDate": "2026-05-05T22:54:28.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/MTHpfgV5L-s/hqdefault.jpg",
-      "description": "وہ دور ختم ہو چکا ہے جب توانائی کا تحفظ صرف پٹرول اور گیس جیسے ایندھن سے وابستہ سمجھا جاتا تھا۔ دہائیوں تک، عالمی تنازعات اور دور دراز ملکوں کی سیاسی کشمکش نے پٹرول کی قیمتوں پر اثر ڈالا ہے، جس نے ہمارے گھرانوں اور کاروب",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "ہفتے کی مثبت موسمی خبریں: نمک اور سمندری توانائی سے گھر روشن!",
-      "link": "https://www.youtube.com/shorts/ndfTIG2kaV8",
-      "publishDate": "2026-05-05T17:55:01.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/ndfTIG2kaV8/hqdefault.jpg",
-      "description": "موسمی خبریں اکثر دباؤ ڈالنے والی محسوس ہو سکتی ہیں، لیکن اس ہفتے ہمارے پاس کچھ حوصلہ افزا کہانیاں ہیں جو ثابت کرتی ہیں کہ مثبت تبدیلی ہو رہی ہے۔ FutureKeepers کے ساتھ، ہم آپ کے لیے تازہ ترین آب و ہوا کی ٹیکنالوجی اور صاف",
       "author": "FutureKeepers Urdu"
     },
     {

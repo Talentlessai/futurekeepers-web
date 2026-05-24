@@ -1,19 +1,27 @@
 {
-  "generatedAt": "2026-05-23T06:46:07.105Z",
+  "generatedAt": "2026-05-24T07:29:53.541Z",
   "locale": "zh",
   "counts": {
     "ytLongForm": 15,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 0,
-    "ytShorts": 0
+    "ytLongForm": 15,
+    "ytShorts": 15
   },
-  "rescuedSources": [
-    "ytLongForm",
-    "ytShorts"
-  ],
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "太阳能与电池：掌控黑夜！",
+      "link": "https://www.youtube.com/shorts/Ilj-oD-jwiY",
+      "publishDate": "2026-05-24T01:00:19.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/Ilj-oD-jwiY/hqdefault.jpg",
+      "description": "想知道如何摆脱传统电网束缚，实现24小时不间断的能源供应吗？太阳能和电池的结合，让您的家园在任何时候都充满光明！ 关键在于：白天太阳能板充电，夜晚电池供电，实现真正的能源独立。 在这个充满不确定性的时代，能源独立变得前所未有的重要。传统的电网系统容易受到各种因素的影响，导致停电和能源短缺。而通过安装太阳能板和储能电池，您不仅可以在白天充分利用太阳能发电，还能将多余的电能储存起来，供夜晚或阴天使用。这意味着您的家庭将拥有一个稳定、可靠且环",
+      "author": "Future Keepers Mandarin"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -228,18 +236,6 @@
       "publishDate": "2026-05-06T22:00:32.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/rRk-seaBAl8/hqdefault.jpg",
       "description": "亚洲各地正在同时进行多项重大转型，重塑大规模电力生产和使用方式。 印度正在全国范围内实现交通电气化，铁路系统迅速从柴油转向电力牵引，城市地铁和电动公交车队持续扩张。在中国，大型海上风电项目不断上线，创纪录的电力输出正巩固其在能源系统中的支柱地位。巴基斯坦的太阳能普及速度惊人，屋顶和工业太阳能的增长甚至有望在某些城市超越电网需求。在韩国，先进的数字控制系统、电池和电动汽车的整合，正在有效平衡不断增长的可再生能源电力供应与日益增长的用电需求",
-      "author": "Future Keepers Mandarin"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "能源独立：巴基斯坦的绿色能源之路 | FutureKeepers #shorts",
-      "link": "https://www.youtube.com/shorts/ZJLjvOAEdFQ",
-      "publishDate": "2026-05-06T21:41:04.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/ZJLjvOAEdFQ/hqdefault.jpg",
-      "description": "真正的能源安全并非来自遥远的油田，而是源于我们头顶的太阳！🌍 本期视频深入探讨了传统化石燃料依赖模式的局限性，以及它如何使各国，例如巴基斯坦，极易受到全球能源价格波动和地缘政治冲突的影响。 巴基斯坦的经济长期以来因严重依赖进口且价格不稳定的化石燃料而承受巨大压力，这不仅带来了军事风险，更引发了由不可预测的能源成本驱动的经济和社会动荡。然而，解决之道近在咫尺。巴基斯坦拥有得天独厚的世界顶级太阳能和风能资源。通过开发和利用这些充足的本土可",
       "author": "Future Keepers Mandarin"
     },
     {

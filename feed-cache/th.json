@@ -1,19 +1,39 @@
 {
-  "generatedAt": "2026-05-23T06:48:02.195Z",
+  "generatedAt": "2026-05-24T07:30:03.722Z",
   "locale": "th",
   "counts": {
     "ytLongForm": 7,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 0,
-    "ytShorts": 0
+    "ytLongForm": 7,
+    "ytShorts": 15
   },
-  "rescuedSources": [
-    "ytLongForm",
-    "ytShorts"
-  ],
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "พลังงานหมุนเวียนถูกกว่าฟอสซิล: ฟิลิปปินส์เร่งเครื่อง",
+      "link": "https://www.youtube.com/shorts/3UVbB9vzbM8",
+      "publishDate": "2026-05-23T06:15:16.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/3UVbB9vzbM8/hqdefault.jpg",
+      "description": "ฟิลิปปินส์กำลังเผชิญหน้ากับวิกฤตพลังงาน แต่กลับพบทางออกด้วยการเร่งผลักดันโครงการพลังงานหมุนเวียนอย่างที่ไม่เคยมีมาก่อน การเคลื่อนไหวนี้เกิดขึ้นในขณะที่ทั่วทั้งเอเชียพบว่าพลังงานแสงอาทิตย์และพลังงานลมมีต้นทุนถูกกว่าเชื้อเ",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "โซลาร์ & แบตเตอรี่: พลังงาน 24 ชม. ครองความมืดมิด!",
+      "link": "https://www.youtube.com/shorts/Bm0G1oRjlmA",
+      "publishDate": "2026-05-23T02:15:16.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/Bm0G1oRjlmA/hqdefault.jpg",
+      "description": "เคยสงสัยไหมว่าบ้านที่ใช้โซลาร์เซลล์จะทำยังไงเมื่อพระอาทิตย์ตกดิน? วิดีโอนี้จะพาคุณไปดูว่าโซลาร์และแบตเตอรี่ทำงานร่วมกันอย่างไรเพื่อให้บ้านของคุณมีไฟฟ้าใช้ตลอด 24 ชั่วโมง! ด้วยระบบโซลาร์และแบตเตอรี่ คุณสามารถมีไฟฟ้าใช้ได้",
+      "author": "FutureKeepers Thai"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -48,6 +68,18 @@
       "publishDate": "2026-05-21T20:14:24.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/DNWK6GHgtjI/hqdefault.jpg",
       "description": "พลังงานหมุนเวียนอย่างแสงอาทิตย์และลมมีราคาถูกกว่าเชื้อเพลิงฟอสซิลแล้ว และเกาหลีใต้กำลังเป็นผู้นำในการเปลี่ยนผ่านครั้งสำคัญนี้! วิดีโอนี้จะพาคุณไปสำรวจแผนการอันทะเยอทะยานของเกาหลีใต้ในการเพิ่มขีดความสามารถด้านพลังงานหมุนเ",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "ราคาแบตเตอรี่ลด 99%: สู่พลังงานอิสระ",
+      "link": "https://www.youtube.com/shorts/euN9aowQzN0",
+      "publishDate": "2026-05-21T20:13:56.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/euN9aowQzN0/hqdefault.jpg",
+      "description": "คุณเคยสงสัยไหมว่าไฟฟ้าในบ้านเรามั่นคงแค่ไหน? วิกฤตการณ์ในช่องแคบฮอร์มุซแสดงให้เห็นถึงความเปราะบางของการพึ่งพาเชื้อเพลิงนำเข้า แต่มีข่าวดี! ราคาแบตเตอรี่ลิเธียมไอออนลดลงถึง 99% ตั้งแต่ปี 1991 จาก $9,200 เหลือเพียง $108 ต่",
       "author": "FutureKeepers Thai"
     },
     {
@@ -204,42 +236,6 @@
       "publishDate": "2026-04-30T19:27:41.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/APzStbYpk8s/hqdefault.jpg",
       "description": "ค้นพบว่าเทคโนโลยีไฟฟ้ากำลังปฏิวัติโลกพลังงานอย่างไร ด้วยประสิทธิภาพที่สูงขึ้น 3 เท่าจากแหล่งพลังงานหมุนเวียน! วิดีโอนี้จะพาคุณเจาะลึกถึงความก้าวหน้าสำคัญในการเปลี่ยนผ่านสู่พลังงานสะอาด รายงานล่าสุดจาก FutureKeepers และ E",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "วิกฤตพลังงานโลก: ถ่านหินจะหวนคืนหรือไม่? อนาคตพลังงานสะอาด #shorts",
-      "link": "https://www.youtube.com/shorts/g8cmbz9Ms5M",
-      "publishDate": "2026-04-30T03:00:46.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/g8cmbz9Ms5M/hqdefault.jpg",
-      "description": "โลกกำลังเผชิญหน้ากับวิกฤตพลังงานครั้งใหญ่ แต่ถ่านหินจะกลับมาเป็นทางออกในระยะยาวได้จริงหรือ? วิดีโอนี้จะพาคุณไปสำรวจแรงกระแทกทางภูมิรัฐศาสตร์ล่าสุด รวมถึงการปิดกั้นช่องแคบฮอร์มุซ ซึ่งกำลังก่อให้เกิดวิกฤตเชื้อเพลิงและก๊าซท",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "พลังงานแสงอาทิตย์: อนาคตของโลกที่มาเร็วกว่าที่คิด! ☀️ #shorts",
-      "link": "https://www.youtube.com/shorts/TRzAzu5WNmg",
-      "publishDate": "2026-04-29T17:17:45.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/TRzAzu5WNmg/hqdefault.jpg",
-      "description": "โลกที่ขับเคลื่อนด้วยพลังงานแสงอาทิตย์ ไม่ใช่แค่ความฝันอีกต่อไป! เรากำลังอยู่ในช่วงเวลาแห่งการเปลี่ยนแปลงครั้งใหญ่ ที่พลังงานแสงอาทิตย์กำลังถูกติดตั้งทั่วโลกด้วยอัตราที่ไม่เคยมีมาก่อน เร็วกว่าที่ใครคาดการณ์ไว้! วิดีโอนี้จ",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "อนาคตพลังงานฟิลิปปินส์: พลังงานหมุนเวียนคือทางออก?",
-      "link": "https://www.youtube.com/shorts/vowxKJDujEo",
-      "publishDate": "2026-04-24T23:27:41.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/vowxKJDujEo/hqdefault.jpg",
-      "description": "สำหรับผู้คนนับล้านในฟิลิปปินส์ การขาดแคลนไฟฟ้ากำลังสั่นคลอน และนี่คือสัญญาณเตือนสำหรับพวกเราทุกคน ประเทศกำลังเผชิญกับวิกฤตพลังงานอย่างรุนแรง ซึ่งขับเคลื่อนโดยราคาค่าไฟฟ้าที่พุ่งสูง และการพึ่งพาเชื้อเพลิงฟอสซิลนำเข้าอย่าง",
       "author": "FutureKeepers Thai"
     },
     {
