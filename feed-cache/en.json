@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T07:29:46.878Z",
+  "generatedAt": "2026-05-25T08:39:46.650Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -21,6 +21,18 @@
     "ccAsia"
   ],
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Solar's Night Shift: How Batteries Power the Grid After Dark",
+      "link": "https://www.youtube.com/watch?v=pwCOCBkxX40",
+      "publishDate": "2026-05-24T14:00:24.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/pwCOCBkxX40/hqdefault.jpg",
+      "description": "For 12 hours a day, the Earth receives a massive influx of solar radiation. But the modern power grid faces its most vulnerable moment right at dusk. The second the sun disappears, that abundant energy source goes to zer",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -487,18 +499,6 @@
       "publishDate": "2026-04-29T19:38:56.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/ohtwmD2VJ5A/hqdefault.jpg",
       "description": "Imagine early 2026: a geopolitical conflict chokes the Strait of Hormuz, plunging a vibrant tropical city in Sri Lanka into darkness. This isn't just a temporary power outage; it's a brutal demand destruction event that ",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Asia's Clean Energy Race: Bureaucracy vs. Renewables",
-      "link": "https://www.youtube.com/watch?v=BklrWt6tJjI",
-      "publishDate": "2026-04-29T19:38:51.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/BklrWt6tJjI/hqdefault.jpg",
-      "description": "In February 2026, the global energy system faced a stark challenge: the closure of the Strait of Hormuz halted 20% of global oil and gas shipments, sending Brent crude prices to historic highs. This fossil fuel choke poi",
       "author": "FutureKeepers"
     },
     {

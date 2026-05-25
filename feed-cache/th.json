@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T07:30:03.722Z",
+  "generatedAt": "2026-05-25T08:40:03.109Z",
   "locale": "th",
   "counts": {
     "ytLongForm": 7,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "เอเชียพลิกเกมพลังงาน: นิวเคลียร์กลับมา, โซลาร์ผงาด",
+      "link": "https://www.youtube.com/shorts/YoJF1RXUrp8",
+      "publishDate": "2026-05-25T02:00:21.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/YoJF1RXUrp8/hqdefault.jpg",
+      "description": "ประเทศในเอเชียกำลังเผชิญกับทางเลือกที่ยากลำบากในเส้นทางพลังงานของตนเอง หลังจากวิกฤตพลังงานและแรงกดดันด้านอุปทานที่ทำให้บางประเทศหันกลับไปหาพลังงานนิวเคลียร์อีกครั้ง ผู้เชี่ยวชาญจาก Ember ชี้ว่าการให้ความสำคัญกับพลังงานแส",
+      "author": "FutureKeepers Thai"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -224,18 +236,6 @@
       "publishDate": "2026-05-05T23:11:35.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/iz4MTwTSWg8/hqdefault.jpg",
       "description": "ยุคที่ความมั่นคงทางพลังงานผูกติดอยู่กับเชื้อเพลิงฟอสซิลได้สิ้นสุดลงแล้ว ตลอดหลายทศวรรษที่ผ่านมา ความขัดแย้งระดับโลกและความตึงเครียดทางการเมืองที่เกิดขึ้นในที่ห่างไกลได้กำหนดราคาน้ำมันที่เราต้องจ่ายหน้าปั๊ม สร้างความไม่แน",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "เทคโนโลยีไฟฟ้า: ประสิทธิภาพ 3 เท่า | พลังงานสะอาดเปลี่ยนโลก",
-      "link": "https://www.youtube.com/shorts/APzStbYpk8s",
-      "publishDate": "2026-04-30T19:27:41.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/APzStbYpk8s/hqdefault.jpg",
-      "description": "ค้นพบว่าเทคโนโลยีไฟฟ้ากำลังปฏิวัติโลกพลังงานอย่างไร ด้วยประสิทธิภาพที่สูงขึ้น 3 เท่าจากแหล่งพลังงานหมุนเวียน! วิดีโอนี้จะพาคุณเจาะลึกถึงความก้าวหน้าสำคัญในการเปลี่ยนผ่านสู่พลังงานสะอาด รายงานล่าสุดจาก FutureKeepers และ E",
       "author": "FutureKeepers Thai"
     },
     {

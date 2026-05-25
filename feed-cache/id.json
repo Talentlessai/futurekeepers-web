@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T07:29:50.171Z",
+  "generatedAt": "2026-05-25T08:39:49.989Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Jepang dan ASEAN: Kebangkitan Nuklir Pasca-Fukushima?",
+      "link": "https://www.youtube.com/shorts/en8I673sgW0",
+      "publishDate": "2026-05-25T02:15:16.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/en8I673sgW0/hqdefault.jpg",
+      "description": "Setelah bencana nuklir Fukushima 15 tahun lalu, Jepang kini menghidupkan kembali rencana pembangunan pembangkit listrik tenaga nuklir. Sementara itu, lima dari sebelas negara ASEAN yang belum pernah menghasilkan listrik ",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -212,18 +224,6 @@
       "publishDate": "2026-05-06T22:23:16.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/CKZ2UfNGjdM/hqdefault.jpg",
       "description": "Era energi fosil akan segera berakhir, dan Indonesia berada di persimpangan jalan penting. Siapkah kita menyambut perubahan besar ini dan beralih ke masa depan energi yang lebih bersih dan berkelanjutan? Video ini mengek",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Energi Bersih: Kunci Kemandirian & Keamanan Indonesia! #shorts",
-      "link": "https://www.youtube.com/shorts/acj59dlCPbw",
-      "publishDate": "2026-05-06T21:40:06.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/acj59dlCPbw/hqdefault.jpg",
-      "description": "Keamanan energi sejati tidak datang dari sumur minyak di seberang lautan, tapi dari matahari di atas kepala kita. Sudah lama kita berpikir bahwa keamanan negara bergantung pada pasokan bahan bakar fosil dari luar negeri.",
       "author": "FutureKeepers Indonesian"
     },
     {

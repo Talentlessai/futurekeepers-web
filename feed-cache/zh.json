@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T07:29:53.541Z",
+  "generatedAt": "2026-05-25T08:39:53.184Z",
   "locale": "zh",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "东盟：太阳能可省670亿美元，为何仍押注天然气？",
+      "link": "https://www.youtube.com/shorts/X56NtOH-tnU",
+      "publishDate": "2026-05-25T01:00:23.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/X56NtOH-tnU/hqdefault.jpg",
+      "description": "面对能源供应冲击和数据中心对电力日益增长的需求，亚洲多国正重新审视其能源战略。然而，一项关键研究指出，东南亚国家联盟（东盟）若能优先发展太阳能而非其庞大的天然气发电扩张计划，有望节省数百亿美元。 专家估算，东盟地区优先发展太阳能，而非计划中的天然气发电扩张，可节省约670亿美元。 各国应对方式迥异：印尼政府虽面临森林砍伐的证据，仍在加大对生物燃料的投入；日本在福岛核灾难后，也开始重启或恢复核电站计划。此外，东盟有5个从未生产过核电的国家",
+      "author": "Future Keepers Mandarin"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -224,18 +236,6 @@
       "publishDate": "2026-05-06T22:15:24.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/xBHs-khgaoc/hqdefault.jpg",
       "description": "FutureKeepers News 带您深入了解全球气候科技和清洁能源的最新进展。本期节目聚焦中国在可持续发展方面取得的显著成就。 中国在集装箱货运领域持续展现其全球贸易领导地位，货运量不断刷新纪录，这不仅反映了其强大的经济活力，也推动了全球供应链的效率提升。同时，中国在清洁能源转型中扮演着关键角色，大规模海上风电场项目接连投入运营，为国家电网提供清洁电力，显著减少了碳排放。这些风电场不仅是工程上的壮举，更是中国致力于能源结构优化的明",
-      "author": "Future Keepers Mandarin"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "亚洲能源转型加速：印度、中国、巴基斯坦、韩国的清洁能源进展",
-      "link": "https://www.youtube.com/shorts/rRk-seaBAl8",
-      "publishDate": "2026-05-06T22:00:32.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/rRk-seaBAl8/hqdefault.jpg",
-      "description": "亚洲各地正在同时进行多项重大转型，重塑大规模电力生产和使用方式。 印度正在全国范围内实现交通电气化，铁路系统迅速从柴油转向电力牵引，城市地铁和电动公交车队持续扩张。在中国，大型海上风电项目不断上线，创纪录的电力输出正巩固其在能源系统中的支柱地位。巴基斯坦的太阳能普及速度惊人，屋顶和工业太阳能的增长甚至有望在某些城市超越电网需求。在韩国，先进的数字控制系统、电池和电动汽车的整合，正在有效平衡不断增长的可再生能源电力供应与日益增长的用电需求",
       "author": "Future Keepers Mandarin"
     },
     {
