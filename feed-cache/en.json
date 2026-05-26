@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T08:39:46.650Z",
+  "generatedAt": "2026-05-26T08:00:07.753Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -21,6 +21,30 @@
     "ccAsia"
   ],
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Fukushima Fallout: Japan, ASEAN Restart Nuclear Plans",
+      "link": "https://www.youtube.com/shorts/0SK_-W0lSEI",
+      "publishDate": "2026-05-25T18:00:13.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/0SK_-W0lSEI/hqdefault.jpg",
+      "description": "Japan, which suffered a nuclear disaster at Fukushima just 15 years ago, is restarting its nuclear power plants, and five ASEAN nations, which have never produced nuclear power, are now pursuing it. This unexpected shift",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "How Camcorders Made EV Batteries Cheap (98% Cost Drop)",
+      "link": "https://www.youtube.com/watch?v=x5bZzEI5dH8",
+      "publishDate": "2026-05-25T14:00:28.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/x5bZzEI5dH8/hqdefault.jpg",
+      "description": "Did you know that the batteries powering today's electric vehicles and grid storage systems owe their affordability to early camcorders? This video uncovers the surprising journey of lithium-ion batteries. From a stagger",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -382,18 +406,6 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Pakistan's Green Energy Revolution: A Sustainable Future #shorts",
-      "link": "https://www.youtube.com/shorts/cdX26e4Kk3M",
-      "publishDate": "2026-05-06T22:18:09.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/cdX26e4Kk3M/hqdefault.jpg",
-      "description": "Fossil fuels are on their way out, and Pakistan stands at a crucial crossroads. With its unique geographic and economic landscape, the nation faces a pivotal choice: cling to outdated energy sources or embrace a sustaina",
-      "author": "FutureKeepers"
-    },
-    {
       "source": "ccAsia",
       "sourceLabel": "Climate & Capital Asia",
       "taxonomy": "ccasia",
@@ -487,18 +499,6 @@
       "publishDate": "2026-04-29T19:39:04.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/e354HseSkR8/hqdefault.jpg",
       "description": "What happens when a global geopolitical crisis chokes off vital energy supplies, plunging millions into darkness? This video explores a hypothetical 2026 scenario where a military escalation in the Strait of Hormuz trigg",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Blackout 2026: How Geopolitics Accelerated the Clean Energy Transition",
-      "link": "https://www.youtube.com/watch?v=ohtwmD2VJ5A",
-      "publishDate": "2026-04-29T19:38:56.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/ohtwmD2VJ5A/hqdefault.jpg",
-      "description": "Imagine early 2026: a geopolitical conflict chokes the Strait of Hormuz, plunging a vibrant tropical city in Sri Lanka into darkness. This isn't just a temporary power outage; it's a brutal demand destruction event that ",
       "author": "FutureKeepers"
     },
     {
