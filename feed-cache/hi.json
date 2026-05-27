@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T08:00:27.584Z",
+  "generatedAt": "2026-05-27T08:12:07.966Z",
   "locale": "hi",
   "counts": {
     "ytLongForm": 13,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "हांगकांग: ऊर्जा संक्रमण का अनूठा पुल",
+      "link": "https://www.youtube.com/shorts/Mmy9W03oIx0",
+      "publishDate": "2026-05-27T03:30:16.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/Mmy9W03oIx0/hqdefault.jpg",
+      "description": "दुनिया का ऊर्जा संक्रमण बिखरा हुआ है, लेकिन हांगकांग इसकी एकीकृत प्रक्रिया में महत्वपूर्ण भूमिका निभा सकता है। वैश्विक ऊर्जा संक्रमण में चीन से बड़ा कोई देश भूमिका नहीं निभाता। चीन दुनिया के 80% सोलर पैनल और 70% बैटरी का",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -212,18 +224,6 @@
       "publishDate": "2026-05-06T21:34:18.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/XwbdRXdpk7A/hqdefault.jpg",
       "description": "भारत की ऊर्जा सुरक्षा अब पाइपलाइन से नहीं, सूरज से आएगी! जानिए कैसे भारत अपनी ऊर्जा ज़रूरतों के लिए आत्मनिर्भर बन रहा है और एक मज़बूत भविष्य की नींव रख रहा है। दशकों से हमें बताया गया है कि देश की सुरक्षा पेट्रोल, डीज़ल औ",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "नमक और ज्वारीय ऊर्जा: जलवायु परिवर्तन से लड़ने में नई सफलताएँ!",
-      "link": "https://www.youtube.com/shorts/mbNOD-2NVNM",
-      "publishDate": "2026-05-06T03:30:26.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/mbNOD-2NVNM/hqdefault.jpg",
-      "description": "क्या आप जानते हैं कि गर्म नमक आपके घर को दो हफ्तों तक ऊर्जा दे सकता है? इस सप्ताह की फ्यूचरकीपर्स की \"छोटी जीत\" के साथ, जलवायु परिवर्तन से लड़ने में आशा की किरणें देखें! जलवायु समाचार अक्सर भारी लग सकते हैं, लेकिन इस सप्",
       "author": "Future Keepers Hindi"
     },
     {

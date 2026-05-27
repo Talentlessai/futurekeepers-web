@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T08:00:07.753Z",
+  "generatedAt": "2026-05-27T08:11:47.997Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -15,12 +15,45 @@
     "fkSignal": 9,
     "proElectrica": 10,
     "ebirchy": 20,
-    "ccAsia": 0
+    "ccAsia": 10
   },
-  "rescuedSources": [
-    "ccAsia"
-  ],
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Have you noticed that lately, the prices of various basic necessities have been on the rise?",
+      "link": "https://www.youtube.com/shorts/VDd5IXikcbQ",
+      "publishDate": "2026-05-26T22:21:04.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/VDd5IXikcbQ/hqdefault.jpg",
+      "description": "One of the reasons for this is the ongoing energy crisis. 😱 When fuel prices go up, transportation, food, and the overall cost of living are all impacted. In Indonesia, many small islands still rely on diesel fuel. On t",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "The coral reefs in the Gili Islands are in trouble!",
+      "link": "https://www.youtube.com/shorts/tJUPRT5zsxk",
+      "publishDate": "2026-05-26T20:57:18.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/tJUPRT5zsxk/hqdefault.jpg",
+      "description": "Part of the problem is fossil fuels, which Indonesia relies on. But solutions are possible! The shift to solar power has begun. Here's how YOU can help save the coral reefs:",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Salt: From Kitchen to Global Power Grid",
+      "link": "https://www.youtube.com/watch?v=Ck7VeZR6P9Y",
+      "publishDate": "2026-05-26T14:00:17.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/Ck7VeZR6P9Y/hqdefault.jpg",
+      "description": "These simple salt crystals are cheap, accessible, and currently moving from the kitchen table to the center of global energy storage. For decades, energy was defined by a struggle for limited resources, but now, a new ch",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -334,18 +367,6 @@
       "author": "Kari Huus"
     },
     {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Pakistan's Solar Surge: How Rooftop Panels Battle Global Oil Prices #shorts",
-      "link": "https://www.youtube.com/shorts/t_GSnjAi8fQ",
-      "publishDate": "2026-05-08T21:13:45.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/t_GSnjAi8fQ/hqdefault.jpg",
-      "description": "When a narrow stretch of water thousands of miles away starts to close, entire economies feel it. The Strait of Hormuz, a critical chokepoint, carries roughly a quarter of the world's seaborne oil. When conflict disrupts",
-      "author": "FutureKeepers"
-    },
-    {
       "source": "ccAsia",
       "sourceLabel": "Climate & Capital Asia",
       "taxonomy": "ccasia",
@@ -392,18 +413,6 @@
       "thumbnail": "https://substackcdn.com/image/fetch/%24s_!FPc3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c481251-62c4-493c-b586-680f324e7913_2048x1323.jpeg",
       "description": "Solar power is cheaper even with all the batteries, overbuild, and all of it...",
       "author": "Danny Kennedy"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "True Energy Security: Pakistan's Solar & Wind Revolution #shorts",
-      "link": "https://www.youtube.com/shorts/JCWhbbI4nm8",
-      "publishDate": "2026-05-06T22:18:27.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/JCWhbbI4nm8/hqdefault.jpg",
-      "description": "For decades, global energy security has been defined by controlling fossil fuel supply lines. But this model is broken, leaving nations vulnerable to volatile prices and geopolitical conflicts far from their borders. Pak",
-      "author": "FutureKeepers"
     },
     {
       "source": "ccAsia",
@@ -487,18 +496,6 @@
       "publishDate": "2026-04-30T19:55:36.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/nQejR-nct9o/hqdefault.jpg",
       "description": "The Strait of Hormuz crisis has dramatically reduced energy transit, forcing Asian nations to rethink their energy security. This explainer, drawing directly from an April 2026 publication by FutureKeepers Signal, outlin",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Crisis-Driven Energy Transition: When Geopolitics Fuels Green Tech",
-      "link": "https://www.youtube.com/watch?v=e354HseSkR8",
-      "publishDate": "2026-04-29T19:39:04.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/e354HseSkR8/hqdefault.jpg",
-      "description": "What happens when a global geopolitical crisis chokes off vital energy supplies, plunging millions into darkness? This video explores a hypothetical 2026 scenario where a military escalation in the Strait of Hormuz trigg",
       "author": "FutureKeepers"
     },
     {

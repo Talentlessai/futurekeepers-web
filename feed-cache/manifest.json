@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T07:59:41.958Z",
+  "generatedAt": "2026-05-27T08:11:47.184Z",
   "locales": {
     "en": {
       "itemCount": 79,
@@ -17,12 +17,9 @@
         "fkSignal": 9,
         "proElectrica": 10,
         "ebirchy": 20,
-        "ccAsia": 0
+        "ccAsia": 10
       },
-      "rescuedSources": [
-        "ccAsia"
-      ],
-      "bytes": 50808
+      "bytes": 50713
     },
     "id": {
       "itemCount": 30,
@@ -34,7 +31,7 @@
         "ytLongForm": 15,
         "ytShorts": 15
       },
-      "bytes": 18249
+      "bytes": 18229
     },
     "zh": {
       "itemCount": 30,
@@ -46,7 +43,7 @@
         "ytLongForm": 15,
         "ytShorts": 15
       },
-      "bytes": 29975
+      "bytes": 29982
     },
     "bn": {
       "itemCount": 29,
@@ -58,7 +55,7 @@
         "ytLongForm": 14,
         "ytShorts": 15
       },
-      "bytes": 30114
+      "bytes": 30067
     },
     "ur": {
       "itemCount": 30,
@@ -70,7 +67,7 @@
         "ytLongForm": 15,
         "ytShorts": 15
       },
-      "bytes": 24131
+      "bytes": 24112
     },
     "th": {
       "itemCount": 22,
@@ -94,7 +91,7 @@
         "ytLongForm": 13,
         "ytShorts": 15
       },
-      "bytes": 28847
+      "bytes": 28787
     }
   }
 }
