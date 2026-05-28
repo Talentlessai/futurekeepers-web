@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T08:12:07.966Z",
+  "generatedAt": "2026-05-28T08:11:34.841Z",
   "locale": "hi",
   "counts": {
     "ytLongForm": 13,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "वियतनाम की सौर ऊर्जा क्रांति: एक बेहतर भविष्य की ओर! #shorts",
+      "link": "https://www.youtube.com/shorts/DbHLngtJPqo",
+      "publishDate": "2026-05-27T19:20:52.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/DbHLngtJPqo/hqdefault.jpg",
+      "description": "एक तरफ जहां दुनिया भर में ऊर्जा संकट और भू-राजनीतिक तनाव की बातें हो रही हैं, वहीं वियतनाम से प्रगति की एक दमदार कहानी सामने आ रही है। यह कहानी है स्काईएक्स सोलर की, जिसने वियतनाम में रूफटॉप सौर ऊर्जा को तेजी से फैलाने क",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -212,18 +224,6 @@
       "publishDate": "2026-05-06T22:15:47.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/Kypnk3kjjcU/hqdefault.jpg",
       "description": "जीवाश्म ईंधन का युग अब अपने अंत की ओर है, और दुनिया एक बड़े ऊर्जा परिवर्तन के मुहाने पर खड़ी है। क्या आप इस बदलाव के लिए तैयार हैं? इस वीडियो में, हम अपने पड़ोसी देश पाकिस्तान के उदाहरण से समझेंगे कि कैसे नवीकरणीय ऊर्जा ",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "भारत की ऊर्जा क्रांति: सूरज से आत्मनिर्भरता! #shorts",
-      "link": "https://www.youtube.com/shorts/XwbdRXdpk7A",
-      "publishDate": "2026-05-06T21:34:18.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/XwbdRXdpk7A/hqdefault.jpg",
-      "description": "भारत की ऊर्जा सुरक्षा अब पाइपलाइन से नहीं, सूरज से आएगी! जानिए कैसे भारत अपनी ऊर्जा ज़रूरतों के लिए आत्मनिर्भर बन रहा है और एक मज़बूत भविष्य की नींव रख रहा है। दशकों से हमें बताया गया है कि देश की सुरक्षा पेट्रोल, डीज़ल औ",
       "author": "Future Keepers Hindi"
     },
     {

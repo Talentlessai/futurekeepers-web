@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T08:12:04.632Z",
+  "generatedAt": "2026-05-28T08:11:31.551Z",
   "locale": "th",
   "counts": {
     "ytLongForm": 7,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "เวียดนามก้าวหน้า: พลังงานสะอาดบนหลังคา เปลี่ยนอนาคต #shorts",
+      "link": "https://www.youtube.com/shorts/ALf4a6XlVY0",
+      "publishDate": "2026-05-27T19:18:26.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/ALf4a6XlVY0/hqdefault.jpg",
+      "description": "ในขณะที่หัวข้อข่าวทั่วโลกกำลังมุ่งความสนใจไปที่วิกฤตพลังงานและความตึงเครียดทางภูมิรัฐศาสตร์ เรื่องราวแห่งความก้าวหน้าอันทรงพลังกำลังเกิดขึ้นในเวียดนาม SkyX Solar ผู้พัฒนาพลังงานแสงอาทิตย์ในเวียดนาม ได้รับเงินลงทุนมูลค่า ",
+      "author": "FutureKeepers Thai"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -224,18 +236,6 @@
       "publishDate": "2026-05-06T14:59:18.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/cBtUQyQhWgE/hqdefault.jpg",
       "description": "ทศวรรษ 2020s ได้เผชิญกับวิกฤตเชื้อเพลิงฟอสซิลครั้งใหญ่ถึงสองครั้งแล้ว ทำให้เกิดคำถามว่าเรากำลังย้อนกลับไปสู่ยุค 1970s หรือไม่? แต่ครั้งนี้มีความแตกต่างที่สำคัญ: เรามีทางเลือกที่ดีกว่าและคุ้มค่ากว่าพร้อมให้ขยายขนาดแล้ว! ว",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "ปลดล็อกอนาคต: พลังงานสะอาด สู่ความมั่นคงที่แท้จริง #shorts",
-      "link": "https://www.youtube.com/shorts/iz4MTwTSWg8",
-      "publishDate": "2026-05-05T23:11:35.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/iz4MTwTSWg8/hqdefault.jpg",
-      "description": "ยุคที่ความมั่นคงทางพลังงานผูกติดอยู่กับเชื้อเพลิงฟอสซิลได้สิ้นสุดลงแล้ว ตลอดหลายทศวรรษที่ผ่านมา ความขัดแย้งระดับโลกและความตึงเครียดทางการเมืองที่เกิดขึ้นในที่ห่างไกลได้กำหนดราคาน้ำมันที่เราต้องจ่ายหน้าปั๊ม สร้างความไม่แน",
       "author": "FutureKeepers Thai"
     },
     {

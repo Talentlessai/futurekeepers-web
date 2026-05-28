@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T08:12:01.425Z",
+  "generatedAt": "2026-05-28T08:11:28.178Z",
   "locale": "ur",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "ویتنام کی شمسی توانائی کی کامیابی: عالمی بحرانوں کا مقامی حل #shorts",
+      "link": "https://www.youtube.com/shorts/Thxl8lI192E",
+      "publishDate": "2026-05-27T19:20:35.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/Thxl8lI192E/hqdefault.jpg",
+      "description": "جب دنیا کی نظریں عالمی تبدیلیوں اور توانائی کے بحران پر جمی ہیں، ویتنام میں ترقی کی ایک شاندار کہانی جنم لے رہی ہے۔ وہاں کی ایک شمسی توانائی کمپنی، SkyX Solar، نے ملک بھر کے کاروباروں کے لیے چھتوں پر سولر پینل لگانے کے م",
+      "author": "FutureKeepers Urdu"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -248,18 +260,6 @@
       "publishDate": "2026-05-12T22:45:00.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/yFrWbK9RsUA/hqdefault.jpg",
       "description": "برقی گاڑیوں کا انقلاب صرف ماحولیاتی تبدیلیوں کا حل نہیں، بلکہ توانائی میں خود انحصاری کی جانب ایک اہم قدم ہے۔ انڈونیشیا اس انقلاب میں پیش پیش ہے، جو اپنے 28 کروڑ سے زائد شہریوں کے لیے ایک روشن اور خود مختار مستقبل کی بنی",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "پاکستان کا شمسی انقلاب: مہنگے تیل سے آزادی #shorts",
-      "link": "https://www.youtube.com/shorts/w_xcnmHFZk0",
-      "publishDate": "2026-05-08T21:10:33.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/w_xcnmHFZk0/hqdefault.jpg",
-      "description": "عالمی تیل کی قیمتوں میں اضافے اور آبنائے ہرمز جیسے اہم سمندری راستوں پر بڑھتے تنازعات نے پاکستان جیسی درآمدی ایندھن پر انحصار کرنے والی معیشتوں کو گہرے بحران میں دھکیل دیا ہے۔ بجلی کے بڑھتے ہوئے بل اور معاشی بوجھ نے عام ",
       "author": "FutureKeepers Urdu"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T08:11:47.997Z",
+  "generatedAt": "2026-05-28T08:11:14.944Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,30 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Vietnam's Solar Boom: Powering Local Businesses & Energy Independence #shorts",
+      "link": "https://www.youtube.com/shorts/8TH9LAwioxo",
+      "publishDate": "2026-05-27T19:21:27.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/8TH9LAwioxo/hqdefault.jpg",
+      "description": "While global headlines often focus on energy shocks and geopolitical tensions, a powerful story of progress is unfolding in Vietnam. Solar energy developer SkyX Solar has just secured a $15 million investment to accelera",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Hong Kong: The Bridge for Global Clean Energy?",
+      "link": "https://www.youtube.com/shorts/OzHBGjGvX6Q",
+      "publishDate": "2026-05-27T14:00:17.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/OzHBGjGvX6Q/hqdefault.jpg",
+      "description": "Hong Kong finds itself at a unique crossroads in the global energy transition, poised to bridge the fragmented efforts between Chinese manufacturing might and Western financial and regulatory standards. Despite a world d",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -319,18 +343,6 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Thailand's Low-Tech Crate Solution Boosts Reforestation Efforts",
-      "link": "https://www.youtube.com/shorts/Xm4bkpxtR5Q",
-      "publishDate": "2026-05-12T22:00:40.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/Xm4bkpxtR5Q/hqdefault.jpg",
-      "description": "In Thailand, a low-tech idea is making a big impact on reforestation efforts. Discover how old plastic crates are giving young trees a better chance of survival against harsh tropical conditions and grazing animals. Futu",
-      "author": "FutureKeepers"
-    },
-    {
       "source": "fkSignal",
       "sourceLabel": "FutureKeepers Signal",
       "taxonomy": "signal",
@@ -341,18 +353,6 @@
       "thumbnail": "https://substackcdn.com/image/fetch/%24s_!REpM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f4ba2dc-7739-41f3-b854-6c60768188cf_1456x816.png",
       "description": "I don’t know who needs to hear this. But you don’t have to wait for policy to gain energy independence.",
       "author": "Steve Mudd"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "The Sun's Silent Work: Powering Our World, One Roof at a Time",
-      "link": "https://www.youtube.com/shorts/6muAe1TGC60",
-      "publishDate": "2026-05-11T16:57:06.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/6muAe1TGC60/hqdefault.jpg",
-      "description": "Settle into your seat, close your eyes, and take a breath. This video invites you to pause and reflect on the quiet, persistent work of the sun, and how its energy is transforming our world, one rooftop at a time. From w",
-      "author": "FutureKeepers"
     },
     {
       "source": "ccAsia",

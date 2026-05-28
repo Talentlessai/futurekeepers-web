@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T08:11:47.184Z",
+  "generatedAt": "2026-05-28T08:11:03.128Z",
   "locales": {
     "en": {
       "itemCount": 79,
@@ -19,7 +19,7 @@
         "ebirchy": 20,
         "ccAsia": 10
       },
-      "bytes": 50713
+      "bytes": 50712
     },
     "id": {
       "itemCount": 30,
@@ -31,7 +31,7 @@
         "ytLongForm": 15,
         "ytShorts": 15
       },
-      "bytes": 18229
+      "bytes": 18174
     },
     "zh": {
       "itemCount": 30,
@@ -43,7 +43,7 @@
         "ytLongForm": 15,
         "ytShorts": 15
       },
-      "bytes": 29982
+      "bytes": 29959
     },
     "bn": {
       "itemCount": 29,
@@ -55,7 +55,7 @@
         "ytLongForm": 14,
         "ytShorts": 15
       },
-      "bytes": 30067
+      "bytes": 30082
     },
     "ur": {
       "itemCount": 30,
@@ -67,7 +67,7 @@
         "ytLongForm": 15,
         "ytShorts": 15
       },
-      "bytes": 24112
+      "bytes": 24134
     },
     "th": {
       "itemCount": 22,
@@ -79,7 +79,7 @@
         "ytLongForm": 7,
         "ytShorts": 15
       },
-      "bytes": 24195
+      "bytes": 24174
     },
     "hi": {
       "itemCount": 28,
@@ -91,7 +91,7 @@
         "ytLongForm": 13,
         "ytShorts": 15
       },
-      "bytes": 28787
+      "bytes": 28805
     }
   }
 }
