@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T08:11:18.274Z",
+  "generatedAt": "2026-05-29T08:08:36.900Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "TEROBOSAN ENERGI BERSIH: Surya & Angin Lampaui Gas Alam! #shorts",
+      "link": "https://www.youtube.com/shorts/QebNQ0-iM_Q",
+      "publishDate": "2026-05-28T21:34:47.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/QebNQ0-iM_Q/hqdefault.jpg",
+      "description": "Ada kabar baik luar biasa dari dunia energi bersih! Untuk pertama kalinya dalam sejarah, energi surya dan angin telah melampaui gas alam dalam produksi listrik global selama sebulan penuh. Ini adalah titik balik yang san",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -212,18 +224,6 @@
       "publishDate": "2026-05-13T10:00:51.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/TZsJqtTUHjM/hqdefault.jpg",
       "description": "Bagaimana Asia memimpin revolusi energi bersih? Temukan inovasi terbaru dari Sunseap, Gotion High-Tech, dan New Energy Nexus Indonesia yang membentuk masa depan energi terbarukan. Sunseap, pengembang energi bersih terkem",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Kekuatan Baterai: Kapasitas Global Lampaui Target Net Zero!",
-      "link": "https://www.youtube.com/shorts/i5C2e3l1VF4",
-      "publishDate": "2026-05-13T06:00:40.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/i5C2e3l1VF4/hqdefault.jpg",
-      "description": "Barisan kotak putih yang tenang membentang hingga cakrawala—inilah pemandangan dari fasilitas penyimpanan energi bersih skala besar. Tanpa asap, tanpa cerobong, tanpa truk bahan bakar, hanya penyimpanan murni. Dunia memb",
       "author": "FutureKeepers Indonesian"
     },
     {

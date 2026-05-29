@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-28T08:11:14.944Z",
+  "generatedAt": "2026-05-29T08:08:33.578Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
     "ytShorts": 15,
-    "fkSignal": 9,
+    "fkSignal": 8,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
@@ -12,12 +12,48 @@
   "freshCounts": {
     "ytLongForm": 15,
     "ytShorts": 15,
-    "fkSignal": 9,
+    "fkSignal": 8,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Clean Energy Just Hit a Tipping Point! Solar & Wind Overtake Gas #shorts",
+      "link": "https://www.youtube.com/shorts/bdy4sdB0eEM",
+      "publishDate": "2026-05-28T21:34:24.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/bdy4sdB0eEM/hqdefault.jpg",
+      "description": "The clean energy transition has reached an unprecedented milestone! For the first time in history, solar and wind power have generated more electricity globally than natural gas for an entire month. This isn't a forecast",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ccAsia",
+      "sourceLabel": "Climate & Capital Asia",
+      "taxonomy": "ccasia",
+      "format": "article",
+      "title": "Singapore’s blended finance fund secures US$800 million for energy transition",
+      "link": "https://www.climateandcapitalmedia.com/singapores-blended-finance-fund-secures-us800-million-for-energy-transition/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=singapores-blended-finance-fund-secures-us800-million-for-energy-transition",
+      "publishDate": "2026-05-28T18:39:17.000Z",
+      "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/05/asia-renewable-investments-climate-capital-media-asia.jpg",
+      "description": "Four initial investments are expected to avoid over a million tons of carbon dioxide emissions annually. The post Singapore’s blended finance fund secures US$800 million for energy transition appeared first on Climate an",
+      "author": "Gabrielle See"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "Elite Cognitive Dissonance and the Asian Energy Disruption",
+      "link": "https://proelectrica.substack.com/p/elite-cognitive-dissonance-and-the",
+      "publishDate": "2026-05-28T15:44:53.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!v14V!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c0a0b8b-bba3-4f9b-a843-26c78c1bf070_774x675.png",
+      "description": "Notes from the Field — Singapore Indonesia, May 2026",
+      "author": "Danny Kennedy"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -149,18 +185,6 @@
       "thumbnail": "https://i2.ytimg.com/vi/y7PJIc-DDKA/hqdefault.jpg",
       "description": "Imagine millions of homes, each equipped with its own sleek battery, silently working together to power entire regions. This isn't a futuristic fantasy, it's the quiet revolution happening right now in your backyard, tra",
       "author": "FutureKeepers"
-    },
-    {
-      "source": "fkSignal",
-      "sourceLabel": "FutureKeepers Signal",
-      "taxonomy": "signal",
-      "format": "newsletter",
-      "title": "OK, Burgum",
-      "link": "https://futurekeepers.substack.com/p/ok-burgum",
-      "publishDate": "2026-05-21T21:39:36.000Z",
-      "thumbnail": null,
-      "description": "Some things are just so obvious.",
-      "author": "Steve Mudd"
     },
     {
       "source": "ytShorts",
@@ -328,18 +352,6 @@
       "publishDate": "2026-05-13T14:00:41.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/K5pzYbHpoOg/hqdefault.jpg",
       "description": "Imagine a power grid as smart and adaptable as an octopus! Learn how the incredible distributed intelligence of octopuses is inspiring a revolutionary shift in how we manage and power our world. Octopuses possess a uniqu",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Indonesia's EV Revolution: Energy Independence & Economic Boom #shorts",
-      "link": "https://www.youtube.com/shorts/YVrFCGjl3QQ",
-      "publishDate": "2026-05-12T22:48:35.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/YVrFCGjl3QQ/hqdefault.jpg",
-      "description": "The electric vehicle (EV) revolution is more than just about climate change – it's a powerful engine for energy independence and national security. This video highlights Indonesia's ambitious transition to EVs, revealing",
       "author": "FutureKeepers"
     },
     {
@@ -559,18 +571,6 @@
       "author": "Danny Kennedy"
     },
     {
-      "source": "ccAsia",
-      "sourceLabel": "Climate & Capital Asia",
-      "taxonomy": "ccasia",
-      "format": "article",
-      "title": "Indonesia’s “green” nickel boom is anything but",
-      "link": "https://www.climateandcapitalmedia.com/indonesias-green-nickel-boom-is-anything-but/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=indonesias-green-nickel-boom-is-anything-but",
-      "publishDate": "2026-04-17T00:00:30.000Z",
-      "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/04/indonesia-nickel-mine-climate-capital-media-asia.jpg",
-      "description": "The industry, though fueled by coal, has argued that it is essential to the EV transition, but a new report says… not so much The post Indonesia’s “green” nickel boom is anything but appeared first on Climate and Capital",
-      "author": "Gabrielle See"
-    },
-    {
       "source": "proElectrica",
       "sourceLabel": "ProElectrica",
       "taxonomy": "voices",
@@ -665,18 +665,6 @@
       "thumbnail": "https://substackcdn.com/image/fetch/%24s_!6Gfy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3779b97-0be7-48eb-889a-fbbb9edb2374_2816x1536.jpeg",
       "description": "What Pakistan can teach the world in this crisis.",
       "author": "Steve Mudd"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "The 3-D Mah-jongg Case Laid Bare",
-      "link": "https://proelectrica.substack.com/p/the-3-d-mah-jongg-case-laid-bare",
-      "publishDate": "2026-03-27T23:27:08.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!aoQm!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa6c53cd-039c-4115-9a3c-332555b27faa_720x901.jpeg",
-      "description": "A Rebuttal to the Petro/LNG-Dollar Dominance Thesis",
-      "author": "Danny Kennedy"
     },
     {
       "source": "fkSignal",
