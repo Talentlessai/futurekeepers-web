@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T08:08:53.642Z",
+  "generatedAt": "2026-05-30T07:18:20.808Z",
   "locale": "hi",
   "counts": {
     "ytLongForm": 13,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "लाओस ने पेट्रोल कारों पर लगाई पाबंदी! भारत का क्या?",
+      "link": "https://www.youtube.com/shorts/9TnEveycbew",
+      "publishDate": "2026-05-30T03:30:22.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/9TnEveycbew/hqdefault.jpg",
+      "description": "दुनियाभर में जलवायु परिवर्तन और ऊर्जा सुरक्षा की चुनौतियों के बीच, लाओस ने एक साहसिक कदम उठाया है। 1 जून से लाओस ने पेट्रोल कारों के आयात पर पूरी तरह से पाबंदी लगा दी है। इथियोपिया के बाद लाओस दुनिया का दूसरा ऐसा देश बन ",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -212,18 +224,6 @@
       "publishDate": "2026-05-12T22:45:57.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/BGkgRwTeZCs/hqdefault.jpg",
       "description": "इलेक्ट्रिक वाहनों (EVs) की क्रांति के पीछे एक बड़ी और छिपी हुई ताकत है - ऊर्जा में आत्मनिर्भरता, या एनर्जी इंडिपेंडेंस। हम अक्सर EVs को जलवायु परिवर्तन से लड़ने के लिए जरूरी मानते हैं, लेकिन इंडोनेशिया पर हुई एक हालिया स",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "तेल की कीमतों से आजादी: कैसे 'सोलर क्रांति' दुनिया बदल रही है #shorts",
-      "link": "https://www.youtube.com/shorts/aNtQv5-m2IA",
-      "publishDate": "2026-05-08T21:11:56.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/aNtQv5-m2IA/hqdefault.jpg",
-      "description": "जब समुद्र के रास्ते बंद होते हैं, तो दुनिया की अर्थव्यवस्था पर क्या असर पड़ता है? विशेषकर जब तेल की कीमतें आसमान छूने लगती हैं और आम आदमी का बजट बिगड़ जाता है, तो ऐसे में एक नई क्रांति उभर रही है: सोलर ऊर्जा क्रांति। यह ",
       "author": "Future Keepers Hindi"
     },
     {

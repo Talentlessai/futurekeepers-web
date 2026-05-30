@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-29T08:08:33.578Z",
+  "generatedAt": "2026-05-30T07:18:00.945Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
     "ytShorts": 15,
-    "fkSignal": 8,
+    "fkSignal": 9,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
@@ -12,12 +12,36 @@
   "freshCounts": {
     "ytLongForm": 15,
     "ytShorts": 15,
-    "fkSignal": 8,
+    "fkSignal": 9,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ccAsia",
+      "sourceLabel": "Climate & Capital Asia",
+      "taxonomy": "ccasia",
+      "format": "article",
+      "title": "Look to Vietnam and India to unlock Indonesia’s transmission grid puzzle",
+      "link": "https://www.climateandcapitalmedia.com/look-to-vietnam-and-india-to-unlock-indonesias-transmission-grid-puzzle/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=look-to-vietnam-and-india-to-unlock-indonesias-transmission-grid-puzzle",
+      "publishDate": "2026-05-29T21:55:35.000Z",
+      "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/05/indonesia-transmission-climate-capital-media-asia.jpg",
+      "description": "To support clean energy deployment across the economy of this massive island chain calls for structural reform The post Look to Vietnam and India to unlock Indonesia’s transmission grid puzzle appeared first on Climate a",
+      "author": "Randi Bachtiar and Grant Hauber"
+    },
+    {
+      "source": "fkSignal",
+      "sourceLabel": "FutureKeepers Signal",
+      "taxonomy": "signal",
+      "format": "newsletter",
+      "title": "Sabaidee, Sunshine",
+      "link": "https://futurekeepers.substack.com/p/sabaidee-sunshine",
+      "publishDate": "2026-05-29T13:37:43.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!Kk4i!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fabce7fb6-0543-485a-9e81-cc978b7301e7_1536x1024.png",
+      "description": "America's war in Iran claims its first fossil-fuel casualty, as Laos outlaws the petrol engine.",
+      "author": "Steve Mudd"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -545,18 +569,6 @@
       "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/04/lng-tank-climate-capital-media-asia.jpg",
       "description": "Conflict-driven price volatility, turbine shortages, and currency risk prompt regional leaders to rethink the fossil gas The post Iran war is undercutting the role of LNG in Asia appeared first on Climate and Capital Med",
       "author": "Kari Huus"
-    },
-    {
-      "source": "ccAsia",
-      "sourceLabel": "Climate & Capital Asia",
-      "taxonomy": "ccasia",
-      "format": "article",
-      "title": "Bank of Korea urged to treat climate finance as an inflation management tool",
-      "link": "https://www.climateandcapitalmedia.com/bank-of-korea-urged-to-treat-climate-finance-as-an-inflation-management-tool/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=bank-of-korea-urged-to-treat-climate-finance-as-an-inflation-management-tool",
-      "publishDate": "2026-04-22T17:04:25.000Z",
-      "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/04/korea-food-inflation-climate-capital-media-asia-5.jpg",
-      "description": "The Iran crisis underscores how relying on fossil fuel imports drives price volatility, and the need to bolster monetary policy support for renewables The post Bank of Korea urged to treat climate finance as an inflation",
-      "author": "Gabrielle See"
     },
     {
       "source": "proElectrica",
