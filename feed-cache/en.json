@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T07:18:00.945Z",
+  "generatedAt": "2026-05-31T07:51:30.084Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,18 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Laos Bans Gas Cars: Second Country on Earth to Do It",
+      "link": "https://www.youtube.com/shorts/XXznrXwt0o0",
+      "publishDate": "2026-05-30T14:00:31.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/XXznrXwt0o0/hqdefault.jpg",
+      "description": "Last week, Laos became the second country on Earth to ban gas-powered cars, a bold move that positions it ahead of many wealthier nations in the global energy transition. In March, Vientiane saw gas queues wrap around th",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ccAsia",
       "sourceLabel": "Climate & Capital Asia",
@@ -364,18 +376,6 @@
       "publishDate": "2026-05-13T18:00:38.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/V6Cvy5tTy8A/hqdefault.jpg",
       "description": "Rows and rows of silent white boxes stretch to the horizon, not a wisp of smoke or a fuel truck in sight. This is pure energy storage, at a scale previous generations couldn't have imagined. Global battery manufacturing ",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Octopus-Inspired Grids: How Distributed Intelligence Powers the Future",
-      "link": "https://www.youtube.com/shorts/K5pzYbHpoOg",
-      "publishDate": "2026-05-13T14:00:41.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/K5pzYbHpoOg/hqdefault.jpg",
-      "description": "Imagine a power grid as smart and adaptable as an octopus! Learn how the incredible distributed intelligence of octopuses is inspiring a revolutionary shift in how we manage and power our world. Octopuses possess a uniqu",
       "author": "FutureKeepers"
     },
     {

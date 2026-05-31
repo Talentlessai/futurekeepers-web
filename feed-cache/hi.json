@@ -1,15 +1,27 @@
 {
-  "generatedAt": "2026-05-30T07:18:20.808Z",
+  "generatedAt": "2026-05-31T07:52:00.325Z",
   "locale": "hi",
   "counts": {
-    "ytLongForm": 13,
+    "ytLongForm": 14,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 13,
+    "ytLongForm": 14,
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "लाओस ने ईंधन वाहनों पर बैन लगाया: आर्थिक मजबूरी ने बदली दिशा!",
+      "link": "https://www.youtube.com/watch?v=TlR-Nk38I54",
+      "publishDate": "2026-05-31T03:30:24.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/TlR-Nk38I54/hqdefault.jpg",
+      "description": "दुनिया भर में एक खामोश लेकिन बहुत ही विशाल ऊर्जा क्रांति चल रही है। सबसे दिलचस्प बात यह है कि यह बदलाव पर्यावरण बचाने की बड़ी-बड़ी बातों से नहीं, बल्कि आम घरों के बजट और एकदम शुद्ध आर्थिक मजबूरियों से आ रहा है। इथियोपिया",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T07:18:04.250Z",
+  "generatedAt": "2026-05-31T07:51:33.540Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Laos Larang Mobil Bensin: Negara ke-2 di Dunia!",
+      "link": "https://www.youtube.com/shorts/yjdO851IdfY",
+      "publishDate": "2026-05-31T02:00:23.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/yjdO851IdfY/hqdefault.jpg",
+      "description": "Berita besar dari Asia Tenggara! Mulai 1 Juni ini, Laos resmi melarang total impor mobil berbahan bakar bensin, menjadikannya negara kedua di dunia yang berani mengambil langkah ini setelah Ethiopia. Krisis energi di Lao",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -212,18 +224,6 @@
       "publishDate": "2026-05-14T02:00:46.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/QRnUHQNv1pA/hqdefault.jpg",
       "description": "Tagihan listrik rumah tangga terus meroket tanpa henti? Merasa tak berdaya melawan kekuatan pasar global? Video ini mengungkap bagaimana energi surya atap bisa menjadi solusi nyata untuk menyelamatkan dompet keluarga And",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Energi Bersih Terpercaya: Inovasi Surya, Baterai, dan Startup di Asia",
-      "link": "https://www.youtube.com/shorts/TZsJqtTUHjM",
-      "publishDate": "2026-05-13T10:00:51.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/TZsJqtTUHjM/hqdefault.jpg",
-      "description": "Bagaimana Asia memimpin revolusi energi bersih? Temukan inovasi terbaru dari Sunseap, Gotion High-Tech, dan New Energy Nexus Indonesia yang membentuk masa depan energi terbarukan. Sunseap, pengembang energi bersih terkem",
       "author": "FutureKeepers Indonesian"
     },
     {

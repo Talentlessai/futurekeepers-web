@@ -1,15 +1,27 @@
 {
-  "generatedAt": "2026-05-30T07:18:17.566Z",
+  "generatedAt": "2026-05-31T07:51:55.038Z",
   "locale": "th",
   "counts": {
-    "ytLongForm": 7,
+    "ytLongForm": 8,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 7,
+    "ytLongForm": 8,
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "สัญญาณเตือนจากเพื่อนบ้าน: ปั๊มน้ำมัน 1,061 แห่งในลาวปิดตัว!",
+      "link": "https://www.youtube.com/watch?v=hrC8mRiyTLo",
+      "publishDate": "2026-05-31T02:15:16.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/hrC8mRiyTLo/hqdefault.jpg",
+      "description": "คุณรู้หรือไม่ว่าวิกฤตพลังงานทั่วโลกกำลังส่งผลกระทบถึงหน้าประตูบ้านเรา? ลองนึกภาพเช้าวันจันทร์ในเวียงจันทน์ที่ผู้คนต้องติดแหง็กในคิวเติมน้ำมันยาวเหยียด **ตัวเลขสุดช็อก: ปั๊มน้ำมันกว่า 1,061 แห่งในลาวต้องปิดตัวลงอย่างกะทัน",
+      "author": "FutureKeepers Thai"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
