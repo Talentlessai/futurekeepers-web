@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T07:51:33.540Z",
+  "generatedAt": "2026-06-01T09:34:32.016Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Laos & Ethiopia: Larangan Mobil Fosil Lebih Cepat dari Eropa",
+      "link": "https://www.youtube.com/watch?v=aoQDkwAo0Mc",
+      "publishDate": "2026-06-01T02:00:23.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/aoQDkwAo0Mc/hqdefault.jpg",
+      "description": "Halo semuanya! Kali ini kita akan membedah disrupsi energi radikal yang sedang terjadi di Asia Tenggara. Bayangkan, negara-negara berkembang seperti Laos dan Ethiopia, didorong oleh krisis ekonomi, mengambil langkah dras",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2025-09-05T23:46:46.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/E9EDb6TttBA/hqdefault.jpg",
       "description": "Net resilience into leadership | The Net Positive | Episode 2 Dari kebijakan berani Beijing tentang virtual power plant hingga tantangan naiknya permukaan laut di Fiji, Episode 2 The Net Positive menggali kisah-kisah yan",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Tekanan Mendorong Kemajuan | The Net Positive | Episode 1",
-      "link": "https://www.youtube.com/watch?v=_uIGehhE2yQ",
-      "publishDate": "2025-08-08T23:59:21.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/_uIGehhE2yQ/hqdefault.jpg",
-      "description": "🇮🇩 Net Positive: Episode 1 Selamat datang di episode perdana Net Positive, kolaborasi antara Climate & Capital Media dan FutureKeepers. Serial ini membahas uang, kekuasaan, dan kebijakan yang membentuk ekonomi iklim. D",
       "author": "FutureKeepers Indonesian"
     }
   ]

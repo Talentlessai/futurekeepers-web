@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T07:51:38.819Z",
+  "generatedAt": "2026-06-01T09:34:35.259Z",
   "locale": "zh",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "油价暴涨110%！这两个国家如何绝地求生？",
+      "link": "https://www.youtube.com/watch?v=kTuuk2hb5Vc",
+      "publishDate": "2026-06-01T01:00:24.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/kTuuk2hb5Vc/hqdefault.jpg",
+      "description": "想象一下，在老挝，排队加油的车辆绵延三个街区，等待时长无法预测。这并非科幻电影，而是2026年3月老挝能源危机下的真实写照。当柴油价格在一周内暴涨110%，近一半加油站被迫关闭，整个国家的交通和物流瞬间瘫痪，经济生存命悬一线。面对如此严峻的挑战，老挝和埃塞俄比亚等发展中国家，没有选择等待，而是采取了堪称激进的策略，率先在全球范围内对燃油车进口说“不”，开启了一场由经济危机驱动的能源转型革命。 据统计，埃塞俄比亚每年在化石燃料进口上花费近",
+      "author": "Future Keepers Mandarin"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2025-09-09T19:08:14.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/asrbIznTmf0/hqdefault.jpg",
       "description": "从纽约到曼谷，2025 是气候行动的重要一年。纽约气候周（9月21日–28日）将汇聚全球领袖、企业和活动家，聚焦清洁能源、产业转型和人工智能的能源需求，演讲嘉宾包括联合国大使兼名厨 马西莫·博图拉 和《纽约时报》气候记者 索米尼·森古普塔。紧接着，曼谷将迎来首届气候行动周（9月28日–10月4日），通过工作坊、展览和社区活动，推动东南亚绿色转型。两座城市，一个使命：让气候解决方案真正落地。 #气候周2025 #纽约气候周 #曼谷气候周 ",
-      "author": "Future Keepers Mandarin"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "以韧性化为领导力｜净正效应｜第2集",
-      "link": "https://www.youtube.com/watch?v=VTm-gUMTWbQ",
-      "publishDate": "2025-09-05T18:06:21.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/VTm-gUMTWbQ/hqdefault.jpg",
-      "description": "从韧性走向领导力｜净正效应｜第2集 从北京雄心勃勃的虚拟电厂政策，到斐济海平面上升带来的生存挑战，《净正效应》第2集深入探讨正在塑造亚洲气候与能源未来的关键故事。 本期内容包括： 🌏 中国的“虚拟电厂”革命 —— 一项旨在平衡电网并加速可再生能源发展的政策。 💹 中国绿色金融分类标准 —— 重塑资本如何流向可持续项目。 🔥 印尼 Indika Energy —— 一家煤炭巨头在能源转型中的自我重塑。 🌊 太平洋岛国的韧性 —— ",
       "author": "Future Keepers Mandarin"
     }
   ]

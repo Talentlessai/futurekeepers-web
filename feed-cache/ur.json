@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T07:51:49.717Z",
+  "generatedAt": "2026-06-01T09:34:42.007Z",
   "locale": "ur",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "غریب ممالک پٹرول گاڑیوں پر پابندی کیوں لگا رہے ہیں؟",
+      "link": "https://www.youtube.com/watch?v=rRW6H7By1Zo",
+      "publishDate": "2026-06-01T04:00:26.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/rRW6H7By1Zo/hqdefault.jpg",
+      "description": "دنیا کے غریب ترین ممالک پٹرول گاڑیوں پر پابندی لگا رہے ہیں، اور اس کی وجہ ماحولیاتی نہیں بلکہ معاشی مجبوری ہے۔ ایتھوپیا میں الیکٹرک گاڑی چارج کرنے پر صرف $4 ماہانہ خرچ آتا ہے، جبکہ پٹرول گاڑی پر $27۔ یہ ویڈیو ایک دلچسپ ا",
+      "author": "FutureKeepers Urdu"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-03-25T17:52:09.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/fibIG1jaUyU/hqdefault.jpg",
       "description": "تهران پر سیاہ بارش، آسمان میں اٹھتا ہوا کاربن، اور عالمی معیشت میں دوڑتی ہوئی ایک صدمے کی لہر۔ امریکہ-اسرائیل اور ایران کے درمیان جنگ عالمی توانائی کی سلامتی کو نئی شکل دے رہی ہے۔ یہ ایک سخت تنبیہ ہے، مگر ساتھ ہی یہ ایک ",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "فیوچر کیپرز میں خوش آمدید: تبدیلی کی لہر کا حصہ بنیں — جسے کوئی روک نہیں سکتا۔",
-      "link": "https://www.youtube.com/watch?v=OL5mkmsMWkQ",
-      "publishDate": "2025-09-23T23:50:32.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/OL5mkmsMWkQ/hqdefault.jpg",
-      "description": "FutureKeepers ایک عالمی اسٹوری ٹیلنگ پلیٹ فارم ہے جو لوگوں کی طاقت سے چلتا ہے اور AI کی مدد سے مزید توانا ہوتا ہے۔ ہم ان خیالات، ایجادات، اور کمیونٹیز پر روشنی ڈالتے ہیں جو ایک پائیدار، جُڑا ہوا اور منصفانہ دنیا تشکیل دے",
       "author": "FutureKeepers Urdu"
     }
   ]

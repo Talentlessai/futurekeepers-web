@@ -1,15 +1,27 @@
 {
-  "generatedAt": "2026-05-31T07:51:44.423Z",
+  "generatedAt": "2026-06-01T09:34:38.579Z",
   "locale": "bn",
   "counts": {
-    "ytLongForm": 14,
+    "ytLongForm": 15,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 14,
+    "ytLongForm": 15,
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "জ্বালানি সংকটে প্রান্তিক দেশের ইভি বিপ্লব: ধনী দেশ কেন পিছিয়ে?",
+      "link": "https://www.youtube.com/watch?v=dgFztgMoYhc",
+      "publishDate": "2026-06-01T03:00:25.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/dgFztgMoYhc/hqdefault.jpg",
+      "description": "যখন ধনী দেশগুলো জলবায়ু পরিবর্তনের বিরুদ্ধে লড়াইয়ে শুধু প্রতিশ্রুতিতেই আটকে আছে, তখন লাওস ও ইথিওপিয়ার মতো প্রান্তিক অর্থনীতির দেশগুলো বাধ্য হয়েই ইলেকট্রিক গাড়ির বিপ্লব ঘটাচ্ছে। চরম অর্থনৈতিক সংকটই তাদের জীবাশ্ম জ্বা",
+      "author": "Future Keepers Bengali"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",

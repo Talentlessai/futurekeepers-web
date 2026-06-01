@@ -1,15 +1,27 @@
 {
-  "generatedAt": "2026-05-31T07:51:55.038Z",
+  "generatedAt": "2026-06-01T09:34:45.800Z",
   "locale": "th",
   "counts": {
-    "ytLongForm": 8,
+    "ytLongForm": 9,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 8,
+    "ytLongForm": 9,
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "ใครคือประเทศแรกที่แบนรถน้ำมัน? คำตอบสุดช็อก!",
+      "link": "https://www.youtube.com/watch?v=3jAexxXl6Dc",
+      "publishDate": "2026-06-01T02:15:16.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/3jAexxXl6Dc/hqdefault.jpg",
+      "description": "โลกกำลังเผชิญกับการเปลี่ยนแปลงครั้งใหญ่ด้านพลังงาน และที่น่าตกใจคือผู้นำในการปฏิวัติครั้งนี้กลับเป็นประเทศเกิดใหม่ในเอเชียและแอฟริกาที่กำลังเผชิญวิกฤตเศรษฐกิจอย่างหนัก ไม่ใช่ชาติร่ำรวยอย่างที่เราคิด ลองนึกภาพ: ในประเทศเอ",
+      "author": "FutureKeepers Thai"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",

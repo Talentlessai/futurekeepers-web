@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T07:51:30.084Z",
+  "generatedAt": "2026-06-01T09:34:28.630Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,18 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Fuel Crisis FORCED Laos to Go Electric",
+      "link": "https://www.youtube.com/watch?v=qedhC39SrjA",
+      "publishDate": "2026-05-31T14:00:26.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/qedhC39SrjA/hqdefault.jpg",
+      "description": "When a global geopolitical shock disrupted oil markets, the landlocked nation of Laos, heavily dependent on fuel imports from Thailand, found itself facing an unprecedented fuel shortage in March 2026. This crisis, which",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -520,18 +532,6 @@
       "publishDate": "2026-04-30T22:41:26.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/xYRXwi5WRo0/hqdefault.jpg",
       "description": "On February 28th, 2026, the Strait of Hormuz effectively shut down, causing global oil and LNG shipments to grind to a halt. Thailand felt the immediate shock of soaring LNG prices, prompting emergency energy conservatio",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Post-Hormuz: Asia's Urgent Shift to Energy Independence",
-      "link": "https://www.youtube.com/watch?v=nQejR-nct9o",
-      "publishDate": "2026-04-30T19:55:36.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/nQejR-nct9o/hqdefault.jpg",
-      "description": "The Strait of Hormuz crisis has dramatically reduced energy transit, forcing Asian nations to rethink their energy security. This explainer, drawing directly from an April 2026 publication by FutureKeepers Signal, outlin",
       "author": "FutureKeepers"
     },
     {
