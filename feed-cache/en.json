@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T09:34:28.630Z",
+  "generatedAt": "2026-06-02T08:45:29.995Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,18 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Laos & Ethiopia: How ECONOMIC CRISIS Drove a Gas Car Ban",
+      "link": "https://www.youtube.com/watch?v=m5yAGzFqrMY",
+      "publishDate": "2026-06-01T14:00:17.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/m5yAGzFqrMY/hqdefault.jpg",
+      "description": "Imagine a world where gas cars are banned, and electric vehicles are tax-exempt. This isn't a distant future for wealthy nations; it's the present reality in places like Laos and Ethiopia, where economic necessity is dri",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -520,18 +532,6 @@
       "publishDate": "2026-05-01T14:00:46.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/jgtq9I_2thI/hqdefault.jpg",
       "description": "Bangladesh faces a severe energy crisis, exacerbated by global geopolitical events like the functional closure of the Strait of Hormuz. Reliant on imports for 95% of its energy, the nation's economy is exceptionally vuln",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Thailand's Green Energy Choice: Win Global Supply Chains",
-      "link": "https://www.youtube.com/watch?v=xYRXwi5WRo0",
-      "publishDate": "2026-04-30T22:41:26.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/xYRXwi5WRo0/hqdefault.jpg",
-      "description": "On February 28th, 2026, the Strait of Hormuz effectively shut down, causing global oil and LNG shipments to grind to a halt. Thailand felt the immediate shock of soaring LNG prices, prompting emergency energy conservatio",
       "author": "FutureKeepers"
     },
     {

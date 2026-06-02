@@ -1,15 +1,27 @@
 {
-  "generatedAt": "2026-06-01T09:34:49.107Z",
+  "generatedAt": "2026-06-02T08:45:49.892Z",
   "locale": "hi",
   "counts": {
-    "ytLongForm": 14,
+    "ytLongForm": 15,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 14,
+    "ytLongForm": 15,
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "अमीर देशों से आगे, गरीब देश क्यों चुन",
+      "link": "https://www.youtube.com/watch?v=AQTuJpN8m8c",
+      "publishDate": "2026-06-02T03:30:16.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/AQTuJpN8m8c/hqdefault.jpg",
+      "description": "आपको जानकर हैरानी होगी कि दुनिया की ऊर्जा क्रांति की दिशा गरीब देश तय कर रहे हैं, न कि अमीर। आर्थिक मजबूरी और राष्ट्रीय सुरक्षा ने उन्हें सबसे पहले जीवाश्म ईंधन से दूर जाने पर मजबूर किया। अप्रैल 2026 में, पहली बार हवा और",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",

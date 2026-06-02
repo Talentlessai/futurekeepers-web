@@ -1,15 +1,27 @@
 {
-  "generatedAt": "2026-06-01T09:34:45.800Z",
+  "generatedAt": "2026-06-02T08:45:46.622Z",
   "locale": "th",
   "counts": {
-    "ytLongForm": 9,
+    "ytLongForm": 10,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 9,
+    "ytLongForm": 10,
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "ลาวแบนรถน้ำมัน 2026: วิกฤตบังคับพลิก",
+      "link": "https://www.youtube.com/watch?v=JeWttCSkTq0",
+      "publishDate": "2026-06-02T02:15:16.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/JeWttCSkTq0/hqdefault.jpg",
+      "description": "ลาว ซึ่งเป็นประเทศกำลังพัฒนา ถูกบีบให้แบนการนำเข้ารถยนต์สันดาปภายใน (ICE) ใหม่ทั้งหมดภายในปี 2026 เร็วกว่าประเทศร่ำรวยในยุโรปที่เพียงแค่ประกาศเป้าหมายไว้ เนื่องจากวิกฤตการขาดแคลนน้ำมันอย่างรุนแรง ราคาดีเซลในลาวพุ่งขึ้น 1",
+      "author": "FutureKeepers Thai"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",

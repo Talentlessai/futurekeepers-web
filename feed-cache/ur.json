@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T09:34:42.007Z",
+  "generatedAt": "2026-06-02T08:45:43.287Z",
   "locale": "ur",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "ایندھن کا بحران: لاؤس میں 110% قیمت میں اضافہ",
+      "link": "https://www.youtube.com/watch?v=9z1Nsq5nXuU",
+      "publishDate": "2026-06-02T04:00:17.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/9z1Nsq5nXuU/hqdefault.jpg",
+      "description": "جنوبی مشرقی ایشیا کی ایک ایسی کہانی جو پوری عالمی معیشت کا آئینہ بن چکی ہے۔ یہ کہانی صرف ماحولیاتی نہیں، بلکہ معاشی بقا کی جنگ ہے۔ لاؤس میں مارچ 2026 میں ڈیزل کی قیمتوں میں 110% کا اضافہ ہوا اور 40% پیٹرول پمپس بند پڑے۔ ",
+      "author": "FutureKeepers Urdu"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-04-02T23:27:39.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/_jg8L9aaS9o/hqdefault.jpg",
       "description": "تنازعہ اور اس کے بعد آنے والے توانائی کے جھٹکے کے اثرات میں شامل ہیں: لاجسٹک رکاوٹ: امریکہ اور اسرائیل کا ایران کے خلاف تنازعہ آبنائے ہرمز کو متاثر کر رہا ہے، جو دنیا کے تقریباً 20% تیل اور بڑی مقدار میں قدرتی گیس کے لیے",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "سیاہ بارش، روشن اشارے",
-      "link": "https://www.youtube.com/watch?v=fibIG1jaUyU",
-      "publishDate": "2026-03-25T17:52:09.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/fibIG1jaUyU/hqdefault.jpg",
-      "description": "تهران پر سیاہ بارش، آسمان میں اٹھتا ہوا کاربن، اور عالمی معیشت میں دوڑتی ہوئی ایک صدمے کی لہر۔ امریکہ-اسرائیل اور ایران کے درمیان جنگ عالمی توانائی کی سلامتی کو نئی شکل دے رہی ہے۔ یہ ایک سخت تنبیہ ہے، مگر ساتھ ہی یہ ایک ",
       "author": "FutureKeepers Urdu"
     }
   ]
