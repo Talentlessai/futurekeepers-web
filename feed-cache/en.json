@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T08:45:29.995Z",
+  "generatedAt": "2026-06-03T09:03:19.787Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,66 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "এশিয়ার জ্বালানি বিপ্লব: যখন অভিজাতরা তর্কে ব্যস্ত, বিশ্ব গড়ছে নতুন ভবিষ্যৎ!",
+      "link": "https://proelectrica.substack.com/p/b09",
+      "publishDate": "2026-06-03T03:00:51.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!v14V!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c0a0b8b-bba3-4f9b-a843-26c78c1bf070_774x675.png",
+      "description": "মাঠ থেকে নোটস — সিঙ্গাপুর ও ইন্দোনেশিয়া, মে ২০২৬",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "Ketika Para Elite Berdiskusi, Asia Sudah Bergerak: Revolusi Energi Bersih yang Nyata!",
+      "link": "https://proelectrica.substack.com/p/ketika-para-elite-berdiskusi-asia",
+      "publishDate": "2026-06-03T02:00:55.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!v14V!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c0a0b8b-bba3-4f9b-a843-26c78c1bf070_774x675.png",
+      "description": "Catatan Lapangan — Singapura Indonesia, Mei 2026",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "全球能源格局巨变：别再“窗外”了！",
+      "link": "https://proelectrica.substack.com/p/80f",
+      "publishDate": "2026-06-03T01:00:56.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!v14V!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c0a0b8b-bba3-4f9b-a843-26c78c1bf070_774x675.png",
+      "description": "来自一线的观察：新加坡与印度尼西亚，2026年5月",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "Habang Nag-iisip pa ang mga Elite, Buong Asya'y Kumikilos na sa Renewable Energy!",
+      "link": "https://proelectrica.substack.com/p/habang-nag-iisip-pa-ang-mga-elite",
+      "publishDate": "2026-06-03T01:00:55.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!v14V!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c0a0b8b-bba3-4f9b-a843-26c78c1bf070_774x675.png",
+      "description": "Mga Obserbasyon Mula sa Larangan — Singapore at Indonesia, Mayo 2026",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Why Laos & Ethiopia Banned Gas Cars (The Math Forced Their Hand)",
+      "link": "https://www.youtube.com/watch?v=ssNl8nK-byI",
+      "publishDate": "2026-06-02T14:00:31.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/ssNl8nK-byI/hqdefault.jpg",
+      "description": "Imagine a country where the cost of importing fuel becomes unsustainable, forcing a radical shift in national policy. That's exactly what's happening in Laos and Ethiopia, two nations making headlines for their ambitious",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -523,18 +583,6 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "How Solar Power Can Save Bangladesh From Energy Crisis",
-      "link": "https://www.youtube.com/watch?v=jgtq9I_2thI",
-      "publishDate": "2026-05-01T14:00:46.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/jgtq9I_2thI/hqdefault.jpg",
-      "description": "Bangladesh faces a severe energy crisis, exacerbated by global geopolitical events like the functional closure of the Strait of Hormuz. Reliant on imports for 95% of its energy, the nation's economy is exceptionally vuln",
-      "author": "FutureKeepers"
-    },
-    {
       "source": "ccAsia",
       "sourceLabel": "Climate & Capital Asia",
       "taxonomy": "ccasia",
@@ -616,54 +664,6 @@
       "publishDate": "2026-04-09T06:01:56.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/%24s_!RUrb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27989cae-584e-4c18-81f1-71b1a13b5e37_1280x1045.jpeg",
       "description": "Setidaknya, dalam isu perubahan iklim.",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "پاکستان کا فیصلہ درست تھا",
-      "link": "https://proelectrica.substack.com/p/160",
-      "publishDate": "2026-04-09T06:01:55.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!zLBC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1178cbd9-0d29-4312-b8ff-7ea47f19a3af_1280x1045.jpeg",
-      "description": "A translation of my post in English on April 6th 2026.",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "पाकिस्तान सही था",
-      "link": "https://proelectrica.substack.com/p/e37",
-      "publishDate": "2026-04-09T06:01:49.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!iQie!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F718eac1b-9f1b-4f2a-be59-0bd1ef2bc05b_1280x1045.jpeg",
-      "description": "क्यों महंगे गैस से सस्ते सोलर की ओर देश का झुकाव दुनिया के लिए एक सबक है।",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "标题：事实证明，巴基斯坦的能源战略走对了",
-      "link": "https://proelectrica.substack.com/p/7c0",
-      "publishDate": "2026-04-09T06:01:44.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!dX53!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1446541-9697-4244-9aac-1c5f0d644cf1_1280x1045.jpeg",
-      "description": "A translation of my post in English from April 6th using Gemini",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "Pakistan Was Right.",
-      "link": "https://proelectrica.substack.com/p/pakistan-was-right",
-      "publishDate": "2026-04-07T16:11:12.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!vwle!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe286d1a9-8501-44aa-a545-b111e146d938_1280x1045.jpeg",
-      "description": "The Rest of us Should Be Paying Attention and buying batteries!",
       "author": "Danny Kennedy"
     },
     {

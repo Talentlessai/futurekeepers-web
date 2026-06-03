@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T08:45:43.287Z",
+  "generatedAt": "2026-06-03T09:03:34.588Z",
   "locale": "ur",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "توانائی کا انقلاب: کنارے سے شروع ہوا اصل انقلاب",
+      "link": "https://www.youtube.com/watch?v=DNAADoY9Prg",
+      "publishDate": "2026-06-03T04:00:28.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/DNAADoY9Prg/hqdefault.jpg",
+      "description": "دوستو، اس وقت گلوبل ساؤتھ میں ایک ایسا زبردست توانائی کا انقلاب آ رہا ہے نا، جو توانائی کے پرانے اصولوں کو بالکل بدل کر رکھ دے گا۔ ترقی پذیر دنیا، جنہیں ہم اکثر پیچھے سمجھتے ہیں، دراصل اس انرجی ٹرانزیشن میں رولز کو نئے س",
+      "author": "FutureKeepers Urdu"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-04-03T02:11:12.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/5Xrtd2HC7Ds/hqdefault.jpg",
       "description": "ایک صبح اٹھیں اور دیکھیں کہ آپ کا پورا ملک مفلوج ہو چکا ہے۔ یہ کوئی خیالی کہانی نہیں، بلکہ 2026 میں پاکستان کو درپیش پٹرول کے بحران کی تلخ حقیقت ہے۔ پٹرول کی قیمت 458 روپے فی لیٹر تک پہنچ گئی، جس نے معیشت کا گلا گھونٹ دی",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "قلیل مدتی حل قومی سلامتی نہیں بناتے",
-      "link": "https://www.youtube.com/watch?v=_jg8L9aaS9o",
-      "publishDate": "2026-04-02T23:27:39.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/_jg8L9aaS9o/hqdefault.jpg",
-      "description": "تنازعہ اور اس کے بعد آنے والے توانائی کے جھٹکے کے اثرات میں شامل ہیں: لاجسٹک رکاوٹ: امریکہ اور اسرائیل کا ایران کے خلاف تنازعہ آبنائے ہرمز کو متاثر کر رہا ہے، جو دنیا کے تقریباً 20% تیل اور بڑی مقدار میں قدرتی گیس کے لیے",
       "author": "FutureKeepers Urdu"
     }
   ]

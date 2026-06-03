@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T08:45:46.622Z",
+  "generatedAt": "2026-06-03T09:03:37.853Z",
   "locale": "th",
   "counts": {
     "ytLongForm": 10,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "รถบรรทุกมอนสเตอร์คันยักษ์ต้องพึ",
+      "link": "https://www.youtube.com/shorts/qMoqXe0ox8U",
+      "publishDate": "2026-06-03T02:15:16.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/qMoqXe0ox8U/hqdefault.jpg",
+      "description": "รถบรรทุกมอนสเตอร์สุดดุดันของบารอนต้องเผชิญหน้ากับปัญหาใหญ่เมื่อน้ำมันหมดกลางทาง แล้วใครจะมาช่วยเขาได้? ไม่ใช่รถบรรทุกน้ำมัน แต่เป็นรถพลังงานแสงอาทิตย์ของเหม่ยหลิน! รถพลังงานแสงอาทิตย์ของเหม่ยหลินขับเคลื่อนด้วยแบตเตอรี่ไฟ",
+      "author": "FutureKeepers Thai"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -260,18 +272,6 @@
       "publishDate": "2026-05-06T21:41:19.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/Pm23eE3XXVE/hqdefault.jpg",
       "description": "ความมั่นคงทางพลังงานที่แท้จริงไม่ได้มาจากท่อส่งน้ำมัน แต่มาจากแสงอาทิตย์และลม! ตลอดหลายทศวรรษที่ผ่านมา เราถูกบอกว่าความมั่นคงของชาติขึ้นอยู่กับการควบคุมเส้นทางการจัดหาพลังงานฟอสซิล แต่โมเดลนี้กำลังล้มเหลว ทำให้ประเทศต่าง",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "วัว + สาหร่าย: กุญแจลดมีเทนเพื่อโลกที่ดีกว่า",
-      "link": "https://www.youtube.com/shorts/HxVbpP1iUwQ",
-      "publishDate": "2026-05-06T14:59:26.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/HxVbpP1iUwQ/hqdefault.jpg",
-      "description": "คุณรู้หรือไม่ว่าการเรอของวัวเป็นแหล่งกำเนิดก๊าซมีเทนที่สำคัญ? ก๊าซมีเทนเป็นก๊าซเรือนกระจกที่ทรงพลังซึ่งมีส่วนอย่างมากต่อการเปลี่ยนแปลงสภาพภูมิอากาศ ในวิดีโอนี้ FutureKeepers จะพาคุณไปสำรวจนวัตกรรมล้ำสมัยที่กำลังพลิกโฉมวง",
       "author": "FutureKeepers Thai"
     },
     {

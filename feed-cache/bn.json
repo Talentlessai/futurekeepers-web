@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T08:45:39.906Z",
+  "generatedAt": "2026-06-03T09:03:31.258Z",
   "locale": "bn",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "ইথিওপিয়ার জ্বালানি বিপ্লব: ২ বছরে ৮.৩% ইভি, মাসিক খরচ কমলো $23!",
+      "link": "https://www.youtube.com/watch?v=l60UueE1fnk",
+      "publishDate": "2026-06-03T03:00:17.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/l60UueE1fnk/hqdefault.jpg",
+      "description": "আজকের এই বিশেষ বিশ্লেষণে আমরা দেখবো কিভাবে ইথিওপিয়া মাত্র দুই বছরেই তাদের পরিবহনে এক বিশাল পরিবর্তন এনেছে, যা প্রতিদিনের জ্বালানি খরচ থেকে মানুষকে মুক্তি দিচ্ছে। জীবাশ্ম জ্বালানির তীব্র সংকট তাদের বাধ্য করেছে পরিচ্ছন্ন ",
+      "author": "Future Keepers Bengali"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2025-03-25T22:44:39.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/IM75NWlBI8Y/hqdefault.jpg",
       "description": "এই মাসে বিশ্বজুড়ে বড় বড় কনফারেন্সগুলোতে জলবায়ু নিয়ে আলোচনা চলছে। FutureKeepers-এর প্রতিনিধিরা তুলে আনছেন সেরা খবর ও মূল বার্তাগুলো। অস্ট্রেলিয়ায় সিডনির Climate Action Week-এ দেশের প্রভাবশালী নারী নেতাদের নিয়ে একট",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "চীনের $১.৯ ট্রিলিয়ন ক্লিন এনার্জি বুম—এবং এর বৈশ্বিক প্রভাব",
-      "link": "https://www.youtube.com/watch?v=9zM1mA8NA0U",
-      "publishDate": "2025-03-12T23:25:35.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/9zM1mA8NA0U/hqdefault.jpg",
-      "description": "$১.৯ ট্রিলিয়ন—এটাই ২০২৪ সালে চীনের অর্থনীতিতে নবায়নযোগ্য শক্তির অবদান, যা দেশের মোট জিডিপির ১০% এর বেশি! 🌱⚡ তুলনামূলকভাবে? 🔹 যুক্তরাষ্ট্রে, ক্লিন এনার্জির অবদান মাত্র ১.৫% জিডিপির। 🔹 ইউরোপীয় ইউনিয়নে এটি বাড়ছে, তব",
       "author": "Future Keepers Bengali"
     }
   ]

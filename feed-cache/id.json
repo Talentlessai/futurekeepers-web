@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T08:45:33.332Z",
+  "generatedAt": "2026-06-03T09:03:23.028Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Ekonomi Paksa Transisi Energi: Ethiopia & Laos Duluan, Indonesia?",
+      "link": "https://www.youtube.com/watch?v=v-w8c6sTQGs",
+      "publishDate": "2026-06-03T02:00:17.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/v-w8c6sTQGs/hqdefault.jpg",
+      "description": "Pernah bayangkan negara-negara beralih ke energi bersih bukan karena isu iklim, tapi karena terpaksa? Ethiopia dan Laos sudah melakukannya, dan ini adalah realitas ekonomi yang kejam. Di Laos, lebih dari 40% pompa bensin",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-03-25T18:23:44.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/skPRNCGvN7Y/hqdefault.jpg",
       "description": "Hujan hitam di atas Teheran, karbon membubung di langit, dan gelombang kejut yang merambat ke seluruh ekonomi global. Perang AS–Israel dengan Iran sedang membentuk ulang keamanan energi global. Ini adalah peringatan yang",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Selamat datang di FutureKeepers: Ikuti momentumnya — tak bisa dihentikan.",
-      "link": "https://www.youtube.com/watch?v=UrO65uWOy9A",
-      "publishDate": "2025-09-23T23:55:48.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/UrO65uWOy9A/hqdefault.jpg",
-      "description": "FutureKeepers adalah sebuah platform cerita global yang digerakkan oleh manusia, dan diperkuat oleh AI. Kami menyoroti ide, terobosan, dan komunitas yang membentuk dunia yang berkelanjutan, terhubung, dan adil. Dari lonj",
       "author": "FutureKeepers Indonesian"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T08:45:49.892Z",
+  "generatedAt": "2026-06-03T09:03:41.108Z",
   "locale": "hi",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "पेट्रोल इंजन का अंत: भारत बनेगा सबसे",
+      "link": "https://www.youtube.com/watch?v=tOvvIAw2wUs",
+      "publishDate": "2026-06-03T03:30:16.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/tOvvIAw2wUs/hqdefault.jpg",
+      "description": "क्या आप जानते हैं कि विकासशील देश पेट्रोल इंजन को अलविदा कह रहे हैं, लेकिन इसका कारण पर्यावरण प्रेम नहीं, बल्कि शुद्ध आर्थिक मजबूरी है? लाओस और इथियोपिया जैसे देशों में पेट्रोल और डीजल वाहनों पर प्रतिबंध लगने से दुनिया भ",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2025-03-07T22:35:06.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/m7ZCjVq-Y-0/hqdefault.jpg",
       "description": "1.9 ट्रिलियन डॉलर। 2024 में चीन की अर्थव्यवस्था में साफ ऊर्जा का योगदान इतना था—इसके GDP का 10% से अधिक। अमेरिका में यह सिर्फ 1.5% है। सारांश? अक्षय ऊर्जा सिर्फ डीकार्बोनाइजेशन के बारे में नहीं है—यह आर्थिक विकास के बारे",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "ब्रेकिंग न्यूज़: पांडा ने चीन में सोलर पैनल लगाए?! 🐼☀️",
-      "link": "https://www.youtube.com/watch?v=Spu1E5a9l1g",
-      "publishDate": "2025-03-07T19:09:29.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/Spu1E5a9l1g/hqdefault.jpg",
-      "description": "बिलकुल, यह सिर्फ एक मज़ाक है! लेकिन सच्चाई यह है कि चीन वास्तव में सौर ऊर्जा विकास में दुनिया में अग्रणी बना हुआ है, जबकि अमेरिका और अन्य देश धीरे-धीरे पीछे छूट रहे हैं। और मज़ेदार और प्यारी जलवायु से जुड़ी खबरों के लिए ",
       "author": "Future Keepers Hindi"
     }
   ]
