@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T09:03:41.108Z",
+  "generatedAt": "2026-06-04T08:33:31.597Z",
   "locale": "hi",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "पेट्रोल खत्म? सोलर पांडा की जीत!",
+      "link": "https://www.youtube.com/shorts/zIxI1IFh0uc",
+      "publishDate": "2026-06-04T03:30:26.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/zIxI1IFh0uc/hqdefault.jpg",
+      "description": "कल्पना कीजिए एक ऐसी दुनिया जहाँ एक तरफ पेट्रोल से चलने वाला मॉन्स्टर ट्रक है, जो सिर्फ धुआँ और प्रदूषण फैलाता है, और दूसरी तरफ एक सोलर कार है, जो सूरज की रोशनी से चलती है और कभी रुकती नहीं। इस वीडियो में देखें कि कैसे बै",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -248,18 +260,6 @@
       "publishDate": "2026-05-13T03:30:39.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/Zswpyq2h6-I/hqdefault.jpg",
       "description": "थाईलैंड में एक साधारण, कम तकनीक वाला विचार हजारों युवा पेड़ों को भीषण गर्मी और चरने वाले जानवरों से बचाकर जंगल बहाली में बड़ा प्रभाव डाल रहा है। यह अनूठा समाधान, पुराने प्लास्टिक क्रेट का उपयोग करके, नवजात पौधों को पनपने",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "EV क्रांति: जलवायु परिवर्तन से बढ़कर, ऊर्जा स्वतंत्रता! #shorts",
-      "link": "https://www.youtube.com/shorts/BGkgRwTeZCs",
-      "publishDate": "2026-05-12T22:45:57.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/BGkgRwTeZCs/hqdefault.jpg",
-      "description": "इलेक्ट्रिक वाहनों (EVs) की क्रांति के पीछे एक बड़ी और छिपी हुई ताकत है - ऊर्जा में आत्मनिर्भरता, या एनर्जी इंडिपेंडेंस। हम अक्सर EVs को जलवायु परिवर्तन से लड़ने के लिए जरूरी मानते हैं, लेकिन इंडोनेशिया पर हुई एक हालिया स",
       "author": "Future Keepers Hindi"
     },
     {

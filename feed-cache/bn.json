@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T09:03:31.258Z",
+  "generatedAt": "2026-06-04T08:33:21.712Z",
   "locale": "bn",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "সৌরশক্তি বনাম জীবাশ্ম জ্বালানি: কে",
+      "link": "https://www.youtube.com/shorts/5RCIwCfWUCk",
+      "publishDate": "2026-06-04T03:00:30.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/5RCIwCfWUCk/hqdefault.jpg",
+      "description": "একটি দানব ট্রাক যখন জ্বালানি ফুরিয়ে চলার ক্ষমতা হারায়, তখন একটি সৌরশক্তিচালিত গাড়ি কীভাবে দৌড়ে জেতে? জীবাশ্ম জ্বালানির সীমাবদ্ধতা এবং নবায়নযোগ্য শক্তির অসীম সম্ভাবনার এই মজাদার গল্পটি দেখুন! সৌরশক্তি এবং ব্যাটারি চালিত ",
+      "author": "Future Keepers Bengali"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -248,18 +260,6 @@
       "publishDate": "2026-05-13T11:00:54.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/svXrcqtKKK0/hqdefault.jpg",
       "description": "এশিয়াতে নির্ভরযোগ্য পরিচ্ছন্ন শক্তি সরবরাহ নিশ্চিত করা অত্যন্ত গুরুত্বপূর্ণ। এই ভিডিওতে আমরা এশিয়ার ক্লিন এনার্জি খাতের সাম্প্রতিক গুরুত্বপূর্ণ অগ্রগতিগুলি তুলে ধরব। সুনসিয়াপ (Sunseap) দক্ষিণ-পূর্ব এশিয়ার অন্যতম গুরু",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "ব্যাটারি পাওয়ার: বৈশ্বিক উৎপাদন ও সঞ্চয় ক্ষমতা বৃদ্ধি",
-      "link": "https://www.youtube.com/shorts/OgkME9qMzMU",
-      "publishDate": "2026-05-13T07:00:40.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/OgkME9qMzMU/hqdefault.jpg",
-      "description": "ব্যাটারি উৎপাদনে বৈশ্বিক সক্ষমতা দ্রুত বৃদ্ধি পাচ্ছে, যা ২০২৫ সালের মধ্যে চাহিদা অতিক্রম করবে বলে পূর্বাভাস দেওয়া হয়েছে। আন্তর্জাতিক শক্তি সংস্থার (IEA) নিট জিরো আউটলুক অনুযায়ী, ২০২৮ সালের মধ্যে বার্ষিক ১৩ টেরাওয়াট-ঘণ",
       "author": "Future Keepers Bengali"
     },
     {

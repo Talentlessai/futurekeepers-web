@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T09:03:23.028Z",
+  "generatedAt": "2026-06-04T08:33:15.165Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Monster Truck Kehabisan Bahan Bakar? Tenaga Surya Panda Menyelamatkan!",
+      "link": "https://www.youtube.com/shorts/OxnA2Av9xuk",
+      "publishDate": "2026-06-04T02:00:18.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/OxnA2Av9xuk/hqdefault.jpg",
+      "description": "Bahkan monster truck paling ganas pun tak berdaya ketika jalur pasokan bahan bakar global terputus. Tapi ada solusi yang selalu menyala! Tenaga surya dan baterai menyediakan listrik 24 jam, tanpa perlu truk tangki bahan ",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -212,18 +224,6 @@
       "publishDate": "2026-05-20T22:01:45.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/G9iL8JMu9lY/hqdefault.jpg",
       "description": "Krisis energi global ternyata mempercepat transisi ke transportasi ramah lingkungan di tempat yang tidak kita duga: Asia Tenggara dan Amerika Latin! Selama ini, perhatian dunia mungkin tertuju pada mobil listrik di Eropa",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Gerakan Matahari Gerilya: Bagaimana Rakyat Berdaya Sendiri dengan Surya Atap",
-      "link": "https://www.youtube.com/shorts/tnNV337w88E",
-      "publishDate": "2026-05-14T10:00:23.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/tnNV337w88E/hqdefault.jpg",
-      "description": "Filipina baru saja memasang 370 megawatt tenaga surya di atap rumah mereka, menunjukkan kekuatan gerakan \"Matahari Gerilya\". Hebatnya, warga tidak menunggu izin atau instruksi dari pemerintah pusat. Ini adalah contoh nya",
       "author": "FutureKeepers Indonesian"
     },
     {
