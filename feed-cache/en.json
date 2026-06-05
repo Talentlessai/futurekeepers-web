@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T08:33:11.837Z",
+  "generatedAt": "2026-06-05T08:15:40.803Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,18 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "First Countries to Ban Gas Cars: How & Why",
+      "link": "https://www.youtube.com/watch?v=vdaTIWcruWY",
+      "publishDate": "2026-06-04T14:00:32.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/vdaTIWcruWY/hqdefault.jpg",
+      "description": "Ethiopia and Laos have become the first countries globally to ban the import of gas-powered vehicles. This bold move, driven by economic necessity rather than distant climate goals, marks a significant shift in the globa",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -581,18 +593,6 @@
       "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/05/japan-emissions-climate-capital-media-asia.jpg",
       "description": "Mandatory Emissions Trading System adds costs for emissions, but at prices too low, and a pace too slow, critics say The post Poor marks for Japan s new carbon trading regime appeared first on Climate and Capital Media .",
       "author": "Nithin Coca"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Post-Hormuz Policy Guide: Asia's Path to Energy Independence",
-      "link": "https://www.youtube.com/watch?v=VR7Sn1i2-AM",
-      "publishDate": "2026-05-04T14:15:23.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/VR7Sn1i2-AM/hqdefault.jpg",
-      "description": "Decision-makers in Asia are grappling with severe maritime gridlock and an unprecedented energy squeeze due to the Post-Hormuz disruption. This explainer unpacks FutureKeepers Signal’s April 2026 report, 'A Field Guide f",
-      "author": "FutureKeepers"
     },
     {
       "source": "ebirchy",
