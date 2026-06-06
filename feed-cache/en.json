@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T08:15:40.803Z",
+  "generatedAt": "2026-06-06T07:24:16.064Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,30 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "A Reality Check on the Reality Checks: The Sun Always Rises",
+      "link": "https://proelectrica.substack.com/p/a-reality-check-on-the-reality-checks",
+      "publishDate": "2026-06-05T16:33:34.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!4PA3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a009a53-ba3f-4be6-ad69-5dc87604a4ff_1590x1150.png",
+      "description": "Deep Dive Beyond the Headline of China's Industry Turmoil",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Gas-Guzzler STRANDED! Solar EV to the Rescue",
+      "link": "https://www.youtube.com/shorts/cb2srFoy6y0",
+      "publishDate": "2026-06-05T14:00:29.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/cb2srFoy6y0/hqdefault.jpg",
+      "description": "In a world where traditional fuel sources are becoming unreliable, a gas-guzzling monster truck finds itself in a bind, running completely out of steam. Who comes to the rescue? None other than Mei-Lin, the intrepid pand",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -499,18 +523,6 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Battery Power Surge: Global Capacity Outpaces Net-Zero Demand",
-      "link": "https://www.youtube.com/shorts/V6Cvy5tTy8A",
-      "publishDate": "2026-05-13T18:00:38.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/V6Cvy5tTy8A/hqdefault.jpg",
-      "description": "Rows and rows of silent white boxes stretch to the horizon, not a wisp of smoke or a fuel truck in sight. This is pure energy storage, at a scale previous generations couldn't have imagined. Global battery manufacturing ",
-      "author": "FutureKeepers"
-    },
-    {
       "source": "fkSignal",
       "sourceLabel": "FutureKeepers Signal",
       "taxonomy": "signal",
@@ -652,18 +664,6 @@
       "publishDate": "2026-04-21T19:01:48.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/%24s_!WxJF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16161fc6-7079-4fec-b564-23f93b57a1aa_1280x1280.jpeg",
       "description": "Embers lighting the path to a Pax Electricana...",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "পাকিস্তান সঠিক ছিল",
-      "link": "https://proelectrica.substack.com/p/812",
-      "publishDate": "2026-04-09T06:02:28.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!Tb2m!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8501d1d-417b-4155-8a56-fa7dd06344b8_1280x1045.jpeg",
-      "description": "কেন তাদের 'নতুন কয়লা নয়' নীতিটি সঠিক, তারা কীভাবে এটি করেছে, এবং কেন এটি বিশ্বের জন্য এত গুরুত্বপূর্ণ।",
       "author": "Danny Kennedy"
     },
     {
