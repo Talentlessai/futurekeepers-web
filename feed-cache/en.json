@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T08:01:07.055Z",
+  "generatedAt": "2026-06-08T09:02:10.160Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,78 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "حقائق کا حقیقت پسندانہ محاسبہ: سورج کی روشنی کبھی مدھم نہیں ہوتی",
+      "link": "https://proelectrica.substack.com/p/05f",
+      "publishDate": "2026-06-08T04:01:12.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!XReW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff916b994-befb-40e6-886a-3835781ef9dd_1590x1150.png",
+      "description": "چین کی صنعتی ہلچل کا گہرائی سے جائزہ: سرخیوں سے آگے",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "हकीकत के दावों की सच्चाई: सूरज तो हर दिन उगता है",
+      "link": "https://proelectrica.substack.com/p/87c",
+      "publishDate": "2026-06-08T03:30:39.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!DycW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8be695c-f0c6-45e9-8a1b-2bcfa2a553c9_1590x1150.png",
+      "description": "चीन के औद्योगिक उथल-पुथल की गहन पड़ताल: सुर्खियों से आगे",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "সৌরশক্তি নিয়ে 'বাস্তবতা যাচাই'র আসল চিত্র: সূর্য সবসময় ওঠে",
+      "link": "https://proelectrica.substack.com/p/14e",
+      "publishDate": "2026-06-08T03:00:46.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!ch7P!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90e56748-5e15-4ca9-bbc9-3fb3cca628df_1590x1150.png",
+      "description": "চীনের শিল্পখাতের অস্থিরতা: শিরোনামের বাইরে এক গভীর বিশ্লেষণ",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "Saatnya Cek Ulang 'Cek Realitas' Negatif: Matahari Selalu Terbit",
+      "link": "https://proelectrica.substack.com/p/saatnya-cek-ulang-cek-realitas-negatif",
+      "publishDate": "2026-06-08T02:00:34.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!2GUl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31b36917-6691-41e9-af1f-071b33ac295a_1590x1150.png",
+      "description": "Analisis Mendalam di Balik Gejolak Industri Tiongkok: Melampaui Judul Utama Berita",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "对“现实检验”的再审视：太阳照常升起",
+      "link": "https://proelectrica.substack.com/p/77b",
+      "publishDate": "2026-06-08T01:00:58.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!YGin!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F817084b6-b431-4b74-a06a-ef229f414540_1590x1150.png",
+      "description": "深入解析中国行业动荡：超越头条新闻",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "Isang 'Reality Check' sa mga 'Reality Check': Laging Sumisikat ang Araw",
+      "link": "https://proelectrica.substack.com/p/isang-reality-check-sa-mga-reality",
+      "publishDate": "2026-06-08T01:00:54.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!dNZY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa19ad57f-02f3-4a1a-b242-b32380f7cf47_1590x1150.png",
+      "description": "Masusing Pagsusuri sa Likod ng mga Balita Tungkol sa Kaguluhan sa Industriya ng Tsina",
+      "author": "Danny Kennedy"
+    },
     {
       "source": "proElectrica",
       "sourceLabel": "ProElectrica",
@@ -100,42 +172,6 @@
       "publishDate": "2026-06-03T03:00:51.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/%24s_!v14V!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c0a0b8b-bba3-4f9b-a843-26c78c1bf070_774x675.png",
       "description": "মাঠ থেকে নোটস — সিঙ্গাপুর ও ইন্দোনেশিয়া, মে ২০২৬",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "Ketika Para Elite Berdiskusi, Asia Sudah Bergerak: Revolusi Energi Bersih yang Nyata!",
-      "link": "https://proelectrica.substack.com/p/ketika-para-elite-berdiskusi-asia",
-      "publishDate": "2026-06-03T02:00:55.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!v14V!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c0a0b8b-bba3-4f9b-a843-26c78c1bf070_774x675.png",
-      "description": "Catatan Lapangan — Singapura Indonesia, Mei 2026",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "全球能源格局巨变：别再“窗外”了！",
-      "link": "https://proelectrica.substack.com/p/80f",
-      "publishDate": "2026-06-03T01:00:56.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!v14V!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c0a0b8b-bba3-4f9b-a843-26c78c1bf070_774x675.png",
-      "description": "来自一线的观察：新加坡与印度尼西亚，2026年5月",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "Habang Nag-iisip pa ang mga Elite, Buong Asya'y Kumikilos na sa Renewable Energy!",
-      "link": "https://proelectrica.substack.com/p/habang-nag-iisip-pa-ang-mga-elite",
-      "publishDate": "2026-06-03T01:00:55.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!v14V!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c0a0b8b-bba3-4f9b-a843-26c78c1bf070_774x675.png",
-      "description": "Mga Obserbasyon Mula sa Larangan — Singapore at Indonesia, Mayo 2026",
       "author": "Danny Kennedy"
     },
     {
@@ -233,18 +269,6 @@
       "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/05/asia-renewable-investments-climate-capital-media-asia.jpg",
       "description": "Four initial investments are expected to avoid over a million tons of carbon dioxide emissions annually. The post Singapore’s blended finance fund secures US$800 million for energy transition appeared first on Climate an",
       "author": "Gabrielle See"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "Elite Cognitive Dissonance and the Asian Energy Disruption",
-      "link": "https://proelectrica.substack.com/p/elite-cognitive-dissonance-and-the",
-      "publishDate": "2026-05-28T15:44:53.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!v14V!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c0a0b8b-bba3-4f9b-a843-26c78c1bf070_774x675.png",
-      "description": "Notes from the Field — Singapore Indonesia, May 2026",
-      "author": "Danny Kennedy"
     },
     {
       "source": "ytShorts",
@@ -583,18 +607,6 @@
       "author": "Gabrielle See"
     },
     {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "The Last Excuse to Protect Fossils Just Died",
-      "link": "https://proelectrica.substack.com/p/the-last-excuse-to-protect-fossils",
-      "publishDate": "2026-05-07T14:56:26.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!FPc3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c481251-62c4-493c-b586-680f324e7913_2048x1323.jpeg",
-      "description": "Solar power is cheaper even with all the batteries, overbuild, and all of it...",
-      "author": "Danny Kennedy"
-    },
-    {
       "source": "ccAsia",
       "sourceLabel": "Climate & Capital Asia",
       "taxonomy": "ccasia",
@@ -653,18 +665,6 @@
       "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/04/lng-tank-climate-capital-media-asia.jpg",
       "description": "Conflict-driven price volatility, turbine shortages, and currency risk prompt regional leaders to rethink the fossil gas The post Iran war is undercutting the role of LNG in Asia appeared first on Climate and Capital Med",
       "author": "Kari Huus"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "Trump's War and the Electric Windfall",
-      "link": "https://proelectrica.substack.com/p/trumps-war-and-the-electric-windfall",
-      "publishDate": "2026-04-21T19:01:48.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!WxJF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16161fc6-7079-4fec-b564-23f93b57a1aa_1280x1280.jpeg",
-      "description": "Embers lighting the path to a Pax Electricana...",
-      "author": "Danny Kennedy"
     },
     {
       "source": "fkSignal",
