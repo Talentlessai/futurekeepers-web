@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T08:00:11.021Z",
+  "generatedAt": "2026-06-10T08:16:24.175Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Desa di Atas Air: Listrik 24 Jam & Bisnis Perempuan",
+      "link": "https://www.youtube.com/shorts/ijurUsI9Utg",
+      "publishDate": "2026-06-10T02:15:16.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/ijurUsI9Utg/hqdefault.jpg",
+      "description": "Di sebuah desa terpencil di Kalimantan Timur, listrik bersih bukan lagi mimpi. Berkat panel surya, desa di atas air ini kini menikmati energi 24 jam sehari, mengubah kehidupan dan membuka peluang baru. Pada bulan April i",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -212,18 +224,6 @@
       "publishDate": "2026-05-21T19:48:47.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/p0tNPTmadR8/hqdefault.jpg",
       "description": "Korea Selatan, negara yang sangat bergantung pada impor energi, kini bertekad untuk menggandakan kapasitas energi terbarukannya menjadi 100 gigawatt pada tahun 2030. Langkah ambisius ini adalah respons langsung terhadap ",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Krisis Energi Global: Asia & Amerika Latin Pimpin Revolusi Kendaraan Listrik! #shorts",
-      "link": "https://www.youtube.com/shorts/G9iL8JMu9lY",
-      "publishDate": "2026-05-20T22:01:45.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/G9iL8JMu9lY/hqdefault.jpg",
-      "description": "Krisis energi global ternyata mempercepat transisi ke transportasi ramah lingkungan di tempat yang tidak kita duga: Asia Tenggara dan Amerika Latin! Selama ini, perhatian dunia mungkin tertuju pada mobil listrik di Eropa",
       "author": "FutureKeepers Indonesian"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T08:00:20.838Z",
+  "generatedAt": "2026-06-10T08:16:34.005Z",
   "locale": "ur",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "پاکستان کا سولر انقلاب: ایک پینل، 3 کاروبار",
+      "link": "https://www.youtube.com/shorts/1EiiA_GXmAs",
+      "publishDate": "2026-06-10T04:00:27.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/1EiiA_GXmAs/hqdefault.jpg",
+      "description": "پاکستان نے اپنی چھتوں پر سولر کے انقلاب سے دنیا کو راستہ دکھایا ہے۔ بورنیو کے ایک پانی پر بسے گاؤں میں بھی یہی کہانی دہرائی جا رہی ہے جہاں بجلی ایک خواب تھی۔ اب ایک خاتون نے محض ایک سولر پینل سے اپنی زندگی اور اپنا کاروب",
+      "author": "FutureKeepers Urdu"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -284,18 +296,6 @@
       "publishDate": "2026-05-14T08:00:46.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/vXODexiV3mQ/hqdefault.jpg",
       "description": "ایشیا میں صاف توانائی کے شعبے میں تیزی سے ترقی ہو رہی ہے، جس میں Sunseap، Gotion High-Tech، اور New Energy Nexus Indonesia جیسے ادارے اہم کردار ادا کر رہے ہیں۔ یہ کمپنیاں نہ صرف جدید حل پیش کر رہی ہیں بلکہ خطے کے توانائی",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "بیٹری کی طاقت: خاموش سفید بکسے جو مستقبل کی توانائی کو ذخیرہ کر رہے ہیں",
-      "link": "https://www.youtube.com/shorts/bDPYkxD5bzc",
-      "publishDate": "2026-05-13T12:00:40.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/bDPYkxD5bzc/hqdefault.jpg",
-      "description": "کیا آپ جانتے ہیں کہ خاموش سفید بکسوں کی قطاریں اور قطاریں افق تک پھیلی ہوئی ہیں، جو ایک ایسی توانائی کو ذخیرہ کر رہی ہیں جس کا تصور بھی پچھلی نسلوں نے نہیں کیا تھا؟ یہ بیٹری اسٹوریج ہے، جو ہمارے مستقبل کو طاقتور بنا رہا ",
       "author": "FutureKeepers Urdu"
     },
     {

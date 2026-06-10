@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T08:00:24.052Z",
+  "generatedAt": "2026-06-10T08:16:37.315Z",
   "locale": "th",
   "counts": {
     "ytLongForm": 10,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "1 แผง, 3 ธุรกิจ: พลังงานในมือคุณเปลี่",
+      "link": "https://www.youtube.com/shorts/R1dD3sqbn1I",
+      "publishDate": "2026-06-10T02:45:16.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/R1dD3sqbn1I/hqdefault.jpg",
+      "description": "ในหมู่บ้านบ่อนีออ ที่เคยต้องพึ่งพาเครื่องปั่นไฟดีเซลราคาแพงและเสียงดังเพื่อให้มีไฟฟ้าใช้แค่ตอนกลางคืนเท่านั้น วันนี้ชีวิตของชาวบ้านได้เปลี่ยนไปอย่างสิ้นเชิงด้วยพลังงานแสงอาทิตย์ พลังงานหมุนเวียนทั่วโลกแซงหน้าก๊าซธรรมชาติ",
+      "author": "FutureKeepers Thai"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -260,18 +272,6 @@
       "publishDate": "2026-05-06T22:24:32.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/uxMLF3vECao/hqdefault.jpg",
       "description": "เชื้อเพลิงฟอสซิลกำลังเสื่อมถอย และโลกกำลังเปลี่ยนผ่านสู่พลังงานสะอาด ปากีสถานซึ่งมีภูมิประเทศและโครงสร้างเศรษฐกิจที่เป็นเอกลักษณ์ กำลังยืนอยู่บนทางแยกสำคัญ คุณพร้อมรับการเปลี่ยนแปลงนี้แล้วหรือยัง? วิดีโอนี้จะสำรวจว่าปากี",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "ปลดล็อกความมั่นคงพลังงาน: แสงอาทิตย์และลมคืออนาคต! #shorts",
-      "link": "https://www.youtube.com/shorts/Pm23eE3XXVE",
-      "publishDate": "2026-05-06T21:41:19.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/Pm23eE3XXVE/hqdefault.jpg",
-      "description": "ความมั่นคงทางพลังงานที่แท้จริงไม่ได้มาจากท่อส่งน้ำมัน แต่มาจากแสงอาทิตย์และลม! ตลอดหลายทศวรรษที่ผ่านมา เราถูกบอกว่าความมั่นคงของชาติขึ้นอยู่กับการควบคุมเส้นทางการจัดหาพลังงานฟอสซิล แต่โมเดลนี้กำลังล้มเหลว ทำให้ประเทศต่าง",
       "author": "FutureKeepers Thai"
     },
     {

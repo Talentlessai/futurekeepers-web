@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T08:00:07.688Z",
+  "generatedAt": "2026-06-10T08:16:20.852Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,18 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Borneo: Solar Power Fuels One Mother's 3 Businesses",
+      "link": "https://www.youtube.com/shorts/NcioDoziStA",
+      "publishDate": "2026-06-09T14:00:29.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/NcioDoziStA/hqdefault.jpg",
+      "description": "In a village built over the water in Borneo, electricity used to be a luxury, lasting only from dusk to dawn. For Aznaya, a mother, this meant relying on an expensive, fuel-guzzling diesel generator. But with the arrival",
+      "author": "FutureKeepers"
+    },
     {
       "source": "proElectrica",
       "sourceLabel": "ProElectrica",
@@ -532,18 +544,6 @@
       "publishDate": "2026-05-14T18:00:13.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/n76_uUcYsZg/hqdefault.jpg",
       "description": "Millions of Filipino families face high electricity bills tied to volatile global fossil fuel markets. But a quiet revolution is underway on rooftops across the nation, driven by communities taking power into their own h",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Reliable Clean Power: Asia's Leaders in Sustainable Energy Innovation",
-      "link": "https://www.youtube.com/shorts/hCP9G5cnzro",
-      "publishDate": "2026-05-14T14:00:25.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/hCP9G5cnzro/hqdefault.jpg",
-      "description": "Asia is at the forefront of the clean energy revolution, with innovative companies and initiatives driving significant advancements in sustainable power. This FutureKeepers News report highlights key players shaping the ",
       "author": "FutureKeepers"
     },
     {

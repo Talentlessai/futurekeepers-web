@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T08:00:14.244Z",
+  "generatedAt": "2026-06-10T08:16:27.495Z",
   "locale": "zh",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "风光发电首超天然气，中国力量全球闪耀",
+      "link": "https://www.youtube.com/shorts/qHhNUhDh4KU",
+      "publishDate": "2026-06-10T01:00:17.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/qHhNUhDh4KU/hqdefault.jpg",
+      "description": "你可能不知道，在婆罗洲的偏远水上村庄，来自中国的太阳能技术正在悄然改变成千上万人的生活。这些中国制造的太阳能电池板和储能电池，不仅为当地带来了24小时不间断的电力，更是点燃了女性创业的希望。 今年4月，全球风能和太阳能的发电量首次超过了天然气。 曾几何时，这里的电力全靠昂贵的柴油发电机，一升柴油撑不过一小时，电力供应只能从黄昏维持到黎明。如今，有了中国制造的太阳能电池板和储能电池，这里的电力24小时从不停歇。这正是中国工厂为世界注入的能",
+      "author": "Future Keepers Mandarin"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -236,18 +248,6 @@
       "publishDate": "2026-05-15T05:00:16.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/cb1SuQNhA90/hqdefault.jpg",
       "description": "想象一下：一排排寂静的白色箱子，绵延至地平线，没有烟雾，没有烟囱，没有燃料卡车。这并非科幻场景，而是世界各地正在崛起的大规模电池储能设施，它们代表着纯粹的能源存储，其规模是前几代人无法想象的。 早在2015年，全球电池产量仅约半个太瓦时。然而，到2025年，全球工厂的产量预计将是这一数字的八倍以上。到2028年，计划产能将超过每年13太瓦时，远超国际能源署（IEA）净零排放路径所预测的需求。这意味着，世界正在建设的电池容量，已经远远超过",
-      "author": "Future Keepers Mandarin"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "章鱼启发：分布式能源如何优化电网管理",
-      "link": "https://www.youtube.com/shorts/IAXeuuj4Kvo",
-      "publishDate": "2026-05-14T01:00:43.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/IAXeuuj4Kvo/hqdefault.jpg",
-      "description": "章鱼拥有独特的分散式神经系统，其超过一半的神经元分布在八条触手中，每条触手都能独立感知和反应。这种去中心化的控制方式在不断变化的复杂系统中表现出色，赋予章鱼极高的适应性。 与此形成对比的是，传统的电力系统通常围绕少数大型集中式发电机构建，其控制设计旨在满足相对可预测的需求。然而，随着风能和太阳能等间歇性可再生能源的日益普及，发电输出受天气、地点和时间等多种因素影响，使得传统集中式管理模式面临前所未有的挑战。 为了有效管理这种固有的波动性",
       "author": "Future Keepers Mandarin"
     },
     {

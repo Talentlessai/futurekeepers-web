@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T08:00:27.340Z",
+  "generatedAt": "2026-06-10T08:16:40.603Z",
   "locale": "hi",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "एक ब्लेंडर, तीन व्यवसाय: महिलाओं की स",
+      "link": "https://www.youtube.com/shorts/OKDCReiAhEU",
+      "publishDate": "2026-06-10T03:45:17.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/OKDCReiAhEU/hqdefault.jpg",
+      "description": "बोरनियो की एक माँ, असनियाह, ने अपने गांव में बिजली आने के बाद सिर्फ एक ब्लेंडर से तीन सफल व्यवसाय शुरू किए। उनके गांव को अब महिलाएं चला रही हैं, जो सौर ऊर्जा प्रणाली का प्रबंधन करती हैं। अप्रैल 2023 में, सौर और पवन ऊर्जा",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -248,18 +260,6 @@
       "publishDate": "2026-05-13T07:30:40.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/FFyvsJopIsM/hqdefault.jpg",
       "description": "क्या आप जानते हैं कि एक ऑक्टोपस का दिमाग हमें भविष्य की बिजली ग्रिड के बारे में क्या सिखा सकता है? इस वीडियो में, हम ऑक्टोपस के अद्भुत न्यूरल सिस्टम और आधुनिक ऊर्जा प्रणालियों के बीच के आश्चर्यजनक संबंध का पता लगाएंगे। ऑ",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "थाईलैंड में प्लास्टिक क्रेट से जंगल बहाली: एक कम लागत वाला क्रांतिकारी समाधान",
-      "link": "https://www.youtube.com/shorts/Zswpyq2h6-I",
-      "publishDate": "2026-05-13T03:30:39.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/Zswpyq2h6-I/hqdefault.jpg",
-      "description": "थाईलैंड में एक साधारण, कम तकनीक वाला विचार हजारों युवा पेड़ों को भीषण गर्मी और चरने वाले जानवरों से बचाकर जंगल बहाली में बड़ा प्रभाव डाल रहा है। यह अनूठा समाधान, पुराने प्लास्टिक क्रेट का उपयोग करके, नवजात पौधों को पनपने",
       "author": "Future Keepers Hindi"
     },
     {
