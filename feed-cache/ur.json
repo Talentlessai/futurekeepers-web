@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T08:16:34.005Z",
+  "generatedAt": "2026-06-11T08:54:22.051Z",
   "locale": "ur",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "توانائی کا خاموش انقلاب: اشرافیہ کی ذہنی کشمکش",
+      "link": "https://www.youtube.com/shorts/QE89_DaW0mk",
+      "publishDate": "2026-06-11T04:00:26.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/QE89_DaW0mk/hqdefault.jpg",
+      "description": "آپ نے کبھی اپنے ارد گرد غور کیا ہے؟ ایشیا میں توانائی کا ایک خاموش انقلاب آ رہا ہے، مگر عالمی مالیاتی ماہرین ابھی بھی پرانی بحثوں میں الجھے ہوئے ہیں۔ اس اپریل میں، ہوا اور شمسی توانائی نے پہلی بار عالمی سطح پر گیس سے زیا",
+      "author": "FutureKeepers Urdu"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -284,18 +296,6 @@
       "publishDate": "2026-05-14T12:00:16.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/yyWRUoHQRmw/hqdefault.jpg",
       "description": "دنیا بھر میں توانائی کے بحران کے درمیان، عام گھرانے خاموشی سے اپنے بجلی کے بلوں کا کنٹرول واپس لے رہے ہیں۔ یہ ویڈیو \"گوریلا سولر\" کی معیشت کا گہرائی سے تجزیہ کرتا ہے، یعنی عام گھروں میں سولر پینلز کی تنصیب جو اکثر سرکاری",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "ایشیا میں قابل بھروسہ صاف توانائی: Sunseap، Gotion High-Tech، اور New Energy Nexus Indonesia",
-      "link": "https://www.youtube.com/shorts/vXODexiV3mQ",
-      "publishDate": "2026-05-14T08:00:46.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/vXODexiV3mQ/hqdefault.jpg",
-      "description": "ایشیا میں صاف توانائی کے شعبے میں تیزی سے ترقی ہو رہی ہے، جس میں Sunseap، Gotion High-Tech، اور New Energy Nexus Indonesia جیسے ادارے اہم کردار ادا کر رہے ہیں۔ یہ کمپنیاں نہ صرف جدید حل پیش کر رہی ہیں بلکہ خطے کے توانائی",
       "author": "FutureKeepers Urdu"
     },
     {

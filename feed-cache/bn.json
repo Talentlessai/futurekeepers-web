@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T08:16:30.732Z",
+  "generatedAt": "2026-06-11T08:54:18.676Z",
   "locale": "bn",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "এপ্রিল ২০২৩: বায়ু ও সৌরশক্তি গ্যাস",
+      "link": "https://www.youtube.com/watch?v=7QmXD3eCk68",
+      "publishDate": "2026-06-11T03:00:26.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/7QmXD3eCk68/hqdefault.jpg",
+      "description": "অনেকেই মনে করেন, জ্বালানি বিপ্লব সুদূর ভবিষ্যতের ব্যাপার। কিন্তু আসলে এটা এখনই ঘটছে, আর এর এক দারুণ প্রমাণ হলো এপ্রিল ২০২৩-এর একটি বিশ্ব রেকর্ড। এই মাসে প্রথমবারের মতো বিশ্বব্যাপী বায়ু ও সৌরশক্তি গ্যাস-ভিত্তিক বিদ্যুৎ উ",
+      "author": "Future Keepers Bengali"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2025-03-25T22:51:56.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/csJKzue8Jt0/hqdefault.jpg",
       "description": "इस महीने दुनिया भर में प्रमुख जलवायु सम्मेलन हो रहे हैं, और FutureKeepers के संवाददाता शीर्ष कहानियाँ और महत्वपूर्ण सीखें कवर कर रहे हैं। ऑस्ट्रेलिया में, सिडनी की क्लाइमेट एक्शन वीक ने देश की प्रमुख महिला नेताओं के एक प",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "FutureKeepers-এর কনফারেন্স সিজন আপডেট",
-      "link": "https://www.youtube.com/watch?v=IM75NWlBI8Y",
-      "publishDate": "2025-03-25T22:44:39.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/IM75NWlBI8Y/hqdefault.jpg",
-      "description": "এই মাসে বিশ্বজুড়ে বড় বড় কনফারেন্সগুলোতে জলবায়ু নিয়ে আলোচনা চলছে। FutureKeepers-এর প্রতিনিধিরা তুলে আনছেন সেরা খবর ও মূল বার্তাগুলো। অস্ট্রেলিয়ায় সিডনির Climate Action Week-এ দেশের প্রভাবশালী নারী নেতাদের নিয়ে একট",
       "author": "Future Keepers Bengali"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T08:16:27.495Z",
+  "generatedAt": "2026-06-11T08:54:15.289Z",
   "locale": "zh",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "精英认知失调：可再生能源已超越天然气",
+      "link": "https://www.youtube.com/shorts/idsy3Of5eyI",
+      "publishDate": "2026-06-11T01:00:26.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/idsy3Of5eyI/hqdefault.jpg",
+      "description": "在全球精英们还在将太阳能视为“实验”时，一场能源革命已悄然发生，颠覆了传统认知。 就在今年四月，全球风能与太阳能发电量首次超越了天然气。 这种现象被我们的联合创始人丹尼·肯尼迪称为“精英认知失调”。在新加坡的会议室里，顶尖的能源金融精英们仍在小心翼翼地讨论太阳能，仿佛它还是一个未经验证的假设。然而，窗外真实的世界早已在悄然建设着这场革命。 亚洲，在很大程度上由中国制造的电池和面板驱动，正以惊人的速度拥抱清洁能源。这场革命并非停留在口头，",
+      "author": "Future Keepers Mandarin"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -236,18 +248,6 @@
       "publishDate": "2026-05-15T09:00:21.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/oZSfT_7cE7w/hqdefault.jpg",
       "description": "亚洲正在经历一场前所未有的能源转型，而可靠的清洁能源是这场变革的核心。本期FutureKeepers新闻聚焦于在该地区推动这一转变的关键参与者和创新解决方案。 Sunseap，作为东南亚最大的清洁能源开发商之一，正在通过其在新加坡的世界级浮动太阳能电站和数千栋建筑上的屋顶太阳能部署，引领分布式太阳能的潮流。他们独特的商业模式，包括企业购电协议（PPA）和创新项目，成功将水库、屋顶和工业区转化为高价值的清洁能源资产。 Gotion Hig",
-      "author": "Future Keepers Mandarin"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "电池革命：全球能源存储能力如何超越最乐观的预测",
-      "link": "https://www.youtube.com/shorts/cb1SuQNhA90",
-      "publishDate": "2026-05-15T05:00:16.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/cb1SuQNhA90/hqdefault.jpg",
-      "description": "想象一下：一排排寂静的白色箱子，绵延至地平线，没有烟雾，没有烟囱，没有燃料卡车。这并非科幻场景，而是世界各地正在崛起的大规模电池储能设施，它们代表着纯粹的能源存储，其规模是前几代人无法想象的。 早在2015年，全球电池产量仅约半个太瓦时。然而，到2025年，全球工厂的产量预计将是这一数字的八倍以上。到2028年，计划产能将超过每年13太瓦时，远超国际能源署（IEA）净零排放路径所预测的需求。这意味着，世界正在建设的电池容量，已经远远超过",
       "author": "Future Keepers Mandarin"
     },
     {

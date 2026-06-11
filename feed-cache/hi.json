@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T08:16:40.603Z",
+  "generatedAt": "2026-06-11T08:54:28.840Z",
   "locale": "hi",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "ऊर्जा क्रांति: सौर और पवन ऊर्जा ने गै",
+      "link": "https://www.youtube.com/watch?v=aE1u0MAg7jQ",
+      "publishDate": "2026-06-11T03:30:25.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/aE1u0MAg7jQ/hqdefault.jpg",
+      "description": "दुनिया की ऊर्जा दुनिया में एक ऐतिहासिक बदलाव आ गया है! अप्रैल 2026 में पहली बार, पवन और सौर ऊर्जा ने मिलकर गैस से ज़्यादा बिजली पैदा की। पवन और सौर ऊर्जा से 531 टेरावाट घंटे की क्लीन एनर्जी मिली, जबकि गैस से सिर्फ 477 टे",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2025-04-25T03:01:36.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/7AOqkqlhK0g/hqdefault.jpg",
       "description": "सिर्फ 19 देशों ने भेजी हैं अपनी NDC 3.0 जलवायु योजनाएँ—क्या आपका देश सिर्फ दिखावा कर रहा है या असली काम भी हो रहा है? 🤔🌍 350.org की रिपोर्ट के अनुसार, 195 देशों में से केवल 19 ने अब तक (10 मार्च तक) अपनी NDC 3.0 यानि 2",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "2024 में चीन की अर्थव्यवस्था में साफ ऊर्जा का योगदान | FutureKeepers - हिंदी",
-      "link": "https://www.youtube.com/watch?v=m7ZCjVq-Y-0",
-      "publishDate": "2025-03-07T22:35:06.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/m7ZCjVq-Y-0/hqdefault.jpg",
-      "description": "1.9 ट्रिलियन डॉलर। 2024 में चीन की अर्थव्यवस्था में साफ ऊर्जा का योगदान इतना था—इसके GDP का 10% से अधिक। अमेरिका में यह सिर्फ 1.5% है। सारांश? अक्षय ऊर्जा सिर्फ डीकार्बोनाइजेशन के बारे में नहीं है—यह आर्थिक विकास के बारे",
       "author": "Future Keepers Hindi"
     }
   ]

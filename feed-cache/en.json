@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T08:16:20.852Z",
+  "generatedAt": "2026-06-11T08:54:08.647Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,18 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Remote Village Is *Ahead* of Global Energy Leaders on Solar",
+      "link": "https://www.youtube.com/watch?v=xd0WdIgQ1X4",
+      "publishDate": "2026-06-10T14:00:21.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/xd0WdIgQ1X4/hqdefault.jpg",
+      "description": "While global energy leaders discuss renewable power as a distant 2040 goal, a remote village in Indonesian Borneo is already operating in the future, showcasing a profound global inversion. In April 2026, wind and solar ",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -532,18 +544,6 @@
       "publishDate": "2026-05-14T22:00:27.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/1wuebOS2b7U/hqdefault.jpg",
       "description": "In Pakistan, ordinary citizens bypassed the state by independently installing their own solar power, leading to a massive 46 gigawatts of imported solar and saving $12 billion in fuel costs in just two years. This \"grass",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Philippines' Grassroots Solar Revolution: How Households Beat High Energy Costs",
-      "link": "https://www.youtube.com/watch?v=n76_uUcYsZg",
-      "publishDate": "2026-05-14T18:00:13.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/n76_uUcYsZg/hqdefault.jpg",
-      "description": "Millions of Filipino families face high electricity bills tied to volatile global fossil fuel markets. But a quiet revolution is underway on rooftops across the nation, driven by communities taking power into their own h",
       "author": "FutureKeepers"
     },
     {

@@ -1,15 +1,27 @@
 {
-  "generatedAt": "2026-06-10T08:16:37.315Z",
+  "generatedAt": "2026-06-11T08:54:25.459Z",
   "locale": "th",
   "counts": {
-    "ytLongForm": 10,
+    "ytLongForm": 11,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 10,
+    "ytLongForm": 11,
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "เป็นเจ้าของแสงสว่าง: พลังงานแสงอา",
+      "link": "https://www.youtube.com/watch?v=ZBo6oqJEzTw",
+      "publishDate": "2026-06-11T02:15:17.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/ZBo6oqJEzTw/hqdefault.jpg",
+      "description": "ในเดือนเมษายน 2026 โลกได้เห็นเหตุการณ์สำคัญทางประวัติศาสตร์ เมื่อพลังงานลมและแสงอาทิตย์รวมกันผลิตไฟฟ้าได้มากกว่าก๊าซธรรมชาติทั่วโลกเป็นครั้งแรก ไม่ใช่เพราะสงครามน้ำมันหรือความขัดแย้งทางภูมิรัฐศาสตร์ แต่เป็นการเปลี่ยนแปลง",
+      "author": "FutureKeepers Thai"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
