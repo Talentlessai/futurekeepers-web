@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T08:54:22.051Z",
+  "generatedAt": "2026-06-12T08:41:31.647Z",
   "locale": "ur",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "اپریل 2026: ہوا اور سورج نے عالمی بجلی میں گیس کو پیچھے",
+      "link": "https://www.youtube.com/watch?v=_oNjvDK4Xcw",
+      "publishDate": "2026-06-12T04:00:18.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/_oNjvDK4Xcw/hqdefault.jpg",
+      "description": "آپ نے شاید سوچا ہوگا کہ عالمی توانائی کی تبدیلی کا سفر 2040 یا اس سے بھی آگے کی بات ہے، لیکن حقیقت یہ ہے کہ یہ پہلے ہی ہو چکا ہے۔ اپریل 2026 میں، ہوا اور سورج نے مل کر دنیا بھر میں گیس سے زیادہ بجلی پیدا کی۔ اس ایک ماہ م",
+      "author": "FutureKeepers Urdu"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-04-03T15:07:51.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/fieA62QYeS8/hqdefault.jpg",
       "description": "کیا ایک ملک اپنی سب سے بڑی کمزوری کو اپنی سب سے بڑی طاقت میں بدل سکتا ہے؟ پاکستان کی سبز توانائی کی طرف حیران کن کہانی دریافت کریں، جو عالمی بحران کے درمیان ایک امید کی کرن بن کر ابھری ہے۔ یہ ویڈیو ایک بڑے جغرافیائی سیاس",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "پاکستان کا پٹرول بحران: 458 روپے! کیا شمسی توانائی نے بچایا؟",
-      "link": "https://www.youtube.com/watch?v=5Xrtd2HC7Ds",
-      "publishDate": "2026-04-03T02:11:12.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/5Xrtd2HC7Ds/hqdefault.jpg",
-      "description": "ایک صبح اٹھیں اور دیکھیں کہ آپ کا پورا ملک مفلوج ہو چکا ہے۔ یہ کوئی خیالی کہانی نہیں، بلکہ 2026 میں پاکستان کو درپیش پٹرول کے بحران کی تلخ حقیقت ہے۔ پٹرول کی قیمت 458 روپے فی لیٹر تک پہنچ گئی، جس نے معیشت کا گلا گھونٹ دی",
       "author": "FutureKeepers Urdu"
     }
   ]

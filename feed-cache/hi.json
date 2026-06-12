@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T08:54:28.840Z",
+  "generatedAt": "2026-06-12T08:41:38.225Z",
   "locale": "hi",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "किचन काउंटर क्रांति: रोशनी पर अपना ह",
+      "link": "https://www.youtube.com/watch?v=X74-VHlCDM0",
+      "publishDate": "2026-06-12T03:30:18.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/X74-VHlCDM0/hqdefault.jpg",
+      "description": "इंडोनेशियाई बोर्नियो के एक दूरदराज के जल-ग्राम से लेकर वैश्विक ऊर्जा बाजार तक, एक मज़ेदार कहानी चल रही है। कल्पना कीजिए: एयर कंडीशन कमरों में बैठे नीति-निर्माता 2040 के परमाणु ऊर्जा लक्ष्यों पर बहस कर रहे हैं, जबकि जमीन प",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2025-05-21T06:15:59.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/zB-peMwh910/hqdefault.jpg",
       "description": "इस एपिसोड में हम एक ऐतिहासिक मोड़ पर नज़र डालते हैं — पहली बार, चीन के कार्बन डाइऑक्साइड (CO₂) उत्सर्जन में गिरावट देखने को मिली है, और वह भी आर्थिक मंदी के कारण नहीं, बल्कि स्वच्छ ऊर्जा के बड़े विस्तार की वजह से। Carbon",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "NDC 3.0: जलवायु के असली खिलाड़ी कौन? और कौन हैं बस भाषण के बाज़ीगर? 😎🌏",
-      "link": "https://www.youtube.com/watch?v=7AOqkqlhK0g",
-      "publishDate": "2025-04-25T03:01:36.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/7AOqkqlhK0g/hqdefault.jpg",
-      "description": "सिर्फ 19 देशों ने भेजी हैं अपनी NDC 3.0 जलवायु योजनाएँ—क्या आपका देश सिर्फ दिखावा कर रहा है या असली काम भी हो रहा है? 🤔🌍 350.org की रिपोर्ट के अनुसार, 195 देशों में से केवल 19 ने अब तक (10 मार्च तक) अपनी NDC 3.0 यानि 2",
       "author": "Future Keepers Hindi"
     }
   ]

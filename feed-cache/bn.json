@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T08:54:18.676Z",
+  "generatedAt": "2026-06-12T08:41:28.327Z",
   "locale": "bn",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "রান্নাঘরের ব্লেন্ডার: সৌরশক্তি চাল",
+      "link": "https://www.youtube.com/watch?v=EdSPWoq_0EU",
+      "publishDate": "2026-06-12T03:00:25.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/EdSPWoq_0EU/hqdefault.jpg",
+      "description": "আজকের এই বিশ্লেষণে আমরা পূর্ব কালিমান্থানের মুয়ারা অ্যাঙ্গেলাম গ্রামের এক অসাধারণ গল্প শুনব। ভাবুন তো, একসময় যেখানে বিদ্যুৎ ছিল শুধু সন্ধ্যা থেকে ভোর পর্যন্ত, আর জীবন চলত শব্দময় ডিজেল জেনারেটরের ওপর, সেখানে একটি সাধার",
+      "author": "Future Keepers Bengali"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2025-04-25T02:14:51.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/4iyjekS1CF0/hqdefault.jpg",
       "description": "১৯৫টি দেশের মধ্যে মাত্র ১৯টি! ৩৫০.org জানাচ্ছে, প্যারিস চুক্তিতে স্বাক্ষরকারী ১৯৫টি দেশের মধ্যে শুধু ১৯টি দেশ ২০২৫ সালের ১০ই মার্চ পর্যন্ত তাদের জাতীয়ভাবে নির্ধারিত অবদান (NDCs) বা জলবায়ু পরিকল্পনা জমা দিয়েছে। NDC ৩.০",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "मार्च के सम्मेलन वैश्विक स्तर पर जलवायु पर संवाद को आगे बढ़ा रहे हैं।",
-      "link": "https://www.youtube.com/watch?v=csJKzue8Jt0",
-      "publishDate": "2025-03-25T22:51:56.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/csJKzue8Jt0/hqdefault.jpg",
-      "description": "इस महीने दुनिया भर में प्रमुख जलवायु सम्मेलन हो रहे हैं, और FutureKeepers के संवाददाता शीर्ष कहानियाँ और महत्वपूर्ण सीखें कवर कर रहे हैं। ऑस्ट्रेलिया में, सिडनी की क्लाइमेट एक्शन वीक ने देश की प्रमुख महिला नेताओं के एक प",
       "author": "Future Keepers Bengali"
     }
   ]

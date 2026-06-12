@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T08:54:15.289Z",
+  "generatedAt": "2026-06-12T08:41:25.076Z",
   "locale": "zh",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "厨房台面上的革命：一个搅拌机如何改变生活",
+      "link": "https://www.youtube.com/watch?v=RZyNAAPyphg",
+      "publishDate": "2026-06-12T01:00:18.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/RZyNAAPyphg/hqdefault.jpg",
+      "description": "欢迎来到FutureKeepers的深度解析，今天我们不谈遥远的未来，而是聚焦当下，看看一场真实的“厨房台面上的革命”是如何在亚洲偏远地区上演的。想象一下，在印度尼西亚婆罗洲的一个水上村庄，一位母亲如何利用太阳能，将一台小小的电动搅拌机变成她创业的“印钞机”。 2026年4月，风能和太阳能的全球发电份额首次超越天然气，达到22%。 阿斯尼亚，这位三个孩子的母亲，曾依赖一台老旧、嘈杂且耗油的柴油发电机，每天只有短暂的供电时间。但自从201",
+      "author": "Future Keepers Mandarin"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2025-09-24T00:04:31.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/_ckh-zVqW14/hqdefault.jpg",
       "description": "FutureKeepers 是一个由人驱动、由人工智能放大影响力的全球叙事平台。 我们聚焦那些正在塑造一个可持续、互联与公正世界的思想、突破与社区。 从亚洲的太阳能浪潮，到德州的电网创新，FutureKeepers 穿透喧嚣，传递真正重要的进展。 这股力量，势不可挡。",
-      "author": "Future Keepers Mandarin"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "2025气候周盛况！从纽约到曼谷，你不能错过的亮点！",
-      "link": "https://www.youtube.com/watch?v=asrbIznTmf0",
-      "publishDate": "2025-09-09T19:08:14.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/asrbIznTmf0/hqdefault.jpg",
-      "description": "从纽约到曼谷，2025 是气候行动的重要一年。纽约气候周（9月21日–28日）将汇聚全球领袖、企业和活动家，聚焦清洁能源、产业转型和人工智能的能源需求，演讲嘉宾包括联合国大使兼名厨 马西莫·博图拉 和《纽约时报》气候记者 索米尼·森古普塔。紧接着，曼谷将迎来首届气候行动周（9月28日–10月4日），通过工作坊、展览和社区活动，推动东南亚绿色转型。两座城市，一个使命：让气候解决方案真正落地。 #气候周2025 #纽约气候周 #曼谷气候周 ",
       "author": "Future Keepers Mandarin"
     }
   ]

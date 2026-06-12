@@ -1,15 +1,27 @@
 {
-  "generatedAt": "2026-06-11T08:54:25.459Z",
+  "generatedAt": "2026-06-12T08:41:34.940Z",
   "locale": "th",
   "counts": {
-    "ytLongForm": 11,
+    "ytLongForm": 12,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 11,
+    "ytLongForm": 12,
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "พลังงานแสงอาทิตย์และลมแซงก๊าซธร",
+      "link": "https://www.youtube.com/watch?v=dS8AsMubovg",
+      "publishDate": "2026-06-12T02:00:30.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/dS8AsMubovg/hqdefault.jpg",
+      "description": "ยินดีต้อนรับสู่บทวิเคราะห์ข้อมูลของ FutureKeepers ในวันนี้! เราจะพาคุณเจาะลึกถึงคลื่นลูกยักษ์ที่กำลังพลิกโฉมวิธีการผลิตพลังงานของโลก สถิติโลกสดๆ ร้อนๆ ที่เพิ่งถูกบันทึกไว้เมื่อเดือนเมษายน 2026 เผยว่า พลังงานลมและแสงอาทิต",
+      "author": "FutureKeepers Thai"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T08:54:12.015Z",
+  "generatedAt": "2026-06-12T08:41:21.753Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Blender dan Ruang Rapat: Energi Bersih dari Meja Dapur",
+      "link": "https://www.youtube.com/watch?v=HgSz_NtxgUY",
+      "publishDate": "2026-06-12T02:15:16.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/HgSz_NtxgUY/hqdefault.jpg",
+      "description": "Bayangkan sebuah revolusi energi global yang tidak dimulai di ruang rapat elit, tetapi di meja dapur sebuah desa terpencil. Inilah kisah nyata di mana sebuah blender bertenaga surya menjadi pemicu kemandirian ekonomi. Un",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-04-02T23:45:05.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/43uCtM8-4hc/hqdefault.jpg",
       "description": "Dampak dari konflik dan guncangan energi yang terjadi meliputi: Gangguan logistik: Konflik antara AS dan Israel melawan Iran menghambat Selat Hormuz, jalur pelayaran penting yang menangani sekitar 20% minyak dunia dan se",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Hujan Hitam, Sinyal Terang",
-      "link": "https://www.youtube.com/watch?v=skPRNCGvN7Y",
-      "publishDate": "2026-03-25T18:23:44.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/skPRNCGvN7Y/hqdefault.jpg",
-      "description": "Hujan hitam di atas Teheran, karbon membubung di langit, dan gelombang kejut yang merambat ke seluruh ekonomi global. Perang AS–Israel dengan Iran sedang membentuk ulang keamanan energi global. Ini adalah peringatan yang",
       "author": "FutureKeepers Indonesian"
     }
   ]
