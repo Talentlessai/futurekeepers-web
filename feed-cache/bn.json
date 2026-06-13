@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T08:41:28.327Z",
+  "generatedAt": "2026-06-13T07:55:43.936Z",
   "locale": "bn",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "বিশ্বে প্রথমবার: বায়ু ও সৌরবিদ্যুৎ",
+      "link": "https://www.youtube.com/watch?v=YlPEobB08HU",
+      "publishDate": "2026-06-13T03:00:22.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/YlPEobB08HU/hqdefault.jpg",
+      "description": "ইন্দোনেশিয়ার প্রত্যন্ত গ্রামে আসনিয়ার সৌরবিদ্যুৎ চালিত ব্লেন্ডার থেকে শুরু করে বিশ্বজুড়ে নবায়নযোগ্য শক্তির উত্থান পর্যন্ত, একটি নীরব বিপ্লব চলছে। এপ্রিল ২০২৩-এ বিশ্বব্যাপী বায়ু ও সৌরবিদ্যুৎ উৎপাদন প্রথমবারের মতো গ্যা",
+      "author": "Future Keepers Bengali"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2025-05-21T06:21:31.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/j-xWMSxBERg/hqdefault.jpg",
       "description": "এই পর্বে আমরা আলোচনা করছি একটি ঐতিহাসিক অগ্রগতি নিয়ে—প্রথমবারের মতো চীনের কার্বন ডাই অক্সাইড (CO₂) নিঃসরণ কমেছে অর্থনৈতিক মন্দার কারণে নয়, বরং বিশাল পরিমাণে পরিষ্কার শক্তি উৎপাদনের ফলে। Carbon Brief-এর সাম্প্রতিক বিশ্ল",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "NDC ৩.০: কোন দেশগুলো জলবায়ু নিয়ে আসলেই কাজ করছে, আর কারা শুধু দেখানোর জন্য বলছে?",
-      "link": "https://www.youtube.com/watch?v=4iyjekS1CF0",
-      "publishDate": "2025-04-25T02:14:51.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/4iyjekS1CF0/hqdefault.jpg",
-      "description": "১৯৫টি দেশের মধ্যে মাত্র ১৯টি! ৩৫০.org জানাচ্ছে, প্যারিস চুক্তিতে স্বাক্ষরকারী ১৯৫টি দেশের মধ্যে শুধু ১৯টি দেশ ২০২৫ সালের ১০ই মার্চ পর্যন্ত তাদের জাতীয়ভাবে নির্ধারিত অবদান (NDCs) বা জলবায়ু পরিকল্পনা জমা দিয়েছে। NDC ৩.০",
       "author": "Future Keepers Bengali"
     }
   ]

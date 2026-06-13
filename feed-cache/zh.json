@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T08:41:25.076Z",
+  "generatedAt": "2026-06-13T07:55:40.624Z",
   "locale": "zh",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "2026年4月：风能与太阳能发电量历史性超越天然气",
+      "link": "https://www.youtube.com/watch?v=7P43XkqYXIM",
+      "publishDate": "2026-06-13T01:00:17.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/7P43XkqYXIM/hqdefault.jpg",
+      "description": "欢迎收看本期深度解析，今天我们来聊聊全球能源未来演进中的一个惊人现实：能源转型不仅已经到来，而且正在以超乎想象的速度改变世界。一个关键里程碑是：**2026年4月，全球风能和太阳能的总发电量达到了531太瓦时，首次超越了天然气的477太瓦时。** 故事要从印度尼西亚婆罗洲的一个水上村庄说起。以前，这里完全与现代电网隔绝，供电依赖昂贵、嘈杂且不可靠的柴油发电机，一升油甚至撑不了一小时。但从2015年起，这个村庄通过安装太阳能电池板和关键的",
+      "author": "Future Keepers Mandarin"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-03-25T17:59:34.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/NAjNkEb4XSY/hqdefault.jpg",
       "description": "德黑兰上空的黑色降雨，翻涌于天空的碳云，以及冲击全球经济的震荡波。美国-以色列与伊朗的战争正在重塑全球能源安全格局。 这是一个严峻的警告，但同时也提醒我们：能源安全、气候稳定和经济韧性如今正指向同一个方向——在整个亚洲加速、更公平地推进可再生能源和电气化发展。",
-      "author": "Future Keepers Mandarin"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "欢迎来到 FutureKeepers：加入这股浪潮，它势不可挡！",
-      "link": "https://www.youtube.com/watch?v=_ckh-zVqW14",
-      "publishDate": "2025-09-24T00:04:31.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/_ckh-zVqW14/hqdefault.jpg",
-      "description": "FutureKeepers 是一个由人驱动、由人工智能放大影响力的全球叙事平台。 我们聚焦那些正在塑造一个可持续、互联与公正世界的思想、突破与社区。 从亚洲的太阳能浪潮，到德州的电网创新，FutureKeepers 穿透喧嚣，传递真正重要的进展。 这股力量，势不可挡。",
       "author": "Future Keepers Mandarin"
     }
   ]

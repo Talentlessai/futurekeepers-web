@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T08:41:38.225Z",
+  "generatedAt": "2026-06-13T07:55:53.874Z",
   "locale": "hi",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "ब्लेंडर और बोर्डरूम: एशिया की ऊर्जा",
+      "link": "https://www.youtube.com/watch?v=HGo1txux910",
+      "publishDate": "2026-06-13T03:30:16.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/HGo1txux910/hqdefault.jpg",
+      "description": "क्या आप जानते हैं कि जब दुनिया के बोर्डरूम अभी भी 2040 के ऊर्जा लक्ष्यों पर बहस कर रहे हैं, एशिया के गाँव और कारखाने आज ही सोलर क्रांति से जगमगा रहे हैं? यह वीडियो दिखाता है कि एसी कमरों में बैठे एक्सपर्ट्स और ज़मीन पर ह",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2025-05-21T06:17:13.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/Y1pk5Rakew4/hqdefault.jpg",
       "description": "चीन ने पर्यावरण के क्षेत्र में एक ऐतिहासिक उपलब्धि हासिल की है। पहली बार, देश में CO₂ उत्सर्जन में गिरावट स्वच्छ ऊर्जा उत्पादन में तेज़ बढ़ोतरी के कारण हुई है — न कि आर्थिक मंदी की वजह से। Carbon Brief की रिपोर्ट के अनुस",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "इतिहास में पहली बार: चीन में CO₂ उत्सर्जन में गिरावट, वजह है स्वच्छ ऊर्जा की तेज़ रफ्तार! 🌱⚡",
-      "link": "https://www.youtube.com/watch?v=zB-peMwh910",
-      "publishDate": "2025-05-21T06:15:59.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/zB-peMwh910/hqdefault.jpg",
-      "description": "इस एपिसोड में हम एक ऐतिहासिक मोड़ पर नज़र डालते हैं — पहली बार, चीन के कार्बन डाइऑक्साइड (CO₂) उत्सर्जन में गिरावट देखने को मिली है, और वह भी आर्थिक मंदी के कारण नहीं, बल्कि स्वच्छ ऊर्जा के बड़े विस्तार की वजह से। Carbon",
       "author": "Future Keepers Hindi"
     }
   ]

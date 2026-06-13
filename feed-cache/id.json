@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T08:41:21.753Z",
+  "generatedAt": "2026-06-13T07:55:37.301Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "531 TWh: Matahari Kalahkan Gas di Desa-desa Terapung",
+      "link": "https://www.youtube.com/watch?v=bvY1Kef0MkY",
+      "publishDate": "2026-06-13T02:00:25.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/bvY1Kef0MkY/hqdefault.jpg",
+      "description": "Pernahkah Anda berpikir bahwa masa depan energi masih jauh, hanya fiksi ilmiah? Siap-siap kaget! Di banyak desa di Asia, transisi energi sudah menjadi kenyataan. Bayangkan, energi angin dan surya *telah resmi melampaui g",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-04-03T15:14:31.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/qJEW0Sd18QU/hqdefault.jpg",
       "description": "Bisakah Indonesia mewujudkan ambisi 100 Gigawatt tenaga surya? Bayangkan ribuan desa dan sekolah di pelosok Indonesia menjadi pusat listrik mandiri dengan energi bersih. Ini bukan sekadar angka, tapi sebuah visi besar un",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Solusi jangka pendek tidak membangun keamanan nasional",
-      "link": "https://www.youtube.com/watch?v=43uCtM8-4hc",
-      "publishDate": "2026-04-02T23:45:05.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/43uCtM8-4hc/hqdefault.jpg",
-      "description": "Dampak dari konflik dan guncangan energi yang terjadi meliputi: Gangguan logistik: Konflik antara AS dan Israel melawan Iran menghambat Selat Hormuz, jalur pelayaran penting yang menangani sekitar 20% minyak dunia dan se",
       "author": "FutureKeepers Indonesian"
     }
   ]

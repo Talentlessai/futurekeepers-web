@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T08:41:31.647Z",
+  "generatedAt": "2026-06-13T07:55:47.259Z",
   "locale": "ur",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "بلینڈر اور بورڈ روم: شمسی توانائی کا خاموش انقلاب",
+      "link": "https://www.youtube.com/watch?v=NR8gRC_h-Ec",
+      "publishDate": "2026-06-13T04:00:17.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/NR8gRC_h-Ec/hqdefault.jpg",
+      "description": "انڈونیشیا کے ایک دور دراز گاؤں میں، ایک خستہ حال ڈیزل جنریٹر تھا جو وہاں کی زندگی کو کنٹرول کرتا تھا۔ اس کی وجہ سے، ایک بلینڈر کا استعمال بھی ایک مالیاتی جوا بن گیا تھا۔ لیکن جب شمسی توانائی آئی تو اس نے سب کچھ بدل دیا۔ ",
+      "author": "FutureKeepers Urdu"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-04-18T19:52:24.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/5ODpH-swsHI/hqdefault.jpg",
       "description": "بحران اور موقع – یہ دو الفاظ اکثر ساتھ ساتھ چلتے ہیں، خاص طور پر توانائی کی دنیا میں۔ یہ ویڈیو اس بات پر روشنی ڈالتی ہے کہ کیسے 2020 کی دہائی میں پیش آنے والے دو بڑے توانائی کے جھٹکوں نے دراصل ہمیں ایک بہتر، روشن اور برق",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "پاکستان: بحران سے سبز توانائی کی فتح تک | ایک ناممکن کہانی",
-      "link": "https://www.youtube.com/watch?v=fieA62QYeS8",
-      "publishDate": "2026-04-03T15:07:51.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/fieA62QYeS8/hqdefault.jpg",
-      "description": "کیا ایک ملک اپنی سب سے بڑی کمزوری کو اپنی سب سے بڑی طاقت میں بدل سکتا ہے؟ پاکستان کی سبز توانائی کی طرف حیران کن کہانی دریافت کریں، جو عالمی بحران کے درمیان ایک امید کی کرن بن کر ابھری ہے۔ یہ ویڈیو ایک بڑے جغرافیائی سیاس",
       "author": "FutureKeepers Urdu"
     }
   ]

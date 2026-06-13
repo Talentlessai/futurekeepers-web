@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T08:41:18.305Z",
+  "generatedAt": "2026-06-13T07:55:34.058Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,18 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "April 2026: Wind & Solar Overtake Gas Globally",
+      "link": "https://www.youtube.com/watch?v=B3Cw3OD_azE",
+      "publishDate": "2026-06-12T14:00:29.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/B3Cw3OD_azE/hqdefault.jpg",
+      "description": "The global energy landscape quietly shifted in April 2026, when wind and solar energy collectively surpassed natural gas in electricity generation worldwide. This monumental crossover saw wind and solar produce 531 Teraw",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -532,18 +544,6 @@
       "publishDate": "2026-05-15T14:15:16.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/OFyXJLsT_To/hqdefault.jpg",
       "description": "Filipinos are fighting back against soaring electricity bills with a surprising solution: 'gorilla solar.' Learn how households in Metro Manila and beyond are bypassing traditional utilities and slow regulatory processes",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Guerrilla Solar: How Filipinos Built a Secret Energy Grid",
-      "link": "https://www.youtube.com/watch?v=yCLIpqYebFo",
-      "publishDate": "2026-05-15T14:00:17.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/yCLIpqYebFo/hqdefault.jpg",
-      "description": "Powering a dense metropolis requires an immense flow of electricity every single day. In the Philippines, the official registered rooftop solar capacity is 170 MW, but satellite imagery reveals another 370 MW of unregist",
       "author": "FutureKeepers"
     },
     {
