@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T07:55:47.259Z",
+  "generatedAt": "2026-06-14T08:21:16.097Z",
   "locale": "ur",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "بلینڈر اور بورڈ روم: ایک چھوٹی مشین، بڑی تبدیلی",
+      "link": "https://www.youtube.com/watch?v=i9zYcBaPl5k",
+      "publishDate": "2026-06-14T04:00:24.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/i9zYcBaPl5k/hqdefault.jpg",
+      "description": "شروع کرتے ہیں آج کا یہ خاص تجزیہ۔ ہم سیدھا چلتے ہیں ایک ایسی جگہ جو شاید دنیا کے نقشے پر ڈھونڈنا مشکل ہو، لیکن اس کی کہانی بالکل ہمارے اپنے گھروں جیسی ہے۔ ذرا تصور میں لائیں، انڈونیشیا کے علاقے بورنیو میں پانی کے اوپر بس",
+      "author": "FutureKeepers Urdu"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-04-18T19:52:45.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/_G-q4vWIW8Q/hqdefault.jpg",
       "description": "In April 2026, Indonesia implemented a strict 50-liter daily maximum for subsidized fuels, enforced by digital tracking. This policy, a response to soaring global oil prices and a critical state budget burden, inadverten",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "توانائی کا انقلاب: 1970 کے بحران سے 2020 کے نئے حل تک",
-      "link": "https://www.youtube.com/watch?v=5ODpH-swsHI",
-      "publishDate": "2026-04-18T19:52:24.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/5ODpH-swsHI/hqdefault.jpg",
-      "description": "بحران اور موقع – یہ دو الفاظ اکثر ساتھ ساتھ چلتے ہیں، خاص طور پر توانائی کی دنیا میں۔ یہ ویڈیو اس بات پر روشنی ڈالتی ہے کہ کیسے 2020 کی دہائی میں پیش آنے والے دو بڑے توانائی کے جھٹکوں نے دراصل ہمیں ایک بہتر، روشن اور برق",
       "author": "FutureKeepers Urdu"
     }
   ]

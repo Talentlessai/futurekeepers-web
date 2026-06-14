@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T07:55:34.058Z",
+  "generatedAt": "2026-06-14T08:21:02.927Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,18 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Solar's Silent Revolution: Renewables Overtake Gas",
+      "link": "https://www.youtube.com/watch?v=v-xX3LpQOiE",
+      "publishDate": "2026-06-13T14:00:24.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/v-xX3LpQOiE/hqdefault.jpg",
+      "description": "In the village of Moara and Glum, Indonesian Borneo, electricity was once limited to a few hours a day, powered by an expensive, fuel-thirsty diesel generator. But in 2015, solar arrays and battery banks arrived, transfo",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -532,18 +544,6 @@
       "publishDate": "2026-05-15T18:00:13.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/I-49QNgRO5A/hqdefault.jpg",
       "description": "Manila is tangled in traffic and rising utility bills, but 250 miles north, Ilocos Norte is doing something radical. This peaceful, agriculture-driven province is building a province-led rooftop solar campaign, offering ",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Philippines' 'Gorilla Solar' Outsmarts High Energy Costs & Slow Bureaucracy",
-      "link": "https://www.youtube.com/watch?v=OFyXJLsT_To",
-      "publishDate": "2026-05-15T14:15:16.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/OFyXJLsT_To/hqdefault.jpg",
-      "description": "Filipinos are fighting back against soaring electricity bills with a surprising solution: 'gorilla solar.' Learn how households in Metro Manila and beyond are bypassing traditional utilities and slow regulatory processes",
       "author": "FutureKeepers"
     },
     {
