@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T08:21:02.927Z",
+  "generatedAt": "2026-06-15T10:31:59.954Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,18 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Cambodia Shattered Its Solar Targets Early",
+      "link": "https://www.youtube.com/watch?v=QSgJBEqZJZs",
+      "publishDate": "2026-06-14T14:00:26.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/QSgJBEqZJZs/hqdefault.jpg",
+      "description": "Did you know a single policy change in Cambodia led to them blowing past their renewable energy targets years ahead of schedule? It's a powerful lesson in how quickly clean energy can grow when artificial barriers are re",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -532,18 +544,6 @@
       "publishDate": "2026-05-15T18:15:16.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/zKEnIW-e4Oc/hqdefault.jpg",
       "description": "A secret energy revolution is underway on the rooftops of the Philippines! Faced with skyrocketing electricity bills and government inaction, ordinary Filipinos are taking power into their own hands. This isn't just abou",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Philippines' Solar Revolution: How One Province Bypassed Energy Gridlock",
-      "link": "https://www.youtube.com/watch?v=I-49QNgRO5A",
-      "publishDate": "2026-05-15T18:00:13.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/I-49QNgRO5A/hqdefault.jpg",
-      "description": "Manila is tangled in traffic and rising utility bills, but 250 miles north, Ilocos Norte is doing something radical. This peaceful, agriculture-driven province is building a province-led rooftop solar campaign, offering ",
       "author": "FutureKeepers"
     },
     {
