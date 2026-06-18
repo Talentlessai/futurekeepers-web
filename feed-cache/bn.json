@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T09:10:38.496Z",
+  "generatedAt": "2026-06-18T08:54:46.416Z",
   "locale": "bn",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "মঙ্গল নাকি সৌরশক্তি? ভবিষ্যৎ কোন পথ",
+      "link": "https://www.youtube.com/shorts/NETuaKTS9xg",
+      "publishDate": "2026-06-18T03:00:17.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/NETuaKTS9xg/hqdefault.jpg",
+      "description": "মঙ্গল গ্রহের জন্য ট্রিলিয়ন ডলার খরচ করা কি আদৌ বুদ্ধিমানের কাজ? নাকি পৃথিবীতেই আমাদের ভবিষ্যৎ গড়ার সুযোগ রয়েছে? এই ভিডিওতে, আমরা মঙ্গল যাত্রার উচ্চাকাঙ্ক্ষী পরিকল্পনার বিপরীতে পৃথিবীর জন্য টেকসই সমাধানের বাস্তবতাকে তু",
+      "author": "Future Keepers Bengali"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -248,18 +260,6 @@
       "publishDate": "2026-05-15T03:00:25.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/e0HrnGcOOuQ/hqdefault.jpg",
       "description": "ফিলিপাইনে 'গেরিলা সোলার' মডেল কীভাবে 370 মেগাওয়াট সৌর প্যানেল ছাদের উপর স্থাপন করে বিদ্যুৎ উৎপাদন করছে, তা কি জানেন? বাংলাদেশেও SREDA এবং IDCOL-এর মাধ্যমে এমন উদ্যোগ নেওয়া হয়েছে, যা আমাদের জ্বালানি স্বাধীনতা অর্জনে সা",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "গরিলা সান: সৌরশক্তি দিয়ে বাংলাদেশ কীভাবে বিলিয়ন ডলার সাশ্রয় করতে পারে?",
-      "link": "https://www.youtube.com/shorts/3zuB6FnE0co",
-      "publishDate": "2026-05-14T11:00:16.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/3zuB6FnE0co/hqdefault.jpg",
-      "description": "ফিলিপাইনে 'গরিলা সান' আন্দোলনের মাধ্যমে ৩০০ মেগাওয়াটেরও বেশি অপরিকল্পিত সৌর প্যানেল ছাদে বসানো হয়েছে। এটি দেখায় যে কীভাবে স্থানীয় উদ্যোগগুলি একটি দেশের শক্তি ল্যান্ডস্কেপকে রূপান্তর করতে পারে। বাংলাদেশে SREDA এবং IDC",
       "author": "Future Keepers Bengali"
     },
     {

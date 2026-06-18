@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T09:10:35.105Z",
+  "generatedAt": "2026-06-18T08:54:43.012Z",
   "locale": "zh",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "未来不是骗局！地球VS火星，你的钱投哪儿？",
+      "link": "https://www.youtube.com/shorts/qzSBIKtQmfM",
+      "publishDate": "2026-06-18T01:00:17.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/qzSBIKtQmfM/hqdefault.jpg",
+      "description": "你还在梦想着逃离地球，把钱投向火星吗？这个视频将揭示为什么真正的未来不在太空，而在我们脚下的这颗星球。 你知道吗？有人建议花费万亿购买火星上的红色岩石，而地球上的清洁能源转型成本却在持续下降。 视频中，我们看到两种截然不同的未来愿景。一边是鼓吹把退休金投入火星殖民的激进投资者，他们只关心个人利益和遥不可及的梦想。另一边是致力于地球可持续发展的环保主义者，他们通过太阳能、电动汽车和社区合作，为我们共同的家园创造一个更光明、更清洁的未来。 ",
+      "author": "Future Keepers Mandarin"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -260,18 +272,6 @@
       "publishDate": "2026-05-16T01:00:17.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/86yyLz9JxA0/hqdefault.jpg",
       "description": "全球能源危机正以飙升的电费账单直接影响着千家万户。然而，一场由普通民众主导的“游击队太阳能”浪潮正在东南亚悄然兴起，绕过繁琐的政府审批和行动迟缓的机构，直接为家庭提供解决方案。 本期解读深入探讨了这一现象，揭示了菲律宾等国未注册屋顶太阳能容量远超官方记录的惊人事实。我们分析了传统公用事业公司在作为电网运营商和电力销售商之间的结构性垄断与利益冲突，正是这种冲突导致了政策审批的滞后和监管的不足。然而，正如巴基斯坦的经验所示，自下而上的民间力",
-      "author": "Future Keepers Mandarin"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "可靠的清洁能源：亚洲能源转型中的创新力量",
-      "link": "https://www.youtube.com/shorts/oZSfT_7cE7w",
-      "publishDate": "2026-05-15T09:00:21.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/oZSfT_7cE7w/hqdefault.jpg",
-      "description": "亚洲正在经历一场前所未有的能源转型，而可靠的清洁能源是这场变革的核心。本期FutureKeepers新闻聚焦于在该地区推动这一转变的关键参与者和创新解决方案。 Sunseap，作为东南亚最大的清洁能源开发商之一，正在通过其在新加坡的世界级浮动太阳能电站和数千栋建筑上的屋顶太阳能部署，引领分布式太阳能的潮流。他们独特的商业模式，包括企业购电协议（PPA）和创新项目，成功将水库、屋顶和工业区转化为高价值的清洁能源资产。 Gotion Hig",
       "author": "Future Keepers Mandarin"
     },
     {

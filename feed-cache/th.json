@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T09:10:45.183Z",
+  "generatedAt": "2026-06-18T08:54:52.902Z",
   "locale": "th",
   "counts": {
     "ytLongForm": 12,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "ดาวอังคารหรือโลก: ลงทุนที่ไหนดีกว",
+      "link": "https://www.youtube.com/shorts/vS9avfQJvZg",
+      "publishDate": "2026-06-18T02:15:16.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/vS9avfQJvZg/hqdefault.jpg",
+      "description": "อีลอน มัสก์ ชวนคุณไปดาวอังคาร แต่บาร์บี้กับแพนด้ามีข้อเสนอที่ดีกว่าสำหรับอนาคตของคุณบนโลกใบนี้ การลงทุนในพลังงานสะอาดบนโลกสามารถให้ผลตอบแทน 24/7 และสร้างอนาคตที่ยั่งยืนสำหรับทุกคน วิดีโอนี้ใช้ฟิกเกอร์ของเล่นยอดนิยมเพื่อท",
+      "author": "FutureKeepers Thai"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -284,18 +296,6 @@
       "publishDate": "2026-05-08T21:09:20.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/7Xmjhi-10VY/hqdefault.jpg",
       "description": "เมื่อเส้นทางขนส่งน้ำมันสำคัญของโลกอย่างช่องแคบฮอร์มุซเผชิญความไม่มั่นคง ราคาพลังงานที่พุ่งสูงขึ้นได้สร้างแรงกดดันมหาศาลต่อเศรษฐกิจของปากีสถาน ซึ่งพึ่งพาการนำเข้าน้ำมันอย่างหนัก นี่ไม่ใช่แค่เรื่องภูมิรัฐศาสตร์ที่ไกลตัว แต",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "ปากีสถาน: พลิกวิกฤตพลังงาน สู่โอกาสใหม่พลังงานสะอาด!",
-      "link": "https://www.youtube.com/shorts/uxMLF3vECao",
-      "publishDate": "2026-05-06T22:24:32.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/uxMLF3vECao/hqdefault.jpg",
-      "description": "เชื้อเพลิงฟอสซิลกำลังเสื่อมถอย และโลกกำลังเปลี่ยนผ่านสู่พลังงานสะอาด ปากีสถานซึ่งมีภูมิประเทศและโครงสร้างเศรษฐกิจที่เป็นเอกลักษณ์ กำลังยืนอยู่บนทางแยกสำคัญ คุณพร้อมรับการเปลี่ยนแปลงนี้แล้วหรือยัง? วิดีโอนี้จะสำรวจว่าปากี",
       "author": "FutureKeepers Thai"
     },
     {
