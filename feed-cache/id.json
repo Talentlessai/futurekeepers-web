@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T08:54:39.646Z",
+  "generatedAt": "2026-06-19T09:13:58.030Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Indonesia: Tenaga Surya Lampaui Gas, Dibuat Bukan Ditambang",
+      "link": "https://www.youtube.com/shorts/eDnJo7gXp-s",
+      "publishDate": "2026-06-19T02:00:23.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/eDnJo7gXp-s/hqdefault.jpg",
+      "description": "Indonesia, negara kepulauan dengan sedikit minyak, kini memimpin revolusi energi bersih. Komunitas di seluruh negeri memilih tenaga surya, menciptakan transisi energi yang dibuat, bukan ditambang. Untuk pertama kalinya, ",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -236,18 +248,6 @@
       "publishDate": "2026-05-23T06:00:23.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/flHezQ3plP0/hqdefault.jpg",
       "description": "Filipina menghadapi krisis energi dan guncangan harga minyak, tetapi mereka punya rencana berani: mempercepat proyek energi terbarukan dengan memangkas birokrasi perizinan yang rumit. Ini adalah terobosan besar untuk men",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Harga Baterai Turun 99% Jadi $108: Masa Depan Energi Indonesia",
-      "link": "https://www.youtube.com/shorts/1fZef-2tpm4",
-      "publishDate": "2026-05-23T02:00:20.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/1fZef-2tpm4/hqdefault.jpg",
-      "description": "Tahukah Anda bahwa jantung baterai dunia sebenarnya ada di tanah kita sendiri, Indonesia? Dan harga baterai yang dulu mahal kini telah anjlok drastis, membuka era baru energi mandiri. Harga baterai lithium-ion telah turu",
       "author": "FutureKeepers Indonesian"
     },
     {

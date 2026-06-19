@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T08:54:52.902Z",
+  "generatedAt": "2026-06-19T09:14:11.483Z",
   "locale": "th",
   "counts": {
     "ytLongForm": 12,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "เอเชีย: 75% ผู้ผลิตเทคโนโลยีสะอาดโล",
+      "link": "https://www.youtube.com/shorts/7Ho_JN2CvXA",
+      "publishDate": "2026-06-19T02:15:17.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/7Ho_JN2CvXA/hqdefault.jpg",
+      "description": "เอเชียกำลังก้าวเข้าสู่ยุคใหม่ที่อยู่เหนืออิทธิพลของน้ำมัน นี่คือเรื่องราวของ \"ตะวันออกของน้ำมัน\" ที่กำลังพลิกโฉมโลกพลังงาน คุณรู้ไหมว่า เอเชียมีปริมาณสำรองน้ำมันและก๊าซเพียง 4% ของโลก แต่กลับเป็นผู้สร้างเครื่องจักรเทคโนโ",
+      "author": "FutureKeepers Thai"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -284,18 +296,6 @@
       "publishDate": "2026-05-12T22:51:11.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/mnU3UAT2kL8/hqdefault.jpg",
       "description": "การปฏิวัติยานยนต์ไฟฟ้าของอินโดนีเซียกำลังขับเคลื่อนด้วยเครื่องยนต์ที่ทรงพลังยิ่งกว่าแค่เรื่องสภาพภูมิอากาศ นั่นคือ \"อิสรภาพทางพลังงาน\" ในขณะที่ทั่วโลกมองว่าการเปลี่ยนผ่านสู่รถยนต์ไฟฟ้า (EV) เป็นสิ่งจำเป็นเพื่อรับมือกับกา",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "ปากีสถาน: วิกฤตน้ำมันสู่พลังงานแสงอาทิตย์ | FutureKeepers #shorts",
-      "link": "https://www.youtube.com/shorts/7Xmjhi-10VY",
-      "publishDate": "2026-05-08T21:09:20.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/7Xmjhi-10VY/hqdefault.jpg",
-      "description": "เมื่อเส้นทางขนส่งน้ำมันสำคัญของโลกอย่างช่องแคบฮอร์มุซเผชิญความไม่มั่นคง ราคาพลังงานที่พุ่งสูงขึ้นได้สร้างแรงกดดันมหาศาลต่อเศรษฐกิจของปากีสถาน ซึ่งพึ่งพาการนำเข้าน้ำมันอย่างหนัก นี่ไม่ใช่แค่เรื่องภูมิรัฐศาสตร์ที่ไกลตัว แต",
       "author": "FutureKeepers Thai"
     },
     {

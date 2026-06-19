@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T08:54:56.121Z",
+  "generatedAt": "2026-06-19T09:14:14.781Z",
   "locale": "hi",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "सौर टैक्स: क्यों यह भारत को महंगा पड़",
+      "link": "https://www.youtube.com/shorts/grzAKAnBkmc",
+      "publishDate": "2026-06-19T03:30:17.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/grzAKAnBkmc/hqdefault.jpg",
+      "description": "क्या आप जानते हैं कि छत पर सौर ऊर्जा पर कर लगाने से देश को कितना नुकसान हो सकता है? यह सुनने में अजीब लग सकता है, लेकिन जो समाधान समस्या को ठीक करता है, उस पर कर लगाना वास्तव में समस्या को और महंगा बना देता है। एक चौंकान",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -284,18 +296,6 @@
       "publishDate": "2026-05-13T11:30:42.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/p38AOQ4A8_s/hqdefault.jpg",
       "description": "एशिया में स्वच्छ ऊर्जा के क्षेत्र में हो रहे बड़े बदलावों को जानें! यह रिपोर्ट आपको सनसीप के सिंगापुर में तैरते सौर फार्मों से लेकर गोटियन हाई-टेक की उन्नत बैटरी तकनीक और न्यू एनर्जी नेक्सस इंडोनेशिया के स्टार्टअप्स तक ल",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "ऑक्टोपस का दिमाग और भविष्य की बिजली ग्रिड का अद्भुत कनेक्शन",
-      "link": "https://www.youtube.com/shorts/FFyvsJopIsM",
-      "publishDate": "2026-05-13T07:30:40.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/FFyvsJopIsM/hqdefault.jpg",
-      "description": "क्या आप जानते हैं कि एक ऑक्टोपस का दिमाग हमें भविष्य की बिजली ग्रिड के बारे में क्या सिखा सकता है? इस वीडियो में, हम ऑक्टोपस के अद्भुत न्यूरल सिस्टम और आधुनिक ऊर्जा प्रणालियों के बीच के आश्चर्यजनक संबंध का पता लगाएंगे। ऑ",
       "author": "Future Keepers Hindi"
     },
     {
