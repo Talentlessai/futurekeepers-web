@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T09:13:58.030Z",
+  "generatedAt": "2026-06-20T07:57:07.787Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Pajak Panel Surya Membunuh Transisi Energi di Pakistan",
+      "link": "https://www.youtube.com/shorts/ZjAmnkJtKiE",
+      "publishDate": "2026-06-20T02:00:17.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/ZjAmnkJtKiE/hqdefault.jpg",
+      "description": "Indonesia, negara kepulauan dengan tantangan listrik unik, sedang di ambang revolusi surya atap. Namun, ada pelajaran penting dari Pakistan tentang bahaya kebijakan yang salah. Ketergantungan pada bahan bakar impor mahal",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -236,18 +248,6 @@
       "publishDate": "2026-05-24T02:00:18.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/a1JDnHX4R_Q/hqdefault.jpg",
       "description": "Pernahkah Anda membayangkan seekor panda, Barbie, dan seorang tentara menjelaskan cara kerja energi surya dan baterai? Video unik ini menampilkan trio tak terduga yang menunjukkan bagaimana Anda bisa memiliki listrik sep",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Filipina Percepat Proyek Energi Terbarukan, Atasi Guncangan Minyak",
-      "link": "https://www.youtube.com/shorts/flHezQ3plP0",
-      "publishDate": "2026-05-23T06:00:23.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/flHezQ3plP0/hqdefault.jpg",
-      "description": "Filipina menghadapi krisis energi dan guncangan harga minyak, tetapi mereka punya rencana berani: mempercepat proyek energi terbarukan dengan memangkas birokrasi perizinan yang rumit. Ini adalah terobosan besar untuk men",
       "author": "FutureKeepers Indonesian"
     },
     {

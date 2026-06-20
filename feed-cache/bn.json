@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T09:14:04.765Z",
+  "generatedAt": "2026-06-20T07:57:14.603Z",
   "locale": "bn",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "নীতি এখনো সুইং করে: বাংলাদেশের রুফট",
+      "link": "https://www.youtube.com/shorts/xDnQldbQims",
+      "publishDate": "2026-06-20T03:00:25.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/xDnQldbQims/hqdefault.jpg",
+      "description": "বাংলাদেশের রুফটপ সোলার একটি বিশাল সম্ভাবনা বহন করে, কিন্তু নীতির অস্থিরতা এই সম্ভাবনাকে বাধাগ্রস্ত করছে। দেশের গ্রামীণ শক্তি এবং গ্রিড আধুনিকীকরণ সত্ত্বেও, স্থিতিশীল নীতিমালার অভাবে সত্যিকারের অগ্রগতি ব্যাহত হচ্ছে। বিশেষ",
+      "author": "Future Keepers Bengali"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -248,18 +260,6 @@
       "publishDate": "2026-05-20T22:01:04.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/Vi6HdGreGOs/hqdefault.jpg",
       "description": "বিশ্বজুড়ে শক্তি সংকট এক নতুন বিপ্লবের জন্ম দিচ্ছে – পরিচ্ছন্ন পরিবহনের বিপ্লব! এটি এমন সব জায়গায় ঘটছে যা আমরা হয়তো ভাবতেও পারিনি। যখন ইউরোপ বা উত্তর আমেরিকায় ইলেকট্রিক গাড়ির কথা হচ্ছে, তখন আসল চিত্রটা ফুটে উঠছে দক্",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "ইরান সংঘাতের ধাক্কা: দক্ষিণ কোরিয়ার ১০০ গিগাওয়াট নবায়নযোগ্য শক্তি",
-      "link": "https://www.youtube.com/shorts/ED3ZNVAymJw",
-      "publishDate": "2026-05-20T20:05:00.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/ED3ZNVAymJw/hqdefault.jpg",
-      "description": "এশিয়ার দেশগুলো ইরান সংঘাতের ধাক্কায় জ্বালানি নিরাপত্তা নিয়ে উদ্বিগ্ন। এই উদ্বেগের কেন্দ্রবিন্দুতে থাকা দক্ষিণ কোরিয়া এই চ্যালেঞ্জকে একটি বিশাল সুযোগে পরিণত করেছে। তারা ২০৩০ সালের মধ্যে তাদের সৌর ও বায়ুশক্তির ক্ষমতা প্রা",
       "author": "Future Keepers Bengali"
     },
     {

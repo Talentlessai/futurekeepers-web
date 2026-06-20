@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T09:13:54.697Z",
+  "generatedAt": "2026-06-20T07:57:04.367Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,18 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Pakistan's Solar Boom Eclipses US",
+      "link": "https://www.youtube.com/watch?v=C5Z9weNq3dM",
+      "publishDate": "2026-06-19T14:00:25.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/C5Z9weNq3dM/hqdefault.jpg",
+      "description": "Walk through a bustling street market in South Asia today, and you'll notice a quiet shift: millions of everyday citizens are bypassing traditional power grids entirely, powering their homes and shops independently with ",
+      "author": "FutureKeepers"
+    },
     {
       "source": "proElectrica",
       "sourceLabel": "ProElectrica",
@@ -460,18 +472,6 @@
       "publishDate": "2026-05-22T18:00:13.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/_FcQpfnSOCk/hqdefault.jpg",
       "description": "The Philippines is taking a decisive step towards energy independence by fast-tracking renewable energy projects, directly tackling the complex permitting issues that often hinder progress. This move is particularly crit",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Your Home Battery Is Building A New Power Grid",
-      "link": "https://www.youtube.com/watch?v=y7PJIc-DDKA",
-      "publishDate": "2026-05-22T14:00:31.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/y7PJIc-DDKA/hqdefault.jpg",
-      "description": "Imagine millions of homes, each equipped with its own sleek battery, silently working together to power entire regions. This isn't a futuristic fantasy, it's the quiet revolution happening right now in your backyard, tra",
       "author": "FutureKeepers"
     },
     {

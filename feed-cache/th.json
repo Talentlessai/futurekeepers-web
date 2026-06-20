@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T09:14:11.483Z",
+  "generatedAt": "2026-06-20T07:57:21.298Z",
   "locale": "th",
   "counts": {
     "ytLongForm": 12,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "การปฏิรูปพลังงานช้า: ไทยพลาดโอกาส",
+      "link": "https://www.youtube.com/shorts/GqDK1HMlPls",
+      "publishDate": "2026-06-20T02:15:17.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/GqDK1HMlPls/hqdefault.jpg",
+      "description": "แม้ประเทศไทยจะมีศักยภาพมหาศาลด้านพลังงานแสงอาทิตย์และการชำระเงินที่ราบรื่นผ่าน PrompPay Wallet แต่การปฏิรูปพลังงานกลับล่าช้า ทำให้ประเทศพลาดโอกาสสำคัญในการเป็นผู้นำด้านพลังงานสะอาด ปัจจุบันประเทศไทยใช้พลังงานแสงอาทิตย์บน",
+      "author": "FutureKeepers Thai"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -284,18 +296,6 @@
       "publishDate": "2026-05-13T22:15:39.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/sStXQTtmRdQ/hqdefault.jpg",
       "description": "เอาล่ะครับ ยินดีต้อนรับทุกคนเข้าสู่การเจาะลึกข้อมูลในวันนี้ครับ เราจะมาเปิดประเด็นกันด้วยความรู้สึกที่พวกเราทุกคนน่าจะคุ้นเคยกันดีมากๆ นั่นก็คือตอนนี้นั่งถอนหายใจยาวๆ มองบิลค่าไฟที่พุ่งปรี๊ดอยู่บนโต๊ะอาหารครับ ในวันนี้ F",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "การปฏิวัติ EV ของอินโดนีเซีย: ปลดแอกพลังงานชาติ! #shorts",
-      "link": "https://www.youtube.com/shorts/mnU3UAT2kL8",
-      "publishDate": "2026-05-12T22:51:11.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/mnU3UAT2kL8/hqdefault.jpg",
-      "description": "การปฏิวัติยานยนต์ไฟฟ้าของอินโดนีเซียกำลังขับเคลื่อนด้วยเครื่องยนต์ที่ทรงพลังยิ่งกว่าแค่เรื่องสภาพภูมิอากาศ นั่นคือ \"อิสรภาพทางพลังงาน\" ในขณะที่ทั่วโลกมองว่าการเปลี่ยนผ่านสู่รถยนต์ไฟฟ้า (EV) เป็นสิ่งจำเป็นเพื่อรับมือกับกา",
       "author": "FutureKeepers Thai"
     },
     {

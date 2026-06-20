@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T09:14:14.781Z",
+  "generatedAt": "2026-06-20T07:57:24.689Z",
   "locale": "hi",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "सूरज नहीं भेजता invoice, सरकार भी न भेजे!",
+      "link": "https://www.youtube.com/shorts/Zhe-iBTG7og",
+      "publishDate": "2026-06-20T03:30:17.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/Zhe-iBTG7og/hqdefault.jpg",
+      "description": "सूरज हमें मुफ्त ऊर्जा देता है, तो सरकार को रूफटॉप सोलर को महंगा और जटिल क्यों बनाना चाहिए? भारत का सोलर उद्योग सरल और स्थिर नीतियों की मांग कर रहा है। छत पर सोलर लगाने से बिजली का बिल 80% तक कम हो सकता है। भारत की सोलर ए",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -284,18 +296,6 @@
       "publishDate": "2026-05-14T03:45:39.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/kDLn3sBgR10/hqdefault.jpg",
       "description": "क्या आप भी बढ़ते बिजली बिलों से परेशान हैं? जानिए कैसे फिलीपींस ने 'गरिल्ला सोलर' मॉडल से अपनी ऊर्जा की जरूरतों को पूरा किया और भारत में भी यह क्रांति कैसे आ सकती है। यह वीडियो बताता है कि कैसे ग्लोबल एनर्जी शॉक के कारण ",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "स्वच्छ ऊर्जा क्रांति: एशिया के पावर नेटवर्क में नवाचार",
-      "link": "https://www.youtube.com/shorts/p38AOQ4A8_s",
-      "publishDate": "2026-05-13T11:30:42.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/p38AOQ4A8_s/hqdefault.jpg",
-      "description": "एशिया में स्वच्छ ऊर्जा के क्षेत्र में हो रहे बड़े बदलावों को जानें! यह रिपोर्ट आपको सनसीप के सिंगापुर में तैरते सौर फार्मों से लेकर गोटियन हाई-टेक की उन्नत बैटरी तकनीक और न्यू एनर्जी नेक्सस इंडोनेशिया के स्टार्टअप्स तक ल",
       "author": "Future Keepers Hindi"
     },
     {
