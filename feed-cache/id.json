@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T07:57:07.787Z",
+  "generatedAt": "2026-06-21T08:40:14.498Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Pajak Rooftop Solar? Indonesia Rugi Triliunan Rupiah!",
+      "link": "https://www.youtube.com/shorts/FBqSzFaGXZg",
+      "publishDate": "2026-06-21T02:00:17.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/FBqSzFaGXZg/hqdefault.jpg",
+      "description": "Pemerintah Indonesia sedang mempertimbangkan pajak atas panel surya atap. Tapi, apakah kebijakan ini benar-benar menguntungkan negara atau justru merugikan? Video ini mengungkapkan bahwa tagihan bahan bakar nasional dapa",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -236,18 +248,6 @@
       "publishDate": "2026-05-25T02:15:16.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/en8I673sgW0/hqdefault.jpg",
       "description": "Setelah bencana nuklir Fukushima 15 tahun lalu, Jepang kini menghidupkan kembali rencana pembangunan pembangkit listrik tenaga nuklir. Sementara itu, lima dari sebelas negara ASEAN yang belum pernah menghasilkan listrik ",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Panda, Barbie & Tentara: Energi Surya 24 Jam!",
-      "link": "https://www.youtube.com/shorts/a1JDnHX4R_Q",
-      "publishDate": "2026-05-24T02:00:18.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/a1JDnHX4R_Q/hqdefault.jpg",
-      "description": "Pernahkah Anda membayangkan seekor panda, Barbie, dan seorang tentara menjelaskan cara kerja energi surya dan baterai? Video unik ini menampilkan trio tak terduga yang menunjukkan bagaimana Anda bisa memiliki listrik sep",
       "author": "FutureKeepers Indonesian"
     },
     {

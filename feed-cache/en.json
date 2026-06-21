@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T07:57:04.367Z",
+  "generatedAt": "2026-06-21T08:40:11.074Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,18 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Asia's Solar Boom: How it Beat Gas & Escaped Fuel Imports",
+      "link": "https://www.youtube.com/watch?v=9hV4MsE27lg",
+      "publishDate": "2026-06-20T14:00:20.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/9hV4MsE27lg/hqdefault.jpg",
+      "description": "Solar power isn't just growing in Asia; it's fundamentally reshaping the continent's energy landscape, outperforming traditional fossil fuels and offering a path to unprecedented energy independence. Since 2020, solar ge",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -448,18 +460,6 @@
       "publishDate": "2026-05-24T14:00:24.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/pwCOCBkxX40/hqdefault.jpg",
       "description": "For 12 hours a day, the Earth receives a massive influx of solar radiation. But the modern power grid faces its most vulnerable moment right at dusk. The second the sun disappears, that abundant energy source goes to zer",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "How Consumer Tech Solved the Energy Grid's Oldest Problem",
-      "link": "https://www.youtube.com/watch?v=O7tVzYq8Plo",
-      "publishDate": "2026-05-23T14:00:26.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/O7tVzYq8Plo/hqdefault.jpg",
-      "description": "In 2008, an experimental battery the size of two semi-trailers was deployed on a Minnesota prairie. Its purpose: to store wind energy and deploy it during peak demand, challenging the grid's fragile 'use it or lose it' e",
       "author": "FutureKeepers"
     },
     {

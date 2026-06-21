@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T07:57:24.689Z",
+  "generatedAt": "2026-06-21T08:40:31.187Z",
   "locale": "hi",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "एशिया में सौर ऊर्जा ने गैस को पीछे छो",
+      "link": "https://www.youtube.com/watch?v=5I-qKJxuuX4",
+      "publishDate": "2026-06-21T03:30:16.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/5I-qKJxuuX4/hqdefault.jpg",
+      "description": "एशिया में एक ऐतिहासिक बदलाव आया है! सोलर ऊर्जा ने गैस से बनने वाली बिजली को पीछे छोड़ दिया है, जो दुनिया के एनर्जी सिस्टम को पूरी तरह से बदल रहा है। अप्रैल 2026 तक, एशिया में सोलर जेनरेशन 1727 टेरावाट घंटे तक पहुंच गया ह",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2025-08-07T20:29:39.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/OAto_pDfbfI/hqdefault.jpg",
       "description": "🎬 नेट पॉज़िटिव: एपिसोड 1 स्वागत है नेट पॉज़िटिव के पहले एपिसोड में — यह क्लाइमेट एंड कैपिटल मीडिया और फ़्यूचरकीपर्स का एक सहयोग है। इस सीरीज़ में हम उन पैसों, ताकतों और नीतियों की पड़ताल करते हैं जो जलवायु अर्थव्यवस्था ",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "चीन की स्वच्छ ऊर्जा उपलब्धि: पहली बार CO₂ उत्सर्जन में गिरावट 🌱⚡",
-      "link": "https://www.youtube.com/watch?v=Y1pk5Rakew4",
-      "publishDate": "2025-05-21T06:17:13.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/Y1pk5Rakew4/hqdefault.jpg",
-      "description": "चीन ने पर्यावरण के क्षेत्र में एक ऐतिहासिक उपलब्धि हासिल की है। पहली बार, देश में CO₂ उत्सर्जन में गिरावट स्वच्छ ऊर्जा उत्पादन में तेज़ बढ़ोतरी के कारण हुई है — न कि आर्थिक मंदी की वजह से। Carbon Brief की रिपोर्ट के अनुस",
       "author": "Future Keepers Hindi"
     }
   ]
