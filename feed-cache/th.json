@@ -1,15 +1,27 @@
 {
-  "generatedAt": "2026-06-21T08:40:27.871Z",
+  "generatedAt": "2026-06-22T10:14:05.731Z",
   "locale": "th",
   "counts": {
-    "ytLongForm": 12,
+    "ytLongForm": 13,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 12,
+    "ytLongForm": 13,
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "เอเชียพลิกเกมพลังงาน: มีน้ำมันแค่",
+      "link": "https://www.youtube.com/watch?v=WotLcHia6GQ",
+      "publishDate": "2026-06-22T02:00:17.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/WotLcHia6GQ/hqdefault.jpg",
+      "description": "ตอนนี้เรากำลังอยู่ในช่วงเปลี่ยนผ่านพลังงานครั้งยิ่งใหญ่ จากยุคที่เราต้องพึ่งพาเชื้อเพลิงฟอสซิลที่ราคาผันผวน ไปสู่ยุคของพลังงานสะอาดที่ยั่งยืนกว่า และน่าทึ่งที่สุดคือทวีปเอเชียกำลังเป็นผู้นำในการเปลี่ยนแปลงนี้ ทราบไหมครับ",
+      "author": "FutureKeepers Thai"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",

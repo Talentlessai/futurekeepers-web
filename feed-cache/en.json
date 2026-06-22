@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T08:40:11.074Z",
+  "generatedAt": "2026-06-22T10:13:49.320Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,18 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Solar Bankruptcies? Why That's GOOD News for Asia's Energy",
+      "link": "https://www.youtube.com/watch?v=zI-sOqWLwEg",
+      "publishDate": "2026-06-21T14:00:17.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/zI-sOqWLwEg/hqdefault.jpg",
+      "description": "Reports of falling solar panel prices and corporate bankruptcies might sound like bad news for the clean energy sector. However, this video reveals why these trends are actually a sign of a rapidly maturing and scaling i",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -448,18 +460,6 @@
       "publishDate": "2026-05-25T14:00:28.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/x5bZzEI5dH8/hqdefault.jpg",
       "description": "Did you know that the batteries powering today's electric vehicles and grid storage systems owe their affordability to early camcorders? This video uncovers the surprising journey of lithium-ion batteries. From a stagger",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Solar's Night Shift: How Batteries Power the Grid After Dark",
-      "link": "https://www.youtube.com/watch?v=pwCOCBkxX40",
-      "publishDate": "2026-05-24T14:00:24.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/pwCOCBkxX40/hqdefault.jpg",
-      "description": "For 12 hours a day, the Earth receives a massive influx of solar radiation. But the modern power grid faces its most vulnerable moment right at dusk. The second the sun disappears, that abundant energy source goes to zer",
       "author": "FutureKeepers"
     },
     {

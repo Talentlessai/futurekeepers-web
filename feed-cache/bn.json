@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T08:40:21.205Z",
+  "generatedAt": "2026-06-22T10:13:59.265Z",
   "locale": "bn",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "সূর্য কর: ৫০০ কোটি বনাম ৮০,২৬০ কোটি ট",
+      "link": "https://www.youtube.com/shorts/PlgRjx2zjc0",
+      "publishDate": "2026-06-22T03:00:17.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/PlgRjx2zjc0/hqdefault.jpg",
+      "description": "এই ভিডিওটি দেখায় যে কিভাবে রুফটপ সোলারের উপর কর আরোপ করলে দেশের অর্থনীতিতে গুরুতর নেতিবাচক প্রভাব পড়তে পারে। একটি \"সূর্য কর\" আদতে জ্বালানি আমদানি বিলকে বহুগুণ বাড়িয়ে দেয়। রুফটপ সোলারের সম্ভাব্য কর রাজস্ব মাত্র ৫০০ কোটি ট",
+      "author": "Future Keepers Bengali"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -248,18 +260,6 @@
       "publishDate": "2026-05-22T03:00:16.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/y_fJZmJ2PCU/hqdefault.jpg",
       "description": "তেলের দামের ধাক্কায় ফিলিপাইন এখন জরুরি অবস্থায়। তারা একগুচ্ছ নবায়নযোগ্য শক্তি প্রকল্প দ্রুত বাস্তবায়নের ঘোষণা দিয়েছে, যা জাতীয় উচ্চাকাঙ্ক্ষী লক্ষ্য থাকা সত্ত্বেও অনুমোদন প্রক্রিয়ার দীর্ঘসূত্রিতা এবং জটিলতা দূর করত",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "জ্বালানি নিরাপত্তা: নবায়নযোগ্য শক্তিই কি আমাদের একমাত্র পথ? #shorts",
-      "link": "https://www.youtube.com/shorts/tbTckXGben4",
-      "publishDate": "2026-05-21T21:28:29.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/tbTckXGben4/hqdefault.jpg",
-      "description": "মধ্যপ্রাচ্যের সাম্প্রতিক অস্থিরতা আমাদের জ্বালানি নিরাপত্তার ভঙ্গুরতা চোখে আঙুল দিয়ে দেখিয়ে দিচ্ছে। জীবাশ্ম জ্বালানির উপর আমাদের নির্ভরতা বৈশ্বিক তেলের বাজারে সামান্যতম সংঘাতকেও বড় ধরনের ধাক্কা দিতে পারে, যার প্রভাব সরাস",
       "author": "Future Keepers Bengali"
     },
     {

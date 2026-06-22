@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T08:40:17.818Z",
+  "generatedAt": "2026-06-22T10:13:55.999Z",
   "locale": "zh",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "能源竞赛：政策速度决定未来 | 亚洲太阳能发电超天然气",
+      "link": "https://www.youtube.com/watch?v=uJaDRKkDbYI",
+      "publishDate": "2026-06-22T01:00:17.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/uJaDRKkDbYI/hqdefault.jpg",
+      "description": "你可能认为全球能源竞赛中，自然资源最丰富的国家才能称霸未来。但本期节目将颠覆你的认知！亚洲太阳能发电量历史性超越天然气，这背后隐藏着怎样的政策秘密？ 根据知名智库Amber的最新分析，截至2026年4月，亚洲太阳能发电量历史性地超越了天然气，达到1727太瓦时，而天然气发电量为1711太瓦时。 我们深入剖析了两种截然不同的能源战略：中国凭借其长期稳定的政策，在过去二十多年里稳扎稳打地建立了全球领先的太阳能制造产业链，吸引了巨额长期投资，",
+      "author": "Future Keepers Mandarin"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-04-02T23:23:14.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/E34ADSJniV8/hqdefault.jpg",
       "description": "冲突及其引发的能源冲击带来的影响包括： 物流中断： 美国和以色列与伊朗之间的冲突正在阻碍霍尔木兹海峡，这是一条关键的航运通道，承载着全球约20%的石油和大量天然气运输。 直接的人道与经济影响： 亚洲多个国家正面临严重后果，例如老挝大范围加油站关闭、泰国对员工实施节能措施，以及斯里兰卡为节省燃料而设立公共假日。一些分析人士认为，这一局势可能超过20世纪70年代的石油危机。 为应对这一危机，各国政府正在采取短期和长期措施： 短期措施： 由于",
-      "author": "Future Keepers Mandarin"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "黑色降雨，明亮信号",
-      "link": "https://www.youtube.com/watch?v=NAjNkEb4XSY",
-      "publishDate": "2026-03-25T17:59:34.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/NAjNkEb4XSY/hqdefault.jpg",
-      "description": "德黑兰上空的黑色降雨，翻涌于天空的碳云，以及冲击全球经济的震荡波。美国-以色列与伊朗的战争正在重塑全球能源安全格局。 这是一个严峻的警告，但同时也提醒我们：能源安全、气候稳定和经济韧性如今正指向同一个方向——在整个亚洲加速、更公平地推进可再生能源和电气化发展。",
       "author": "Future Keepers Mandarin"
     }
   ]

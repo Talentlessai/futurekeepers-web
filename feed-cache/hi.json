@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T08:40:31.187Z",
+  "generatedAt": "2026-06-22T10:14:08.971Z",
   "locale": "hi",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "एशिया में सोलर ने गैस को पछाड़ा: एक ऐ",
+      "link": "https://www.youtube.com/watch?v=vdEgEmtoe8E",
+      "publishDate": "2026-06-22T03:30:16.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/vdEgEmtoe8E/hqdefault.jpg",
+      "description": "क्या आप जानते हैं कि एशिया में सौर ऊर्जा ने गैस से बनने वाली बिजली को पीछे छोड़ दिया है? यह पूरे महाद्वीप के पावर ग्रिड के लिए एक बहुत बड़ा ऐतिहासिक मोड़ है! 2000 से वैश्विक बिजली मांग में वृद्धि का 75% अकेले एशिया से आय",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2025-09-05T18:13:24.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/T2BWFs6OTf4/hqdefault.jpg",
       "description": "नेट रेज़िलिएंस से नेतृत्व तक | द नेट पॉज़िटिव | एपिसोड 2 बीजिंग की वर्चुअल पावर प्लांट पॉलिसी से लेकर फ़िजी में बढ़ते समुद्र और उसके असर तक — द नेट पॉज़िटिव का दूसरा एपिसोड आपको एशिया के जलवायु और ऊर्जा भविष्य को आकार दे",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "प्रेशर से प्रोग्रेस तक | द नेट पॉज़िटिव | एपिसोड 1",
-      "link": "https://www.youtube.com/watch?v=OAto_pDfbfI",
-      "publishDate": "2025-08-07T20:29:39.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/OAto_pDfbfI/hqdefault.jpg",
-      "description": "🎬 नेट पॉज़िटिव: एपिसोड 1 स्वागत है नेट पॉज़िटिव के पहले एपिसोड में — यह क्लाइमेट एंड कैपिटल मीडिया और फ़्यूचरकीपर्स का एक सहयोग है। इस सीरीज़ में हम उन पैसों, ताकतों और नीतियों की पड़ताल करते हैं जो जलवायु अर्थव्यवस्था ",
       "author": "Future Keepers Hindi"
     }
   ]

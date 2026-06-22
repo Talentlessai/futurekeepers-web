@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T08:40:14.498Z",
+  "generatedAt": "2026-06-22T10:13:52.587Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Pajak Surya Pakistan: Jebakan Impor yang Mematikan Ekonomi",
+      "link": "https://www.youtube.com/watch?v=TJekY-SVuXg",
+      "publishDate": "2026-06-22T02:15:16.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/TJekY-SVuXg/hqdefault.jpg",
+      "description": "Selamat datang di ulasan FutureKeepers kali ini! Hari ini kita akan membongkar habis narasi usang yang bilang kalau kita bakal selamanya bergantung pada bahan bakar fosil. Kalau Anda pikir transisi ke energi bersih itu c",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-04-03T23:00:06.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/VL_nvlpQL6g/hqdefault.jpg",
       "description": "Pernahkah Anda memikirkan api di kompor gas Anda? Kelihatannya sepele, tapi tahukah Anda, sebuah krisis energi global yang disebut sebagai 'gangguan paling parah terhadap pasar bahan bakar global dalam sejarah' sedang me",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Revolusi Surya 100GW: Mampukah Indonesia Bersaing di Ekonomi Hijau?",
-      "link": "https://www.youtube.com/watch?v=qJEW0Sd18QU",
-      "publishDate": "2026-04-03T15:14:31.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/qJEW0Sd18QU/hqdefault.jpg",
-      "description": "Bisakah Indonesia mewujudkan ambisi 100 Gigawatt tenaga surya? Bayangkan ribuan desa dan sekolah di pelosok Indonesia menjadi pusat listrik mandiri dengan energi bersih. Ini bukan sekadar angka, tapi sebuah visi besar un",
       "author": "FutureKeepers Indonesian"
     }
   ]
