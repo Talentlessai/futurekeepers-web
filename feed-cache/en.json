@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T10:13:49.320Z",
+  "generatedAt": "2026-06-23T07:57:05.625Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,18 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Asia's Clean Tech Dominance: Global South's Energy Freedom",
+      "link": "https://www.youtube.com/watch?v=sKpwNAOEGhQ",
+      "publishDate": "2026-06-22T14:00:20.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/sKpwNAOEGhQ/hqdefault.jpg",
+      "description": "For the last century, global energy has operated on a system of perpetual rent, where nations pay a continuous toll for fuel they will never own. This model creates profound physical and economic vulnerability, especiall",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -448,18 +460,6 @@
       "publishDate": "2026-05-25T18:00:13.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/0SK_-W0lSEI/hqdefault.jpg",
       "description": "Japan, which suffered a nuclear disaster at Fukushima just 15 years ago, is restarting its nuclear power plants, and five ASEAN nations, which have never produced nuclear power, are now pursuing it. This unexpected shift",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "How Camcorders Made EV Batteries Cheap (98% Cost Drop)",
-      "link": "https://www.youtube.com/watch?v=x5bZzEI5dH8",
-      "publishDate": "2026-05-25T14:00:28.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/x5bZzEI5dH8/hqdefault.jpg",
-      "description": "Did you know that the batteries powering today's electric vehicles and grid storage systems owe their affordability to early camcorders? This video uncovers the surprising journey of lithium-ion batteries. From a stagger",
       "author": "FutureKeepers"
     },
     {

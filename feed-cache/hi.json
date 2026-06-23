@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T10:14:08.971Z",
+  "generatedAt": "2026-06-23T07:57:25.535Z",
   "locale": "hi",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "एशिया में सौर ऊर्जा ने गैस को पछाड़ा:",
+      "link": "https://www.youtube.com/watch?v=x8tNrX1tpG0",
+      "publishDate": "2026-06-23T03:30:17.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/x8tNrX1tpG0/hqdefault.jpg",
+      "description": "यह वीडियो एशिया में ऊर्जा के एक बड़े बदलाव पर प्रकाश डालता है, जो सीधे आपकी जेब से जुड़ा है। अब, जब आपका घर खुद बिजली बना सकता है, तो महंगे ईंधन और भारी-भरकम बिजली के बिलों का बोझ क्यों उठाएं? यह 'किचन टेबल मैथ्स' का नया",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2025-09-24T00:01:59.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/tW9D_Ft3_Qo/hqdefault.jpg",
       "description": "फ़्यूचरकीपर्स एक वैश्विक स्टोरीटेलिंग प्लेटफ़ॉर्म है — जिसे लोग आगे बढ़ाते हैं और AI और भी प्रभावशाली बनाता है। हम उन विचारों, खोजों और समुदायों पर रोशनी डालते हैं जो एक टिकाऊ, जुड़े हुए और न्यायपूर्ण दुनिया का निर्माण क",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "नेट रेज़िलिएंस से नेतृत्व तक | द नेट पॉज़िटिव | एपिसोड 2",
-      "link": "https://www.youtube.com/watch?v=T2BWFs6OTf4",
-      "publishDate": "2025-09-05T18:13:24.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/T2BWFs6OTf4/hqdefault.jpg",
-      "description": "नेट रेज़िलिएंस से नेतृत्व तक | द नेट पॉज़िटिव | एपिसोड 2 बीजिंग की वर्चुअल पावर प्लांट पॉलिसी से लेकर फ़िजी में बढ़ते समुद्र और उसके असर तक — द नेट पॉज़िटिव का दूसरा एपिसोड आपको एशिया के जलवायु और ऊर्जा भविष्य को आकार दे",
       "author": "Future Keepers Hindi"
     }
   ]

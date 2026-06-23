@@ -1,15 +1,27 @@
 {
-  "generatedAt": "2026-06-22T10:14:05.731Z",
+  "generatedAt": "2026-06-23T07:57:22.251Z",
   "locale": "th",
   "counts": {
-    "ytLongForm": 13,
+    "ytLongForm": 14,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 13,
+    "ytLongForm": 14,
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "ยุคทองพลังงานไฟฟ้า: โซลาร์เซลล์แซ",
+      "link": "https://www.youtube.com/watch?v=X6AXuZP_I1Q",
+      "publishDate": "2026-06-23T02:00:18.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/X6AXuZP_I1Q/hqdefault.jpg",
+      "description": "คุณอาจเคยเห็นข่าวเศรษฐกิจที่ดูสิ้นหวังเกี่ยวกับวงการพลังงานสะอาด แต่ความจริงเบื้องหลังพาดหัวข่าวเหล่านั้นคือการเปลี่ยนแปลงทางเศรษฐกิจครั้งใหญ่ที่ไม่มีใครหยุดได้ การผลิตไฟฟ้าจากพลังงานแสงอาทิตย์ในเอเชียตลอด 12 เดือนที่ผ่า",
+      "author": "FutureKeepers Thai"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",

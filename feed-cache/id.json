@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T10:13:52.587Z",
+  "generatedAt": "2026-06-23T07:57:08.915Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Surya Resmi Lampaui Pembangkit Listrik Gas di Asia!",
+      "link": "https://www.youtube.com/watch?v=NQwIzfvWiEc",
+      "publishDate": "2026-06-23T02:15:17.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/NQwIzfvWiEc/hqdefault.jpg",
+      "description": "Banyak narasi Barat menyebut industri surya Tiongkok sedang dalam kekacauan, tapi tahukah kalian bahwa hal ini justru memicu pergeseran makroekonomi masif di Asia? Ini bukan tanda kegagalan, melainkan konsolidasi pasar d",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-04-04T19:00:06.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/zWoSwdD0N3Q/hqdefault.jpg",
       "description": "Di tengah ketidakpastian ekonomi global, Indonesia berada di persimpangan jalan menuju masa depan yang lebih hijau dan berkelanjutan. Gelombang investasi hijau besar-besaran siap mengubah lanskap ekonomi kita, menciptaka",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Krisis Gas Global Mengancam Dapur Kita? Solusi Induksi di RI",
-      "link": "https://www.youtube.com/watch?v=VL_nvlpQL6g",
-      "publishDate": "2026-04-03T23:00:06.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/VL_nvlpQL6g/hqdefault.jpg",
-      "description": "Pernahkah Anda memikirkan api di kompor gas Anda? Kelihatannya sepele, tapi tahukah Anda, sebuah krisis energi global yang disebut sebagai 'gangguan paling parah terhadap pasar bahan bakar global dalam sejarah' sedang me",
       "author": "FutureKeepers Indonesian"
     }
   ]

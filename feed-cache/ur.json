@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T10:14:02.506Z",
+  "generatedAt": "2026-06-23T07:57:18.868Z",
   "locale": "ur",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "ایشیا کی الیکٹرک چھلانگ: 5 لاکھ میں EV، سولر نے گیس کو",
+      "link": "https://www.youtube.com/watch?v=bydSKS9h6RY",
+      "publishDate": "2026-06-23T04:00:23.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/bydSKS9h6RY/hqdefault.jpg",
+      "description": "ہم عموماً سوچتے ہیں کہ کھربوں ڈالر کی عالمی توانائی کی منتقلی کا فیصلہ کسی بڑے بورڈ روم یا حکومتی ایوانوں میں ہو رہا ہے، لیکن حقیقت میں یہ فیصلہ عام گھروں کے کچن اور ڈائننگ ٹیبلز پر ہو رہا ہے، جہاں عام لوگ اپنے روزمرہ کے",
+      "author": "FutureKeepers Urdu"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-04-30T18:29:33.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/FI1HouXW43o/hqdefault.jpg",
       "description": "دنیا ایک الیکٹروٹیک انقلاب کے دہانے پر ہے! ایمبر انرجی کی ایک نئی رپورٹ کے مطابق، توانائی پیدا کرنے، استعمال کرنے اور منسلک کرنے کے طریقوں میں بنیادی تبدیلی آرہی ہے۔ یہ رپورٹ ایندھن جلانے سے ٹیکنالوجیز کی تعمیر کی طرف من",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Indonesia's Fuel Crisis: The Unexpected Push to Electric Vehicles",
-      "link": "https://www.youtube.com/watch?v=_G-q4vWIW8Q",
-      "publishDate": "2026-04-18T19:52:45.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/_G-q4vWIW8Q/hqdefault.jpg",
-      "description": "In April 2026, Indonesia implemented a strict 50-liter daily maximum for subsidized fuels, enforced by digital tracking. This policy, a response to soaring global oil prices and a critical state budget burden, inadverten",
       "author": "FutureKeepers Urdu"
     }
   ]
