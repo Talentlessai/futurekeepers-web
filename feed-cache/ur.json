@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T07:57:18.868Z",
+  "generatedAt": "2026-06-24T07:52:40.455Z",
   "locale": "ur",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "پاکستان کا سولر انقلاب: امریکہ بھی پیچھے رہ گیا",
+      "link": "https://www.youtube.com/watch?v=WOuHjZRrRtQ",
+      "publishDate": "2026-06-24T04:00:27.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/WOuHjZRrRtQ/hqdefault.jpg",
+      "description": "اس معلوماتی تجزیے میں خوش آمدید، جہاں ہم گلوبل انرجی ٹرانزیشن کی اصل کہانی کو سمجھنے والے ہیں۔ روزانہ خبریں آتی ہیں کہ دنیا بدل رہی ہے، لیکن یہ تبدیلی آخر شروع کہاں سے ہو رہی ہے اور اس کی رفتار کیا ہے؟ حیرت انگیز بات یہ ",
+      "author": "FutureKeepers Urdu"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-05-08T04:00:33.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/8cYjZGG-sLI/hqdefault.jpg",
       "description": "اپریل 2026 کی اہم اشاعت \"فیوچر کیپرز سگنل: پوسٹ ہرمز فیلڈ گائیڈ\" میں خوش آمدید۔ آبنائے ہرمز کے حالیہ بحران نے ایشیائی ممالک کے لیے توانائی کی عملی اور ٹھوس حکمت عملی کی اشد ضرورت کو واضح کر دیا ہے۔ اچھی خبر یہ ہے کہ اب ہ",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "الیکٹروٹیک انقلاب: توانائی کا مستقبل - فوسل فیول سے 3x مؤثر",
-      "link": "https://www.youtube.com/watch?v=FI1HouXW43o",
-      "publishDate": "2026-04-30T18:29:33.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/FI1HouXW43o/hqdefault.jpg",
-      "description": "دنیا ایک الیکٹروٹیک انقلاب کے دہانے پر ہے! ایمبر انرجی کی ایک نئی رپورٹ کے مطابق، توانائی پیدا کرنے، استعمال کرنے اور منسلک کرنے کے طریقوں میں بنیادی تبدیلی آرہی ہے۔ یہ رپورٹ ایندھن جلانے سے ٹیکنالوجیز کی تعمیر کی طرف من",
       "author": "FutureKeepers Urdu"
     }
   ]

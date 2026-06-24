@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T07:57:12.257Z",
+  "generatedAt": "2026-06-24T07:52:33.889Z",
   "locale": "zh",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "能源不再开采，而是制造！全球权力大洗牌",
+      "link": "https://www.youtube.com/watch?v=GLFTH7wKHfU",
+      "publishDate": "2026-06-24T01:00:20.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/GLFTH7wKHfU/hqdefault.jpg",
+      "description": "欢迎来到今天的深度解读，今天咱们要聊点硬核的。我们将一起拆解一股正在从根本上重塑全球权力平衡的超级力量：当能源是制造而不是开采出来时，世界将发生什么？ 一个惊人的事实：截至2026年4月，亚洲太阳能发电量首次超越天然气，达到1727太瓦时（TWh），而天然气为1711太瓦时。 发展中国家早已不再满足于维护化石能源的旧神话，他们更关心实实在在的经济增长和建立自身的经济主权。清洁能源转型，不再是抽象的气候政策附带品，而是一场由底层经济逻辑驱",
+      "author": "Future Keepers Mandarin"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-04-04T05:00:00.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/WQudjZ3oLgg/hqdefault.jpg",
       "description": "想象一下，在印度尼西亚一个偏远的村庄，天刚亮，孩子们正走在上学的路上。然而，对他们中的许多人来说，日出并不意味着家里的灯会亮起。这就是能源贫困的真实写照，它不仅限制了生活便利，更阻碍了教育、医疗和经济发展。 印度尼西亚设定了到2025年可再生能源占比23%的宏伟目标，但目前仅达到16%。这背后的差距反映出规划、采购和系统整合方面的深层问题。老旧的电网、政策协调不足以及巨大的资金缺口，都像一堵高墙，阻碍着这个国家的绿色发展之路。然而，就在",
-      "author": "Future Keepers Mandarin"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "印尼绿色经济大爆发：440万新工作等你来！",
-      "link": "https://www.youtube.com/watch?v=uWvq3IuKBNc",
-      "publishDate": "2026-04-03T19:30:52.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/uWvq3IuKBNc/hqdefault.jpg",
-      "description": "印度尼西亚正处在经济转型的十字路口，传统制造业面临挑战，许多人对未来工作感到焦虑。但你知道吗？绿色经济的崛起正在为印尼带来前所未有的就业大爆发！ 深入了解印尼如何通过国际合作（如公平能源转型伙伴关系JETP和亚洲零排放共同体AZEC）吸引了高达数十亿美元的绿色投资。这些资金正被投入到苏拉威西绿色能源走廊等旗舰项目中，建设长达950公里的高压输电网络，连接可再生能源发电区与工业需求中心，为工业发展提供清洁电力。这笔巨大的投资正在催生电动汽",
       "author": "Future Keepers Mandarin"
     }
   ]

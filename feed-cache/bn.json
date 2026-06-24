@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T07:57:15.563Z",
+  "generatedAt": "2026-06-24T07:52:37.146Z",
   "locale": "bn",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "এশিয়ার জ্বালানি বিপ্লব: সৌরবিদ্যু",
+      "link": "https://www.youtube.com/watch?v=eKiRK7lmWUQ",
+      "publishDate": "2026-06-24T03:00:25.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/eKiRK7lmWUQ/hqdefault.jpg",
+      "description": "আজ আমরা এমন এক বিশাল পরিবর্তনের কথা বলব যা পুরো বিশ্বের অর্থনীতি আর জ্বালানি খাতের হিসাব-নিকাশ একদম নতুন করে লিখছে। এশিয়া তার ঐতিহাসিক জীবাশ্ম জ্বালানির দুর্বলতাকে কাটিয়ে উঠে এখন আধুনিক ইলেক্ট্রোটেক সুপারপাওয়ারে পরিণত",
+      "author": "Future Keepers Bengali"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2025-09-05T23:52:22.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/RCw0MiMY_9w/hqdefault.jpg",
       "description": "নেট রেজিলিয়েন্স থেকে নেতৃত্বে উত্তরণ | দ্য নেট পজিটিভ | পর্ব ২ বেইজিংয়ের সাহসী ভার্চুয়াল পাওয়ার প্ল্যান্ট নীতির উদ্যোগ থেকে শুরু করে ফিজির উপকূলীয় অঞ্চলে সমুদ্রপৃষ্ঠের উচ্চতা বৃদ্ধির চ্যালেঞ্জ পর্যন্ত—The Net Positi",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "চাপ মানেই অগ্রগতি | দ্য নেট পজিটিভ | পর্ব ১",
-      "link": "https://www.youtube.com/watch?v=yKeNLy8fCyA",
-      "publishDate": "2025-08-07T20:17:06.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/yKeNLy8fCyA/hqdefault.jpg",
-      "description": "নেট পজিটিভ: পর্ব ১ স্বাগতম Net Positive-এর প্রথম পর্বে—এটি Climate & Capital Media এবং FutureKeepers-এর একটি যৌথ উদ্যোগ। এই সিরিজে আমরা জলবায়ু অর্থনীতিকে গড়ে তোলা অর্থ, ক্ষমতা ও নীতিমালা নিয়ে আলোচনা করি। এই পর্বে আমরা",
       "author": "Future Keepers Bengali"
     }
   ]

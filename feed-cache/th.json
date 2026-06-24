@@ -1,15 +1,27 @@
 {
-  "generatedAt": "2026-06-23T07:57:22.251Z",
+  "generatedAt": "2026-06-24T07:52:43.698Z",
   "locale": "th",
   "counts": {
-    "ytLongForm": 14,
+    "ytLongForm": 15,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 14,
+    "ytLongForm": 15,
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "จุดเปลี่ยนพลังงานโลก: เอเชียกำลัง",
+      "link": "https://www.youtube.com/watch?v=bAJbW-pnFiA",
+      "publishDate": "2026-06-24T02:15:15.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/bAJbW-pnFiA/hqdefault.jpg",
+      "description": "ถ้าคุณเคยเชื่อว่าระบบพลังงานโลกมั่นคงและไม่เปลี่ยนแปลงง่ายๆ หรือพลังงานสะอาดเป็นแค่กระแสชั่วคราว คุณอาจจะต้องคิดใหม่ เพราะเอเชียกำลังพลิกโฉมโลกพลังงานอย่างที่ไม่เคยมีมาก่อน ในปี 2025 ที่ผ่านมา การผลิตไฟฟ้าจากพลังงานแสงอา",
+      "author": "FutureKeepers Thai"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",

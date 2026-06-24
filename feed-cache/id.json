@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T07:57:08.915Z",
+  "generatedAt": "2026-06-24T07:52:30.628Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Asia Memimpin Revolusi Energi: 95% Panel Surya Global!",
+      "link": "https://www.youtube.com/watch?v=Htt5Tbf5sGA",
+      "publishDate": "2026-06-24T02:00:19.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/Htt5Tbf5sGA/hqdefault.jpg",
+      "description": "Pernahkah Anda membayangkan bahwa revolusi energi global tidak dimulai di ruang rapat pemerintah yang kaku, tetapi dari meja makan rumah kita sendiri? Di Asia, jutaan keluarga kini menghitung untung-rugi antara tagihan l",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-04-04T23:30:06.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/-nZrUFzP-3E/hqdefault.jpg",
       "description": "Indonesia berada di persimpangan jalan energi yang krusial. Di satu sisi, krisis energi global yang disebut Badan Energi Internasional sebagai \"yang terburuk dalam sejarah\" mengancam stabilitas ekonomi kita. Penutupan Se",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "4,4 Juta Pekerjaan Hijau: Peluang Baru Ekonomi Indonesia Menanti!",
-      "link": "https://www.youtube.com/watch?v=zWoSwdD0N3Q",
-      "publishDate": "2026-04-04T19:00:06.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/zWoSwdD0N3Q/hqdefault.jpg",
-      "description": "Di tengah ketidakpastian ekonomi global, Indonesia berada di persimpangan jalan menuju masa depan yang lebih hijau dan berkelanjutan. Gelombang investasi hijau besar-besaran siap mengubah lanskap ekonomi kita, menciptaka",
       "author": "FutureKeepers Indonesian"
     }
   ]
