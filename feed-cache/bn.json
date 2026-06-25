@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T07:52:37.146Z",
+  "generatedAt": "2026-06-25T07:53:42.578Z",
   "locale": "bn",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "এশিয়ার ইলেক্ট্রটেক বুম: ৩৯ গিগাওয়া",
+      "link": "https://www.youtube.com/watch?v=fNW_Lztx81s",
+      "publishDate": "2026-06-25T03:00:18.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/fNW_Lztx81s/hqdefault.jpg",
+      "description": "এশিয়ার জ্বালানি খাতে এক বিশাল পরিবর্তন ঘটছে, আর এর কেন্দ্রে রয়েছে সৌর বিদ্যুৎ। অবিশ্বাস্য মনে হলেও, চীন থেকে এশিয়া জুড়ে মাত্র এক মাসেই রেকর্ড ৩৯ গিগাওয়াট সোলার প্যানেল রপ্তানি হয়েছে, যা সাধারণ মানুষের চাহিদা থেকে তৈ",
+      "author": "Future Keepers Bengali"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2025-09-23T23:52:49.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/B4td7Go8erU/hqdefault.jpg",
       "description": "FutureKeepers is a global storytelling platform powered by people, amplified by AI. We shine a light on the ideas, breakthroughs, and communities shaping a sustainable, connected, and just world. From solar surges in Asi",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "নেট রেজিলিয়েন্স থেকে নেতৃত্বে উত্তরণ | দ্য নেট পজিটিভ | পর্ব ২",
-      "link": "https://www.youtube.com/watch?v=RCw0MiMY_9w",
-      "publishDate": "2025-09-05T23:52:22.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/RCw0MiMY_9w/hqdefault.jpg",
-      "description": "নেট রেজিলিয়েন্স থেকে নেতৃত্বে উত্তরণ | দ্য নেট পজিটিভ | পর্ব ২ বেইজিংয়ের সাহসী ভার্চুয়াল পাওয়ার প্ল্যান্ট নীতির উদ্যোগ থেকে শুরু করে ফিজির উপকূলীয় অঞ্চলে সমুদ্রপৃষ্ঠের উচ্চতা বৃদ্ধির চ্যালেঞ্জ পর্যন্ত—The Net Positi",
       "author": "Future Keepers Bengali"
     }
   ]

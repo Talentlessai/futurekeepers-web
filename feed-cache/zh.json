@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T07:52:33.889Z",
+  "generatedAt": "2026-06-25T07:53:39.215Z",
   "locale": "zh",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "能源不再是地质彩票：亚洲如何制造未来",
+      "link": "https://www.youtube.com/watch?v=-AIhpu66mV0",
+      "publishDate": "2026-06-24T17:10:44.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/-AIhpu66mV0/hqdefault.jpg",
+      "description": "过去，全球财富的流向往往由地下埋藏的化石燃料决定。但现在，一个惊人的转变正在发生：能源不再是地理位置决定的“地质彩票”，而是由制造业决定的“工业选择”。 你知道吗？过去亚洲每年要为进口化石燃料支付高达1.1万亿美元，这笔巨款原本可以用于国内建设，现在正被新能源制造所改变。 在过去200多年以化石燃料为主导的世界里，亚洲因其匮乏的石油和天然气储量而处于劣势。这导致了巨大的财富流失，这些资金本可以用于基础设施建设、教育投资，却不得不用于购买",
+      "author": "Future Keepers Mandarin"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-04-05T05:00:06.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/YU0b1RdMfgI/hqdefault.jpg",
       "description": "你知道吗？每天在厨房里点燃的那一小束蓝色火焰，可能正在让你不知不觉中花冤枉钱。今天，我们将揭示一个能帮你省下17%开销的烹饪小窍门，而这个选择，对整个国家都有深远影响！ 在印度尼西亚，千家万户的厨房里都有一个绿油油的3公斤装煤气罐，大家亲切地叫它“甜瓜罐”。这是政府自2007年起为帮助家庭从煤油转向更清洁燃料而推出的液化石油气（LPG）补贴项目。然而，这背后却隐藏着巨大的国家成本和风险。 据国际可持续发展研究所数据，印尼政府在2024年",
-      "author": "Future Keepers Mandarin"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "百吉瓦计划：点亮印度尼西亚的未来能源之路",
-      "link": "https://www.youtube.com/watch?v=WQudjZ3oLgg",
-      "publishDate": "2026-04-04T05:00:00.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/WQudjZ3oLgg/hqdefault.jpg",
-      "description": "想象一下，在印度尼西亚一个偏远的村庄，天刚亮，孩子们正走在上学的路上。然而，对他们中的许多人来说，日出并不意味着家里的灯会亮起。这就是能源贫困的真实写照，它不仅限制了生活便利，更阻碍了教育、医疗和经济发展。 印度尼西亚设定了到2025年可再生能源占比23%的宏伟目标，但目前仅达到16%。这背后的差距反映出规划、采购和系统整合方面的深层问题。老旧的电网、政策协调不足以及巨大的资金缺口，都像一堵高墙，阻碍着这个国家的绿色发展之路。然而，就在",
       "author": "Future Keepers Mandarin"
     }
   ]

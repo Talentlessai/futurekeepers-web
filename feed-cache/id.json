@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T07:52:30.628Z",
+  "generatedAt": "2026-06-25T07:53:35.944Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Surya Lampaui Gas di Asia: Konvergensi Energi Terbaru",
+      "link": "https://www.youtube.com/watch?v=sd2uAZ-1EMc",
+      "publishDate": "2026-06-24T17:14:05.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/sd2uAZ-1EMc/hqdefault.jpg",
+      "description": "Kita sedang menyaksikan pergeseran besar dalam cara dunia menghasilkan energi, sebuah konvergensi yang mengubah lanskap ekonomi dan geopolitik global. Selama berabad-abad, kekuatan suatu negara ditentukan oleh kekayaan g",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-04-05T21:15:06.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/h1N1VEBfD5E/hqdefault.jpg",
       "description": "Pernahkah Anda terjebak antrean panjang di SPBU saat subuh? Realitas ini bukan lagi sekadar ketidaknyamanan, melainkan cerminan dari pergeseran energi masif yang sedang dialami Indonesia. Di balik frustrasi harian ini, t",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Persimpangan Energi Indonesia: Krisis Global, Biofuel, & Masa Depan Hijau",
-      "link": "https://www.youtube.com/watch?v=-nZrUFzP-3E",
-      "publishDate": "2026-04-04T23:30:06.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/-nZrUFzP-3E/hqdefault.jpg",
-      "description": "Indonesia berada di persimpangan jalan energi yang krusial. Di satu sisi, krisis energi global yang disebut Badan Energi Internasional sebagai \"yang terburuk dalam sejarah\" mengancam stabilitas ekonomi kita. Penutupan Se",
       "author": "FutureKeepers Indonesian"
     }
   ]
