@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T07:53:32.673Z",
+  "generatedAt": "2026-06-26T08:01:52.014Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,30 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "Habang Abala Tayo kay Elon… Ang Asya na ang Nagtatayo ng Kinabukasan ng Enerhiya",
+      "link": "https://proelectrica.substack.com/p/habang-abala-tayo-kay-elon-ang-asya",
+      "publishDate": "2026-06-26T01:01:37.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!16l4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2449930d-1c59-497e-91da-cd642d647297_2048x1152.png",
+      "description": "Malalimang Sulyap: Sa Likod ng GEC (Malawakang Pag-iisa ng Enerhiya)",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "当目光聚焦埃隆时……亚洲已建成能源未来",
+      "link": "https://proelectrica.substack.com/p/71b",
+      "publishDate": "2026-06-26T01:01:37.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!16l4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2449930d-1c59-497e-91da-cd642d647297_2048x1152.png",
+      "description": "深度解析：能源大融合（GEC）的幕后故事",
+      "author": "Danny Kennedy"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -232,30 +256,6 @@
       "publishDate": "2026-06-08T01:00:58.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/%24s_!YGin!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F817084b6-b431-4b74-a06a-ef229f414540_1590x1150.png",
       "description": "深入解析中国行业动荡：超越头条新闻",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "Isang 'Reality Check' sa mga 'Reality Check': Laging Sumisikat ang Araw",
-      "link": "https://proelectrica.substack.com/p/isang-reality-check-sa-mga-reality",
-      "publishDate": "2026-06-08T01:00:54.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!dNZY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa19ad57f-02f3-4a1a-b242-b32380f7cf47_1590x1150.png",
-      "description": "Masusing Pagsusuri sa Likod ng mga Balita Tungkol sa Kaguluhan sa Industriya ng Tsina",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "A Reality Check on the Reality Checks: The Sun Always Rises",
-      "link": "https://proelectrica.substack.com/p/a-reality-check-on-the-reality-checks",
-      "publishDate": "2026-06-05T16:33:34.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!4PA3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a009a53-ba3f-4be6-ad69-5dc87604a4ff_1590x1150.png",
-      "description": "Deep Dive Beyond the Headline of China's Industry Turmoil",
       "author": "Danny Kennedy"
     },
     {
