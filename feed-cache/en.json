@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T08:01:52.014Z",
+  "generatedAt": "2026-06-27T07:26:10.880Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,30 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "जब आप एलन को देख रहे थे... एशिया ने ऊर्जा का भविष्य गढ़ा!",
+      "link": "https://proelectrica.substack.com/p/d32",
+      "publishDate": "2026-06-26T03:30:44.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!16l4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2449930d-1c59-497e-91da-cd642d647297_2048x1152.png",
+      "description": "गहराई से पड़ताल: 'महान ऊर्जा संगम' (GEC) के पीछे की कहानी",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "আপনার মনোযোগ যখন অন্য কোথাও, এশিয়া তখন গড়ে তুলছে বিদ্যুতের ভবিষ্যৎ",
+      "link": "https://proelectrica.substack.com/p/841",
+      "publishDate": "2026-06-26T03:00:31.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!16l4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2449930d-1c59-497e-91da-cd642d647297_2048x1152.png",
+      "description": "গভীর অনুসন্ধান: মহা শক্তি-রূপান্তরের (Great Energy Convergence) নেপথ্যে",
+      "author": "Danny Kennedy"
+    },
     {
       "source": "proElectrica",
       "sourceLabel": "ProElectrica",
@@ -232,30 +256,6 @@
       "publishDate": "2026-06-08T03:00:46.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/%24s_!ch7P!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90e56748-5e15-4ca9-bbc9-3fb3cca628df_1590x1150.png",
       "description": "চীনের শিল্পখাতের অস্থিরতা: শিরোনামের বাইরে এক গভীর বিশ্লেষণ",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "Saatnya Cek Ulang 'Cek Realitas' Negatif: Matahari Selalu Terbit",
-      "link": "https://proelectrica.substack.com/p/saatnya-cek-ulang-cek-realitas-negatif",
-      "publishDate": "2026-06-08T02:00:34.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!2GUl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31b36917-6691-41e9-af1f-071b33ac295a_1590x1150.png",
-      "description": "Analisis Mendalam di Balik Gejolak Industri Tiongkok: Melampaui Judul Utama Berita",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "对“现实检验”的再审视：太阳照常升起",
-      "link": "https://proelectrica.substack.com/p/77b",
-      "publishDate": "2026-06-08T01:00:58.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!YGin!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F817084b6-b431-4b74-a06a-ef229f414540_1590x1150.png",
-      "description": "深入解析中国行业动荡：超越头条新闻",
       "author": "Danny Kennedy"
     },
     {
