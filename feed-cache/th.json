@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T07:43:10.279Z",
+  "generatedAt": "2026-07-03T07:34:21.170Z",
   "locale": "th",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "ติดตั้งโซลาร์: รัฐช่วย 10,000 บาท! คุ้ม",
+      "link": "https://www.youtube.com/shorts/8uf6lXCnueM",
+      "publishDate": "2026-07-03T02:15:17.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/8uf6lXCnueM/hqdefault.jpg",
+      "description": "เบื่อไหมคะที่ต้องจ่ายค่าไฟแพงขึ้นทุกวัน? เรามีแผนเกมในบ้านที่จะช่วยให้คุณชนะขาดลอย! ข่าวดีคือ: รัฐบาลมีเงินอุดหนุน 10,000 บาท ให้ถึง 400,000 ครัวเรือน เพื่อช่วยให้การติดตั้งโซลาร์คุ้มทุนเร็วขึ้นแบบสุดๆ ไปเลย! มาดูกันว่าเ",
+      "author": "FutureKeepers Thai"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -272,18 +284,6 @@
       "publishDate": "2026-05-21T20:14:24.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/DNWK6GHgtjI/hqdefault.jpg",
       "description": "พลังงานหมุนเวียนอย่างแสงอาทิตย์และลมมีราคาถูกกว่าเชื้อเพลิงฟอสซิลแล้ว และเกาหลีใต้กำลังเป็นผู้นำในการเปลี่ยนผ่านครั้งสำคัญนี้! วิดีโอนี้จะพาคุณไปสำรวจแผนการอันทะเยอทะยานของเกาหลีใต้ในการเพิ่มขีดความสามารถด้านพลังงานหมุนเ",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "ราคาแบตเตอรี่ลด 99%: สู่พลังงานอิสระ",
-      "link": "https://www.youtube.com/shorts/euN9aowQzN0",
-      "publishDate": "2026-05-21T20:13:56.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/euN9aowQzN0/hqdefault.jpg",
-      "description": "คุณเคยสงสัยไหมว่าไฟฟ้าในบ้านเรามั่นคงแค่ไหน? วิกฤตการณ์ในช่องแคบฮอร์มุซแสดงให้เห็นถึงความเปราะบางของการพึ่งพาเชื้อเพลิงนำเข้า แต่มีข่าวดี! ราคาแบตเตอรี่ลิเธียมไอออนลดลงถึง 99% ตั้งแต่ปี 1991 จาก $9,200 เหลือเพียง $108 ต่",
       "author": "FutureKeepers Thai"
     },
     {

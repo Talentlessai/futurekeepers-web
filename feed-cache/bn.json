@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T07:43:03.671Z",
+  "generatedAt": "2026-07-03T07:34:14.600Z",
   "locale": "bn",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "EV ট্যাক্স 0%: বাংলাদেশের হোম অ্যাডভান",
+      "link": "https://www.youtube.com/shorts/Tx3yyAZNQ9M",
+      "publishDate": "2026-07-03T03:00:21.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/Tx3yyAZNQ9M/hqdefault.jpg",
+      "description": "তেলের বিশ্বকাপ নিয়ে বিশ্ব যখন ব্যস্ত, তখন বাংলাদেশ নিজস্ব মাঠে খেলছে অন্য এক খেলা! বৈদ্যুতিক গাড়ির উপর ট্যাক্স শূন্য করে আমরা জ্বালানি স্বাধীনতা অর্জনের এক নতুন সুযোগ তৈরি করেছি। বৈদ্যুতিক গাড়ির উপর ট্যাক্স এখন 0%। বর",
+      "author": "Future Keepers Bengali"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -284,18 +296,6 @@
       "publishDate": "2026-05-24T03:00:17.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/1v8VSM0yv5o/hqdefault.jpg",
       "description": "আপনি কি সোলার প্যানেল এবং ব্যাটারির শক্তিকে একটি নতুন উপায়ে দেখতে প্রস্তুত? বার্বি, পান্ডা এবং একজন সৈনিকের সাথে আবিষ্কার করুন কিভাবে তারা রাতকেও আলোকিত করতে পারে! এই ভিডিওতে, আমরা দেখাই কিভাবে সোলার এবং ব্যাটারি একসাথে",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "ফিলিপাইন: তেলের ধাক্কা সামলাতে নবায়নযোগ্য প্রকল্পে গতি",
-      "link": "https://www.youtube.com/shorts/y_fJZmJ2PCU",
-      "publishDate": "2026-05-22T03:00:16.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/y_fJZmJ2PCU/hqdefault.jpg",
-      "description": "তেলের দামের ধাক্কায় ফিলিপাইন এখন জরুরি অবস্থায়। তারা একগুচ্ছ নবায়নযোগ্য শক্তি প্রকল্প দ্রুত বাস্তবায়নের ঘোষণা দিয়েছে, যা জাতীয় উচ্চাকাঙ্ক্ষী লক্ষ্য থাকা সত্ত্বেও অনুমোদন প্রক্রিয়ার দীর্ঘসূত্রিতা এবং জটিলতা দূর করত",
       "author": "Future Keepers Bengali"
     },
     {

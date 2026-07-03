@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T07:42:56.876Z",
+  "generatedAt": "2026-07-03T07:34:08.053Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "GANTI TAKTIK! Jadi Bos Listrik Sendiri, Hemat Uang!",
+      "link": "https://www.youtube.com/shorts/uba-ahyLF3Y",
+      "publishDate": "2026-07-03T02:00:21.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/uba-ahyLF3Y/hqdefault.jpg",
+      "description": "Bosan terus-terusan buang uang di pom bensin? Saatnya ganti taktik dan jadi bos listrikmu sendiri di rumah! Video ini akan tunjukkan tiga jurus maut untuk hemat pengeluaran energi kamu. Lihat bagaimana tren pengeluaranmu",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -284,18 +296,6 @@
       "publishDate": "2026-05-26T20:59:56.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/w3FVucNx7zE/hqdefault.jpg",
       "description": "Ada hubungannya dengan sumber energi yang kita pakai gak ya? Atau kamu tahu info terkait blackout di Sumatera beberapa waktu lalu? Jawabannya adalah karena sumber energi kita masih dominan menggunakan energi fosil, padah",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Jepang dan ASEAN: Kebangkitan Nuklir Pasca-Fukushima?",
-      "link": "https://www.youtube.com/shorts/en8I673sgW0",
-      "publishDate": "2026-05-25T02:15:16.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/en8I673sgW0/hqdefault.jpg",
-      "description": "Setelah bencana nuklir Fukushima 15 tahun lalu, Jepang kini menghidupkan kembali rencana pembangunan pembangkit listrik tenaga nuklir. Sementara itu, lima dari sebelas negara ASEAN yang belum pernah menghasilkan listrik ",
       "author": "FutureKeepers Indonesian"
     },
     {

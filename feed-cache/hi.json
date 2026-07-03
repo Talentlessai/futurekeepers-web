@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T07:43:13.684Z",
+  "generatedAt": "2026-07-03T07:34:24.420Z",
   "locale": "hi",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "भारत का होम-पिच एडवांटेज: ऊर्जा में आ",
+      "link": "https://www.youtube.com/shorts/R9soXV6tvPs",
+      "publishDate": "2026-07-03T03:30:19.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/R9soXV6tvPs/hqdefault.jpg",
+      "description": "दुनिया भर में जहाँ तेल की कीमतें और उनकी भू-राजनीति का ड्रामा चल रहा है, भारत अपना ही खेल खेल रहा है। हम समुद्र पार से कच्चा तेल आयात करते हैं, लेकिन हमारी असली ताकत और जीत हमारे अपने घर में है: हमारी अपनी धूप और बढ़ती ह",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -284,18 +296,6 @@
       "publishDate": "2026-05-20T20:03:59.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/K25mxjERxnQ/hqdefault.jpg",
       "description": "ईरान में चल रहे संघर्ष के कारण तेल संकट के सबसे बड़े शिकार माने जाने वाले दक्षिण कोरिया ने अब अपनी ऊर्जा रणनीति में एक बड़ा बदलाव किया है। देश 2030 तक अपनी सौर और पवन ऊर्जा क्षमता को लगभग तीन गुना बढ़ाकर 100 गीगावाट करने",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "गुएरिल्ला सोलर: कैसे लोग खुद को बिजली दे रहे हैं जब सरकारें नहीं कर रहीं?",
-      "link": "https://www.youtube.com/shorts/5aayFdk-ryg",
-      "publishDate": "2026-05-15T03:30:16.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/5aayFdk-ryg/hqdefault.jpg",
-      "description": "फिलीपींस और पाकिस्तान में, लोगों ने अपने घरों की छतों पर सोलर पैनल लगाकर अपनी ऊर्जा क्रांति शुरू कर दी है, बिना सरकारों या बिजली कंपनियों का इंतजार किए। यह 'गुएरिल्ला सोलर' आंदोलन दिखा रहा है कि कैसे समुदाय खुद को सशक्त ",
       "author": "Future Keepers Hindi"
     },
     {
