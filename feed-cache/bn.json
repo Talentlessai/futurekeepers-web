@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T07:34:14.600Z",
+  "generatedAt": "2026-07-04T07:13:11.272Z",
   "locale": "bn",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "জ্বালানি খরচ? আর না! নিজের ছাদে সৌরশক",
+      "link": "https://www.youtube.com/shorts/MswWiyorOM4",
+      "publishDate": "2026-07-04T03:00:20.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/MswWiyorOM4/hqdefault.jpg",
+      "description": "আপনি কি অন্যের পকেটে টাকা ভরে ক্লান্ত? আপনার গাড়িতে তেল ভরা বা বাড়িতে বিদ্যুৎ বিল পরিশোধ করা মানেই কি আপনার কষ্টার্জিত টাকা অন্যের হাতে তুলে দেওয়া? এবার সময় এসেছে নিজের পাওয়ার হাউসের মালিক হওয়ার! প্রতিবার যখন আপনি ফুয়েল",
+      "author": "Future Keepers Bengali"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -284,18 +296,6 @@
       "publishDate": "2026-05-25T03:00:19.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/UayRTcfI_9I/hqdefault.jpg",
       "description": "একসময় ব্যাটারি ছিল শুধু ধনীদের বিলাসিতা। এখন তা সবার জন্য সাশ্রয়ী, যা বিদ্যুতের দুনিয়ায় এনেছে বিপ্লব। ১৯৯১ সাল থেকে ব্যাটারির দাম কমেছে ৯৯%। মাত্র কয়েক দশক আগেও, ১ কিলোওয়াট ব্যাটারির দাম ছিল ৯,২০০ ডলার। কিন্তু প্রযুক্",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "বার্বি, পান্ডা আর সোলজার: ২৪ ঘন্টা বিদ্যুৎ!",
-      "link": "https://www.youtube.com/shorts/1v8VSM0yv5o",
-      "publishDate": "2026-05-24T03:00:17.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/1v8VSM0yv5o/hqdefault.jpg",
-      "description": "আপনি কি সোলার প্যানেল এবং ব্যাটারির শক্তিকে একটি নতুন উপায়ে দেখতে প্রস্তুত? বার্বি, পান্ডা এবং একজন সৈনিকের সাথে আবিষ্কার করুন কিভাবে তারা রাতকেও আলোকিত করতে পারে! এই ভিডিওতে, আমরা দেখাই কিভাবে সোলার এবং ব্যাটারি একসাথে",
       "author": "Future Keepers Bengali"
     },
     {

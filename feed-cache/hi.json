@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T07:34:24.420Z",
+  "generatedAt": "2026-07-04T07:13:21.252Z",
   "locale": "hi",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "पेट्रोल पंप पर पैसे क्यों गंवाते हो?",
+      "link": "https://www.youtube.com/shorts/tHP0Ni-5cWo",
+      "publishDate": "2026-07-04T03:30:20.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/tHP0Ni-5cWo/hqdefault.jpg",
+      "description": "नमस्ते दोस्तों! क्या आप हर बार पेट्रोल पंप पर पैसे डालते समय एक ऐसी बाजी खेल रहे होते हैं जिसमें आपकी हार पक्की है? यह FutureKeepers का 'एडिशन बी टीम टॉक' है, और हम आपको बता रहे हैं कि बाहर की टीम को जिताना अब बंद करें। ",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -284,18 +296,6 @@
       "publishDate": "2026-05-20T22:00:41.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/ytPt8NAcF6I/hqdefault.jpg",
       "description": "दुनिया भर में पेट्रोल-डीजल की बढ़ती कीमतों ने एक ऐसी क्रांति को जन्म दिया है, जिसकी हमने उम्मीद भी नहीं की थी: क्लीन ट्रांसपोर्ट की क्रांति! जब भी इलेक्ट्रिक गाड़ियों (EVs) की बात होती है, तो हमारा ध्यान अक्सर यूरोप और अ",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "ईरान संकट से सबक: दक्षिण कोरिया का 100GW ग्रीन एनर्जी पुश",
-      "link": "https://www.youtube.com/shorts/K25mxjERxnQ",
-      "publishDate": "2026-05-20T20:03:59.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/K25mxjERxnQ/hqdefault.jpg",
-      "description": "ईरान में चल रहे संघर्ष के कारण तेल संकट के सबसे बड़े शिकार माने जाने वाले दक्षिण कोरिया ने अब अपनी ऊर्जा रणनीति में एक बड़ा बदलाव किया है। देश 2030 तक अपनी सौर और पवन ऊर्जा क्षमता को लगभग तीन गुना बढ़ाकर 100 गीगावाट करने",
       "author": "Future Keepers Hindi"
     },
     {

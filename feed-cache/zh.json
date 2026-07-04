@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T07:34:11.278Z",
+  "generatedAt": "2026-07-04T07:13:07.907Z",
   "locale": "zh",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "新能源主场游戏：本土电力如何改变规则",
+      "link": "https://www.youtube.com/watch?v=b2rWOCm8j0Y",
+      "publishDate": "2026-07-04T01:00:22.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/b2rWOCm8j0Y/hqdefault.jpg",
+      "description": "大家好，欢迎来到本期解析。今天我们要聊一个能彻底颠覆你我生活规则的重磅话题。以前一提到全球向清洁能源转型，很多人总觉得这像是一种被迫要尽的义务，听起来特别沉重、枯燥。但今天，咱们得直接把这层窗户纸捅破——这根本就不是什么义务，这其实是一场极其聪明、回报丰厚的主场争夺战！ 想象一下，一个国家3900万桶的战略原油储备，听起来像个天文数字，但对于印度来说，这仅仅只够覆盖他们大约8天的进口需求！这赤裸裸地说明了在传统化石燃料体系下，一个大国在",
+      "author": "Future Keepers Mandarin"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-04-07T05:00:06.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/Jd3fNuCazb8/hqdefault.jpg",
       "description": "设想一下2026年，一场突如其来的全球能源危机，霍尔木兹海峡的航运几乎停滞，全球能源市场脉搏骤停。在这场动荡中，印尼如何将危机转化为机遇，转而探索其本土的能源命脉？ 本期视频将深入探讨印尼在2026年全球能源危机中所面临的挑战与机遇。我们首先剖析全球能源市场的岌岌可危，中东冲突如何导致国际油价飙升至每桶100美元以上，以及霍尔木兹海峡海上交通的停滞对全球能源供应链造成的巨大冲击。随后，我们将聚焦印尼，揭示其能源困境：每日庞大的燃料消耗量",
-      "author": "Future Keepers Mandarin"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "17%的烹饪小窍门：印尼厨房里的能源大变革",
-      "link": "https://www.youtube.com/watch?v=YU0b1RdMfgI",
-      "publishDate": "2026-04-05T05:00:06.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/YU0b1RdMfgI/hqdefault.jpg",
-      "description": "你知道吗？每天在厨房里点燃的那一小束蓝色火焰，可能正在让你不知不觉中花冤枉钱。今天，我们将揭示一个能帮你省下17%开销的烹饪小窍门，而这个选择，对整个国家都有深远影响！ 在印度尼西亚，千家万户的厨房里都有一个绿油油的3公斤装煤气罐，大家亲切地叫它“甜瓜罐”。这是政府自2007年起为帮助家庭从煤油转向更清洁燃料而推出的液化石油气（LPG）补贴项目。然而，这背后却隐藏着巨大的国家成本和风险。 据国际可持续发展研究所数据，印尼政府在2024年",
       "author": "Future Keepers Mandarin"
     }
   ]

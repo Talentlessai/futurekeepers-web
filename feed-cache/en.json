@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T07:34:04.811Z",
+  "generatedAt": "2026-07-04T07:13:01.213Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,30 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "The Swarm We Can't See",
+      "link": "https://proelectrica.substack.com/p/the-swarm-we-cant-see",
+      "publishDate": "2026-07-03T20:21:17.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!72js!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb016e546-462d-4fdc-b99a-ae78a3dfa748_1448x1086.png",
+      "description": "Energy Analogies: The Hidden Half of South Southeast Asia's Energy Transition",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Clean Energy is Winning: Even Toyota Sees 170% EV Growth",
+      "link": "https://www.youtube.com/shorts/qbgvawFjzgU",
+      "publishDate": "2026-07-03T14:00:23.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/qbgvawFjzgU/hqdefault.jpg",
+      "description": "Clean energy isn't just a choice anymore; it's a winning strategy. The global shift to clean power is accelerating, with the 'home team' consistently outperforming traditional energy sources. Last year, clean power was t",
+      "author": "FutureKeepers"
+    },
     {
       "source": "proElectrica",
       "sourceLabel": "ProElectrica",
@@ -256,18 +280,6 @@
       "publishDate": "2026-06-08T04:01:12.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/%24s_!XReW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff916b994-befb-40e6-886a-3835781ef9dd_1590x1150.png",
       "description": "چین کی صنعتی ہلچل کا گہرائی سے جائزہ: سرخیوں سے آگے",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "हकीकत के दावों की सच्चाई: सूरज तो हर दिन उगता है",
-      "link": "https://proelectrica.substack.com/p/87c",
-      "publishDate": "2026-06-08T03:30:39.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!DycW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8be695c-f0c6-45e9-8a1b-2bcfa2a553c9_1590x1150.png",
-      "description": "चीन के औद्योगिक उथल-पुथल की गहन पड़ताल: सुर्खियों से आगे",
       "author": "Danny Kennedy"
     },
     {
@@ -520,18 +532,6 @@
       "publishDate": "2026-05-20T20:03:07.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/z87WxTCfzLg/hqdefault.jpg",
       "description": "South Korea is making a massive shift to renewable energy, tripling its solar and wind capacity in response to global energy shocks and the increasing affordability of clean power. South Korea plans to increase its solar",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Solar & Batteries: Own The Night with 24/7 Power!",
-      "link": "https://www.youtube.com/shorts/SxWVIS_uB_A",
-      "publishDate": "2026-05-20T18:22:20.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/SxWVIS_uB_A/hqdefault.jpg",
-      "description": "Ever wondered how to keep the lights on when the sun goes down, even with solar panels? Discover how solar panels and battery storage can provide 24-hour power and achieve true energy independence! 🔋☀️ This fun, stop-mo",
       "author": "FutureKeepers"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T07:34:08.053Z",
+  "generatedAt": "2026-07-04T07:13:04.579Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Dibuang, Dibayar! Beralih ke Energi Hijau Itu Cuan!",
+      "link": "https://www.youtube.com/shorts/IrgiZLCvQJc",
+      "publishDate": "2026-07-04T02:00:21.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/IrgiZLCvQJc/hqdefault.jpg",
+      "description": "Halo teman-teman! Capek dengar berita buruk soal iklim? Tenang, ada kabar baik dari dunia energi bersih yang bikin kantong tebal dan bumi bernapas lega! Tahu enggak, penjualan mobil listrik Toyota melonjak 170%! Ini rang",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -284,18 +296,6 @@
       "publishDate": "2026-05-26T21:01:29.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/PAYB7w7ZgkM/hqdefault.jpg",
       "description": "Salah satu alasannya adalah karena isu energi. 😱 Saat harga energi BBM naik, transportasi, makanan, dan biaya hidup ikut terdampak. Di Indonesia, banyak pulau kecil masih bergantung pada bahan bakar diesel. Di sisi lain",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Pernah kepikiran gak kenapa bumi tiap hari makin gerah rasanya?",
-      "link": "https://www.youtube.com/shorts/w3FVucNx7zE",
-      "publishDate": "2026-05-26T20:59:56.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/w3FVucNx7zE/hqdefault.jpg",
-      "description": "Ada hubungannya dengan sumber energi yang kita pakai gak ya? Atau kamu tahu info terkait blackout di Sumatera beberapa waktu lalu? Jawabannya adalah karena sumber energi kita masih dominan menggunakan energi fosil, padah",
       "author": "FutureKeepers Indonesian"
     },
     {

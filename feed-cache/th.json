@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T07:34:21.170Z",
+  "generatedAt": "2026-07-04T07:13:17.964Z",
   "locale": "th",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "พลังงานสะอาด ขึ้นแท่นอันดับ 1 ของโ",
+      "link": "https://www.youtube.com/shorts/1FYL_CcWh0k",
+      "publishDate": "2026-07-04T02:15:19.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/1FYL_CcWh0k/hqdefault.jpg",
+      "description": "ปีที่แล้ว พลังงานสะอาดกลายเป็นแหล่งพลังงานใหม่ที่ใหญ่ที่สุดในโลกไปแล้ว! นี่คือ 5 ข่าวพลังงานเปลี่ยนโลกที่คุณต้องรู้จาก FutureKeepers Signal 1. พลังงานสะอาดครองอันดับ 1: ปีที่แล้ว พลังงานสะอาดกลายเป็นแหล่งพลังงานใหม่ที่ให",
+      "author": "FutureKeepers Thai"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -272,18 +284,6 @@
       "publishDate": "2026-05-21T20:48:16.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/8Xzb4FbFHWU/hqdefault.jpg",
       "description": "ความมั่นคงทางพลังงานของโลกไม่ควรขึ้นอยู่กับสถานการณ์ความขัดแย้งทางภูมิรัฐศาสตร์ การพึ่งพาเชื้อเพลิงฟอสซิลทำให้ระบบพลังงานของเราเปราะบางและผันผวนอย่างมาก วิกฤตการณ์ล่าสุดในตะวันออกกลางเป็นเครื่องเตือนใจอย่างชัดเจนว่าความเ",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "เกาหลีใต้: ผู้นำเอเชีย สู่พลังงานหมุนเวียน 100 GW ปี 2030",
-      "link": "https://www.youtube.com/shorts/DNWK6GHgtjI",
-      "publishDate": "2026-05-21T20:14:24.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/DNWK6GHgtjI/hqdefault.jpg",
-      "description": "พลังงานหมุนเวียนอย่างแสงอาทิตย์และลมมีราคาถูกกว่าเชื้อเพลิงฟอสซิลแล้ว และเกาหลีใต้กำลังเป็นผู้นำในการเปลี่ยนผ่านครั้งสำคัญนี้! วิดีโอนี้จะพาคุณไปสำรวจแผนการอันทะเยอทะยานของเกาหลีใต้ในการเพิ่มขีดความสามารถด้านพลังงานหมุนเ",
       "author": "FutureKeepers Thai"
     },
     {
