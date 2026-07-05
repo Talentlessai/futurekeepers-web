@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T07:13:17.964Z",
+  "generatedAt": "2026-07-05T07:36:11.690Z",
   "locale": "th",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "400,000 หลังคาไทย: พลังงานแสงอาทิตย์เพ",
+      "link": "https://www.youtube.com/watch?v=Xd4D7Wee7jc",
+      "publishDate": "2026-07-05T02:00:21.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/Xd4D7Wee7jc/hqdefault.jpg",
+      "description": "ในอดีต การขับเคลื่อนการเคลื่อนไหวในเมืองต้องพึ่งพาห่วงโซ่อุปทานเชื้อเพลิงฟอสซิลทั่วโลกที่ผันผวน ความขัดแย้งในอ่าวเปอร์เซียหรือราคาน้ำมันดิบที่พุ่งสูงขึ้นส่งผลกระทบทันทีต่อต้นทุนเชื้อเพลิงและค่าไฟฟ้าในท้องถิ่น แต่ประเทศไท",
+      "author": "FutureKeepers Thai"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2025-09-23T23:47:06.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/ErclzHkF_7Y/hqdefault.jpg",
       "description": "FutureKeepers คือแพลตฟอร์มการเล่าเรื่องระดับโลก ที่ขับเคลื่อนด้วยผู้คนและขยายพลังด้วย AI เราส่องแสงให้กับแนวคิด นวัตกรรม และชุมชนที่กำลังกำหนดโลกที่ยั่งยืน เชื่อมโยง และเป็นธรรม ตั้งแต่กระแสพลังงานแสงอาทิตย์ที่เติบโตในเอ",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "“จากความยืดหยุ่นสู่ความเป็นผู้นำ | The Net Positive | ตอนที่ 2”",
-      "link": "https://www.youtube.com/watch?v=CbH0RhpcvG0",
-      "publishDate": "2025-09-18T03:23:44.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/CbH0RhpcvG0/hqdefault.jpg",
-      "description": "จากการผลักดันนโยบายโรงไฟฟ้าเสมือนจริงอย่างกล้าหาญของปักกิ่ง ไปจนถึงความท้าทายของระดับน้ำทะเลที่สูงขึ้นในฟิจิ ตอนที่ 2 ของ The Net Positive จะพาคุณเจาะลึกเรื่องราวที่กำลังหล่อหลอมอนาคตด้านสภาพภูมิอากาศและพลังงานของเอเชีย ",
       "author": "FutureKeepers Thai"
     }
   ]

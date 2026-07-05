@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T07:13:04.579Z",
+  "generatedAt": "2026-07-05T07:35:58.503Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Cadangan Minyak India: Cuma 8 Hari?! Ini Alasannya",
+      "link": "https://www.youtube.com/watch?v=JMBTdqmnXas",
+      "publishDate": "2026-07-05T02:15:17.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/JMBTdqmnXas/hqdefault.jpg",
+      "description": "Pernahkah Anda terpikir betapa mengerikannya efek guncangan harga bahan bakar fosil belakangan ini? Tahukah Anda bahwa India, dengan lebih dari 1 miliar penduduk, hanya memiliki cadangan minyak mentah strategis untuk 8 h",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-04-28T16:55:27.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/q4IOARLnT90/hqdefault.jpg",
       "description": "Ada sebuah revolusi besar yang mengubah dunia energi kita, tapi apa hubungannya dengan ember di belakang rumah? Dalam video ini, kita akan menyambungkan benang merah antara pergeseran kekuatan global yang masif dengan in",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Poros Energi Baru: Indonesia Beralih ke Listrik!",
-      "link": "https://www.youtube.com/watch?v=h1N1VEBfD5E",
-      "publishDate": "2026-04-05T21:15:06.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/h1N1VEBfD5E/hqdefault.jpg",
-      "description": "Pernahkah Anda terjebak antrean panjang di SPBU saat subuh? Realitas ini bukan lagi sekadar ketidaknyamanan, melainkan cerminan dari pergeseran energi masif yang sedang dialami Indonesia. Di balik frustrasi harian ini, t",
       "author": "FutureKeepers Indonesian"
     }
   ]

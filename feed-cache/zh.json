@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T07:13:07.907Z",
+  "generatedAt": "2026-07-05T07:36:01.751Z",
   "locale": "zh",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "“上游引擎”如何重塑亚洲能源格局：中国制造的颠覆性力量",
+      "link": "https://www.youtube.com/watch?v=uTdDJsECJ8c",
+      "publishDate": "2026-07-05T01:00:20.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/uTdDJsECJ8c/hqdefault.jpg",
+      "description": "以前，能源安全是各国政府最头疼的问题，价格波动、地缘政治风险让大家提心吊胆。但现在，一个“上游引擎”正在彻底改写游戏规则，让能源从地下开采的稀缺资源，变成工厂里批量生产的平价商品，为亚洲乃至全球带来全新的能源主权。 丰田纯电动汽车销量暴增170%，中国纯电动汽车起售价仅1.5万美元。 这股颠覆性力量的核心，正是中国强大的制造业体系。我们用全球最完善的产业链和超大规模的生产能力，硬生生地把太阳能板、储能电池和新能源汽车的成本打到了历史新低",
+      "author": "Future Keepers Mandarin"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-05-04T09:00:24.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/4rrwRNvJBTU/hqdefault.jpg",
       "description": "2026年，一场全球能源危机突然爆发，霍尔木兹海峡海上交通停滞，国际油价飙升。面对前所未有的能源困境，印尼政府如何应对？我们深入剖析印尼的“双轨并行”策略，包括短期生存措施和长期能源主权雄心。 本文将详细探讨印尼如何将危机视为“因祸得福”，转而豪赌本土生物燃料，强制推行B50生物柴油和E20生物乙醇计划，并大规模开垦甘蔗种植园。然而，这条转型之路并非坦途，化石燃料的根深蒂固、JETP资金缺口以及廉价煤炭的竞争，都为印尼的绿色未来蒙上阴影",
-      "author": "Future Keepers Mandarin"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "印尼能源十字路口：危机中的生物燃料豪赌",
-      "link": "https://www.youtube.com/watch?v=Jd3fNuCazb8",
-      "publishDate": "2026-04-07T05:00:06.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/Jd3fNuCazb8/hqdefault.jpg",
-      "description": "设想一下2026年，一场突如其来的全球能源危机，霍尔木兹海峡的航运几乎停滞，全球能源市场脉搏骤停。在这场动荡中，印尼如何将危机转化为机遇，转而探索其本土的能源命脉？ 本期视频将深入探讨印尼在2026年全球能源危机中所面临的挑战与机遇。我们首先剖析全球能源市场的岌岌可危，中东冲突如何导致国际油价飙升至每桶100美元以上，以及霍尔木兹海峡海上交通的停滞对全球能源供应链造成的巨大冲击。随后，我们将聚焦印尼，揭示其能源困境：每日庞大的燃料消耗量",
       "author": "Future Keepers Mandarin"
     }
   ]

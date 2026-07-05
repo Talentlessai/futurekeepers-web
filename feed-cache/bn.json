@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T07:13:11.272Z",
+  "generatedAt": "2026-07-05T07:36:05.144Z",
   "locale": "bn",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "বাংলাদেশে EV কর প্রত্যাহার: ক্লিন এনা",
+      "link": "https://www.youtube.com/shorts/cXzMsFZGQA4",
+      "publishDate": "2026-07-05T03:00:20.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/cXzMsFZGQA4/hqdefault.jpg",
+      "description": "শুনুন! এই সপ্তাহে বাংলাদেশের এনার্জি আর জলবায়ু নিয়ে সবচেয়ে বড় খবর হলো, সরকার হঠাৎ করেই ইলেকট্রিক গাড়ির (EV) উপর থেকে সব অ্যান্টি-ট্যাক্স সরিয়ে ফেলেছে। এর ফলে ইলেকট্রিক বাস, ট্রাক এবং অন্যান্য EV-এর জন্য বিশাল সব সু",
+      "author": "Future Keepers Bengali"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -284,18 +296,6 @@
       "publishDate": "2026-05-25T07:00:19.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/OyYu8eMU94U/hqdefault.jpg",
       "description": "এশিয়ার দেশগুলো জ্বালানি সংকটের প্রতি ভিন্নভাবে প্রতিক্রিয়া জানাচ্ছে, যেখানে জাপান ফুকুশিমার মাত্র ১৫ বছর পর পারমাণবিক বিদ্যুৎ কেন্দ্র পুনরায় চালু করছে। অন্যদিকে, আসিয়ান দেশগুলোর মধ্যে ১১ সদস্যের ৫টি, যারা আগে কখনো পা",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "৯৯% কম দামে ব্যাটারি: বিদ্যুতের নতুন দিগন্ত",
-      "link": "https://www.youtube.com/shorts/UayRTcfI_9I",
-      "publishDate": "2026-05-25T03:00:19.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/UayRTcfI_9I/hqdefault.jpg",
-      "description": "একসময় ব্যাটারি ছিল শুধু ধনীদের বিলাসিতা। এখন তা সবার জন্য সাশ্রয়ী, যা বিদ্যুতের দুনিয়ায় এনেছে বিপ্লব। ১৯৯১ সাল থেকে ব্যাটারির দাম কমেছে ৯৯%। মাত্র কয়েক দশক আগেও, ১ কিলোওয়াট ব্যাটারির দাম ছিল ৯,২০০ ডলার। কিন্তু প্রযুক্",
       "author": "Future Keepers Bengali"
     },
     {

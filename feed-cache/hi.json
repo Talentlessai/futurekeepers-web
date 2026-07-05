@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T07:13:21.252Z",
+  "generatedAt": "2026-07-05T07:36:14.910Z",
   "locale": "hi",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "दिल्ली का मास्टरस्ट्रोक: 2028 तक पेट्र",
+      "link": "https://www.youtube.com/shorts/gqxhixj5-HU",
+      "publishDate": "2026-07-05T03:30:20.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/gqxhixj5-HU/hqdefault.jpg",
+      "description": "क्या आपको पता है कि दिल्ली ने 2028 तक नए पेट्रोल 2 और 3-व्हीलर्स पर पूरी तरह से प्रतिबंध लगाने का मास्टरस्ट्रोक चला है? यह कदम राजधानी की हवा को साफ करने और इलेक्ट्रिक मोबिलिटी को बढ़ावा देने के लिए उठाया गया है। इस हफ्त",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -284,18 +296,6 @@
       "publishDate": "2026-05-21T21:25:20.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/eobHPEJcDcA/hqdefault.jpg",
       "description": "क्या आप जानते हैं कि हमारी ऊर्जा सुरक्षा विदेशी हलचल पर कितनी निर्भर करती है? मध्य पूर्व में हालिया तनाव इस बात की याद दिलाता है कि जीवाश्म ईंधन पर हमारी व्यवस्था कितनी अस्थिर है। किसी भी भू-राजनीतिक टकराव का खतरा तेल बा",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "पेट्रोल-डीजल से आज़ादी: EV क्रांति दुनिया बदल रही है! #shorts",
-      "link": "https://www.youtube.com/shorts/ytPt8NAcF6I",
-      "publishDate": "2026-05-20T22:00:41.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/ytPt8NAcF6I/hqdefault.jpg",
-      "description": "दुनिया भर में पेट्रोल-डीजल की बढ़ती कीमतों ने एक ऐसी क्रांति को जन्म दिया है, जिसकी हमने उम्मीद भी नहीं की थी: क्लीन ट्रांसपोर्ट की क्रांति! जब भी इलेक्ट्रिक गाड़ियों (EVs) की बात होती है, तो हमारा ध्यान अक्सर यूरोप और अ",
       "author": "Future Keepers Hindi"
     },
     {
