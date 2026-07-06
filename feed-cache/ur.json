@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T07:36:08.467Z",
+  "generatedAt": "2026-07-06T08:40:05.444Z",
   "locale": "ur",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "توانائی کی خود مختاری: ہوم پچ پر جیتیں!",
+      "link": "https://www.youtube.com/watch?v=UwLcFGBTHPg",
+      "publishDate": "2026-07-06T04:00:21.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/UwLcFGBTHPg/hqdefault.jpg",
+      "description": "ہم نے ہمیشہ مہنگے درآمدی ایندھن پر انحصار کیا ہے، لیکن اب وقت آگیا ہے کہ ہم یہ \"اوے گیم\" کھیلنا چھوڑ دیں۔ اپنی چھت کو اپنا پاور پلانٹ بنا کر، ہم توانائی کی خود مختاری حاصل کر سکتے ہیں اور اپنے مستقبل کو اپنے ہاتھ میں لے",
+      "author": "FutureKeepers Urdu"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-05-14T12:00:16.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/yyWRUoHQRmw/hqdefault.jpg",
       "description": "دنیا بھر میں توانائی کے بحران کے درمیان، عام گھرانے خاموشی سے اپنے بجلی کے بلوں کا کنٹرول واپس لے رہے ہیں۔ یہ ویڈیو \"گوریلا سولر\" کی معیشت کا گہرائی سے تجزیہ کرتا ہے، یعنی عام گھروں میں سولر پینلز کی تنصیب جو اکثر سرکاری",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "پوسٹ ہرمز دور: ایشیائی سیاستدانوں کے لیے توانائی خود مختاری کی گائیڈ",
-      "link": "https://www.youtube.com/watch?v=8cYjZGG-sLI",
-      "publishDate": "2026-05-08T04:00:33.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/8cYjZGG-sLI/hqdefault.jpg",
-      "description": "اپریل 2026 کی اہم اشاعت \"فیوچر کیپرز سگنل: پوسٹ ہرمز فیلڈ گائیڈ\" میں خوش آمدید۔ آبنائے ہرمز کے حالیہ بحران نے ایشیائی ممالک کے لیے توانائی کی عملی اور ٹھوس حکمت عملی کی اشد ضرورت کو واضح کر دیا ہے۔ اچھی خبر یہ ہے کہ اب ہ",
       "author": "FutureKeepers Urdu"
     }
   ]

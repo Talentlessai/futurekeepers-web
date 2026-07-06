@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T07:36:11.690Z",
+  "generatedAt": "2026-07-06T08:40:08.824Z",
   "locale": "th",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "กลยุทธ์พลังงานครัวเรือน: 10,000 บาทพล",
+      "link": "https://www.youtube.com/watch?v=EASGX-FpZ00",
+      "publishDate": "2026-07-06T02:15:19.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/EASGX-FpZ00/hqdefault.jpg",
+      "description": "วันนี้เราจะมาเจาะลึกถึงการเปลี่ยนแปลงครั้งใหญ่ของทิศทางพลังงานโลก ที่กำลังทำให้บิลค่าไฟและค่าใช้จ่ายของครอบครัวชาวไทยลดลงอย่างฮวบฮาบ รัฐบาลไทยกำลังจัดสรรเงินอุดหนุนโซลาร์เซลล์ 10,000 บาทต่อครัวเรือน เพื่อเร่งให้เกิดการเป",
+      "author": "FutureKeepers Thai"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-03-25T18:56:07.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/NvRu6uAVuV4/hqdefault.jpg",
       "description": "ฝนสีดำเหนือกรุงเตหะราน คาร์บอนที่พวยพุ่งขึ้นสู่ท้องฟ้า และแรงกระแทกที่แผ่ขยายไปทั่วเศรษฐกิจโลก สงครามระหว่างสหรัฐฯ–อิสราเอลกับอิหร่านกำลังกำหนดทิศทางใหม่ของความมั่นคงด้านพลังงานโลก นี่คือคำเตือนที่ชัดเจน แต่ในขณะเดียวกัน",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "ยินดีต้อนรับสู่ FutureKeepers: มาร่วมเป็นพลังขับเคลื่อน — ที่หยุดไม่อยู่แล้ว",
-      "link": "https://www.youtube.com/watch?v=ErclzHkF_7Y",
-      "publishDate": "2025-09-23T23:47:06.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/ErclzHkF_7Y/hqdefault.jpg",
-      "description": "FutureKeepers คือแพลตฟอร์มการเล่าเรื่องระดับโลก ที่ขับเคลื่อนด้วยผู้คนและขยายพลังด้วย AI เราส่องแสงให้กับแนวคิด นวัตกรรม และชุมชนที่กำลังกำหนดโลกที่ยั่งยืน เชื่อมโยง และเป็นธรรม ตั้งแต่กระแสพลังงานแสงอาทิตย์ที่เติบโตในเอ",
       "author": "FutureKeepers Thai"
     }
   ]

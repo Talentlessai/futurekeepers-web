@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T07:36:14.910Z",
+  "generatedAt": "2026-07-06T08:40:12.034Z",
   "locale": "hi",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "भारत की ऊर्जा क्रांति: छत से आजादी, ब",
+      "link": "https://www.youtube.com/watch?v=ecrPhwrlQSY",
+      "publishDate": "2026-07-06T03:30:19.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/ecrPhwrlQSY/hqdefault.jpg",
+      "description": "भारत की ऊर्जा क्रांति शुरू हो चुकी है, और इसकी शुरुआत आपके घर की छत से हो रही है। हम देखेंगे कि कैसे परिवार वैश्विक ईंधन संकट और बढ़ते पेट्रोल-डीजल के बिलों से आजाद होकर एक पूरी तरह से आत्मनिर्भर और सुरक्षित भविष्य की तरफ",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-03-25T18:39:18.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/WdCYI3giZ6I/hqdefault.jpg",
       "description": "तेहरान के ऊपर काली बारिश, आसमान में उठता हुआ कार्बन, और वैश्विक अर्थव्यवस्था में फैलती एक झटके की लहर। अमेरिका–इज़राइल और ईरान के बीच का युद्ध वैश्विक ऊर्जा सुरक्षा को फिर से आकार दे रहा है। यह एक कड़ा चेतावनी संकेत है, ",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "फ़्यूचरकीपर्स में आपका स्वागत है: इस रफ़्तार से जुड़ें — जिसे कोई रोक नहीं सकता।",
-      "link": "https://www.youtube.com/watch?v=tW9D_Ft3_Qo",
-      "publishDate": "2025-09-24T00:01:59.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/tW9D_Ft3_Qo/hqdefault.jpg",
-      "description": "फ़्यूचरकीपर्स एक वैश्विक स्टोरीटेलिंग प्लेटफ़ॉर्म है — जिसे लोग आगे बढ़ाते हैं और AI और भी प्रभावशाली बनाता है। हम उन विचारों, खोजों और समुदायों पर रोशनी डालते हैं जो एक टिकाऊ, जुड़े हुए और न्यायपूर्ण दुनिया का निर्माण क",
       "author": "Future Keepers Hindi"
     }
   ]

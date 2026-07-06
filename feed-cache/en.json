@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T07:35:55.174Z",
+  "generatedAt": "2026-07-06T08:39:52.172Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,18 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Thailand's $120M Solar Bet: Local Power vs. Global Grid",
+      "link": "https://www.youtube.com/watch?v=Y5juKsMQeWo",
+      "publishDate": "2026-07-05T14:00:22.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/Y5juKsMQeWo/hqdefault.jpg",
+      "description": "For decades, global economies have been built on a glaring geographic vulnerability: reliance on distant fossil fuels. But Thailand is actively rewriting this script with a game-changing policy, directly intercepting the",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -472,18 +484,6 @@
       "publishDate": "2026-05-26T20:57:18.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/tJUPRT5zsxk/hqdefault.jpg",
       "description": "Part of the problem is fossil fuels, which Indonesia relies on. But solutions are possible! The shift to solar power has begun. Here's how YOU can help save the coral reefs:",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Salt: From Kitchen to Global Power Grid",
-      "link": "https://www.youtube.com/watch?v=Ck7VeZR6P9Y",
-      "publishDate": "2026-05-26T14:00:17.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/Ck7VeZR6P9Y/hqdefault.jpg",
-      "description": "These simple salt crystals are cheap, accessible, and currently moving from the kitchen table to the center of global energy storage. For decades, energy was defined by a struggle for limited resources, but now, a new ch",
       "author": "FutureKeepers"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T07:36:05.144Z",
+  "generatedAt": "2026-07-06T08:40:02.091Z",
   "locale": "bn",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "ভারতের ৮ দিনের জ্বালানি: সমাধান ঘরে",
+      "link": "https://www.youtube.com/watch?v=qgWnNwUF4uM",
+      "publishDate": "2026-07-06T03:00:21.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/qgWnNwUF4uM/hqdefault.jpg",
+      "description": "ক্রিকেটে 'হোম পিচ'-এর সুবিধা সবাই জানে, কিন্তু জ্বালানির খেলায় বিদেশ থেকে আমদানি করা অনিশ্চিত 'অ্যাওয়ে গেম' খেললে কী হয়? আজকের বিশ্লেষণে আমরা দেখব কেন ভারত, বাংলাদেশসহ সারা বিশ্ব এখন আমদানিকৃত জীবাশ্ম জ্বালানির উপর নির্ভ",
+      "author": "Future Keepers Bengali"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-03-25T18:46:07.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/dEVPVAniGho/hqdefault.jpg",
       "description": "তেহরানের আকাশে কালো বৃষ্টি, আকাশে ভেসে ওঠা কার্বন, এবং বৈশ্বিক অর্থনীতিতে ছড়িয়ে পড়া এক ধাক্কার ঢেউ। যুক্তরাষ্ট্র–ইসরায়েল ও ইরানের মধ্যে যুদ্ধ বৈশ্বিক জ্বালানি নিরাপত্তাকে নতুন করে গড়ে তুলছে। এটি একটি কঠোর সতর্কবার্ত",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "FutureKeepers-এ আপনাকে স্বাগতম: এই গতি থামার নয় — এতে এখনই যোগ দিন! 🚀🌍",
-      "link": "https://www.youtube.com/watch?v=B4td7Go8erU",
-      "publishDate": "2025-09-23T23:52:49.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/B4td7Go8erU/hqdefault.jpg",
-      "description": "FutureKeepers is a global storytelling platform powered by people, amplified by AI. We shine a light on the ideas, breakthroughs, and communities shaping a sustainable, connected, and just world. From solar surges in Asi",
       "author": "Future Keepers Bengali"
     }
   ]
