@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T08:39:52.172Z",
+  "generatedAt": "2026-07-07T07:51:06.133Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,18 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Thailand's ฿400B Solar Bet: Free Energy Beats Oil Hoarding",
+      "link": "https://www.youtube.com/watch?v=-_om0jilLLU",
+      "publishDate": "2026-07-06T14:00:20.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/-_om0jilLLU/hqdefault.jpg",
+      "description": "Discover how Thailand is making a bold move to secure its energy future, subsidizing rooftop solar for hundreds of thousands of homes. This surprising strategy reveals a shift in global energy economics. Solar costs are ",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -364,18 +376,6 @@
       "publishDate": "2026-06-01T14:00:17.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/m5yAGzFqrMY/hqdefault.jpg",
       "description": "Imagine a world where gas cars are banned, and electric vehicles are tax-exempt. This isn't a distant future for wealthy nations; it's the present reality in places like Laos and Ethiopia, where economic necessity is dri",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Fuel Crisis FORCED Laos to Go Electric",
-      "link": "https://www.youtube.com/watch?v=qedhC39SrjA",
-      "publishDate": "2026-05-31T14:00:26.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/qedhC39SrjA/hqdefault.jpg",
-      "description": "When a global geopolitical shock disrupted oil markets, the landlocked nation of Laos, heavily dependent on fuel imports from Thailand, found itself facing an unprecedented fuel shortage in March 2026. This crisis, which",
       "author": "FutureKeepers"
     },
     {

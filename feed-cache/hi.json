@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T08:40:12.034Z",
+  "generatedAt": "2026-07-07T07:51:26.028Z",
   "locale": "hi",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "भारत का 8 दिन का तेल भंडार: अपनी ऊर्जा",
+      "link": "https://www.youtube.com/watch?v=CE69CsE5XLo",
+      "publishDate": "2026-07-07T03:30:21.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/CE69CsE5XLo/hqdefault.jpg",
+      "description": "नमस्कार दोस्तों! आज हम बात कर रहे हैं ग्लोबल एनर्जी ट्रांजिशन के बारे में, और खासकर भारत के संदर्भ में। क्या आप जानते हैं कि भारत का वर्तमान रणनीतिक कच्चा तेल भंडार लगभग 39 मिलियन बैरल है? सुनने में यह बहुत बड़ा लग सकता ",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-04-02T23:20:44.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/VZC9pf0gxXA/hqdefault.jpg",
       "description": "संघर्ष और उसके बाद आए ऊर्जा झटके के प्रभावों में शामिल हैं: लॉजिस्टिक बाधा: अमेरिका और इज़राइल का ईरान के खिलाफ संघर्ष, होरमुज़ जलडमरूमध्य को प्रभावित कर रहा है, जो दुनिया के लगभग 20% तेल और बड़ी मात्रा में प्राकृतिक गैस",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "काली बारिश, उजले संकेत",
-      "link": "https://www.youtube.com/watch?v=WdCYI3giZ6I",
-      "publishDate": "2026-03-25T18:39:18.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/WdCYI3giZ6I/hqdefault.jpg",
-      "description": "तेहरान के ऊपर काली बारिश, आसमान में उठता हुआ कार्बन, और वैश्विक अर्थव्यवस्था में फैलती एक झटके की लहर। अमेरिका–इज़राइल और ईरान के बीच का युद्ध वैश्विक ऊर्जा सुरक्षा को फिर से आकार दे रहा है। यह एक कड़ा चेतावनी संकेत है, ",
       "author": "Future Keepers Hindi"
     }
   ]

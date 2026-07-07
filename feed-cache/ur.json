@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T08:40:05.444Z",
+  "generatedAt": "2026-07-07T07:51:19.317Z",
   "locale": "ur",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "پاکستان: عوام نے بجلی کے بل کیسے ختم کیے؟",
+      "link": "https://www.youtube.com/watch?v=-EFP-bSHnN4",
+      "publishDate": "2026-07-07T04:00:27.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/-EFP-bSHnN4/hqdefault.jpg",
+      "description": "پاکستان میں، عوام نے مہنگے بجلی کے بلوں اور لوڈ شیڈنگ سے چھٹکارا پانے کا ایک انوکھا اور طاقتور طریقہ ڈھونڈ لیا ہے۔ وہ اپنی چھتوں پر شمسی توانائی نصب کر کے اپنی بجلی خود پیدا کر رہے ہیں۔ پچھلے کچھ عرصے میں پاکستانی خاندان",
+      "author": "FutureKeepers Urdu"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-05-14T12:15:16.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/YWor3oAVhK8/hqdefault.jpg",
       "description": "ہمارے ساتھ ایک ایسی زبردست انرجی موومنٹ کا جائزہ لیں جس کی شروعات پاکستان سے ہوئی اور اب یہ پورے ساؤتھ ایسٹ ایشیا کو بدل رہی ہے۔ کراچی کی چھتوں سے اٹھنے والی یہ لہر لوگوں کو مہنگے بجلی کے بلوں اور سست سرکاری نظام سے نجات",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "گوریلا سولر: گھر گھر بجلی انقلاب اور معاشی بچت",
-      "link": "https://www.youtube.com/watch?v=yyWRUoHQRmw",
-      "publishDate": "2026-05-14T12:00:16.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/yyWRUoHQRmw/hqdefault.jpg",
-      "description": "دنیا بھر میں توانائی کے بحران کے درمیان، عام گھرانے خاموشی سے اپنے بجلی کے بلوں کا کنٹرول واپس لے رہے ہیں۔ یہ ویڈیو \"گوریلا سولر\" کی معیشت کا گہرائی سے تجزیہ کرتا ہے، یعنی عام گھروں میں سولر پینلز کی تنصیب جو اکثر سرکاری",
       "author": "FutureKeepers Urdu"
     }
   ]

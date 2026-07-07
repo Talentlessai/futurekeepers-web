@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T08:40:02.091Z",
+  "generatedAt": "2026-07-07T07:51:15.985Z",
   "locale": "bn",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "ভারতের তেল মজুদ মাত্র ৮ দিনের! আপনার",
+      "link": "https://www.youtube.com/watch?v=gLS_cKO9I2E",
+      "publishDate": "2026-07-07T03:00:23.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/gLS_cKO9I2E/hqdefault.jpg",
+      "description": "আজকের এক্সপ্লেনারে আমরা একটি চমকপ্রদ তথ্য নিয়ে আলোচনা করব: ভারতের মতো বিশাল একটি দেশের কৌশলগত অপরিশোধিত তেলের মজুদ মাত্র ৮ দিনের। বিশ্বের সবচেয়ে জনবহুল দেশ ভারতের বর্তমান কৌশলগত অপরিশোধিত তেলের মজুদ মাত্র ৮ দিনের। এটি ",
+      "author": "Future Keepers Bengali"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-04-02T23:48:10.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/1NZMWLYFqWE/hqdefault.jpg",
       "description": "সংঘাত এবং এর ফলে সৃষ্ট জ্বালানি ধাক্কার প্রভাবগুলোর মধ্যে রয়েছে: লজিস্টিক বিঘ্ন: যুক্তরাষ্ট্র ও ইসরায়েলের সঙ্গে ইরানের সংঘাত হরমুজ প্রণালীকে বাধাগ্রস্ত করছে, যা বিশ্বের প্রায় ২০% তেল এবং উল্লেখযোগ্য পরিমাণ প্রাকৃতিক গ",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "কালো বৃষ্টি, উজ্জ্বল সংকেত",
-      "link": "https://www.youtube.com/watch?v=dEVPVAniGho",
-      "publishDate": "2026-03-25T18:46:07.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/dEVPVAniGho/hqdefault.jpg",
-      "description": "তেহরানের আকাশে কালো বৃষ্টি, আকাশে ভেসে ওঠা কার্বন, এবং বৈশ্বিক অর্থনীতিতে ছড়িয়ে পড়া এক ধাক্কার ঢেউ। যুক্তরাষ্ট্র–ইসরায়েল ও ইরানের মধ্যে যুদ্ধ বৈশ্বিক জ্বালানি নিরাপত্তাকে নতুন করে গড়ে তুলছে। এটি একটি কঠোর সতর্কবার্ত",
       "author": "Future Keepers Bengali"
     }
   ]

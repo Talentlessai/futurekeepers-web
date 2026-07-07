@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T08:40:08.824Z",
+  "generatedAt": "2026-07-07T07:51:22.605Z",
   "locale": "th",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "4 แสนล้านบาทไทย: พลิกหลังคาบ้าน สู่",
+      "link": "https://www.youtube.com/watch?v=tuUPXYEEOso",
+      "publishDate": "2026-07-07T02:00:23.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/tuUPXYEEOso/hqdefault.jpg",
+      "description": "ประเทศไทยกำลังเดินหน้าครั้งใหญ่ด้วยงบประมาณ 4 แสนล้านบาท เพื่อเปลี่ยนหลังคาบ้านกว่า 400,000 หลัง ให้เป็นแหล่งผลิตพลังงานสะอาดภายในปี 2570 และเชื่อมต่อเข้าสู่ระบบภายใน 7-30 วันเท่านั้น! ยอดขายรถยนต์ไฟฟ้าทั่วโลกพุ่งทะยานถึ",
+      "author": "FutureKeepers Thai"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -356,18 +368,6 @@
       "publishDate": "2026-05-13T22:15:39.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/sStXQTtmRdQ/hqdefault.jpg",
       "description": "เอาล่ะครับ ยินดีต้อนรับทุกคนเข้าสู่การเจาะลึกข้อมูลในวันนี้ครับ เราจะมาเปิดประเด็นกันด้วยความรู้สึกที่พวกเราทุกคนน่าจะคุ้นเคยกันดีมากๆ นั่นก็คือตอนนี้นั่งถอนหายใจยาวๆ มองบิลค่าไฟที่พุ่งปรี๊ดอยู่บนโต๊ะอาหารครับ ในวันนี้ F",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "ฝนสีดำ สัญญาณที่สว่าง",
-      "link": "https://www.youtube.com/watch?v=NvRu6uAVuV4",
-      "publishDate": "2026-03-25T18:56:07.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/NvRu6uAVuV4/hqdefault.jpg",
-      "description": "ฝนสีดำเหนือกรุงเตหะราน คาร์บอนที่พวยพุ่งขึ้นสู่ท้องฟ้า และแรงกระแทกที่แผ่ขยายไปทั่วเศรษฐกิจโลก สงครามระหว่างสหรัฐฯ–อิสราเอลกับอิหร่านกำลังกำหนดทิศทางใหม่ของความมั่นคงด้านพลังงานโลก นี่คือคำเตือนที่ชัดเจน แต่ในขณะเดียวกัน",
       "author": "FutureKeepers Thai"
     }
   ]
