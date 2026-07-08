@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T07:51:09.402Z",
+  "generatedAt": "2026-07-08T06:38:47.043Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -7,8 +7,11 @@
   },
   "freshCounts": {
     "ytLongForm": 15,
-    "ytShorts": 15
+    "ytShorts": 0
   },
+  "rescuedSources": [
+    "ytShorts"
+  ],
   "items": [
     {
       "source": "ytLongForm",
