@@ -1,26 +1,22 @@
 {
-  "generatedAt": "2026-07-08T06:37:59.576Z",
+  "generatedAt": "2026-07-10T07:49:46.771Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
     "ytShorts": 15,
-    "fkSignal": 9,
+    "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "freshCounts": {
-    "ytLongForm": 0,
-    "ytShorts": 0,
-    "fkSignal": 9,
+    "ytLongForm": 15,
+    "ytShorts": 15,
+    "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
-  "rescuedSources": [
-    "ytLongForm",
-    "ytShorts"
-  ],
   "items": [
     {
       "source": "ytLongForm",
@@ -675,11 +671,59 @@
       "sourceLabel": "FutureKeepers Signal",
       "taxonomy": "signal",
       "format": "newsletter",
+      "title": "692 479",
+      "link": "https://futurekeepers.substack.com/p/692-479",
+      "publishDate": "2026-04-12T03:45:00.000Z",
+      "thumbnail": null,
+      "description": "While 479 oil and gas ships sit in the Gulf, the world quietly crossed a threshold.",
+      "author": "Steve Mudd"
+    },
+    {
+      "source": "fkSignal",
+      "sourceLabel": "FutureKeepers Signal",
+      "taxonomy": "signal",
+      "format": "newsletter",
       "title": "How to Power a Country During (and After) a Crisis",
       "link": "https://futurekeepers.substack.com/p/how-to-power-a-country-during-and",
       "publishDate": "2026-04-05T15:03:22.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/%24s_!6Gfy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3779b97-0be7-48eb-889a-fbbb9edb2374_2816x1536.jpeg",
       "description": "What Pakistan can teach the world in this crisis.",
+      "author": "Steve Mudd"
+    },
+    {
+      "source": "fkSignal",
+      "sourceLabel": "FutureKeepers Signal",
+      "taxonomy": "signal",
+      "format": "newsletter",
+      "title": "Burning It Off",
+      "link": "https://futurekeepers.substack.com/p/burning-it-off",
+      "publishDate": "2026-03-28T14:00:00.000Z",
+      "thumbnail": null,
+      "description": "The US fossil fuel industry's contradictions, all visible at once.",
+      "author": "Steve Mudd"
+    },
+    {
+      "source": "fkSignal",
+      "sourceLabel": "FutureKeepers Signal",
+      "taxonomy": "signal",
+      "format": "newsletter",
+      "title": "The Exit Ramp",
+      "link": "https://futurekeepers.substack.com/p/the-exit-ramp",
+      "publishDate": "2026-03-21T03:54:00.000Z",
+      "thumbnail": null,
+      "description": "Solar, EVs, and heat pumps are already replacing fossil fuel imports. The math says take the ramp.",
+      "author": "Steve Mudd"
+    },
+    {
+      "source": "fkSignal",
+      "sourceLabel": "FutureKeepers Signal",
+      "taxonomy": "signal",
+      "format": "newsletter",
+      "title": "The Strait Story",
+      "link": "https://futurekeepers.substack.com/p/the-strait-story",
+      "publishDate": "2026-03-08T03:49:00.000Z",
+      "thumbnail": null,
+      "description": "One missile, one facility, one fifth of the world's oil. There is no Ras Laffan of renewables.",
       "author": "Steve Mudd"
     },
     {
@@ -743,18 +787,6 @@
       "author": "Andrew Birch (\"Birchy\")"
     },
     {
-      "source": "fkSignal",
-      "sourceLabel": "FutureKeepers Signal",
-      "taxonomy": "signal",
-      "format": "newsletter",
-      "title": "The Point of Forgetting Fossil Fuels",
-      "link": "https://futurekeepers.substack.com/p/the-point-of-forgetting-fossil-fuels",
-      "publishDate": "2025-12-06T15:09:08.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!nlrL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc53463b-84bb-4f30-9a2c-8df8d300e761_1456x816.png",
-      "description": "What memory teaches us about a bright future, India's solar milestone, the best solar view in the world, a new Solar Panda movie, and Signal and Chill",
-      "author": "Steve Mudd"
-    },
-    {
       "source": "ebirchy",
       "sourceLabel": "Andrew Birch",
       "taxonomy": "voices",
@@ -779,18 +811,6 @@
       "author": "Andrew Birch (\"Birchy\")"
     },
     {
-      "source": "fkSignal",
-      "sourceLabel": "FutureKeepers Signal",
-      "taxonomy": "signal",
-      "format": "newsletter",
-      "title": "This Week at COP30: What the Future Is Telling Us",
-      "link": "https://futurekeepers.substack.com/p/this-week-at-cop30-what-the-future",
-      "publishDate": "2025-11-22T16:41:59.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!_7-a!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb79bf5d-0c52-494a-85dd-8781ea9b401d_2752x1536.png",
-      "description": "What’s really happening beneath the negotiation noise and why economic momentum is shifting faster than the politics around it",
-      "author": "Steve Mudd"
-    },
-    {
       "source": "ebirchy",
       "sourceLabel": "Andrew Birch",
       "taxonomy": "voices",
@@ -801,18 +821,6 @@
       "thumbnail": "https://static.wixstatic.com/media/415bc9_cea44a1fa78f4775b8f367b9d6a08b5b~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
       "description": "We’ve recently completed a $20 million equity raise from leading technology investors including Titanium Ventures, Google, and 2150 Sustainability Fund, among others, who share our belief that clean-energy progress comes",
       "author": "Andrew Birch (\"Birchy\")"
-    },
-    {
-      "source": "fkSignal",
-      "sourceLabel": "FutureKeepers Signal",
-      "taxonomy": "signal",
-      "format": "newsletter",
-      "title": "Top Energy Stories from Climate Week NYC",
-      "link": "https://futurekeepers.substack.com/p/top-energy-stories-from-climate-week",
-      "publishDate": "2025-09-29T02:47:15.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!9vqB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49b004c0-3ead-47bf-be2d-5fd270aefd62_1456x816.png",
-      "description": "FutureKeepers tracked the action, from the press rooms to the power plays",
-      "author": "Steve Mudd"
     },
     {
       "source": "ebirchy",

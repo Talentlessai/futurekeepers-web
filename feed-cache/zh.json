@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T06:39:34.485Z",
+  "generatedAt": "2026-07-10T07:49:53.289Z",
   "locale": "zh",
   "counts": {
     "ytLongForm": 15,
@@ -7,11 +7,8 @@
   },
   "freshCounts": {
     "ytLongForm": 15,
-    "ytShorts": 0
+    "ytShorts": 15
   },
-  "rescuedSources": [
-    "ytShorts"
-  ],
   "items": [
     {
       "source": "ytLongForm",
@@ -38,10 +35,10 @@
       "author": "Future Keepers Mandarin"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "能源主场优势：中国制造定义未来",
       "link": "https://www.youtube.com/shorts/3JGgz-q8Ew8",
       "publishDate": "2026-07-03T01:00:21.000Z",
@@ -98,10 +95,10 @@
       "author": "Future Keepers Mandarin"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "征税太阳能 = 昂贵！揭秘屋顶太阳能税的危害",
       "link": "https://www.youtube.com/shorts/xGc_OSoRO3A",
       "publishDate": "2026-06-21T01:00:18.000Z",
@@ -110,10 +107,10 @@
       "author": "Future Keepers Mandarin"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "亚洲清洁技术制造：占全球75%的秘密",
       "link": "https://www.youtube.com/shorts/SrKBtga4qeE",
       "publishDate": "2026-06-20T01:00:17.000Z",
@@ -122,10 +119,10 @@
       "author": "Future Keepers Mandarin"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "中国太阳能：月出口39吉瓦，亚洲第三大电力来源",
       "link": "https://www.youtube.com/shorts/Lqoj2ifEyQg",
       "publishDate": "2026-06-19T01:00:21.000Z",
@@ -134,10 +131,10 @@
       "author": "Future Keepers Mandarin"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "未来不是骗局！地球VS火星，你的钱投哪儿？",
       "link": "https://www.youtube.com/shorts/qzSBIKtQmfM",
       "publishDate": "2026-06-18T01:00:17.000Z",
@@ -170,10 +167,10 @@
       "author": "Future Keepers Mandarin"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "精英认知失调：可再生能源已超越天然气",
       "link": "https://www.youtube.com/shorts/idsy3Of5eyI",
       "publishDate": "2026-06-11T01:00:26.000Z",
@@ -182,10 +179,10 @@
       "author": "Future Keepers Mandarin"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "风光发电首超天然气，中国力量全球闪耀",
       "link": "https://www.youtube.com/shorts/qHhNUhDh4KU",
       "publishDate": "2026-06-10T01:00:17.000Z",
@@ -203,6 +200,18 @@
       "publishDate": "2026-06-03T01:00:17.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/ARTgQaT85dY/hqdefault.jpg",
       "description": "这段视频展示了燃油车在能源短缺时的困境，以及熊猫驾驶的太阳能电动车如何凭借其独特的能源解决方案，实现24小时不间断的无限续航。 太阳能和蓄电池组合，为电动车提供24小时不间断的电力供应，无需加油。 在一个能源供应受限的世界里，传统的燃油汽车面临着燃料耗尽的挑战。视频中的黑烟男爵驾驶的巨型卡车，在霍尔木兹海峡被封锁后，很快就失去了动力。然而，由美琳驾驶的太阳能电动车“伏特赛车98”却能依靠车顶的太阳能电池板和内置蓄电池，持续获得能量。这不",
+      "author": "Future Keepers Mandarin"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "油价暴涨110%！这两个国家如何绝地求生？",
+      "link": "https://www.youtube.com/watch?v=kTuuk2hb5Vc",
+      "publishDate": "2026-06-01T01:00:24.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/kTuuk2hb5Vc/hqdefault.jpg",
+      "description": "想象一下，在老挝，排队加油的车辆绵延三个街区，等待时长无法预测。这并非科幻电影，而是2026年3月老挝能源危机下的真实写照。当柴油价格在一周内暴涨110%，近一半加油站被迫关闭，整个国家的交通和物流瞬间瘫痪，经济生存命悬一线。面对如此严峻的挑战，老挝和埃塞俄比亚等发展中国家，没有选择等待，而是采取了堪称激进的策略，率先在全球范围内对燃油车进口说“不”，开启了一场由经济危机驱动的能源转型革命。 据统计，埃塞俄比亚每年在化石燃料进口上花费近",
       "author": "Future Keepers Mandarin"
     },
     {
@@ -287,6 +296,78 @@
       "publishDate": "2026-05-22T01:00:16.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/j6AqIY4d7xE/hqdefault.jpg",
       "description": "面对油价冲击和紧急状态，菲律宾正采取果断行动，通过简化繁琐的审批流程，加速其可再生能源项目。这一举措有望成为该国能源转型的重要突破口。 太阳能和风能等可再生能源如今已比化石燃料更经济。 亚洲各国都在以不同的方式应对能源转型挑战，但向可再生能源的转变已是不可阻挡的趋势。菲律宾能源部长Sharon S. Garin强调，在国家必须以紧迫感和纪律性行动保护电力系统完整性的时刻，按时交付已承诺的发电容量至关重要。通过清除许可障碍，菲律宾不仅能应",
+      "author": "Future Keepers Mandarin"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "游击太阳能：亚洲屋顶革命",
+      "link": "https://www.youtube.com/watch?v=ua2eqJdA2W0",
+      "publishDate": "2026-05-17T01:00:16.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/ua2eqJdA2W0/hqdefault.jpg",
+      "description": "大家好！今天我们深入探讨FutureKeepers的这份信号简报，揭示一场悄然却震撼人心的革命正在亚洲各地屋顶上演。这场革命的核心是中国制造的高效、经济的太阳能电池板。 面对全球宏观因素（如中东冲突）对亚洲能源市场造成的剧烈冲击，液化天然气价格飙升91%，煤炭价格上涨17%，普通家庭的电费账单苦不堪言。我们的解读将带大家看看，庞大的中国太阳能制造业如何在海外市场催生出引人入胜的下游延伸故事。 以巴基斯坦为例，面对反应迟缓的官僚机构和脆弱",
+      "author": "Future Keepers Mandarin"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "电费飙升？屋顶太阳能如何帮普通家庭省钱，改变经济格局！",
+      "link": "https://www.youtube.com/watch?v=Y_A3vJSCIvE",
+      "publishDate": "2026-05-16T09:00:16.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/Y_A3vJSCIvE/hqdefault.jpg",
+      "description": "面对不断上涨的电费账单，普通家庭如何才能摆脱能源成本的困境？答案可能就在你家的屋顶上！ 本视频深入探讨了全球冲突如何推高进口化石燃料成本，导致家庭电费飙升（例如，菲律宾Meralco用户每度电多支付5比索）。接着，介绍了中国在分布式屋顶太阳能设备大规模制造方面的领先地位，这使得太阳能变得经济实惠，并在整个亚洲引发了一股太阳能热潮。视频解释了“游击太阳能”的概念——未经注册的屋顶太阳能系统直接连接到家庭电网，旨在绕过缓慢且昂贵的电力公司审",
+      "author": "Future Keepers Mandarin"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "游击太阳能：亚洲屋顶革命",
+      "link": "https://www.youtube.com/watch?v=tNZZVE4Y2DY",
+      "publishDate": "2026-05-16T05:00:16.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/tNZZVE4Y2DY/hqdefault.jpg",
+      "description": "亚洲屋顶正在经历一场悄然但震撼的革命，而中国制造的太阳能板正是这场变革的核心驱动力。面对飙升的能源账单，从巴基斯坦到菲律宾的普通家庭正在积极行动，绕过缓慢的官僚系统和脆弱的电网，直接将清洁、经济的太阳能安装在自家屋顶上。 本期FutureKeepers信号简报将深入解读这一现象。数据显示，受全球宏观因素冲击，亚洲液化天然气基准价格暴涨91%，全球煤炭基准价格也跳涨17%。高昂的进口燃料成本最终都转嫁到了普通家庭的电费账单上，让民众苦不堪",
+      "author": "Future Keepers Mandarin"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "游击队太阳能：颠覆东南亚能源格局的屋顶革命",
+      "link": "https://www.youtube.com/watch?v=86yyLz9JxA0",
+      "publishDate": "2026-05-16T01:00:17.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/86yyLz9JxA0/hqdefault.jpg",
+      "description": "全球能源危机正以飙升的电费账单直接影响着千家万户。然而，一场由普通民众主导的“游击队太阳能”浪潮正在东南亚悄然兴起，绕过繁琐的政府审批和行动迟缓的机构，直接为家庭提供解决方案。 本期解读深入探讨了这一现象，揭示了菲律宾等国未注册屋顶太阳能容量远超官方记录的惊人事实。我们分析了传统公用事业公司在作为电网运营商和电力销售商之间的结构性垄断与利益冲突，正是这种冲突导致了政策审批的滞后和监管的不足。然而，正如巴基斯坦的经验所示，自下而上的民间力",
+      "author": "Future Keepers Mandarin"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "17%的烹饪小窍门：印尼能源转型与电磁炉的崛起",
+      "link": "https://www.youtube.com/watch?v=jyEltavT9k8",
+      "publishDate": "2026-05-05T01:00:32.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/jyEltavT9k8/hqdefault.jpg",
+      "description": "你有没有想过，每天厨房里点燃的蓝色火焰，可能正在让你花冤枉钱？今天，我们来聊一个能帮你省下17%开销的烹饪小窍门！ 印度尼西亚长期以来依赖液化石油气（LPG）补贴，这不仅给国家财政带来了每年高达80.2万亿印尼盾的巨大负担，还导致国家75%的LPG供应依赖进口，使能源安全面临外部冲击的风险。然而，一项研究表明，改用电磁炉不仅能让家庭在能源成本上节省17%（与无补贴LPG相比），还能显著提升能源效率、减少燃气泄漏风险、改善厨房空气质量，并",
+      "author": "Future Keepers Mandarin"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "印尼能源十字路口：全球危机下的本土燃料豪赌",
+      "link": "https://www.youtube.com/watch?v=4rrwRNvJBTU",
+      "publishDate": "2026-05-04T09:00:24.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/4rrwRNvJBTU/hqdefault.jpg",
+      "description": "2026年，一场全球能源危机突然爆发，霍尔木兹海峡海上交通停滞，国际油价飙升。面对前所未有的能源困境，印尼政府如何应对？我们深入剖析印尼的“双轨并行”策略，包括短期生存措施和长期能源主权雄心。 本文将详细探讨印尼如何将危机视为“因祸得福”，转而豪赌本土生物燃料，强制推行B50生物柴油和E20生物乙醇计划，并大规模开垦甘蔗种植园。然而，这条转型之路并非坦途，化石燃料的根深蒂固、JETP资金缺口以及廉价煤炭的竞争，都为印尼的绿色未来蒙上阴影",
       "author": "Future Keepers Mandarin"
     }
   ]
