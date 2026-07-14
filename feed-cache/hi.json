@@ -1,14 +1,17 @@
 {
-  "generatedAt": "2026-07-13T07:35:11.166Z",
+  "generatedAt": "2026-07-14T06:26:35.626Z",
   "locale": "hi",
   "counts": {
-    "ytLongForm": 15,
+    "ytLongForm": 10,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 15,
-    "ytShorts": 15
+    "ytLongForm": 10,
+    "ytShorts": 0
   },
+  "rescuedSources": [
+    "ytShorts"
+  ],
   "items": [
     {
       "source": "ytLongForm",
@@ -19,7 +22,7 @@
       "link": "https://www.youtube.com/watch?v=H6NQHykAvpQ",
       "publishDate": "2026-07-08T03:30:18.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/H6NQHykAvpQ/hqdefault.jpg",
-      "description": "भारत का रणनीतिक कच्चा तेल भंडार केवल 8 दिनों के आयात को कवर कर सकता है, जिससे देश की ऊर्जा सुरक्षा पर एक गंभीर सवाल खड़ा हो गया है। क्या हम आयातित जीवाश्म ईंधन पर अपनी भारी निर्भरता को छोड़कर एक आत्मनिर्भर भविष्य की ओर ब",
+      "description": "",
       "author": "Future Keepers Hindi"
     },
     {
@@ -31,7 +34,7 @@
       "link": "https://www.youtube.com/watch?v=CE69CsE5XLo",
       "publishDate": "2026-07-07T03:30:21.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/CE69CsE5XLo/hqdefault.jpg",
-      "description": "नमस्कार दोस्तों! आज हम बात कर रहे हैं ग्लोबल एनर्जी ट्रांजिशन के बारे में, और खासकर भारत के संदर्भ में। क्या आप जानते हैं कि भारत का वर्तमान रणनीतिक कच्चा तेल भंडार लगभग 39 मिलियन बैरल है? सुनने में यह बहुत बड़ा लग सकता ",
+      "description": "",
       "author": "Future Keepers Hindi"
     },
     {
@@ -43,7 +46,7 @@
       "link": "https://www.youtube.com/watch?v=ecrPhwrlQSY",
       "publishDate": "2026-07-06T03:30:19.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/ecrPhwrlQSY/hqdefault.jpg",
-      "description": "भारत की ऊर्जा क्रांति शुरू हो चुकी है, और इसकी शुरुआत आपके घर की छत से हो रही है। हम देखेंगे कि कैसे परिवार वैश्विक ईंधन संकट और बढ़ते पेट्रोल-डीजल के बिलों से आजाद होकर एक पूरी तरह से आत्मनिर्भर और सुरक्षित भविष्य की तरफ",
+      "description": "",
       "author": "Future Keepers Hindi"
     },
     {
@@ -91,7 +94,7 @@
       "link": "https://www.youtube.com/watch?v=x8tNrX1tpG0",
       "publishDate": "2026-06-23T03:30:17.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/x8tNrX1tpG0/hqdefault.jpg",
-      "description": "यह वीडियो एशिया में ऊर्जा के एक बड़े बदलाव पर प्रकाश डालता है, जो सीधे आपकी जेब से जुड़ा है। अब, जब आपका घर खुद बिजली बना सकता है, तो महंगे ईंधन और भारी-भरकम बिजली के बिलों का बोझ क्यों उठाएं? यह 'किचन टेबल मैथ्स' का नया",
+      "description": "",
       "author": "Future Keepers Hindi"
     },
     {
@@ -103,7 +106,7 @@
       "link": "https://www.youtube.com/watch?v=vdEgEmtoe8E",
       "publishDate": "2026-06-22T03:30:16.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/vdEgEmtoe8E/hqdefault.jpg",
-      "description": "क्या आप जानते हैं कि एशिया में सौर ऊर्जा ने गैस से बनने वाली बिजली को पीछे छोड़ दिया है? यह पूरे महाद्वीप के पावर ग्रिड के लिए एक बहुत बड़ा ऐतिहासिक मोड़ है! 2000 से वैश्विक बिजली मांग में वृद्धि का 75% अकेले एशिया से आय",
+      "description": "",
       "author": "Future Keepers Hindi"
     },
     {
@@ -115,7 +118,7 @@
       "link": "https://www.youtube.com/watch?v=5I-qKJxuuX4",
       "publishDate": "2026-06-21T03:30:16.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/5I-qKJxuuX4/hqdefault.jpg",
-      "description": "एशिया में एक ऐतिहासिक बदलाव आया है! सोलर ऊर्जा ने गैस से बनने वाली बिजली को पीछे छोड़ दिया है, जो दुनिया के एनर्जी सिस्टम को पूरी तरह से बदल रहा है। अप्रैल 2026 तक, एशिया में सोलर जेनरेशन 1727 टेरावाट घंटे तक पहुंच गया ह",
+      "description": "",
       "author": "Future Keepers Hindi"
     },
     {
@@ -151,7 +154,7 @@
       "link": "https://www.youtube.com/watch?v=HGo1txux910",
       "publishDate": "2026-06-13T03:30:16.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/HGo1txux910/hqdefault.jpg",
-      "description": "क्या आप जानते हैं कि जब दुनिया के बोर्डरूम अभी भी 2040 के ऊर्जा लक्ष्यों पर बहस कर रहे हैं, एशिया के गाँव और कारखाने आज ही सोलर क्रांति से जगमगा रहे हैं? यह वीडियो दिखाता है कि एसी कमरों में बैठे एक्सपर्ट्स और ज़मीन पर ह",
+      "description": "",
       "author": "Future Keepers Hindi"
     },
     {
@@ -163,7 +166,7 @@
       "link": "https://www.youtube.com/watch?v=X74-VHlCDM0",
       "publishDate": "2026-06-12T03:30:18.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/X74-VHlCDM0/hqdefault.jpg",
-      "description": "इंडोनेशियाई बोर्नियो के एक दूरदराज के जल-ग्राम से लेकर वैश्विक ऊर्जा बाजार तक, एक मज़ेदार कहानी चल रही है। कल्पना कीजिए: एयर कंडीशन कमरों में बैठे नीति-निर्माता 2040 के परमाणु ऊर्जा लक्ष्यों पर बहस कर रहे हैं, जबकि जमीन प",
+      "description": "",
       "author": "Future Keepers Hindi"
     },
     {
@@ -175,7 +178,7 @@
       "link": "https://www.youtube.com/watch?v=aE1u0MAg7jQ",
       "publishDate": "2026-06-11T03:30:25.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/aE1u0MAg7jQ/hqdefault.jpg",
-      "description": "दुनिया की ऊर्जा दुनिया में एक ऐतिहासिक बदलाव आ गया है! अप्रैल 2026 में पहली बार, पवन और सौर ऊर्जा ने मिलकर गैस से ज़्यादा बिजली पैदा की। पवन और सौर ऊर्जा से 531 टेरावाट घंटे की क्लीन एनर्जी मिली, जबकि गैस से सिर्फ 477 टे",
+      "description": "",
       "author": "Future Keepers Hindi"
     },
     {
@@ -211,31 +214,7 @@
       "link": "https://www.youtube.com/watch?v=tOvvIAw2wUs",
       "publishDate": "2026-06-03T03:30:16.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/tOvvIAw2wUs/hqdefault.jpg",
-      "description": "क्या आप जानते हैं कि विकासशील देश पेट्रोल इंजन को अलविदा कह रहे हैं, लेकिन इसका कारण पर्यावरण प्रेम नहीं, बल्कि शुद्ध आर्थिक मजबूरी है? लाओस और इथियोपिया जैसे देशों में पेट्रोल और डीजल वाहनों पर प्रतिबंध लगने से दुनिया भ",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "अमीर देशों से आगे, गरीब देश क्यों चुन",
-      "link": "https://www.youtube.com/watch?v=AQTuJpN8m8c",
-      "publishDate": "2026-06-02T03:30:16.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/AQTuJpN8m8c/hqdefault.jpg",
-      "description": "आपको जानकर हैरानी होगी कि दुनिया की ऊर्जा क्रांति की दिशा गरीब देश तय कर रहे हैं, न कि अमीर। आर्थिक मजबूरी और राष्ट्रीय सुरक्षा ने उन्हें सबसे पहले जीवाश्म ईंधन से दूर जाने पर मजबूर किया। अप्रैल 2026 में, पहली बार हवा और",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "लाओस ने ईंधन वाहनों पर बैन लगाया: आर्थिक मजबूरी ने बदली दिशा!",
-      "link": "https://www.youtube.com/watch?v=TlR-Nk38I54",
-      "publishDate": "2026-05-31T03:30:24.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/TlR-Nk38I54/hqdefault.jpg",
-      "description": "दुनिया भर में एक खामोश लेकिन बहुत ही विशाल ऊर्जा क्रांति चल रही है। सबसे दिलचस्प बात यह है कि यह बदलाव पर्यावरण बचाने की बड़ी-बड़ी बातों से नहीं, बल्कि आम घरों के बजट और एकदम शुद्ध आर्थिक मजबूरियों से आ रहा है। इथियोपिया",
+      "description": "",
       "author": "Future Keepers Hindi"
     },
     {
@@ -332,42 +311,6 @@
       "publishDate": "2026-05-21T21:25:20.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/eobHPEJcDcA/hqdefault.jpg",
       "description": "क्या आप जानते हैं कि हमारी ऊर्जा सुरक्षा विदेशी हलचल पर कितनी निर्भर करती है? मध्य पूर्व में हालिया तनाव इस बात की याद दिलाता है कि जीवाश्म ईंधन पर हमारी व्यवस्था कितनी अस्थिर है। किसी भी भू-राजनीतिक टकराव का खतरा तेल बा",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "गुरील्ला सोलर: भारत में एक नई ऊर्जा क्रांति",
-      "link": "https://www.youtube.com/watch?v=XIpQDCves2o",
-      "publishDate": "2026-05-14T11:30:16.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/XIpQDCves2o/hqdefault.jpg",
-      "description": "क्या आप जानते हैं कि दक्षिण और दक्षिण पूर्व एशिया में लाखों लोग सरकारों और पुरानी नीतियों का इंतजार किए बिना अपनी छतों पर खुद ही सोलर पैनल लगा रहे हैं? इसे 'गुरील्ला सोलर' क्रांति कहा जा रहा है, जो चुपचाप लेकिन तेजी से ऊ",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "गुरीला सोलर: आम लोगों का शांत विद्रोह, सरकार से तेज",
-      "link": "https://www.youtube.com/watch?v=KL2ARgDnz5c",
-      "publishDate": "2026-05-14T07:30:40.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/KL2ARgDnz5c/hqdefault.jpg",
-      "description": "क्या आप जानते हैं कि साउथ और साउथ-ईस्ट एशिया में एक 'शांत विद्रोह' चल रहा है? आम लोग ऊर्जा सुरक्षा के लिए सरकारी नीतियों का इंतजार नहीं कर रहे, बल्कि खुद सोलर अपनाकर बिजली के बिल कम कर रहे हैं। इस एक्सप्लेनर में, हम देखे",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "गरिल्ला सन: रूफटॉप सोलर से बिजली बिल पर बड़ी बचत | फ्यूचरकीपर्स",
-      "link": "https://www.youtube.com/watch?v=kDLn3sBgR10",
-      "publishDate": "2026-05-14T03:45:39.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/kDLn3sBgR10/hqdefault.jpg",
-      "description": "क्या आप भी बढ़ते बिजली बिलों से परेशान हैं? जानिए कैसे फिलीपींस ने 'गरिल्ला सोलर' मॉडल से अपनी ऊर्जा की जरूरतों को पूरा किया और भारत में भी यह क्रांति कैसे आ सकती है। यह वीडियो बताता है कि कैसे ग्लोबल एनर्जी शॉक के कारण ",
       "author": "Future Keepers Hindi"
     }
   ]
