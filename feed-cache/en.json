@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T06:23:07.308Z",
+  "generatedAt": "2026-07-15T06:26:45.608Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -22,6 +22,30 @@
     "ytShorts"
   ],
   "items": [
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "Bangladesh's Leapfrog Moment: Sunshine, Rickshaws, and a Way Off the Import Bill",
+      "link": "https://proelectrica.substack.com/p/bangladeshs-leapfrog-moment-sunshine",
+      "publishDate": "2026-07-14T19:48:50.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!mG5w!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9ffcb68-0f4b-434f-99b3-bee2dffe020c_1046x850.png",
+      "description": "Field Note: How Bangladesh Is Solving \"A Crying Need of the Time\"",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "fkSignal",
+      "sourceLabel": "FutureKeepers Signal",
+      "taxonomy": "signal",
+      "format": "newsletter",
+      "title": "The World's Biggest EV Fleet(s)",
+      "link": "https://futurekeepers.substack.com/p/the-worlds-biggest-ev-fleets",
+      "publishDate": "2026-07-14T15:01:27.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!YH7K!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F080b950c-68fc-4a9b-94fb-dd0ae2fc0891_1376x768.png",
+      "description": "Picture the world's biggest fleet of electric vehicles. You're picturing the wrong one, and probably just one. It's dozens of fleets at once, on two wheels, three wheels, water, and rail.",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -309,18 +333,6 @@
       "thumbnail": "https://i3.ytimg.com/vi/NcioDoziStA/hqdefault.jpg",
       "description": "In a village built over the water in Borneo, electricity used to be a luxury, lasting only from dusk to dawn. For Aznaya, a mother, this meant relying on an expensive, fuel-guzzling diesel generator. But with the arrival",
       "author": "FutureKeepers"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "حقائق کا حقیقت پسندانہ محاسبہ: سورج کی روشنی کبھی مدھم نہیں ہوتی",
-      "link": "https://proelectrica.substack.com/p/05f",
-      "publishDate": "2026-06-08T04:01:12.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!XReW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff916b994-befb-40e6-886a-3835781ef9dd_1590x1150.png",
-      "description": "چین کی صنعتی ہلچل کا گہرائی سے جائزہ: سرخیوں سے آگے",
-      "author": "Danny Kennedy"
     },
     {
       "source": "ytShorts",
@@ -740,18 +752,6 @@
       "publishDate": "2026-03-01T03:37:11.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/%24s_!hNh3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F452f08e5-53f0-4f59-99ab-2712ebb08088_2634x1517.jpeg",
       "description": "The AI boom needs power. Here's who's building clean and who's not.",
-      "author": "Steve Mudd"
-    },
-    {
-      "source": "fkSignal",
-      "sourceLabel": "FutureKeepers Signal",
-      "taxonomy": "signal",
-      "format": "newsletter",
-      "title": "Giddy Up, Planet Earth 🐴",
-      "link": "https://futurekeepers.substack.com/p/giddy-up-planet-earth",
-      "publishDate": "2026-02-21T22:36:50.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!LUiM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F831c57a8-3a61-4144-8ae9-2434e67fa2c2_1456x816.png",
-      "description": "The Wood Snake reshaped the world quietly. Now the Fire Horse is running. Here's what that means for the energy transition.",
       "author": "Steve Mudd"
     },
     {
