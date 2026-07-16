@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T06:26:45.608Z",
+  "generatedAt": "2026-07-16T06:29:57.849Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -22,6 +22,18 @@
     "ytShorts"
   ],
   "items": [
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "বাংলাদেশের ‘লিপফ্রগ’ মুহূর্ত: রোদ, রিকশা, আর আমদানিনির্ভর জ্বালানি থেকে মুক্তির পথ",
+      "link": "https://proelectrica.substack.com/p/dd1",
+      "publishDate": "2026-07-15T03:00:39.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!mG5w!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9ffcb68-0f4b-434f-99b3-bee2dffe020c_1046x850.png",
+      "description": "ফিল্ড নোট: কীভাবে বাংলাদেশ সমাধান করছে ‘সময়ের একান্ত প্রয়োজন’",
+      "author": "Danny Kennedy"
+    },
     {
       "source": "proElectrica",
       "sourceLabel": "ProElectrica",
@@ -248,18 +260,6 @@
       "publishDate": "2026-06-17T15:11:20.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/%24s_!6HUv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F990e8e82-1964-4f3a-a47d-e1dbe385a845_2048x1152.png",
       "description": "ڈیپ ڈائیوز: عظیم توانائی ہم آہنگی (Great Energy Convergence) کے پسِ منظر میں",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "While you were watching Elon… Asia Built the Energy Future",
-      "link": "https://proelectrica.substack.com/p/while-you-were-watching-elon-asia",
-      "publishDate": "2026-06-17T15:10:05.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!16l4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2449930d-1c59-497e-91da-cd642d647297_2048x1152.png",
-      "description": "DeepDives: Behind the GEC (Great Energy Convergence)",
       "author": "Danny Kennedy"
     },
     {

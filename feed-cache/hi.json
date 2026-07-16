@@ -1,19 +1,27 @@
 {
-  "generatedAt": "2026-07-15T06:30:42.147Z",
+  "generatedAt": "2026-07-16T06:32:51.410Z",
   "locale": "hi",
   "counts": {
     "ytLongForm": 10,
-    "ytShorts": 15
+    "ytShorts": 10
   },
   "freshCounts": {
-    "ytLongForm": 0,
-    "ytShorts": 0
+    "ytLongForm": 10,
+    "ytShorts": 10
   },
-  "rescuedSources": [
-    "ytLongForm",
-    "ytShorts"
-  ],
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "गैस आउट: जीवाश्म ईंधन का अंत, स्वच्छ ऊर्जा का उदय!",
+      "link": "https://www.youtube.com/shorts/ipN_8HqNrts",
+      "publishDate": "2026-07-15T03:30:17.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/ipN_8HqNrts/hqdefault.jpg",
+      "description": "",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -59,7 +67,7 @@
       "link": "https://www.youtube.com/shorts/gqxhixj5-HU",
       "publishDate": "2026-07-05T03:30:20.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/gqxhixj5-HU/hqdefault.jpg",
-      "description": "क्या आपको पता है कि दिल्ली ने 2028 तक नए पेट्रोल 2 और 3-व्हीलर्स पर पूरी तरह से प्रतिबंध लगाने का मास्टरस्ट्रोक चला है? यह कदम राजधानी की हवा को साफ करने और इलेक्ट्रिक मोबिलिटी को बढ़ावा देने के लिए उठाया गया है। इस हफ्त",
+      "description": "",
       "author": "Future Keepers Hindi"
     },
     {
@@ -71,7 +79,7 @@
       "link": "https://www.youtube.com/shorts/tHP0Ni-5cWo",
       "publishDate": "2026-07-04T03:30:20.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/tHP0Ni-5cWo/hqdefault.jpg",
-      "description": "नमस्ते दोस्तों! क्या आप हर बार पेट्रोल पंप पर पैसे डालते समय एक ऐसी बाजी खेल रहे होते हैं जिसमें आपकी हार पक्की है? यह FutureKeepers का 'एडिशन बी टीम टॉक' है, और हम आपको बता रहे हैं कि बाहर की टीम को जिताना अब बंद करें। ",
+      "description": "",
       "author": "Future Keepers Hindi"
     },
     {
@@ -83,7 +91,7 @@
       "link": "https://www.youtube.com/shorts/R9soXV6tvPs",
       "publishDate": "2026-07-03T03:30:19.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/R9soXV6tvPs/hqdefault.jpg",
-      "description": "दुनिया भर में जहाँ तेल की कीमतें और उनकी भू-राजनीति का ड्रामा चल रहा है, भारत अपना ही खेल खेल रहा है। हम समुद्र पार से कच्चा तेल आयात करते हैं, लेकिन हमारी असली ताकत और जीत हमारे अपने घर में है: हमारी अपनी धूप और बढ़ती ह",
+      "description": "",
       "author": "Future Keepers Hindi"
     },
     {
@@ -131,7 +139,7 @@
       "link": "https://www.youtube.com/shorts/Zhe-iBTG7og",
       "publishDate": "2026-06-20T03:30:17.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/Zhe-iBTG7og/hqdefault.jpg",
-      "description": "सूरज हमें मुफ्त ऊर्जा देता है, तो सरकार को रूफटॉप सोलर को महंगा और जटिल क्यों बनाना चाहिए? भारत का सोलर उद्योग सरल और स्थिर नीतियों की मांग कर रहा है। छत पर सोलर लगाने से बिजली का बिल 80% तक कम हो सकता है। भारत की सोलर ए",
+      "description": "",
       "author": "Future Keepers Hindi"
     },
     {
@@ -143,7 +151,7 @@
       "link": "https://www.youtube.com/shorts/grzAKAnBkmc",
       "publishDate": "2026-06-19T03:30:17.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/grzAKAnBkmc/hqdefault.jpg",
-      "description": "क्या आप जानते हैं कि छत पर सौर ऊर्जा पर कर लगाने से देश को कितना नुकसान हो सकता है? यह सुनने में अजीब लग सकता है, लेकिन जो समाधान समस्या को ठीक करता है, उस पर कर लगाना वास्तव में समस्या को और महंगा बना देता है। एक चौंकान",
+      "description": "",
       "author": "Future Keepers Hindi"
     },
     {
@@ -191,7 +199,7 @@
       "link": "https://www.youtube.com/shorts/OKDCReiAhEU",
       "publishDate": "2026-06-10T03:45:17.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/OKDCReiAhEU/hqdefault.jpg",
-      "description": "बोरनियो की एक माँ, असनियाह, ने अपने गांव में बिजली आने के बाद सिर्फ एक ब्लेंडर से तीन सफल व्यवसाय शुरू किए। उनके गांव को अब महिलाएं चला रही हैं, जो सौर ऊर्जा प्रणाली का प्रबंधन करती हैं। अप्रैल 2023 में, सौर और पवन ऊर्जा",
+      "description": "",
       "author": "Future Keepers Hindi"
     },
     {
@@ -203,7 +211,7 @@
       "link": "https://www.youtube.com/shorts/zIxI1IFh0uc",
       "publishDate": "2026-06-04T03:30:26.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/zIxI1IFh0uc/hqdefault.jpg",
-      "description": "कल्पना कीजिए एक ऐसी दुनिया जहाँ एक तरफ पेट्रोल से चलने वाला मॉन्स्टर ट्रक है, जो सिर्फ धुआँ और प्रदूषण फैलाता है, और दूसरी तरफ एक सोलर कार है, जो सूरज की रोशनी से चलती है और कभी रुकती नहीं। इस वीडियो में देखें कि कैसे बै",
+      "description": "",
       "author": "Future Keepers Hindi"
     },
     {
@@ -227,7 +235,7 @@
       "link": "https://www.youtube.com/shorts/9TnEveycbew",
       "publishDate": "2026-05-30T03:30:22.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/9TnEveycbew/hqdefault.jpg",
-      "description": "दुनियाभर में जलवायु परिवर्तन और ऊर्जा सुरक्षा की चुनौतियों के बीच, लाओस ने एक साहसिक कदम उठाया है। 1 जून से लाओस ने पेट्रोल कारों के आयात पर पूरी तरह से पाबंदी लगा दी है। इथियोपिया के बाद लाओस दुनिया का दूसरा ऐसा देश बन ",
+      "description": "",
       "author": "Future Keepers Hindi"
     },
     {
@@ -239,79 +247,7 @@
       "link": "https://www.youtube.com/shorts/BZiG4zvSsok",
       "publishDate": "2026-05-28T21:36:42.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/BZiG4zvSsok/hqdefault.jpg",
-      "description": "क्लीन एनर्जी की दुनिया में एक ऐतिहासिक मोड़ आया है! पहली बार, सौर और पवन ऊर्जा ने मिलकर एक पूरे महीने तक प्राकृतिक गैस से ज़्यादा बिजली पैदा की है। यह सिर्फ एक भविष्यवाणी नहीं, बल्कि एक हकीकत है जो इसी साल अप्रैल में हुई",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "वियतनाम की सौर ऊर्जा क्रांति: एक बेहतर भविष्य की ओर! #shorts",
-      "link": "https://www.youtube.com/shorts/DbHLngtJPqo",
-      "publishDate": "2026-05-27T19:20:52.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/DbHLngtJPqo/hqdefault.jpg",
-      "description": "एक तरफ जहां दुनिया भर में ऊर्जा संकट और भू-राजनीतिक तनाव की बातें हो रही हैं, वहीं वियतनाम से प्रगति की एक दमदार कहानी सामने आ रही है। यह कहानी है स्काईएक्स सोलर की, जिसने वियतनाम में रूफटॉप सौर ऊर्जा को तेजी से फैलाने क",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "हांगकांग: ऊर्जा संक्रमण का अनूठा पुल",
-      "link": "https://www.youtube.com/shorts/Mmy9W03oIx0",
-      "publishDate": "2026-05-27T03:30:16.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/Mmy9W03oIx0/hqdefault.jpg",
-      "description": "दुनिया का ऊर्जा संक्रमण बिखरा हुआ है, लेकिन हांगकांग इसकी एकीकृत प्रक्रिया में महत्वपूर्ण भूमिका निभा सकता है। वैश्विक ऊर्जा संक्रमण में चीन से बड़ा कोई देश भूमिका नहीं निभाता। चीन दुनिया के 80% सोलर पैनल और 70% बैटरी का",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "एशिया का परमाणु दांव: फुकुशिमा के बाद भी 5 देश परमाणु ऊर्जा अपना रहे हैं",
-      "link": "https://www.youtube.com/shorts/4bWE8qsVp_o",
-      "publishDate": "2026-05-25T03:30:16.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/4bWE8qsVp_o/hqdefault.jpg",
-      "description": "एशिया की ऊर्जा कहानी एक अप्रत्याशित मोड़ ले रही है, फुकुशिमा की त्रासदी के बावजूद परमाणु ऊर्जा में एक नया उछाल देखा जा रहा है। इंडोनेशिया जैसे देश बायोफ्यूल पर दोगुना दांव लगा रहे हैं, जबकि वनोन्मूलन संबंधी चिंताओं को नज",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "बैटरी हुई 99% सस्ती: अब घर को मिलेगी 24/7 बिजली!",
-      "link": "https://www.youtube.com/shorts/lFKJtwlmN7U",
-      "publishDate": "2026-05-24T03:30:16.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/lFKJtwlmN7U/hqdefault.jpg",
-      "description": "क्या आपको याद है वो दौर जब घर के लिए बैटरी सिर्फ अमीरों का एक महंगा सपना हुआ करती थी? अब वो वक्त बदल चुका है, और भारत इस बदलाव के केंद्र में है! 1991 में एक लिथियम-आयन बैटरी की कीमत करीब 9,200 डॉलर प्रति किलोवाट घंटा थी।",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "सोलर और बैटरियां: रात पर भी राज!",
-      "link": "https://www.youtube.com/shorts/fK5bSDoVsOU",
-      "publishDate": "2026-05-23T03:30:16.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/fK5bSDoVsOU/hqdefault.jpg",
-      "description": "क्या आपको लगता है कि सौर ऊर्जा रात में काम नहीं करती? यह वीडियो बताता है कि कैसे सोलर पैनल और बैटरियां 24 घंटे बिजली की आपूर्ति कर सकते हैं, चाहे दिन हो या रात। सौर ऊर्जा और बैटरियों के साथ, आप 24 घंटे बिजली पा सकते हैं!",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "तेल के झटके से आज़ादी: अक्षय ऊर्जा में निवेश क्यों ज़रूरी? #shorts",
-      "link": "https://www.youtube.com/shorts/eobHPEJcDcA",
-      "publishDate": "2026-05-21T21:25:20.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/eobHPEJcDcA/hqdefault.jpg",
-      "description": "क्या आप जानते हैं कि हमारी ऊर्जा सुरक्षा विदेशी हलचल पर कितनी निर्भर करती है? मध्य पूर्व में हालिया तनाव इस बात की याद दिलाता है कि जीवाश्म ईंधन पर हमारी व्यवस्था कितनी अस्थिर है। किसी भी भू-राजनीतिक टकराव का खतरा तेल बा",
+      "description": "",
       "author": "Future Keepers Hindi"
     }
   ]

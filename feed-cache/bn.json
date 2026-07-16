@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T06:28:22.140Z",
+  "generatedAt": "2026-07-16T06:31:31.115Z",
   "locale": "bn",
   "counts": {
     "ytLongForm": 10,
@@ -10,6 +10,18 @@
     "ytShorts": 10
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "গ্যাস আউট: জীবাশ্ম জ্বালানির শেষ, পরিচ্ছন্ন শক্তির শুরু!",
+      "link": "https://www.youtube.com/shorts/0Yh1g7o8OTU",
+      "publishDate": "2026-07-15T03:00:17.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/0Yh1g7o8OTU/hqdefault.jpg",
+      "description": "",
+      "author": "Future Keepers Bengali"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -47,10 +59,10 @@
       "author": "Future Keepers Bengali"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "বাংলাদেশে EV কর প্রত্যাহার: ক্লিন এনা",
       "link": "https://www.youtube.com/shorts/cXzMsFZGQA4",
       "publishDate": "2026-07-05T03:00:20.000Z",
@@ -59,10 +71,10 @@
       "author": "Future Keepers Bengali"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "জ্বালানি খরচ? আর না! নিজের ছাদে সৌরশক",
       "link": "https://www.youtube.com/shorts/MswWiyorOM4",
       "publishDate": "2026-07-04T03:00:20.000Z",
@@ -71,10 +83,10 @@
       "author": "Future Keepers Bengali"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "EV ট্যাক্স 0%: বাংলাদেশের হোম অ্যাডভান",
       "link": "https://www.youtube.com/shorts/Tx3yyAZNQ9M",
       "publishDate": "2026-07-03T03:00:21.000Z",
@@ -179,42 +191,6 @@
       "author": "Future Keepers Bengali"
     },
     {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "বিশ্বে প্রথমবার: বায়ু ও সৌরবিদ্যুৎ",
-      "link": "https://www.youtube.com/watch?v=YlPEobB08HU",
-      "publishDate": "2026-06-13T03:00:22.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/YlPEobB08HU/hqdefault.jpg",
-      "description": "",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "রান্নাঘরের ব্লেন্ডার: সৌরশক্তি চাল",
-      "link": "https://www.youtube.com/watch?v=EdSPWoq_0EU",
-      "publishDate": "2026-06-12T03:00:25.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/EdSPWoq_0EU/hqdefault.jpg",
-      "description": "",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "এপ্রিল ২০২৩: বায়ু ও সৌরশক্তি গ্যাস",
-      "link": "https://www.youtube.com/watch?v=7QmXD3eCk68",
-      "publishDate": "2026-06-11T03:00:26.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/7QmXD3eCk68/hqdefault.jpg",
-      "description": "",
-      "author": "Future Keepers Bengali"
-    },
-    {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "noise",
@@ -223,30 +199,6 @@
       "link": "https://www.youtube.com/shorts/y0Hhf61yyG4",
       "publishDate": "2026-06-10T03:00:31.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/y0Hhf61yyG4/hqdefault.jpg",
-      "description": "",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "সৌরশক্তি বনাম জীবাশ্ম জ্বালানি: কে",
-      "link": "https://www.youtube.com/shorts/5RCIwCfWUCk",
-      "publishDate": "2026-06-04T03:00:30.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/5RCIwCfWUCk/hqdefault.jpg",
-      "description": "",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "ইথিওপিয়ার জ্বালানি বিপ্লব: ২ বছরে ৮.৩% ইভি, মাসিক খরচ কমলো $23!",
-      "link": "https://www.youtube.com/watch?v=l60UueE1fnk",
-      "publishDate": "2026-06-03T03:00:17.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/l60UueE1fnk/hqdefault.jpg",
       "description": "",
       "author": "Future Keepers Bengali"
     }
