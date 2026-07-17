@@ -1,62 +1,52 @@
 {
-  "generatedAt": "2026-07-16T06:29:26.242Z",
+  "generatedAt": "2026-07-17T06:25:32.155Z",
   "locales": {
     "en": {
-      "itemCount": 80,
+      "itemCount": 75,
       "counts": {
         "ytLongForm": 15,
-        "ytShorts": 15,
+        "ytShorts": 10,
         "fkSignal": 10,
         "proElectrica": 10,
         "ebirchy": 20,
         "ccAsia": 10
       },
       "freshCounts": {
-        "ytLongForm": 0,
-        "ytShorts": 0,
+        "ytLongForm": 15,
+        "ytShorts": 10,
         "fkSignal": 10,
         "proElectrica": 10,
         "ebirchy": 20,
         "ccAsia": 10
       },
-      "rescuedSources": [
-        "ytLongForm",
-        "ytShorts"
-      ],
-      "bytes": 51286
+      "bytes": 46125
     },
     "id": {
-      "itemCount": 21,
+      "itemCount": 20,
       "counts": {
         "ytLongForm": 10,
-        "ytShorts": 11
+        "ytShorts": 10
       },
       "freshCounts": {
         "ytLongForm": 10,
-        "ytShorts": 0
+        "ytShorts": 10
       },
-      "rescuedSources": [
-        "ytShorts"
-      ],
-      "bytes": 10443
+      "bytes": 7643
     },
     "zh": {
-      "itemCount": 25,
+      "itemCount": 20,
       "counts": {
         "ytLongForm": 10,
-        "ytShorts": 15
+        "ytShorts": 10
       },
       "freshCounts": {
         "ytLongForm": 10,
-        "ytShorts": 0
+        "ytShorts": 10
       },
-      "rescuedSources": [
-        "ytShorts"
-      ],
-      "bytes": 19248
+      "bytes": 7695
     },
     "bn": {
-      "itemCount": 16,
+      "itemCount": 20,
       "counts": {
         "ytLongForm": 10,
         "ytShorts": 10
@@ -65,37 +55,31 @@
         "ytLongForm": 10,
         "ytShorts": 10
       },
-      "bytes": 6785
+      "bytes": 8424
     },
     "ur": {
-      "itemCount": 25,
+      "itemCount": 20,
       "counts": {
-        "ytLongForm": 15,
+        "ytLongForm": 10,
         "ytShorts": 10
       },
       "freshCounts": {
-        "ytLongForm": 0,
+        "ytLongForm": 10,
         "ytShorts": 10
       },
-      "rescuedSources": [
-        "ytLongForm"
-      ],
-      "bytes": 16095
+      "bytes": 8118
     },
     "th": {
-      "itemCount": 22,
+      "itemCount": 20,
       "counts": {
         "ytLongForm": 10,
-        "ytShorts": 15
+        "ytShorts": 10
       },
       "freshCounts": {
         "ytLongForm": 10,
-        "ytShorts": 0
+        "ytShorts": 10
       },
-      "rescuedSources": [
-        "ytShorts"
-      ],
-      "bytes": 17339
+      "bytes": 8444
     },
     "hi": {
       "itemCount": 20,

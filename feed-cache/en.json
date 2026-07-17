@@ -1,27 +1,35 @@
 {
-  "generatedAt": "2026-07-16T06:29:57.849Z",
+  "generatedAt": "2026-07-17T06:25:33.006Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
-    "ytShorts": 15,
+    "ytShorts": 10,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "freshCounts": {
-    "ytLongForm": 0,
-    "ytShorts": 0,
+    "ytLongForm": 15,
+    "ytShorts": 10,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
-  "rescuedSources": [
-    "ytLongForm",
-    "ytShorts"
-  ],
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "From Gas Guzzlers to Green Rides: The Future of Transport is Here!",
+      "link": "https://www.youtube.com/shorts/BozwfJNfzmE",
+      "publishDate": "2026-07-16T14:00:34.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/BozwfJNfzmE/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
     {
       "source": "proElectrica",
       "sourceLabel": "ProElectrica",
@@ -91,7 +99,7 @@
       "link": "https://www.youtube.com/shorts/a_YrqNmmx0M",
       "publishDate": "2026-07-04T14:00:24.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/a_YrqNmmx0M/hqdefault.jpg",
-      "description": "The world is quietly walking off the away pitch and building at home, with five key signals showing clean energy is winning globally. Clean power was the single biggest source of new energy on the planet last year, ahead",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -115,7 +123,7 @@
       "link": "https://www.youtube.com/shorts/qbgvawFjzgU",
       "publishDate": "2026-07-03T14:00:23.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/qbgvawFjzgU/hqdefault.jpg",
-      "description": "Clean energy isn't just a choice anymore; it's a winning strategy. The global shift to clean power is accelerating, with the 'home team' consistently outperforming traditional energy sources. Last year, clean power was t",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -139,7 +147,7 @@
       "link": "https://www.youtube.com/shorts/SwipwUtiZfs",
       "publishDate": "2026-07-02T14:00:30.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/SwipwUtiZfs/hqdefault.jpg",
-      "description": "While the world's cameras were pointed at the Strait of Hormuz this week, fixated on the 'away game' of fossil fuels, the real, untelivised energy revolution is happening at home, where we can truly win. Did you know tha",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -331,7 +339,7 @@
       "link": "https://www.youtube.com/shorts/NcioDoziStA",
       "publishDate": "2026-06-09T14:00:29.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/NcioDoziStA/hqdefault.jpg",
-      "description": "In a village built over the water in Borneo, electricity used to be a luxury, lasting only from dusk to dawn. For Aznaya, a mother, this meant relying on an expensive, fuel-guzzling diesel generator. But with the arrival",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -343,7 +351,7 @@
       "link": "https://www.youtube.com/shorts/cb2srFoy6y0",
       "publishDate": "2026-06-05T14:00:29.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/cb2srFoy6y0/hqdefault.jpg",
-      "description": "In a world where traditional fuel sources are becoming unreliable, a gas-guzzling monster truck finds itself in a bind, running completely out of steam. Who comes to the rescue? None other than Mei-Lin, the intrepid pand",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -403,7 +411,7 @@
       "link": "https://www.youtube.com/shorts/XXznrXwt0o0",
       "publishDate": "2026-05-30T14:00:31.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/XXznrXwt0o0/hqdefault.jpg",
-      "description": "Last week, Laos became the second country on Earth to ban gas-powered cars, a bold move that positions it ahead of many wealthier nations in the global energy transition. In March, Vientiane saw gas queues wrap around th",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -435,11 +443,11 @@
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "noise",
       "format": "short",
-      "title": "Clean Energy Just Hit a Tipping Point! Solar & Wind Overtake Gas #shorts",
+      "title": "Clean Energy Just Hit a Tipping Point! Solar Wind Overtake Gas #shorts",
       "link": "https://www.youtube.com/shorts/bdy4sdB0eEM",
       "publishDate": "2026-05-28T21:34:24.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/bdy4sdB0eEM/hqdefault.jpg",
-      "description": "The clean energy transition has reached an unprecedented milestone! For the first time in history, solar and wind power have generated more electricity globally than natural gas for an entire month. This isn't a forecast",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -459,11 +467,11 @@
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "noise",
       "format": "short",
-      "title": "Vietnam's Solar Boom: Powering Local Businesses & Energy Independence #shorts",
+      "title": "Vietnam's Solar Boom: Powering Local Businesses Energy Independence #shorts",
       "link": "https://www.youtube.com/shorts/8TH9LAwioxo",
       "publishDate": "2026-05-27T19:21:27.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/8TH9LAwioxo/hqdefault.jpg",
-      "description": "While global headlines often focus on energy shocks and geopolitical tensions, a powerful story of progress is unfolding in Vietnam. Solar energy developer SkyX Solar has just secured a $15 million investment to accelera",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -475,79 +483,7 @@
       "link": "https://www.youtube.com/shorts/OzHBGjGvX6Q",
       "publishDate": "2026-05-27T14:00:17.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/OzHBGjGvX6Q/hqdefault.jpg",
-      "description": "Hong Kong finds itself at a unique crossroads in the global energy transition, poised to bridge the fragmented efforts between Chinese manufacturing might and Western financial and regulatory standards. Despite a world d",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Have you noticed that lately, the prices of various basic necessities have been on the rise?",
-      "link": "https://www.youtube.com/shorts/VDd5IXikcbQ",
-      "publishDate": "2026-05-26T22:21:04.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/VDd5IXikcbQ/hqdefault.jpg",
-      "description": "One of the reasons for this is the ongoing energy crisis. 😱 When fuel prices go up, transportation, food, and the overall cost of living are all impacted. In Indonesia, many small islands still rely on diesel fuel. On t",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "The coral reefs in the Gili Islands are in trouble!",
-      "link": "https://www.youtube.com/shorts/tJUPRT5zsxk",
-      "publishDate": "2026-05-26T20:57:18.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/tJUPRT5zsxk/hqdefault.jpg",
-      "description": "Part of the problem is fossil fuels, which Indonesia relies on. But solutions are possible! The shift to solar power has begun. Here's how YOU can help save the coral reefs:",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Fukushima Fallout: Japan, ASEAN Restart Nuclear Plans",
-      "link": "https://www.youtube.com/shorts/0SK_-W0lSEI",
-      "publishDate": "2026-05-25T18:00:13.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/0SK_-W0lSEI/hqdefault.jpg",
-      "description": "Japan, which suffered a nuclear disaster at Fukushima just 15 years ago, is restarting its nuclear power plants, and five ASEAN nations, which have never produced nuclear power, are now pursuing it. This unexpected shift",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Philippines fast-tracks renewables by fixing permits",
-      "link": "https://www.youtube.com/shorts/_FcQpfnSOCk",
-      "publishDate": "2026-05-22T18:00:13.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/_FcQpfnSOCk/hqdefault.jpg",
-      "description": "The Philippines is taking a decisive step towards energy independence by fast-tracking renewable energy projects, directly tackling the complex permitting issues that often hinder progress. This move is particularly crit",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Energy Security: Why Renewables Are Our Only Path to Stability #shorts",
-      "link": "https://www.youtube.com/shorts/Vymw1kfzmFk",
-      "publishDate": "2026-05-21T21:35:29.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/Vymw1kfzmFk/hqdefault.jpg",
-      "description": "Our energy security shouldn't be dictated by global headlines and geopolitical tensions. Recent events in the Middle East serve as a stark reminder of just how volatile our fossil fuel-dependent energy system truly is. T",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "The Global EV Boom You Didn't See Coming: Asia & LatAm Lead the Charge! #shorts",
-      "link": "https://www.youtube.com/shorts/39Yp7lp2nrU",
-      "publishDate": "2026-05-20T22:01:27.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/39Yp7lp2nrU/hqdefault.jpg",
-      "description": "The global energy crisis is accelerating the clean transport transition in unexpected regions. While much of the world's attention has been focused on electric vehicle (EV) adoption in Europe and North America, the real ",
+      "description": "",
       "author": "FutureKeepers"
     },
     {

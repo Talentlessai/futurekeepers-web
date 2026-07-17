@@ -1,23 +1,32 @@
 {
-  "generatedAt": "2026-07-16T06:32:44.517Z",
+  "generatedAt": "2026-07-17T06:25:50.500Z",
   "locale": "th",
   "counts": {
     "ytLongForm": 10,
-    "ytShorts": 15
+    "ytShorts": 10
   },
   "freshCounts": {
     "ytLongForm": 10,
-    "ytShorts": 0
+    "ytShorts": 10
   },
-  "rescuedSources": [
-    "ytShorts"
-  ],
   "items": [
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "signal",
       "format": "video",
+      "title": "กองทัพ EV ที่ใหญ่ที่สุดในโลก: บนถนน",
+      "link": "https://www.youtube.com/watch?v=i51jdgi0yzU",
+      "publishDate": "2026-07-17T02:15:15.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/i51jdgi0yzU/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "ลาก่อนเชื้อเพลิง! พลังงานสะอาดเปลี่ยนโลกการเดินทาง!",
       "link": "https://www.youtube.com/shorts/cj0NdpIMBFU",
       "publishDate": "2026-07-16T02:15:17.000Z",
@@ -62,10 +71,10 @@
       "author": "FutureKeepers Thai"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "พลังงานสะอาด ขึ้นแท่นอันดับ 1 ของโ",
       "link": "https://www.youtube.com/shorts/1FYL_CcWh0k",
       "publishDate": "2026-07-04T02:15:19.000Z",
@@ -74,10 +83,10 @@
       "author": "FutureKeepers Thai"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "ติดตั้งโซลาร์: รัฐช่วย 10,000 บาท! คุ้ม",
       "link": "https://www.youtube.com/shorts/8uf6lXCnueM",
       "publishDate": "2026-07-03T02:15:17.000Z",
@@ -122,10 +131,10 @@
       "author": "FutureKeepers Thai"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "ดวงอาทิตย์ไม่ส่งบิล: ประเทศไทยต้อ",
       "link": "https://www.youtube.com/shorts/-ezUMtPUSf0",
       "publishDate": "2026-06-21T02:15:16.000Z",
@@ -142,7 +151,7 @@
       "link": "https://www.youtube.com/shorts/GqDK1HMlPls",
       "publishDate": "2026-06-20T02:15:17.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/GqDK1HMlPls/hqdefault.jpg",
-      "description": "แม้ประเทศไทยจะมีศักยภาพมหาศาลด้านพลังงานแสงอาทิตย์และการชำระเงินที่ราบรื่นผ่าน PrompPay Wallet แต่การปฏิรูปพลังงานกลับล่าช้า ทำให้ประเทศพลาดโอกาสสำคัญในการเป็นผู้นำด้านพลังงานสะอาด ปัจจุบันประเทศไทยใช้พลังงานแสงอาทิตย์บน",
+      "description": "",
       "author": "FutureKeepers Thai"
     },
     {
@@ -154,7 +163,7 @@
       "link": "https://www.youtube.com/shorts/7Ho_JN2CvXA",
       "publishDate": "2026-06-19T02:15:17.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/7Ho_JN2CvXA/hqdefault.jpg",
-      "description": "เอเชียกำลังก้าวเข้าสู่ยุคใหม่ที่อยู่เหนืออิทธิพลของน้ำมัน นี่คือเรื่องราวของ \"ตะวันออกของน้ำมัน\" ที่กำลังพลิกโฉมโลกพลังงาน คุณรู้ไหมว่า เอเชียมีปริมาณสำรองน้ำมันและก๊าซเพียง 4% ของโลก แต่กลับเป็นผู้สร้างเครื่องจักรเทคโนโ",
+      "description": "",
       "author": "FutureKeepers Thai"
     },
     {
@@ -166,7 +175,31 @@
       "link": "https://www.youtube.com/shorts/vS9avfQJvZg",
       "publishDate": "2026-06-18T02:15:16.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/vS9avfQJvZg/hqdefault.jpg",
-      "description": "อีลอน มัสก์ ชวนคุณไปดาวอังคาร แต่บาร์บี้กับแพนด้ามีข้อเสนอที่ดีกว่าสำหรับอนาคตของคุณบนโลกใบนี้ การลงทุนในพลังงานสะอาดบนโลกสามารถให้ผลตอบแทน 24/7 และสร้างอนาคตที่ยั่งยืนสำหรับทุกคน วิดีโอนี้ใช้ฟิกเกอร์ของเล่นยอดนิยมเพื่อท",
+      "description": "",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "พลังงานแสงอาทิตย์และลมแซงก๊าซธร",
+      "link": "https://www.youtube.com/watch?v=dS8AsMubovg",
+      "publishDate": "2026-06-12T02:00:30.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/dS8AsMubovg/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "เป็นเจ้าของแสงสว่าง: พลังงานแสงอา",
+      "link": "https://www.youtube.com/watch?v=ZBo6oqJEzTw",
+      "publishDate": "2026-06-11T02:15:17.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/ZBo6oqJEzTw/hqdefault.jpg",
+      "description": "",
       "author": "FutureKeepers Thai"
     },
     {
@@ -178,7 +211,7 @@
       "link": "https://www.youtube.com/shorts/R1dD3sqbn1I",
       "publishDate": "2026-06-10T02:45:16.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/R1dD3sqbn1I/hqdefault.jpg",
-      "description": "ในหมู่บ้านบ่อนีออ ที่เคยต้องพึ่งพาเครื่องปั่นไฟดีเซลราคาแพงและเสียงดังเพื่อให้มีไฟฟ้าใช้แค่ตอนกลางคืนเท่านั้น วันนี้ชีวิตของชาวบ้านได้เปลี่ยนไปอย่างสิ้นเชิงด้วยพลังงานแสงอาทิตย์ พลังงานหมุนเวียนทั่วโลกแซงหน้าก๊าซธรรมชาติ",
+      "description": "",
       "author": "FutureKeepers Thai"
     },
     {
@@ -190,7 +223,19 @@
       "link": "https://www.youtube.com/shorts/qMoqXe0ox8U",
       "publishDate": "2026-06-03T02:15:16.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/qMoqXe0ox8U/hqdefault.jpg",
-      "description": "รถบรรทุกมอนสเตอร์สุดดุดันของบารอนต้องเผชิญหน้ากับปัญหาใหญ่เมื่อน้ำมันหมดกลางทาง แล้วใครจะมาช่วยเขาได้? ไม่ใช่รถบรรทุกน้ำมัน แต่เป็นรถพลังงานแสงอาทิตย์ของเหม่ยหลิน! รถพลังงานแสงอาทิตย์ของเหม่ยหลินขับเคลื่อนด้วยแบตเตอรี่ไฟ",
+      "description": "",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "ลาวแบนรถน้ำมัน 2026: วิกฤตบังคับพลิก",
+      "link": "https://www.youtube.com/watch?v=JeWttCSkTq0",
+      "publishDate": "2026-06-02T02:15:16.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/JeWttCSkTq0/hqdefault.jpg",
+      "description": "",
       "author": "FutureKeepers Thai"
     },
     {
@@ -202,79 +247,7 @@
       "link": "https://www.youtube.com/shorts/6HoAJrLq3ks",
       "publishDate": "2026-05-28T21:35:20.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/6HoAJrLq3ks/hqdefault.jpg",
-      "description": "การเปลี่ยนผ่านสู่พลังงานสะอาดกำลังมาถึงจุดสำคัญที่ไม่เคยมีมาก่อน! เป็นครั้งแรกในประวัติศาสตร์ที่พลังงานแสงอาทิตย์และพลังงานลมสามารถผลิตไฟฟ้าได้มากกว่าก๊าซธรรมชาติทั่วโลกตลอดทั้งเดือน นี่ไม่ใช่การคาดการณ์หรือเป้าหมายในอนา",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "เวียดนามก้าวหน้า: พลังงานสะอาดบนหลังคา เปลี่ยนอนาคต #shorts",
-      "link": "https://www.youtube.com/shorts/ALf4a6XlVY0",
-      "publishDate": "2026-05-27T19:18:26.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/ALf4a6XlVY0/hqdefault.jpg",
-      "description": "ในขณะที่หัวข้อข่าวทั่วโลกกำลังมุ่งความสนใจไปที่วิกฤตพลังงานและความตึงเครียดทางภูมิรัฐศาสตร์ เรื่องราวแห่งความก้าวหน้าอันทรงพลังกำลังเกิดขึ้นในเวียดนาม SkyX Solar ผู้พัฒนาพลังงานแสงอาทิตย์ในเวียดนาม ได้รับเงินลงทุนมูลค่า ",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "เอเชียพลิกเกมพลังงาน: นิวเคลียร์กลับมา, โซลาร์ผงาด",
-      "link": "https://www.youtube.com/shorts/YoJF1RXUrp8",
-      "publishDate": "2026-05-25T02:00:21.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/YoJF1RXUrp8/hqdefault.jpg",
-      "description": "ประเทศในเอเชียกำลังเผชิญกับทางเลือกที่ยากลำบากในเส้นทางพลังงานของตนเอง หลังจากวิกฤตพลังงานและแรงกดดันด้านอุปทานที่ทำให้บางประเทศหันกลับไปหาพลังงานนิวเคลียร์อีกครั้ง ผู้เชี่ยวชาญจาก Ember ชี้ว่าการให้ความสำคัญกับพลังงานแส",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "พลังงานหมุนเวียนถูกกว่าฟอสซิล: ฟิลิปปินส์เร่งเครื่อง",
-      "link": "https://www.youtube.com/shorts/3UVbB9vzbM8",
-      "publishDate": "2026-05-23T06:15:16.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/3UVbB9vzbM8/hqdefault.jpg",
-      "description": "ฟิลิปปินส์กำลังเผชิญหน้ากับวิกฤตพลังงาน แต่กลับพบทางออกด้วยการเร่งผลักดันโครงการพลังงานหมุนเวียนอย่างที่ไม่เคยมีมาก่อน การเคลื่อนไหวนี้เกิดขึ้นในขณะที่ทั่วทั้งเอเชียพบว่าพลังงานแสงอาทิตย์และพลังงานลมมีต้นทุนถูกกว่าเชื้อเ",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "โซลาร์ & แบตเตอรี่: พลังงาน 24 ชม. ครองความมืดมิด!",
-      "link": "https://www.youtube.com/shorts/Bm0G1oRjlmA",
-      "publishDate": "2026-05-23T02:15:16.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/Bm0G1oRjlmA/hqdefault.jpg",
-      "description": "เคยสงสัยไหมว่าบ้านที่ใช้โซลาร์เซลล์จะทำยังไงเมื่อพระอาทิตย์ตกดิน? วิดีโอนี้จะพาคุณไปดูว่าโซลาร์และแบตเตอรี่ทำงานร่วมกันอย่างไรเพื่อให้บ้านของคุณมีไฟฟ้าใช้ตลอด 24 ชั่วโมง! ด้วยระบบโซลาร์และแบตเตอรี่ คุณสามารถมีไฟฟ้าใช้ได้",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "ฟิลิปปินส์เร่งพลังงานหมุนเวียน: ก้าวข้ามอุปสรรคใบอนุญาต",
-      "link": "https://www.youtube.com/shorts/K7ain1yUn6U",
-      "publishDate": "2026-05-22T02:00:16.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/K7ain1yUn6U/hqdefault.jpg",
-      "description": "ฟิลิปปินส์กำลังเร่งโครงการพลังงานหมุนเวียนเพื่อรับมือวิกฤตพลังงาน โดยมุ่งแก้ปัญหาความล่าช้าในการขอใบอนุญาตที่เคยเป็นอุปสรรคสำคัญ ซึ่งอาจเป็นจุดเปลี่ยนในการเปลี่ยนผ่านพลังงานของประเทศ พลังงานหมุนเวียน เช่น พลังงานแสงอาทิต",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "พลังงานหมุนเวียน: ก้าวสำคัญสู่ความมั่นคงทางเศรษฐกิจ #shorts",
-      "link": "https://www.youtube.com/shorts/8Xzb4FbFHWU",
-      "publishDate": "2026-05-21T20:48:16.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/8Xzb4FbFHWU/hqdefault.jpg",
-      "description": "ความมั่นคงทางพลังงานของโลกไม่ควรขึ้นอยู่กับสถานการณ์ความขัดแย้งทางภูมิรัฐศาสตร์ การพึ่งพาเชื้อเพลิงฟอสซิลทำให้ระบบพลังงานของเราเปราะบางและผันผวนอย่างมาก วิกฤตการณ์ล่าสุดในตะวันออกกลางเป็นเครื่องเตือนใจอย่างชัดเจนว่าความเ",
+      "description": "",
       "author": "FutureKeepers Thai"
     }
   ]
