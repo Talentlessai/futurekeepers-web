@@ -1,15 +1,27 @@
 {
-  "generatedAt": "2026-07-17T06:25:43.531Z",
+  "generatedAt": "2026-07-18T06:16:01.236Z",
   "locale": "bn",
   "counts": {
-    "ytLongForm": 10,
-    "ytShorts": 10
+    "ytLongForm": 15,
+    "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 10,
-    "ytShorts": 10
+    "ytLongForm": 15,
+    "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "বাংলাদেশের ই-রিক্সা: বিশ্বের বৃহত্ত",
+      "link": "https://www.youtube.com/watch?v=qj5Cjj5sv3I",
+      "publishDate": "2026-07-18T03:00:18.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/qj5Cjj5sv3I/hqdefault.jpg",
+      "description": "হ্যালো! আজকের এক্সপ্ল্যানারে আপনাদের স্বাগত। আমরা প্রায়শই টেসলা বা বড় বড় ইলেকট্রিক গাড়ির কথা শুনি, কিন্তু জানেন কি বিশ্বের সবচেয়ে বড় ইলেকট্রিক ভেহিকেল (EV) বিপ্লব আসলে কোথায় ঘটছে? এটা এমন এক জায়গায় হচ্ছে যা হয়তো আ",
+      "author": "Future Keepers Bengali"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -19,7 +31,7 @@
       "link": "https://www.youtube.com/watch?v=GG3_FOw7fA8",
       "publishDate": "2026-07-17T03:00:18.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/GG3_FOw7fA8/hqdefault.jpg",
-      "description": "",
+      "description": "ইলেকট্রিক গাড়ি বা ইভি বললেই আমাদের মাথায় সবার আগে চকচকে বিলাসবহুল কোনো সেডান আসে, তাই না? পুরো বিশ্ব কিন্তু জ্বালানি রূপান্তরের হিসাবটা এই দামি গাড়িগুলো দিয়েই করে। কিন্তু সত্যিটা হলো, পৃথিবীর বেশিরভাগ মানুষ জীবনে হয়",
       "author": "Future Keepers Bengali"
     },
     {
@@ -31,7 +43,7 @@
       "link": "https://www.youtube.com/shorts/0Yh1g7o8OTU",
       "publishDate": "2026-07-15T03:00:17.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/0Yh1g7o8OTU/hqdefault.jpg",
-      "description": "",
+      "description": "এই ভিডিওতে, আমাদের প্রফুল্ল পান্ডা অনায়াসে প্রাণবন্ত, পরিচ্ছন্ন শহরগুলিতে ঘুরে বেড়াচ্ছে, যেখানে রাগান্বিত ব্যারেল রোবট ধোঁয়া ছাড়তে ছাড়তে পিছিয়ে পড়ছে। এটি পুরোনো জীবাশ্ম জ্বালানি প্রযুক্তি এবং পরিচ্ছন্ন শক্তির উত্ত",
       "author": "Future Keepers Bengali"
     },
     {
@@ -43,7 +55,7 @@
       "link": "https://www.youtube.com/watch?v=DHIlpmgo1lQ",
       "publishDate": "2026-07-08T03:00:23.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/DHIlpmgo1lQ/hqdefault.jpg",
-      "description": "",
+      "description": "ভাবুন তো, ভারত, এত বড় একটা দেশ, তাদের জ্বালানির মজুদ মাত্র আট দিনের জন্য যথেষ্ট! বিশ্বজুড়ে জ্বালানি সংকটের মুখে এমন ভঙ্গুর পরিস্থিতি থেকে বাঁচার একমাত্র উপায় কী? বর্তমানে ভারতের কাছে প্রায় ৩ কোটি ৯০ লাখ ব্যারেল অপরিশ",
       "author": "Future Keepers Bengali"
     },
     {
@@ -55,7 +67,7 @@
       "link": "https://www.youtube.com/watch?v=gLS_cKO9I2E",
       "publishDate": "2026-07-07T03:00:23.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/gLS_cKO9I2E/hqdefault.jpg",
-      "description": "",
+      "description": "আজকের এক্সপ্লেনারে আমরা একটি চমকপ্রদ তথ্য নিয়ে আলোচনা করব: ভারতের মতো বিশাল একটি দেশের কৌশলগত অপরিশোধিত তেলের মজুদ মাত্র ৮ দিনের। বিশ্বের সবচেয়ে জনবহুল দেশ ভারতের বর্তমান কৌশলগত অপরিশোধিত তেলের মজুদ মাত্র ৮ দিনের। এটি ",
       "author": "Future Keepers Bengali"
     },
     {
@@ -67,7 +79,7 @@
       "link": "https://www.youtube.com/watch?v=qgWnNwUF4uM",
       "publishDate": "2026-07-06T03:00:21.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/qgWnNwUF4uM/hqdefault.jpg",
-      "description": "",
+      "description": "ক্রিকেটে 'হোম পিচ'-এর সুবিধা সবাই জানে, কিন্তু জ্বালানির খেলায় বিদেশ থেকে আমদানি করা অনিশ্চিত 'অ্যাওয়ে গেম' খেললে কী হয়? আজকের বিশ্লেষণে আমরা দেখব কেন ভারত, বাংলাদেশসহ সারা বিশ্ব এখন আমদানিকৃত জীবাশ্ম জ্বালানির উপর নির্ভ",
       "author": "Future Keepers Bengali"
     },
     {
@@ -79,7 +91,7 @@
       "link": "https://www.youtube.com/shorts/cXzMsFZGQA4",
       "publishDate": "2026-07-05T03:00:20.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/cXzMsFZGQA4/hqdefault.jpg",
-      "description": "",
+      "description": "শুনুন! এই সপ্তাহে বাংলাদেশের এনার্জি আর জলবায়ু নিয়ে সবচেয়ে বড় খবর হলো, সরকার হঠাৎ করেই ইলেকট্রিক গাড়ির (EV) উপর থেকে সব অ্যান্টি-ট্যাক্স সরিয়ে ফেলেছে। এর ফলে ইলেকট্রিক বাস, ট্রাক এবং অন্যান্য EV-এর জন্য বিশাল সব সু",
       "author": "Future Keepers Bengali"
     },
     {
@@ -91,7 +103,7 @@
       "link": "https://www.youtube.com/shorts/MswWiyorOM4",
       "publishDate": "2026-07-04T03:00:20.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/MswWiyorOM4/hqdefault.jpg",
-      "description": "",
+      "description": "আপনি কি অন্যের পকেটে টাকা ভরে ক্লান্ত? আপনার গাড়িতে তেল ভরা বা বাড়িতে বিদ্যুৎ বিল পরিশোধ করা মানেই কি আপনার কষ্টার্জিত টাকা অন্যের হাতে তুলে দেওয়া? এবার সময় এসেছে নিজের পাওয়ার হাউসের মালিক হওয়ার! প্রতিবার যখন আপনি ফুয়েল",
       "author": "Future Keepers Bengali"
     },
     {
@@ -103,7 +115,7 @@
       "link": "https://www.youtube.com/shorts/Tx3yyAZNQ9M",
       "publishDate": "2026-07-03T03:00:21.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/Tx3yyAZNQ9M/hqdefault.jpg",
-      "description": "",
+      "description": "তেলের বিশ্বকাপ নিয়ে বিশ্ব যখন ব্যস্ত, তখন বাংলাদেশ নিজস্ব মাঠে খেলছে অন্য এক খেলা! বৈদ্যুতিক গাড়ির উপর ট্যাক্স শূন্য করে আমরা জ্বালানি স্বাধীনতা অর্জনের এক নতুন সুযোগ তৈরি করেছি। বৈদ্যুতিক গাড়ির উপর ট্যাক্স এখন 0%। বর",
       "author": "Future Keepers Bengali"
     },
     {
@@ -115,7 +127,7 @@
       "link": "https://www.youtube.com/watch?v=fNW_Lztx81s",
       "publishDate": "2026-06-25T03:00:18.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/fNW_Lztx81s/hqdefault.jpg",
-      "description": "",
+      "description": "এশিয়ার জ্বালানি খাতে এক বিশাল পরিবর্তন ঘটছে, আর এর কেন্দ্রে রয়েছে সৌর বিদ্যুৎ। অবিশ্বাস্য মনে হলেও, চীন থেকে এশিয়া জুড়ে মাত্র এক মাসেই রেকর্ড ৩৯ গিগাওয়াট সোলার প্যানেল রপ্তানি হয়েছে, যা সাধারণ মানুষের চাহিদা থেকে তৈ",
       "author": "Future Keepers Bengali"
     },
     {
@@ -127,7 +139,7 @@
       "link": "https://www.youtube.com/watch?v=eKiRK7lmWUQ",
       "publishDate": "2026-06-24T03:00:25.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/eKiRK7lmWUQ/hqdefault.jpg",
-      "description": "",
+      "description": "আজ আমরা এমন এক বিশাল পরিবর্তনের কথা বলব যা পুরো বিশ্বের অর্থনীতি আর জ্বালানি খাতের হিসাব-নিকাশ একদম নতুন করে লিখছে। এশিয়া তার ঐতিহাসিক জীবাশ্ম জ্বালানির দুর্বলতাকে কাটিয়ে উঠে এখন আধুনিক ইলেক্ট্রোটেক সুপারপাওয়ারে পরিণত",
       "author": "Future Keepers Bengali"
     },
     {
@@ -139,7 +151,7 @@
       "link": "https://www.youtube.com/watch?v=9gTpKaZKZVw",
       "publishDate": "2026-06-23T03:00:17.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/9gTpKaZKZVw/hqdefault.jpg",
-      "description": "",
+      "description": "শুরুতেই একটা দারুণ বিষয় নিয়ে কথা বলা যাক। আমরা তো দীর্ঘদিন ধরে শুনে আসছি যে, জীবাশ্ম জ্বালানি বা ফসিল ফুয়েল ছাড়া আমাদের চলবেই না, তাই না? কিন্তু আজকের এই বিশ্লেষণে আমরা দেখব কিভাবে আধুনিক বৈদ্যুতিক প্রযুক্তির বিপ্লব ",
       "author": "Future Keepers Bengali"
     },
     {
@@ -151,7 +163,7 @@
       "link": "https://www.youtube.com/shorts/PlgRjx2zjc0",
       "publishDate": "2026-06-22T03:00:17.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/PlgRjx2zjc0/hqdefault.jpg",
-      "description": "",
+      "description": "এই ভিডিওটি দেখায় যে কিভাবে রুফটপ সোলারের উপর কর আরোপ করলে দেশের অর্থনীতিতে গুরুতর নেতিবাচক প্রভাব পড়তে পারে। একটি \"সূর্য কর\" আদতে জ্বালানি আমদানি বিলকে বহুগুণ বাড়িয়ে দেয়। রুফটপ সোলারের সম্ভাব্য কর রাজস্ব মাত্র ৫০০ কোটি ট",
       "author": "Future Keepers Bengali"
     },
     {
@@ -163,7 +175,7 @@
       "link": "https://www.youtube.com/shorts/4a5uw_5CW5Y",
       "publishDate": "2026-06-21T03:00:17.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/4a5uw_5CW5Y/hqdefault.jpg",
-      "description": "",
+      "description": "বাংলাদেশের সোলার শিল্প সরকারের কাছ থেকে বিশেষ সুবিধা চায় না, বরং চায় সঠিক নীতি। এই ভিডিওটি তুলে ধরেছে কেন 'সূর্য ট্যাক্স' বন্ধ করা এবং প্যানেল ও ইনভার্টারের উপর থেকে বিক্রয় কর ও আমদানি শুল্ক তুলে নেওয়া জরুরি। সূর্য স",
       "author": "Future Keepers Bengali"
     },
     {
@@ -175,7 +187,7 @@
       "link": "https://www.youtube.com/shorts/xDnQldbQims",
       "publishDate": "2026-06-20T03:00:25.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/xDnQldbQims/hqdefault.jpg",
-      "description": "",
+      "description": "বাংলাদেশের রুফটপ সোলার একটি বিশাল সম্ভাবনা বহন করে, কিন্তু নীতির অস্থিরতা এই সম্ভাবনাকে বাধাগ্রস্ত করছে। দেশের গ্রামীণ শক্তি এবং গ্রিড আধুনিকীকরণ সত্ত্বেও, স্থিতিশীল নীতিমালার অভাবে সত্যিকারের অগ্রগতি ব্যাহত হচ্ছে। বিশেষ",
       "author": "Future Keepers Bengali"
     },
     {
@@ -187,7 +199,7 @@
       "link": "https://www.youtube.com/shorts/IrHCc9ERIt8",
       "publishDate": "2026-06-19T03:00:23.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/IrHCc9ERIt8/hqdefault.jpg",
-      "description": "",
+      "description": "এশিয়ার জ্বালানি মানচিত্রে এক বৈপ্লবিক পরিবর্তন ঘটছে। সারা বিশ্বের তেল ও গ্যাস রিজার্ভের মাত্র ৪% এশিয়ার কাছে থাকলেও, এই মহাদেশ এখন ক্লিন এনার্জির নতুন পথ দেখাচ্ছে। আজ বিশ্বজুড়ে ব্যবহৃত ৭৫% ক্লিন এনার্জি যন্ত্রপাতি এশি",
       "author": "Future Keepers Bengali"
     },
     {
@@ -199,7 +211,7 @@
       "link": "https://www.youtube.com/shorts/NETuaKTS9xg",
       "publishDate": "2026-06-18T03:00:17.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/NETuaKTS9xg/hqdefault.jpg",
-      "description": "",
+      "description": "মঙ্গল গ্রহের জন্য ট্রিলিয়ন ডলার খরচ করা কি আদৌ বুদ্ধিমানের কাজ? নাকি পৃথিবীতেই আমাদের ভবিষ্যৎ গড়ার সুযোগ রয়েছে? এই ভিডিওতে, আমরা মঙ্গল যাত্রার উচ্চাকাঙ্ক্ষী পরিকল্পনার বিপরীতে পৃথিবীর জন্য টেকসই সমাধানের বাস্তবতাকে তু",
       "author": "Future Keepers Bengali"
     },
     {
@@ -211,7 +223,7 @@
       "link": "https://www.youtube.com/watch?v=YlPEobB08HU",
       "publishDate": "2026-06-13T03:00:22.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/YlPEobB08HU/hqdefault.jpg",
-      "description": "",
+      "description": "ইন্দোনেশিয়ার প্রত্যন্ত গ্রামে আসনিয়ার সৌরবিদ্যুৎ চালিত ব্লেন্ডার থেকে শুরু করে বিশ্বজুড়ে নবায়নযোগ্য শক্তির উত্থান পর্যন্ত, একটি নীরব বিপ্লব চলছে। এপ্রিল ২০২৩-এ বিশ্বব্যাপী বায়ু ও সৌরবিদ্যুৎ উৎপাদন প্রথমবারের মতো গ্যা",
       "author": "Future Keepers Bengali"
     },
     {
@@ -223,7 +235,7 @@
       "link": "https://www.youtube.com/watch?v=EdSPWoq_0EU",
       "publishDate": "2026-06-12T03:00:25.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/EdSPWoq_0EU/hqdefault.jpg",
-      "description": "",
+      "description": "আজকের এই বিশ্লেষণে আমরা পূর্ব কালিমান্থানের মুয়ারা অ্যাঙ্গেলাম গ্রামের এক অসাধারণ গল্প শুনব। ভাবুন তো, একসময় যেখানে বিদ্যুৎ ছিল শুধু সন্ধ্যা থেকে ভোর পর্যন্ত, আর জীবন চলত শব্দময় ডিজেল জেনারেটরের ওপর, সেখানে একটি সাধার",
       "author": "Future Keepers Bengali"
     },
     {
@@ -235,7 +247,7 @@
       "link": "https://www.youtube.com/watch?v=7QmXD3eCk68",
       "publishDate": "2026-06-11T03:00:26.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/7QmXD3eCk68/hqdefault.jpg",
-      "description": "",
+      "description": "অনেকেই মনে করেন, জ্বালানি বিপ্লব সুদূর ভবিষ্যতের ব্যাপার। কিন্তু আসলে এটা এখনই ঘটছে, আর এর এক দারুণ প্রমাণ হলো এপ্রিল ২০২৩-এর একটি বিশ্ব রেকর্ড। এই মাসে প্রথমবারের মতো বিশ্বব্যাপী বায়ু ও সৌরশক্তি গ্যাস-ভিত্তিক বিদ্যুৎ উ",
       "author": "Future Keepers Bengali"
     },
     {
@@ -247,7 +259,115 @@
       "link": "https://www.youtube.com/shorts/y0Hhf61yyG4",
       "publishDate": "2026-06-10T03:00:31.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/y0Hhf61yyG4/hqdefault.jpg",
-      "description": "",
+      "description": "সিঙ্গাপুরের একটি কনফারেন্স হলে বড় বড় অর্থদাতা এবং জ্বালানি বিশেষজ্ঞরা সৌরশক্তিকে 'ছোট পরীক্ষা' হিসেবে দেখছিলেন, কিন্তু তাদের অজান্তেই এশিয়া জুড়ে এক বিশাল সৌর বিপ্লব ঘটে চলেছে। এই অদ্ভুত পরিস্থিতিকে আমাদের কো-ফাউন্ডার",
+      "author": "Future Keepers Bengali"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "সৌরশক্তি বনাম জীবাশ্ম জ্বালানি: কে",
+      "link": "https://www.youtube.com/shorts/5RCIwCfWUCk",
+      "publishDate": "2026-06-04T03:00:30.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/5RCIwCfWUCk/hqdefault.jpg",
+      "description": "একটি দানব ট্রাক যখন জ্বালানি ফুরিয়ে চলার ক্ষমতা হারায়, তখন একটি সৌরশক্তিচালিত গাড়ি কীভাবে দৌড়ে জেতে? জীবাশ্ম জ্বালানির সীমাবদ্ধতা এবং নবায়নযোগ্য শক্তির অসীম সম্ভাবনার এই মজাদার গল্পটি দেখুন! সৌরশক্তি এবং ব্যাটারি চালিত ",
+      "author": "Future Keepers Bengali"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "ইথিওপিয়ার জ্বালানি বিপ্লব: ২ বছরে ৮.৩% ইভি, মাসিক খরচ কমলো $23!",
+      "link": "https://www.youtube.com/watch?v=l60UueE1fnk",
+      "publishDate": "2026-06-03T03:00:17.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/l60UueE1fnk/hqdefault.jpg",
+      "description": "আজকের এই বিশেষ বিশ্লেষণে আমরা দেখবো কিভাবে ইথিওপিয়া মাত্র দুই বছরেই তাদের পরিবহনে এক বিশাল পরিবর্তন এনেছে, যা প্রতিদিনের জ্বালানি খরচ থেকে মানুষকে মুক্তি দিচ্ছে। জীবাশ্ম জ্বালানির তীব্র সংকট তাদের বাধ্য করেছে পরিচ্ছন্ন ",
+      "author": "Future Keepers Bengali"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "পেট্রোল ইঞ্জিন নিষিদ্ধ: ধনী দেশ শুধু টার্গেট দেয়, প্রান্তিক দেশ কাজ করে দেখায়!",
+      "link": "https://www.youtube.com/watch?v=okoc0_CuRuY",
+      "publishDate": "2026-06-02T03:00:16.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/okoc0_CuRuY/hqdefault.jpg",
+      "description": "ভাবতে পারছেন, মার্চ ২০২৬-এ লাওসের রাজধানী ভিয়েনতিয়েনের গ্যাস স্টেশনগুলোর সামনে গাড়ির লাইন প্রায় তিন ব্লক ছাড়িয়ে গিয়েছিল? মধ্যপ্রাচ্যের ভূ-রাজনৈতিক সংকটের কারণে লাওসে তেলের সরবরাহ শৃঙ্খল পুরোপুরি ভেঙে পড়েছিল। এর ফ",
+      "author": "Future Keepers Bengali"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "জ্বালানি সংকটে প্রান্তিক দেশের ইভি বিপ্লব: ধনী দেশ কেন পিছিয়ে?",
+      "link": "https://www.youtube.com/watch?v=dgFztgMoYhc",
+      "publishDate": "2026-06-01T03:00:25.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/dgFztgMoYhc/hqdefault.jpg",
+      "description": "যখন ধনী দেশগুলো জলবায়ু পরিবর্তনের বিরুদ্ধে লড়াইয়ে শুধু প্রতিশ্রুতিতেই আটকে আছে, তখন লাওস ও ইথিওপিয়ার মতো প্রান্তিক অর্থনীতির দেশগুলো বাধ্য হয়েই ইলেকট্রিক গাড়ির বিপ্লব ঘটাচ্ছে। চরম অর্থনৈতিক সংকটই তাদের জীবাশ্ম জ্বা",
+      "author": "Future Keepers Bengali"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "লাওস: জ্বালানি চালিত গাড়ি আমদানি পুরোপুরি নিষিদ্ধ!",
+      "link": "https://www.youtube.com/shorts/tewNVARAVyo",
+      "publishDate": "2026-05-31T03:00:23.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/tewNVARAVyo/hqdefault.jpg",
+      "description": "১লা জুন থেকে লাওস জ্বালানি চালিত গাড়ি আমদানি পুরোপুরি নিষিদ্ধ করে দিয়েছে। কল্পনা করুন একটি দেশ তাদের জ্বালানি সংকটের সমাধান করতে সরাসরি নিয়মটাই বদলে ফেলল! গত মার্চে ভিয়েনতিয়েনের ৪০ শতাংশ গ্যাস স্টেশন বন্ধ হয়ে গিয়েছি",
+      "author": "Future Keepers Bengali"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "ঐতিহাসিক সাফল্য! সৌর ও বায়ুশক্তি ভাঙল প্রাকৃতিক গ্যাসের রেকর্ড #shorts",
+      "link": "https://www.youtube.com/shorts/tPbZyWn59_0",
+      "publishDate": "2026-05-28T21:34:07.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/tPbZyWn59_0/hqdefault.jpg",
+      "description": "পরিবেশবান্ধব শক্তির পথে আমরা এক যুগান্তকারী পরিবর্তনের সাক্ষী হলাম! ইতিহাসে এই প্রথম, সৌরশক্তি আর বায়ুশক্তি মিলে পুরো এক মাস ধরে সারা বিশ্বে প্রাকৃতিক গ্যাসের চেয়েও বেশি বিদ্যুৎ উৎপাদন করেছে। এটা কোনো ভবিষ্যদ্বাণী বা দ",
+      "author": "Future Keepers Bengali"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "ভিয়েতনামের সোলার বিপ্লব: জ্বালানি সংকট মোকাবিলায় নতুন পথ #shorts",
+      "link": "https://www.youtube.com/shorts/uoikcbpBso0",
+      "publishDate": "2026-05-27T19:21:10.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/uoikcbpBso0/hqdefault.jpg",
+      "description": "বিশ্বজুড়ে যখন জ্বালানি সংকট ও অস্থিরতার খবর, তখন ভিয়েতনামের মতো দেশগুলো নবায়নযোগ্য শক্তির মাধ্যমে এক নতুন অধ্যায় লিখছে। এই ভিডিওটি SkyX Solar-এর সাম্প্রতিক ১৫ মিলিয়ন ডলার বিনিয়োগের গল্প তুলে ধরে, যার লক্ষ্য হলো ভিয়",
+      "author": "Future Keepers Bengali"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "হংকং: বিশ্ব জ্বালানি রূপান্তরের অদৃশ্য সেতু?",
+      "link": "https://www.youtube.com/shorts/21udq-P6j-4",
+      "publishDate": "2026-05-27T03:00:16.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/21udq-P6j-4/hqdefault.jpg",
+      "description": "বিশ্বব্যাপী জ্বালানি রূপান্তর খণ্ডিত, কিন্তু এই সংহতিকরণে হংকং একটি গুরুত্বপূর্ণ ভূমিকা রাখতে পারে। চীন বিশ্বের ৮০% সোলার প্যানেল তৈরি করে এবং ৭০% ব্যাটারি উৎপাদনে আধিপত্য বিস্তার করে। বিশ্বব্যাপী জ্বালানি রূপান্তর কেবল ",
+      "author": "Future Keepers Bengali"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "দ্যা গেরিলা সান: এশিয়ার ছাদে নীরবে সৌর বিপ্লব",
+      "link": "https://www.youtube.com/watch?v=1QE9j6oiEvA",
+      "publishDate": "2026-05-14T07:00:39.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/1QE9j6oiEvA/hqdefault.jpg",
+      "description": "এশিয়ার সাধারণ পরিবারগুলো সরকারি নীতির তোয়াক্কা না করে কীভাবে নিজেদের বিদ্যুৎ বিলের নিয়ন্ত্রণ নিজেদের হাতে তুলে নিচ্ছে, তা আজ আমরা দেখব। এই নীরবে ঘটে যাওয়া সৌর বিপ্লব, যা 'গেরিলা সোলার' নামে পরিচিত, তা বিশ্বজুড়ে শক্তি স",
       "author": "Future Keepers Bengali"
     }
   ]

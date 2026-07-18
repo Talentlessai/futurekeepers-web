@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-17T06:25:32.155Z",
+  "generatedAt": "2026-07-18T06:15:50.916Z",
   "locales": {
     "en": {
-      "itemCount": 75,
+      "itemCount": 80,
       "counts": {
         "ytLongForm": 15,
-        "ytShorts": 10,
+        "ytShorts": 15,
         "fkSignal": 10,
         "proElectrica": 10,
         "ebirchy": 20,
@@ -13,85 +13,85 @@
       },
       "freshCounts": {
         "ytLongForm": 15,
-        "ytShorts": 10,
+        "ytShorts": 15,
         "fkSignal": 10,
         "proElectrica": 10,
         "ebirchy": 20,
         "ccAsia": 10
       },
-      "bytes": 46125
+      "bytes": 51140
     },
     "id": {
-      "itemCount": 20,
+      "itemCount": 30,
       "counts": {
-        "ytLongForm": 10,
-        "ytShorts": 10
+        "ytLongForm": 15,
+        "ytShorts": 15
       },
       "freshCounts": {
-        "ytLongForm": 10,
-        "ytShorts": 10
+        "ytLongForm": 15,
+        "ytShorts": 15
       },
-      "bytes": 7643
+      "bytes": 17990
     },
     "zh": {
-      "itemCount": 20,
+      "itemCount": 30,
       "counts": {
-        "ytLongForm": 10,
-        "ytShorts": 10
+        "ytLongForm": 15,
+        "ytShorts": 15
       },
       "freshCounts": {
-        "ytLongForm": 10,
-        "ytShorts": 10
+        "ytLongForm": 15,
+        "ytShorts": 15
       },
-      "bytes": 7695
+      "bytes": 30672
     },
     "bn": {
-      "itemCount": 20,
+      "itemCount": 30,
       "counts": {
-        "ytLongForm": 10,
-        "ytShorts": 10
+        "ytLongForm": 15,
+        "ytShorts": 15
       },
       "freshCounts": {
-        "ytLongForm": 10,
-        "ytShorts": 10
+        "ytLongForm": 15,
+        "ytShorts": 15
       },
-      "bytes": 8424
+      "bytes": 30612
     },
     "ur": {
-      "itemCount": 20,
+      "itemCount": 30,
       "counts": {
-        "ytLongForm": 10,
-        "ytShorts": 10
+        "ytLongForm": 15,
+        "ytShorts": 15
       },
       "freshCounts": {
-        "ytLongForm": 10,
-        "ytShorts": 10
+        "ytLongForm": 15,
+        "ytShorts": 15
       },
-      "bytes": 8118
+      "bytes": 23951
     },
     "th": {
-      "itemCount": 20,
+      "itemCount": 30,
       "counts": {
-        "ytLongForm": 10,
-        "ytShorts": 10
+        "ytLongForm": 15,
+        "ytShorts": 15
       },
       "freshCounts": {
-        "ytLongForm": 10,
-        "ytShorts": 10
+        "ytLongForm": 15,
+        "ytShorts": 15
       },
-      "bytes": 8444
+      "bytes": 32054
     },
     "hi": {
-      "itemCount": 20,
+      "itemCount": 30,
       "counts": {
-        "ytLongForm": 10,
-        "ytShorts": 10
+        "ytLongForm": 15,
+        "ytShorts": 15
       },
       "freshCounts": {
-        "ytLongForm": 10,
-        "ytShorts": 10
+        "ytLongForm": 15,
+        "ytShorts": 15
       },
-      "bytes": 8466
+      "bytes": 29563
     }
   }
 }
