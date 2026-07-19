@@ -1,23 +1,35 @@
 {
-  "generatedAt": "2026-07-18T06:15:51.344Z",
+  "generatedAt": "2026-07-19T06:41:27.771Z",
   "locale": "en",
   "counts": {
-    "ytLongForm": 15,
-    "ytShorts": 15,
+    "ytLongForm": 10,
+    "ytShorts": 10,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "freshCounts": {
-    "ytLongForm": 15,
-    "ytShorts": 15,
+    "ytLongForm": 10,
+    "ytShorts": 10,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "The REAL EV Revolution: Two Wheels, Not Four Doors",
+      "link": "https://www.youtube.com/shorts/KtVJWLksUUY",
+      "publishDate": "2026-07-18T14:00:17.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/KtVJWLksUUY/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
     {
       "source": "proElectrica",
       "sourceLabel": "ProElectrica",
@@ -39,7 +51,7 @@
       "link": "https://www.youtube.com/watch?v=IbIlMv7EfVY",
       "publishDate": "2026-07-17T14:00:17.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/IbIlMv7EfVY/hqdefault.jpg",
-      "description": "Forget the Teslas in suburban driveways. The real electric vehicle revolution is happening in Asia, where hundreds of millions of people are moving daily on quiet, battery-powered vehicles – without a single logo or flag",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -51,7 +63,7 @@
       "link": "https://www.youtube.com/shorts/BozwfJNfzmE",
       "publishDate": "2026-07-16T14:00:34.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/BozwfJNfzmE/hqdefault.jpg",
-      "description": "The grumpy barrel robot struggles to keep up, emitting smoke and fumes, while our cheerful panda glides effortlessly through vibrant, clean cities. This video beautifully illustrates the stark contrast between outdated f",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -99,7 +111,7 @@
       "link": "https://www.youtube.com/watch?v=-_om0jilLLU",
       "publishDate": "2026-07-06T14:00:20.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/-_om0jilLLU/hqdefault.jpg",
-      "description": "Discover how Thailand is making a bold move to secure its energy future, subsidizing rooftop solar for hundreds of thousands of homes. This surprising strategy reveals a shift in global energy economics. Solar costs are ",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -111,7 +123,7 @@
       "link": "https://www.youtube.com/watch?v=Y5juKsMQeWo",
       "publishDate": "2026-07-05T14:00:22.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/Y5juKsMQeWo/hqdefault.jpg",
-      "description": "For decades, global economies have been built on a glaring geographic vulnerability: reliance on distant fossil fuels. But Thailand is actively rewriting this script with a game-changing policy, directly intercepting the",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -123,7 +135,7 @@
       "link": "https://www.youtube.com/shorts/a_YrqNmmx0M",
       "publishDate": "2026-07-04T14:00:24.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/a_YrqNmmx0M/hqdefault.jpg",
-      "description": "The world is quietly walking off the away pitch and building at home, with five key signals showing clean energy is winning globally. Clean power was the single biggest source of new energy on the planet last year, ahead",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -147,7 +159,7 @@
       "link": "https://www.youtube.com/shorts/qbgvawFjzgU",
       "publishDate": "2026-07-03T14:00:23.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/qbgvawFjzgU/hqdefault.jpg",
-      "description": "Clean energy isn't just a choice anymore; it's a winning strategy. The global shift to clean power is accelerating, with the 'home team' consistently outperforming traditional energy sources. Last year, clean power was t",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -171,7 +183,7 @@
       "link": "https://www.youtube.com/shorts/SwipwUtiZfs",
       "publishDate": "2026-07-02T14:00:30.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/SwipwUtiZfs/hqdefault.jpg",
-      "description": "While the world's cameras were pointed at the Strait of Hormuz this week, fixated on the 'away game' of fossil fuels, the real, untelivised energy revolution is happening at home, where we can truly win. Did you know tha",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -231,7 +243,7 @@
       "link": "https://www.youtube.com/watch?v=sKpwNAOEGhQ",
       "publishDate": "2026-06-22T14:00:20.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/sKpwNAOEGhQ/hqdefault.jpg",
-      "description": "For the last century, global energy has operated on a system of perpetual rent, where nations pay a continuous toll for fuel they will never own. This model creates profound physical and economic vulnerability, especiall",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -243,7 +255,7 @@
       "link": "https://www.youtube.com/watch?v=zI-sOqWLwEg",
       "publishDate": "2026-06-21T14:00:17.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/zI-sOqWLwEg/hqdefault.jpg",
-      "description": "Reports of falling solar panel prices and corporate bankruptcies might sound like bad news for the clean energy sector. However, this video reveals why these trends are actually a sign of a rapidly maturing and scaling i",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -251,11 +263,11 @@
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "signal",
       "format": "video",
-      "title": "Asia's Solar Boom: How it Beat Gas & Escaped Fuel Imports",
+      "title": "Asia's Solar Boom: How it Beat Gas Escaped Fuel Imports",
       "link": "https://www.youtube.com/watch?v=9hV4MsE27lg",
       "publishDate": "2026-06-20T14:00:20.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/9hV4MsE27lg/hqdefault.jpg",
-      "description": "Solar power isn't just growing in Asia; it's fundamentally reshaping the continent's energy landscape, outperforming traditional fossil fuels and offering a path to unprecedented energy independence. Since 2020, solar ge",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -267,7 +279,7 @@
       "link": "https://www.youtube.com/watch?v=C5Z9weNq3dM",
       "publishDate": "2026-06-19T14:00:25.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/C5Z9weNq3dM/hqdefault.jpg",
-      "description": "Walk through a bustling street market in South Asia today, and you'll notice a quiet shift: millions of everyday citizens are bypassing traditional power grids entirely, powering their homes and shops independently with ",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -291,7 +303,7 @@
       "link": "https://www.youtube.com/watch?v=QSgJBEqZJZs",
       "publishDate": "2026-06-14T14:00:26.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/QSgJBEqZJZs/hqdefault.jpg",
-      "description": "Did you know a single policy change in Cambodia led to them blowing past their renewable energy targets years ahead of schedule? It's a powerful lesson in how quickly clean energy can grow when artificial barriers are re",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -303,7 +315,7 @@
       "link": "https://www.youtube.com/watch?v=v-xX3LpQOiE",
       "publishDate": "2026-06-13T14:00:24.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/v-xX3LpQOiE/hqdefault.jpg",
-      "description": "In the village of Moara and Glum, Indonesian Borneo, electricity was once limited to a few hours a day, powered by an expensive, fuel-thirsty diesel generator. But in 2015, solar arrays and battery banks arrived, transfo",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -311,35 +323,11 @@
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "signal",
       "format": "video",
-      "title": "April 2026: Wind & Solar Overtake Gas Globally",
+      "title": "April 2026: Wind Solar Overtake Gas Globally",
       "link": "https://www.youtube.com/watch?v=B3Cw3OD_azE",
       "publishDate": "2026-06-12T14:00:29.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/B3Cw3OD_azE/hqdefault.jpg",
-      "description": "The global energy landscape quietly shifted in April 2026, when wind and solar energy collectively surpassed natural gas in electricity generation worldwide. This monumental crossover saw wind and solar produce 531 Teraw",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Renewables SURPASS Gas Globally: The Reality Gap Explained",
-      "link": "https://www.youtube.com/watch?v=VTIryvncEPk",
-      "publishDate": "2026-06-11T14:00:43.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/VTIryvncEPk/hqdefault.jpg",
-      "description": "While experts in high-end finance and philanthropy conferences debate long-term energy transition targets for 2050, a significant shift is already happening on the ground. In April 2026, wind and solar produced 531 Teraw",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Remote Village Is *Ahead* of Global Energy Leaders on Solar",
-      "link": "https://www.youtube.com/watch?v=xd0WdIgQ1X4",
-      "publishDate": "2026-06-10T14:00:21.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/xd0WdIgQ1X4/hqdefault.jpg",
-      "description": "While global energy leaders discuss renewable power as a distant 2040 goal, a remote village in Indonesian Borneo is already operating in the future, showcasing a profound global inversion. In April 2026, wind and solar ",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -351,7 +339,7 @@
       "link": "https://www.youtube.com/shorts/NcioDoziStA",
       "publishDate": "2026-06-09T14:00:29.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/NcioDoziStA/hqdefault.jpg",
-      "description": "In a village built over the water in Borneo, electricity used to be a luxury, lasting only from dusk to dawn. For Aznaya, a mother, this meant relying on an expensive, fuel-guzzling diesel generator. But with the arrival",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -363,43 +351,7 @@
       "link": "https://www.youtube.com/shorts/cb2srFoy6y0",
       "publishDate": "2026-06-05T14:00:29.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/cb2srFoy6y0/hqdefault.jpg",
-      "description": "In a world where traditional fuel sources are becoming unreliable, a gas-guzzling monster truck finds itself in a bind, running completely out of steam. Who comes to the rescue? None other than Mei-Lin, the intrepid pand",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "First Countries to Ban Gas Cars: How & Why",
-      "link": "https://www.youtube.com/watch?v=vdaTIWcruWY",
-      "publishDate": "2026-06-04T14:00:32.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/vdaTIWcruWY/hqdefault.jpg",
-      "description": "Ethiopia and Laos have become the first countries globally to ban the import of gas-powered vehicles. This bold move, driven by economic necessity rather than distant climate goals, marks a significant shift in the globa",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Developing Nations BAN Gas Cars for Economic Survival",
-      "link": "https://www.youtube.com/watch?v=0lpOwkmMhVE",
-      "publishDate": "2026-06-03T14:00:30.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/0lpOwkmMhVE/hqdefault.jpg",
-      "description": "Developing nations like Ethiopia and Laos are taking drastic steps to ditch fossil fuels, not because of climate mandates, but because relying on imported oil and gas has become an unbearable economic burden. They're lit",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Why Laos & Ethiopia Banned Gas Cars (The Math Forced Their Hand)",
-      "link": "https://www.youtube.com/watch?v=ssNl8nK-byI",
-      "publishDate": "2026-06-02T14:00:31.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/ssNl8nK-byI/hqdefault.jpg",
-      "description": "Imagine a country where the cost of importing fuel becomes unsustainable, forcing a radical shift in national policy. That's exactly what's happening in Laos and Ethiopia, two nations making headlines for their ambitious",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -411,7 +363,7 @@
       "link": "https://www.youtube.com/shorts/XXznrXwt0o0",
       "publishDate": "2026-05-30T14:00:31.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/XXznrXwt0o0/hqdefault.jpg",
-      "description": "Last week, Laos became the second country on Earth to ban gas-powered cars, a bold move that positions it ahead of many wealthier nations in the global energy transition. In March, Vientiane saw gas queues wrap around th",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -443,11 +395,11 @@
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "noise",
       "format": "short",
-      "title": "Clean Energy Just Hit a Tipping Point! Solar & Wind Overtake Gas #shorts",
+      "title": "Clean Energy Just Hit a Tipping Point! Solar Wind Overtake Gas #shorts",
       "link": "https://www.youtube.com/shorts/bdy4sdB0eEM",
       "publishDate": "2026-05-28T21:34:24.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/bdy4sdB0eEM/hqdefault.jpg",
-      "description": "The clean energy transition has reached an unprecedented milestone! For the first time in history, solar and wind power have generated more electricity globally than natural gas for an entire month. This isn't a forecast",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -467,83 +419,11 @@
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "noise",
       "format": "short",
-      "title": "Vietnam's Solar Boom: Powering Local Businesses & Energy Independence #shorts",
+      "title": "Vietnam's Solar Boom: Powering Local Businesses Energy Independence #shorts",
       "link": "https://www.youtube.com/shorts/8TH9LAwioxo",
       "publishDate": "2026-05-27T19:21:27.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/8TH9LAwioxo/hqdefault.jpg",
-      "description": "While global headlines often focus on energy shocks and geopolitical tensions, a powerful story of progress is unfolding in Vietnam. Solar energy developer SkyX Solar has just secured a $15 million investment to accelera",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Hong Kong: The Bridge for Global Clean Energy?",
-      "link": "https://www.youtube.com/shorts/OzHBGjGvX6Q",
-      "publishDate": "2026-05-27T14:00:17.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/OzHBGjGvX6Q/hqdefault.jpg",
-      "description": "Hong Kong finds itself at a unique crossroads in the global energy transition, poised to bridge the fragmented efforts between Chinese manufacturing might and Western financial and regulatory standards. Despite a world d",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Have you noticed that lately, the prices of various basic necessities have been on the rise?",
-      "link": "https://www.youtube.com/shorts/VDd5IXikcbQ",
-      "publishDate": "2026-05-26T22:21:04.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/VDd5IXikcbQ/hqdefault.jpg",
-      "description": "One of the reasons for this is the ongoing energy crisis. 😱 When fuel prices go up, transportation, food, and the overall cost of living are all impacted. In Indonesia, many small islands still rely on diesel fuel. On t",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "The coral reefs in the Gili Islands are in trouble!",
-      "link": "https://www.youtube.com/shorts/tJUPRT5zsxk",
-      "publishDate": "2026-05-26T20:57:18.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/tJUPRT5zsxk/hqdefault.jpg",
-      "description": "Part of the problem is fossil fuels, which Indonesia relies on. But solutions are possible! The shift to solar power has begun. Here's how YOU can help save the coral reefs:",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Fukushima Fallout: Japan, ASEAN Restart Nuclear Plans",
-      "link": "https://www.youtube.com/shorts/0SK_-W0lSEI",
-      "publishDate": "2026-05-25T18:00:13.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/0SK_-W0lSEI/hqdefault.jpg",
-      "description": "Japan, which suffered a nuclear disaster at Fukushima just 15 years ago, is restarting its nuclear power plants, and five ASEAN nations, which have never produced nuclear power, are now pursuing it. This unexpected shift",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Philippines fast-tracks renewables by fixing permits",
-      "link": "https://www.youtube.com/shorts/_FcQpfnSOCk",
-      "publishDate": "2026-05-22T18:00:13.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/_FcQpfnSOCk/hqdefault.jpg",
-      "description": "The Philippines is taking a decisive step towards energy independence by fast-tracking renewable energy projects, directly tackling the complex permitting issues that often hinder progress. This move is particularly crit",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Energy Security: Why Renewables Are Our Only Path to Stability #shorts",
-      "link": "https://www.youtube.com/shorts/Vymw1kfzmFk",
-      "publishDate": "2026-05-21T21:35:29.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/Vymw1kfzmFk/hqdefault.jpg",
-      "description": "Our energy security shouldn't be dictated by global headlines and geopolitical tensions. Recent events in the Middle East serve as a stark reminder of just how volatile our fossil fuel-dependent energy system truly is. T",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
