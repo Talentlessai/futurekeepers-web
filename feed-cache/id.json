@@ -1,14 +1,17 @@
 {
-  "generatedAt": "2026-07-20T07:26:25.404Z",
+  "generatedAt": "2026-07-21T06:41:11.436Z",
   "locale": "id",
   "counts": {
-    "ytLongForm": 15,
+    "ytLongForm": 10,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 15,
-    "ytShorts": 15
+    "ytLongForm": 10,
+    "ytShorts": 0
   },
+  "rescuedSources": [
+    "ytShorts"
+  ],
   "items": [
     {
       "source": "ytLongForm",
@@ -19,7 +22,7 @@
       "link": "https://www.youtube.com/watch?v=BOqj_gYB8Bk",
       "publishDate": "2026-07-20T02:00:18.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/BOqj_gYB8Bk/hqdefault.jpg",
-      "description": "Lupakan mobil mewah berteknologi tinggi di Eropa atau Silicon Valley. Revolusi kendaraan listrik terbesar dan paling berdampak di dunia sedang terjadi di jalanan Asia, digerakkan oleh jutaan becak, motor, dan bus listrik",
+      "description": "",
       "author": "FutureKeepers Indonesian"
     },
     {
@@ -31,7 +34,7 @@
       "link": "https://www.youtube.com/watch?v=nfupRlTtgMU",
       "publishDate": "2026-07-19T02:00:17.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/nfupRlTtgMU/hqdefault.jpg",
-      "description": "Pernahkah Anda terpikir bahwa revolusi kendaraan listrik terbesar dan paling berdampak di dunia sedang terjadi di Asia, bukan di jalanan mewah Eropa atau Silicon Valley? Video ini akan mengubah pandangan Anda sepenuhnya!",
+      "description": "",
       "author": "FutureKeepers Indonesian"
     },
     {
@@ -43,7 +46,7 @@
       "link": "https://www.youtube.com/watch?v=i7QMQzbcEu4",
       "publishDate": "2026-07-18T02:00:17.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/i7QMQzbcEu4/hqdefault.jpg",
-      "description": "Bayangkan jalanan Jakarta di jam sibuk: macet, bising, dan penuh asap. Tapi di tengah hiruk pikuk itu, ada satu abang ojek berjaket hijau cerah yang meliuk-liuk mulus, senyap, tanpa raungan mesin, dan yang paling penting",
+      "description": "",
       "author": "FutureKeepers Indonesian"
     },
     {
@@ -55,19 +58,19 @@
       "link": "https://www.youtube.com/watch?v=0x2xITAMIFo",
       "publishDate": "2026-07-17T02:00:18.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/0x2xITAMIFo/hqdefault.jpg",
-      "description": "Seringkali kita berpikir transisi energi adalah tentang mobil listrik mewah terbaru, tapi Asia telah menunjukkan bahwa revolusi hijau sebenarnya terjadi di jalanan kita setiap hari, melalui kendaraan-kendaraan sederhana ",
+      "description": "",
       "author": "FutureKeepers Indonesian"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "Era Bahan Bakar Fosil Berakhir? Lihat Perjalanan Energi Bersih!",
       "link": "https://www.youtube.com/shorts/OUMY1594Sas",
       "publishDate": "2026-07-16T02:00:19.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/OUMY1594Sas/hqdefault.jpg",
-      "description": "Dalam video ini, panda kita yang ceria dengan mudah melaju melalui kota-kota bersih dengan teknologi energi terbarukan, sementara robot tong minyak yang pemarah tertinggal jauh, mengeluarkan asap. Ini adalah gambaran men",
+      "description": "",
       "author": "FutureKeepers Indonesian"
     },
     {
@@ -79,7 +82,7 @@
       "link": "https://www.youtube.com/watch?v=1DjOQFec26E",
       "publishDate": "2026-07-06T02:00:22.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/1DjOQFec26E/hqdefault.jpg",
-      "description": "Halo semuanya! Di explainer kali ini, kita bakal ngebahas sesuatu yang lagi panas banget di kawasan kita: bagaimana Asia Tenggara justru membalikkan keadaan di tengah krisis energi global. Kita bakal lihat gimana guncang",
+      "description": "",
       "author": "FutureKeepers Indonesian"
     },
     {
@@ -91,31 +94,31 @@
       "link": "https://www.youtube.com/watch?v=JMBTdqmnXas",
       "publishDate": "2026-07-05T02:15:17.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/JMBTdqmnXas/hqdefault.jpg",
-      "description": "Pernahkah Anda terpikir betapa mengerikannya efek guncangan harga bahan bakar fosil belakangan ini? Tahukah Anda bahwa India, dengan lebih dari 1 miliar penduduk, hanya memiliki cadangan minyak mentah strategis untuk 8 h",
+      "description": "",
       "author": "FutureKeepers Indonesian"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "Dibuang, Dibayar! Beralih ke Energi Hijau Itu Cuan!",
       "link": "https://www.youtube.com/shorts/IrgiZLCvQJc",
       "publishDate": "2026-07-04T02:00:21.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/IrgiZLCvQJc/hqdefault.jpg",
-      "description": "Halo teman-teman! Capek dengar berita buruk soal iklim? Tenang, ada kabar baik dari dunia energi bersih yang bikin kantong tebal dan bumi bernapas lega! Tahu enggak, penjualan mobil listrik Toyota melonjak 170%! Ini rang",
+      "description": "",
       "author": "FutureKeepers Indonesian"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "GANTI TAKTIK! Jadi Bos Listrik Sendiri, Hemat Uang!",
       "link": "https://www.youtube.com/shorts/uba-ahyLF3Y",
       "publishDate": "2026-07-03T02:00:21.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/uba-ahyLF3Y/hqdefault.jpg",
-      "description": "Bosan terus-terusan buang uang di pom bensin? Saatnya ganti taktik dan jadi bos listrikmu sendiri di rumah! Video ini akan tunjukkan tiga jurus maut untuk hemat pengeluaran energi kamu. Lihat bagaimana tren pengeluaranmu",
+      "description": "",
       "author": "FutureKeepers Indonesian"
     },
     {
@@ -127,43 +130,7 @@
       "link": "https://www.youtube.com/watch?v=sd2uAZ-1EMc",
       "publishDate": "2026-06-24T17:14:05.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/sd2uAZ-1EMc/hqdefault.jpg",
-      "description": "Kita sedang menyaksikan pergeseran besar dalam cara dunia menghasilkan energi, sebuah konvergensi yang mengubah lanskap ekonomi dan geopolitik global. Selama berabad-abad, kekuatan suatu negara ditentukan oleh kekayaan g",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Asia Memimpin Revolusi Energi: 95% Panel Surya Global!",
-      "link": "https://www.youtube.com/watch?v=Htt5Tbf5sGA",
-      "publishDate": "2026-06-24T02:00:19.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/Htt5Tbf5sGA/hqdefault.jpg",
-      "description": "Pernahkah Anda membayangkan bahwa revolusi energi global tidak dimulai di ruang rapat pemerintah yang kaku, tetapi dari meja makan rumah kita sendiri? Di Asia, jutaan keluarga kini menghitung untung-rugi antara tagihan l",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Surya Resmi Lampaui Pembangkit Listrik Gas di Asia!",
-      "link": "https://www.youtube.com/watch?v=NQwIzfvWiEc",
-      "publishDate": "2026-06-23T02:15:17.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/NQwIzfvWiEc/hqdefault.jpg",
-      "description": "Banyak narasi Barat menyebut industri surya Tiongkok sedang dalam kekacauan, tapi tahukah kalian bahwa hal ini justru memicu pergeseran makroekonomi masif di Asia? Ini bukan tanda kegagalan, melainkan konsolidasi pasar d",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Pajak Surya Pakistan: Jebakan Impor yang Mematikan Ekonomi",
-      "link": "https://www.youtube.com/watch?v=TJekY-SVuXg",
-      "publishDate": "2026-06-22T02:15:16.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/TJekY-SVuXg/hqdefault.jpg",
-      "description": "Selamat datang di ulasan FutureKeepers kali ini! Hari ini kita akan membongkar habis narasi usang yang bilang kalau kita bakal selamanya bergantung pada bahan bakar fosil. Kalau Anda pikir transisi ke energi bersih itu c",
+      "description": "",
       "author": "FutureKeepers Indonesian"
     },
     {
@@ -215,30 +182,6 @@
       "author": "FutureKeepers Indonesian"
     },
     {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "531 TWh: Matahari Kalahkan Gas di Desa-desa Terapung",
-      "link": "https://www.youtube.com/watch?v=bvY1Kef0MkY",
-      "publishDate": "2026-06-13T02:00:25.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/bvY1Kef0MkY/hqdefault.jpg",
-      "description": "Pernahkah Anda berpikir bahwa masa depan energi masih jauh, hanya fiksi ilmiah? Siap-siap kaget! Di banyak desa di Asia, transisi energi sudah menjadi kenyataan. Bayangkan, energi angin dan surya *telah resmi melampaui g",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Blender dan Ruang Rapat: Energi Bersih dari Meja Dapur",
-      "link": "https://www.youtube.com/watch?v=HgSz_NtxgUY",
-      "publishDate": "2026-06-12T02:15:16.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/HgSz_NtxgUY/hqdefault.jpg",
-      "description": "Bayangkan sebuah revolusi energi global yang tidak dimulai di ruang rapat elit, tetapi di meja dapur sebuah desa terpencil. Inilah kisah nyata di mana sebuah blender bertenaga surya menjadi pemicu kemandirian ekonomi. Un",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "noise",
@@ -272,42 +215,6 @@
       "publishDate": "2026-06-04T02:00:18.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/OxnA2Av9xuk/hqdefault.jpg",
       "description": "Bahkan monster truck paling ganas pun tak berdaya ketika jalur pasokan bahan bakar global terputus. Tapi ada solusi yang selalu menyala! Tenaga surya dan baterai menyediakan listrik 24 jam, tanpa perlu truk tangki bahan ",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Ekonomi Paksa Transisi Energi: Ethiopia & Laos Duluan, Indonesia?",
-      "link": "https://www.youtube.com/watch?v=v-w8c6sTQGs",
-      "publishDate": "2026-06-03T02:00:17.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/v-w8c6sTQGs/hqdefault.jpg",
-      "description": "Pernah bayangkan negara-negara beralih ke energi bersih bukan karena isu iklim, tapi karena terpaksa? Ethiopia dan Laos sudah melakukannya, dan ini adalah realitas ekonomi yang kejam. Di Laos, lebih dari 40% pompa bensin",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Negara Miskin Duluan Larang Mobil Bensin? Ini Alasannya!",
-      "link": "https://www.youtube.com/watch?v=wQh5clqd7vs",
-      "publishDate": "2026-06-02T02:00:17.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/wQh5clqd7vs/hqdefault.jpg",
-      "description": "Pernah kebayang kalau negara-negara berkembang justru yang pertama kali melarang penjualan mobil bensin? Mereka melakukannya bukan karena gaya hidup, tapi demi kelangsungan ekonomi. Biaya bulanan bahan bakar untuk mobil ",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Laos & Ethiopia: Larangan Mobil Fosil Lebih Cepat dari Eropa",
-      "link": "https://www.youtube.com/watch?v=aoQDkwAo0Mc",
-      "publishDate": "2026-06-01T02:00:23.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/aoQDkwAo0Mc/hqdefault.jpg",
-      "description": "Halo semuanya! Kali ini kita akan membedah disrupsi energi radikal yang sedang terjadi di Asia Tenggara. Bayangkan, negara-negara berkembang seperti Laos dan Ethiopia, didorong oleh krisis ekonomi, mengambil langkah dras",
       "author": "FutureKeepers Indonesian"
     },
     {

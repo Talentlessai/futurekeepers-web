@@ -1,23 +1,110 @@
 {
-  "generatedAt": "2026-07-20T07:26:21.904Z",
+  "generatedAt": "2026-07-21T06:40:42.491Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
-    "ytShorts": 15,
+    "ytShorts": 10,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "freshCounts": {
-    "ytLongForm": 15,
-    "ytShorts": 15,
+    "ytLongForm": 0,
+    "ytShorts": 10,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
+  "rescuedSources": [
+    "ytLongForm"
+  ],
   "items": [
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "যে ঝাঁককে আমরা দেখতে পাই না",
+      "link": "https://proelectrica.substack.com/p/1bb",
+      "publishDate": "2026-07-21T03:31:22.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!0wTp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e32d198-1269-466c-b48b-7724849c9ce7_1448x1086.png",
+      "description": "শক্তি-উপমা: দক্ষিণ ও দক্ষিণ-পূর্ব এশিয়ার জ্বালানি রূপান্তরের অদৃশ্য অর্ধেক",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "যে ঝাঁককে আমরা দেখতে পাই না",
+      "link": "https://proelectrica.substack.com/p/94b",
+      "publishDate": "2026-07-21T03:00:39.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!fbqJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfde726d-c02c-448b-b197-105d01cd966f_1448x1086.png",
+      "description": "শক্তি-উপমা: দক্ষিণ ও দক্ষিণ-পূর্ব এশিয়ার জ্বালানি রূপান্তরের অদৃশ্য অর্ধেক",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "Bầy Đàn Vô Hình",
+      "link": "https://proelectrica.substack.com/p/bay-an-vo-hinh",
+      "publishDate": "2026-07-21T02:01:18.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!Mss3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4fa4d04-7b6d-4b4c-83f1-6c235cb1e9bc_1448x1086.png",
+      "description": "Những Phép So Sánh Về Năng Lượng: Nửa Câu Chuyện Ít Được Biết Đến Của Quá Trình Chuyển Đổi Năng Lượng Ở Nam Á Và Đông Nam Á",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "Kawanan yang Tak Terlihat",
+      "link": "https://proelectrica.substack.com/p/kawanan-yang-tak-terlihat",
+      "publishDate": "2026-07-21T02:01:12.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!pBNG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bd81648-fded-4947-a60c-f84f5c69f3cd_1448x1086.png",
+      "description": "Analogi Energi: Separuh Tersembunyi dari Transisi Energi Asia Selatan Asia Tenggara",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "看不见的蜂群",
+      "link": "https://proelectrica.substack.com/p/29e",
+      "publishDate": "2026-07-21T01:00:42.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!68pk!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3db36d10-e7c4-46a9-8625-f1dc15374247_1448x1086.png",
+      "description": "能源类比：南亚与东南亚能源转型中被忽视的一半",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "Ang Kawan na Hindi Natin Nakikita",
+      "link": "https://proelectrica.substack.com/p/ang-kawan-na-hindi-natin-nakikita",
+      "publishDate": "2026-07-21T01:00:38.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!Phr2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe71a4419-b8a1-4475-9734-96f0b31a1abe_1448x1086.png",
+      "description": "Mga Analohiya sa Enerhiya: Ang Nakatagong Kalahati ng Transisyon ng Enerhiya sa Timog at Timog-Silangang Asya",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "وہ جھُنڈ جسے ہم دیکھ نہیں پاتے",
+      "link": "https://proelectrica.substack.com/p/d99",
+      "publishDate": "2026-07-20T20:52:04.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!6mXW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96dc047a-8175-45f3-8411-7b1f7ea16c68_1448x1086.png",
+      "description": "توانائی کی مثالیں: جنوبی اور جنوب مشرقی ایشیا کی توانائی کی منتقلی کا پوشیدہ نصف",
+      "author": "Danny Kennedy"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -39,7 +126,7 @@
       "link": "https://www.youtube.com/shorts/KtVJWLksUUY",
       "publishDate": "2026-07-18T14:00:17.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/KtVJWLksUUY/hqdefault.jpg",
-      "description": "The electric vehicle transition is accelerating faster than anyone predicted, but the surprising truth is that it's not the expensive luxury sedans in the West leading the charge. Instead, the real revolution is happenin",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -75,7 +162,7 @@
       "link": "https://www.youtube.com/shorts/BozwfJNfzmE",
       "publishDate": "2026-07-16T14:00:34.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/BozwfJNfzmE/hqdefault.jpg",
-      "description": "The grumpy barrel robot struggles to keep up, emitting smoke and fumes, while our cheerful panda glides effortlessly through vibrant, clean cities. This video beautifully illustrates the stark contrast between outdated f",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -147,20 +234,8 @@
       "link": "https://www.youtube.com/shorts/a_YrqNmmx0M",
       "publishDate": "2026-07-04T14:00:24.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/a_YrqNmmx0M/hqdefault.jpg",
-      "description": "The world is quietly walking off the away pitch and building at home, with five key signals showing clean energy is winning globally. Clean power was the single biggest source of new energy on the planet last year, ahead",
+      "description": "",
       "author": "FutureKeepers"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "The Swarm We Can't See",
-      "link": "https://proelectrica.substack.com/p/the-swarm-we-cant-see",
-      "publishDate": "2026-07-03T20:21:17.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!72js!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb016e546-462d-4fdc-b99a-ae78a3dfa748_1448x1086.png",
-      "description": "Energy Analogies: The Hidden Half of South Southeast Asia's Energy Transition",
-      "author": "Danny Kennedy"
     },
     {
       "source": "ytShorts",
@@ -171,20 +246,8 @@
       "link": "https://www.youtube.com/shorts/qbgvawFjzgU",
       "publishDate": "2026-07-03T14:00:23.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/qbgvawFjzgU/hqdefault.jpg",
-      "description": "Clean energy isn't just a choice anymore; it's a winning strategy. The global shift to clean power is accelerating, with the 'home team' consistently outperforming traditional energy sources. Last year, clean power was t",
+      "description": "",
       "author": "FutureKeepers"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "The Median Power Plant is Smaller Than You Think",
-      "link": "https://proelectrica.substack.com/p/the-median-power-plant-is-smaller",
-      "publishDate": "2026-07-03T00:11:46.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!Is3r!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F594c18fe-c114-4d62-a013-357328a07b20_1260x404.png",
-      "description": "Energy Analogies: Mind the Gap (It's 13x)",
-      "author": "Danny Kennedy"
     },
     {
       "source": "ytShorts",
@@ -195,56 +258,8 @@
       "link": "https://www.youtube.com/shorts/SwipwUtiZfs",
       "publishDate": "2026-07-02T14:00:30.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/SwipwUtiZfs/hqdefault.jpg",
-      "description": "While the world's cameras were pointed at the Strait of Hormuz this week, fixated on the 'away game' of fossil fuels, the real, untelivised energy revolution is happening at home, where we can truly win. Did you know tha",
+      "description": "",
       "author": "FutureKeepers"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "जब आप एलन को देख रहे थे... एशिया ने ऊर्जा का भविष्य गढ़ा!",
-      "link": "https://proelectrica.substack.com/p/d32",
-      "publishDate": "2026-06-26T03:30:44.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!16l4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2449930d-1c59-497e-91da-cd642d647297_2048x1152.png",
-      "description": "गहराई से पड़ताल: 'महान ऊर्जा संगम' (GEC) के पीछे की कहानी",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "আপনার মনোযোগ যখন অন্য কোথাও, এশিয়া তখন গড়ে তুলছে বিদ্যুতের ভবিষ্যৎ",
-      "link": "https://proelectrica.substack.com/p/841",
-      "publishDate": "2026-06-26T03:00:31.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!16l4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2449930d-1c59-497e-91da-cd642d647297_2048x1152.png",
-      "description": "গভীর অনুসন্ধান: মহা শক্তি-রূপান্তরের (Great Energy Convergence) নেপথ্যে",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "Habang Abala Tayo kay Elon… Ang Asya na ang Nagtatayo ng Kinabukasan ng Enerhiya",
-      "link": "https://proelectrica.substack.com/p/habang-abala-tayo-kay-elon-ang-asya",
-      "publishDate": "2026-06-26T01:01:37.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!16l4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2449930d-1c59-497e-91da-cd642d647297_2048x1152.png",
-      "description": "Malalimang Sulyap: Sa Likod ng GEC (Malawakang Pag-iisa ng Enerhiya)",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "当目光聚焦埃隆时……亚洲已建成能源未来",
-      "link": "https://proelectrica.substack.com/p/71b",
-      "publishDate": "2026-06-26T01:01:37.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!16l4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2449930d-1c59-497e-91da-cd642d647297_2048x1152.png",
-      "description": "深度解析：能源大融合（GEC）的幕后故事",
-      "author": "Danny Kennedy"
     },
     {
       "source": "ytLongForm",
@@ -293,18 +308,6 @@
       "thumbnail": "https://i4.ytimg.com/vi/C5Z9weNq3dM/hqdefault.jpg",
       "description": "Walk through a bustling street market in South Asia today, and you'll notice a quiet shift: millions of everyday citizens are bypassing traditional power grids entirely, powering their homes and shops independently with ",
       "author": "FutureKeepers"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "আপনি যখন এলনকে দেখছিলেন... এশিয়া তখন জ্বালানির ভবিষ্যৎ গড়ে তুলছিল",
-      "link": "https://proelectrica.substack.com/p/f97",
-      "publishDate": "2026-06-17T15:11:47.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!pyPp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F715955bf-af06-44d3-a333-6b3e60692a4d_2048x1152.png",
-      "description": "ডিপ ডাইভ: গ্রেট এনার্জি কনভার্জেন্সের অন্তরালের গল্প",
-      "author": "Danny Kennedy"
     },
     {
       "source": "ytLongForm",
@@ -375,7 +378,7 @@
       "link": "https://www.youtube.com/shorts/NcioDoziStA",
       "publishDate": "2026-06-09T14:00:29.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/NcioDoziStA/hqdefault.jpg",
-      "description": "In a village built over the water in Borneo, electricity used to be a luxury, lasting only from dusk to dawn. For Aznaya, a mother, this meant relying on an expensive, fuel-guzzling diesel generator. But with the arrival",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -387,7 +390,7 @@
       "link": "https://www.youtube.com/shorts/cb2srFoy6y0",
       "publishDate": "2026-06-05T14:00:29.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/cb2srFoy6y0/hqdefault.jpg",
-      "description": "In a world where traditional fuel sources are becoming unreliable, a gas-guzzling monster truck finds itself in a bind, running completely out of steam. Who comes to the rescue? None other than Mei-Lin, the intrepid pand",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -423,7 +426,7 @@
       "link": "https://www.youtube.com/shorts/XXznrXwt0o0",
       "publishDate": "2026-05-30T14:00:31.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/XXznrXwt0o0/hqdefault.jpg",
-      "description": "Last week, Laos became the second country on Earth to ban gas-powered cars, a bold move that positions it ahead of many wealthier nations in the global energy transition. In March, Vientiane saw gas queues wrap around th",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -434,7 +437,7 @@
       "title": "Look to Vietnam and India to unlock Indonesia’s transmission grid puzzle",
       "link": "https://www.climateandcapitalmedia.com/look-to-vietnam-and-india-to-unlock-indonesias-transmission-grid-puzzle/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=look-to-vietnam-and-india-to-unlock-indonesias-transmission-grid-puzzle",
       "publishDate": "2026-05-29T21:55:35.000Z",
-      "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/05/indonesia-transmission-climate-capital-media-asia.jpg",
+      "thumbnail": null,
       "description": "To support clean energy deployment across the economy of this massive island chain calls for structural reform The post Look to Vietnam and India to unlock Indonesia’s transmission grid puzzle appeared first on Climate a",
       "author": "Randi Bachtiar and Grant Hauber"
     },
@@ -455,11 +458,11 @@
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "noise",
       "format": "short",
-      "title": "Clean Energy Just Hit a Tipping Point! Solar & Wind Overtake Gas #shorts",
+      "title": "Clean Energy Just Hit a Tipping Point! Solar Wind Overtake Gas #shorts",
       "link": "https://www.youtube.com/shorts/bdy4sdB0eEM",
       "publishDate": "2026-05-28T21:34:24.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/bdy4sdB0eEM/hqdefault.jpg",
-      "description": "The clean energy transition has reached an unprecedented milestone! For the first time in history, solar and wind power have generated more electricity globally than natural gas for an entire month. This isn't a forecast",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -470,7 +473,7 @@
       "title": "Singapore’s blended finance fund secures US$800 million for energy transition",
       "link": "https://www.climateandcapitalmedia.com/singapores-blended-finance-fund-secures-us800-million-for-energy-transition/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=singapores-blended-finance-fund-secures-us800-million-for-energy-transition",
       "publishDate": "2026-05-28T18:39:17.000Z",
-      "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/05/asia-renewable-investments-climate-capital-media-asia.jpg",
+      "thumbnail": null,
       "description": "Four initial investments are expected to avoid over a million tons of carbon dioxide emissions annually. The post Singapore’s blended finance fund secures US$800 million for energy transition appeared first on Climate an",
       "author": "Gabrielle See"
     },
@@ -479,71 +482,11 @@
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "noise",
       "format": "short",
-      "title": "Vietnam's Solar Boom: Powering Local Businesses & Energy Independence #shorts",
+      "title": "Vietnam's Solar Boom: Powering Local Businesses Energy Independence #shorts",
       "link": "https://www.youtube.com/shorts/8TH9LAwioxo",
       "publishDate": "2026-05-27T19:21:27.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/8TH9LAwioxo/hqdefault.jpg",
-      "description": "While global headlines often focus on energy shocks and geopolitical tensions, a powerful story of progress is unfolding in Vietnam. Solar energy developer SkyX Solar has just secured a $15 million investment to accelera",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Hong Kong: The Bridge for Global Clean Energy?",
-      "link": "https://www.youtube.com/shorts/OzHBGjGvX6Q",
-      "publishDate": "2026-05-27T14:00:17.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/OzHBGjGvX6Q/hqdefault.jpg",
-      "description": "Hong Kong finds itself at a unique crossroads in the global energy transition, poised to bridge the fragmented efforts between Chinese manufacturing might and Western financial and regulatory standards. Despite a world d",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Have you noticed that lately, the prices of various basic necessities have been on the rise?",
-      "link": "https://www.youtube.com/shorts/VDd5IXikcbQ",
-      "publishDate": "2026-05-26T22:21:04.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/VDd5IXikcbQ/hqdefault.jpg",
-      "description": "One of the reasons for this is the ongoing energy crisis. 😱 When fuel prices go up, transportation, food, and the overall cost of living are all impacted. In Indonesia, many small islands still rely on diesel fuel. On t",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "The coral reefs in the Gili Islands are in trouble!",
-      "link": "https://www.youtube.com/shorts/tJUPRT5zsxk",
-      "publishDate": "2026-05-26T20:57:18.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/tJUPRT5zsxk/hqdefault.jpg",
-      "description": "Part of the problem is fossil fuels, which Indonesia relies on. But solutions are possible! The shift to solar power has begun. Here's how YOU can help save the coral reefs:",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Fukushima Fallout: Japan, ASEAN Restart Nuclear Plans",
-      "link": "https://www.youtube.com/shorts/0SK_-W0lSEI",
-      "publishDate": "2026-05-25T18:00:13.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/0SK_-W0lSEI/hqdefault.jpg",
-      "description": "Japan, which suffered a nuclear disaster at Fukushima just 15 years ago, is restarting its nuclear power plants, and five ASEAN nations, which have never produced nuclear power, are now pursuing it. This unexpected shift",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Philippines fast-tracks renewables by fixing permits",
-      "link": "https://www.youtube.com/shorts/_FcQpfnSOCk",
-      "publishDate": "2026-05-22T18:00:13.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/_FcQpfnSOCk/hqdefault.jpg",
-      "description": "The Philippines is taking a decisive step towards energy independence by fast-tracking renewable energy projects, directly tackling the complex permitting issues that often hinder progress. This move is particularly crit",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -578,7 +521,7 @@
       "title": "CCA 023: Climate thriller: Godzilla El Niño vs King Kong energy shock",
       "link": "https://www.climateandcapitalmedia.com/climate-thriller-godzilla-el-nino-vs-king-kong-energy-shock/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=climate-thriller-godzilla-el-nino-vs-king-kong-energy-shock",
       "publishDate": "2026-05-10T15:18:25.000Z",
-      "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/05/CCA-Newsletter-023-scaled.png",
+      "thumbnail": null,
       "description": "Facing volatile weather and surging prices, Asia is taking charge The post CCA 023: Climate thriller: Godzilla El Niño vs King Kong energy shock appeared first on Climate and Capital Media .",
       "author": "Kari Huus"
     },
@@ -590,7 +533,7 @@
       "title": "Palm oil and beyond: How China can drive the greening of agriculture across Asia",
       "link": "https://www.climateandcapitalmedia.com/palm-oil-and-beyond-how-china-can-drive-the-greening-of-agriculture-across-asia/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=palm-oil-and-beyond-how-china-can-drive-the-greening-of-agriculture-across-asia",
       "publishDate": "2026-05-08T19:52:06.000Z",
-      "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/05/palm-oil-climate-capital-media-asia-2.jpg",
+      "thumbnail": null,
       "description": "Throwing its weight behind imports from the region and green finance could help Asia shift from unsustainable farming practices, write three experts The post Palm oil and beyond: How China can drive the greening of agric",
       "author": "Ma Jun, Shao Danqing, and Huang Leike"
     },
@@ -602,7 +545,7 @@
       "title": "What a factory floor in China reveals about the energy transition",
       "link": "https://www.climateandcapitalmedia.com/what-a-factory-floor-in-china-reveals-about-the-energy-transition/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=what-a-factory-floor-in-china-reveals-about-the-energy-transition",
       "publishDate": "2026-05-08T17:36:18.000Z",
-      "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/05/envision-energy-climate-capital-media-asia.jpg",
+      "thumbnail": null,
       "description": "Envision Energy unveils smarter wind turbines, a big push into energy storage, and its aims to decarbonize entire supply chains The post What a factory floor in China reveals about the energy transition appeared first on",
       "author": "Michael Sheldrick"
     },
@@ -614,7 +557,7 @@
       "title": "Gas projects in Japan, funded by transition bonds, barely cut emissions",
       "link": "https://www.climateandcapitalmedia.com/gas-projects-in-japan-funded-by-transition-bonds-barely-cut-emissions/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gas-projects-in-japan-funded-by-transition-bonds-barely-cut-emissions",
       "publishDate": "2026-05-07T20:14:50.000Z",
-      "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/05/goi-thermal-power-station-climate-capital-media-asia.jpg",
+      "thumbnail": null,
       "description": "Japan is a “critical test” for transition finance in Asia, as risks from divergent taxonomies show up in real deals, warns Energy Shift Institute. The post Gas projects in Japan, funded by transition bonds, barely cut em",
       "author": "Gabrielle See"
     },
@@ -626,7 +569,7 @@
       "title": "Poor marks for Japan s new carbon trading regime",
       "link": "https://www.climateandcapitalmedia.com/poor-marks-for-japans-new-carbon-trading-regime/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=poor-marks-for-japans-new-carbon-trading-regime",
       "publishDate": "2026-05-06T21:46:48.000Z",
-      "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/05/japan-emissions-climate-capital-media-asia.jpg",
+      "thumbnail": null,
       "description": "Mandatory Emissions Trading System adds costs for emissions, but at prices too low, and a pace too slow, critics say The post Poor marks for Japan s new carbon trading regime appeared first on Climate and Capital Media .",
       "author": "Nithin Coca"
     },
@@ -650,7 +593,7 @@
       "title": "CCA 022: LNG sticker shock and a quick pivot",
       "link": "https://www.climateandcapitalmedia.com/cca-022-lng-sticker-shock-and-a-quick-pivot/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cca-022-lng-sticker-shock-and-a-quick-pivot",
       "publishDate": "2026-04-26T12:43:07.000Z",
-      "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/04/CCA-Newsletter-022-scaled.png",
+      "thumbnail": null,
       "description": "In energy calculations, what a difference a war makes The post CCA 022: LNG sticker shock and a quick pivot appeared first on Climate and Capital Media .",
       "author": "Kari Huus"
     },
@@ -662,7 +605,7 @@
       "title": "Hong Kong’s outsized potential in the energy transition",
       "link": "https://www.climateandcapitalmedia.com/hong-kongs-outsized-potential-in-the-energy-transition/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hong-kongs-outsized-potential-in-the-energy-transition",
       "publishDate": "2026-04-23T20:45:50.000Z",
-      "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/04/hong-kong-climate-capital-media-asia.jpg",
+      "thumbnail": null,
       "description": "Leveraging its place at the nexus of China’s manufacturing might, foreign capital, and emerging markets The post Hong Kong’s outsized potential in the energy transition appeared first on Climate and Capital Media .",
       "author": "Anqi Dang"
     },
@@ -674,7 +617,7 @@
       "title": "Iran war is undercutting the role of LNG in Asia",
       "link": "https://www.climateandcapitalmedia.com/iran-war-is-undercutting-the-role-of-lng-in-asia/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=iran-war-is-undercutting-the-role-of-lng-in-asia",
       "publishDate": "2026-04-23T19:10:23.000Z",
-      "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/04/lng-tank-climate-capital-media-asia.jpg",
+      "thumbnail": null,
       "description": "Conflict-driven price volatility, turbine shortages, and currency risk prompt regional leaders to rethink the fossil gas The post Iran war is undercutting the role of LNG in Asia appeared first on Climate and Capital Med",
       "author": "Kari Huus"
     },
