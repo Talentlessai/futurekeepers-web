@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T06:40:42.491Z",
+  "generatedAt": "2026-07-22T06:41:11.907Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -11,16 +11,29 @@
   },
   "freshCounts": {
     "ytLongForm": 0,
-    "ytShorts": 10,
+    "ytShorts": 0,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "rescuedSources": [
-    "ytLongForm"
+    "ytLongForm",
+    "ytShorts"
   ],
   "items": [
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "Deep (Seek) Sneak Preview: It’s the Cost of Electricity, Stupid!",
+      "link": "https://proelectrica.substack.com/p/deep-seek-sneak-preview-its-the-cost",
+      "publishDate": "2026-07-21T14:04:33.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!uMo6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F254dc920-5556-41cc-908c-3478929f46b4_624x416.png",
+      "description": "Deep Dive: The AI War Will Be Won on the Power Grid",
+      "author": "Danny Kennedy"
+    },
     {
       "source": "proElectrica",
       "sourceLabel": "ProElectrica",
@@ -175,18 +188,6 @@
       "publishDate": "2026-07-15T03:00:39.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/%24s_!mG5w!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9ffcb68-0f4b-434f-99b3-bee2dffe020c_1046x850.png",
       "description": "ফিল্ড নোট: কীভাবে বাংলাদেশ সমাধান করছে ‘সময়ের একান্ত প্রয়োজন’",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "Bangladesh's Leapfrog Moment: Sunshine, Rickshaws, and a Way Off the Import Bill",
-      "link": "https://proelectrica.substack.com/p/bangladeshs-leapfrog-moment-sunshine",
-      "publishDate": "2026-07-14T19:48:50.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!mG5w!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9ffcb68-0f4b-434f-99b3-bee2dffe020c_1046x850.png",
-      "description": "Field Note: How Bangladesh Is Solving \"A Crying Need of the Time\"",
       "author": "Danny Kennedy"
     },
     {
