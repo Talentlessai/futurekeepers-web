@@ -1,17 +1,16 @@
 {
-  "generatedAt": "2026-07-22T06:41:46.839Z",
+  "generatedAt": "2026-07-23T06:39:51.298Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 10,
-    "ytShorts": 12
+    "ytShorts": 10
   },
   "freshCounts": {
     "ytLongForm": 0,
-    "ytShorts": 0
+    "ytShorts": 10
   },
   "rescuedSources": [
-    "ytLongForm",
-    "ytShorts"
+    "ytLongForm"
   ],
   "items": [
     {
@@ -143,7 +142,7 @@
       "link": "https://www.youtube.com/shorts/FBqSzFaGXZg",
       "publishDate": "2026-06-21T02:00:17.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/FBqSzFaGXZg/hqdefault.jpg",
-      "description": "Pemerintah Indonesia sedang mempertimbangkan pajak atas panel surya atap. Tapi, apakah kebijakan ini benar-benar menguntungkan negara atau justru merugikan? Video ini mengungkapkan bahwa tagihan bahan bakar nasional dapa",
+      "description": "",
       "author": "FutureKeepers Indonesian"
     },
     {
@@ -155,7 +154,7 @@
       "link": "https://www.youtube.com/shorts/ZjAmnkJtKiE",
       "publishDate": "2026-06-20T02:00:17.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/ZjAmnkJtKiE/hqdefault.jpg",
-      "description": "Indonesia, negara kepulauan dengan tantangan listrik unik, sedang di ambang revolusi surya atap. Namun, ada pelajaran penting dari Pakistan tentang bahaya kebijakan yang salah. Ketergantungan pada bahan bakar impor mahal",
+      "description": "",
       "author": "FutureKeepers Indonesian"
     },
     {
@@ -167,7 +166,7 @@
       "link": "https://www.youtube.com/shorts/eDnJo7gXp-s",
       "publishDate": "2026-06-19T02:00:23.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/eDnJo7gXp-s/hqdefault.jpg",
-      "description": "Indonesia, negara kepulauan dengan sedikit minyak, kini memimpin revolusi energi bersih. Komunitas di seluruh negeri memilih tenaga surya, menciptakan transisi energi yang dibuat, bukan ditambang. Untuk pertama kalinya, ",
+      "description": "",
       "author": "FutureKeepers Indonesian"
     },
     {
@@ -179,7 +178,7 @@
       "link": "https://www.youtube.com/shorts/n8K9QPITZGU",
       "publishDate": "2026-06-18T02:00:18.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/n8K9QPITZGU/hqdefault.jpg",
-      "description": "Apakah kita harus menyerahkan planet kita untuk mencari kehidupan di planet lain? Video ini dengan lugas menyatakan bahwa fokus pada Mars adalah pengalihan perhatian dari solusi energi bersih yang sudah ada di Bumi. Seti",
+      "description": "",
       "author": "FutureKeepers Indonesian"
     },
     {
@@ -191,7 +190,7 @@
       "link": "https://www.youtube.com/shorts/zcgYy8nbfzU",
       "publishDate": "2026-06-11T02:00:26.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/zcgYy8nbfzU/hqdefault.jpg",
-      "description": "Bayangkan sebuah ruang konferensi di Singapura, di mana para ahli energi dan keuangan berdebat tentang masa depan energi surya seolah-olah itu adalah eksperimen laboratorium yang jauh. Namun, di luar jendela, revolusi en",
+      "description": "",
       "author": "FutureKeepers Indonesian"
     },
     {
@@ -199,11 +198,11 @@
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "noise",
       "format": "short",
-      "title": "Desa di Atas Air: Listrik 24 Jam & Bisnis Perempuan",
+      "title": "Desa di Atas Air: Listrik 24 Jam Bisnis Perempuan",
       "link": "https://www.youtube.com/shorts/ijurUsI9Utg",
       "publishDate": "2026-06-10T02:15:16.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/ijurUsI9Utg/hqdefault.jpg",
-      "description": "Di sebuah desa terpencil di Kalimantan Timur, listrik bersih bukan lagi mimpi. Berkat panel surya, desa di atas air ini kini menikmati energi 24 jam sehari, mengubah kehidupan dan membuka peluang baru. Pada bulan April i",
+      "description": "",
       "author": "FutureKeepers Indonesian"
     },
     {
@@ -215,67 +214,7 @@
       "link": "https://www.youtube.com/shorts/OxnA2Av9xuk",
       "publishDate": "2026-06-04T02:00:18.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/OxnA2Av9xuk/hqdefault.jpg",
-      "description": "Bahkan monster truck paling ganas pun tak berdaya ketika jalur pasokan bahan bakar global terputus. Tapi ada solusi yang selalu menyala! Tenaga surya dan baterai menyediakan listrik 24 jam, tanpa perlu truk tangki bahan ",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Laos Larang Mobil Bensin: Negara ke-2 di Dunia!",
-      "link": "https://www.youtube.com/shorts/yjdO851IdfY",
-      "publishDate": "2026-05-31T02:00:23.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/yjdO851IdfY/hqdefault.jpg",
-      "description": "Berita besar dari Asia Tenggara! Mulai 1 Juni ini, Laos resmi melarang total impor mobil berbahan bakar bensin, menjadikannya negara kedua di dunia yang berani mengambil langkah ini setelah Ethiopia. Krisis energi di Lao",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "TEROBOSAN ENERGI BERSIH: Surya & Angin Lampaui Gas Alam! #shorts",
-      "link": "https://www.youtube.com/shorts/QebNQ0-iM_Q",
-      "publishDate": "2026-05-28T21:34:47.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/QebNQ0-iM_Q/hqdefault.jpg",
-      "description": "Ada kabar baik luar biasa dari dunia energi bersih! Untuk pertama kalinya dalam sejarah, energi surya dan angin telah melampaui gas alam dalam produksi listrik global selama sebulan penuh. Ini adalah titik balik yang san",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Vietnam: Solusi Energi Bersih Lokal untuk Krisis Global! #shorts",
-      "link": "https://www.youtube.com/shorts/9Xr5V5ePln0",
-      "publishDate": "2026-05-27T19:16:18.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/9Xr5V5ePln0/hqdefault.jpg",
-      "description": "Di tengah berita krisis energi dan ketegangan global, ada cerita kemajuan yang menginspirasi dari negara tetangga kita, Vietnam. Sebuah perusahaan energi surya, SkyX Solar, baru saja meraih investasi 15 juta dolar untuk ",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "#101 kepo-IN tentang energi bersih 👀",
-      "link": "https://www.youtube.com/shorts/aA2_YcV1g18",
-      "publishDate": "2026-05-27T19:15:46.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/aA2_YcV1g18/hqdefault.jpg",
-      "description": "kalian yakin kalo bahan bakar bakal ada terus selamanya? kalau habis apa yang bisa gantiin yah? here is the answer \"Energi Bersih\" ~ cari tahu lebih banyak dengan nonton ini Yukss #futurekeepers",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Hong Kong: Jembatan Raksasa Transisi Energi Dunia?",
-      "link": "https://www.youtube.com/shorts/1kqhjCWPa0g",
-      "publishDate": "2026-05-27T02:00:19.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/1kqhjCWPa0g/hqdefault.jpg",
-      "description": "Transisi energi global saat ini terfragmentasi, namun Hong Kong, sebuah kota kecil, memiliki potensi luar biasa untuk menyatukan sistem ini. Dengan posisinya yang unik sebagai persimpangan antara industri Tiongkok dan ke",
+      "description": "",
       "author": "FutureKeepers Indonesian"
     }
   ]

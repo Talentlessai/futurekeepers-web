@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T06:41:11.907Z",
+  "generatedAt": "2026-07-23T06:39:04.152Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -22,6 +22,18 @@
     "ytShorts"
   ],
   "items": [
+    {
+      "source": "ebirchy",
+      "sourceLabel": "Andrew Birch",
+      "taxonomy": "voices",
+      "format": "article",
+      "title": "Can US Solar Thrive Without Tax Credits? Here's What I'm Hearing from Installers.",
+      "link": "https://www.ebirchy.com/post/can-us-solar-thrive-without-tax-credits-here-s-what-i-m-hearing-from-installers",
+      "publishDate": "2026-07-22T15:38:33.000Z",
+      "thumbnail": "https://static.wixstatic.com/media/415bc9_e339eba17f954417875d76a582b06295~mv2.png/v1/fit/w_1000,h_720,al_c,q_80/file.png",
+      "description": "The question I've been asked more than any other over the past few months is whether US solar can continue to grow without tax credits. It's a fair question! The policy landscape has changed, financing has become more ch",
+      "author": "Andrew Birch (\"Birchy\")"
+    },
     {
       "source": "proElectrica",
       "sourceLabel": "ProElectrica",
@@ -908,18 +920,6 @@
       "publishDate": "2025-01-22T19:36:23.000Z",
       "thumbnail": "https://static.wixstatic.com/media/843fed_0ab9687176d54c3aae2d01d189d76899~mv2.png/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
       "description": "On the 1st of July 2007 the UK government banned smoking in pubs. This was after the proportion of adults smoking had fallen from a...",
-      "author": "Andrew Birch (\"Birchy\")"
-    },
-    {
-      "source": "ebirchy",
-      "sourceLabel": "Andrew Birch",
-      "taxonomy": "voices",
-      "format": "article",
-      "title": "The Solar Decade 2025-2035",
-      "link": "https://www.ebirchy.com/post/the-solar-decade-2025-2035",
-      "publishDate": "2025-01-13T17:56:54.000Z",
-      "thumbnail": "https://static.wixstatic.com/media/843fed_458b542dd2624363bf2a04e70d2870c4~mv2.png/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
-      "description": "Friends, Delighted to be posting my first ebirchy blog today, as I wish you all a happy 2025 - and an even happier 2035, as we enter...",
       "author": "Andrew Birch (\"Birchy\")"
     }
   ]
