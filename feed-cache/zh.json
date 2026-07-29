@@ -1,16 +1,15 @@
 {
-  "generatedAt": "2026-07-28T06:39:49.169Z",
+  "generatedAt": "2026-07-29T06:44:42.020Z",
   "locale": "zh",
   "counts": {
     "ytLongForm": 15,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 0,
+    "ytLongForm": 15,
     "ytShorts": 0
   },
   "rescuedSources": [
-    "ytLongForm",
     "ytShorts"
   ],
   "items": [
@@ -51,10 +50,10 @@
       "author": "Future Keepers Mandarin"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "告别燃油时代：看清洁能源如何改变出行！",
       "link": "https://www.youtube.com/shorts/T2gxSvFVGHw",
       "publishDate": "2026-07-16T01:00:19.000Z",
@@ -87,10 +86,10 @@
       "author": "Future Keepers Mandarin"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "能源主场优势：中国制造定义未来",
       "link": "https://www.youtube.com/shorts/3JGgz-q8Ew8",
       "publishDate": "2026-07-03T01:00:21.000Z",
@@ -147,10 +146,10 @@
       "author": "Future Keepers Mandarin"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "征税太阳能 = 昂贵！揭秘屋顶太阳能税的危害",
       "link": "https://www.youtube.com/shorts/xGc_OSoRO3A",
       "publishDate": "2026-06-21T01:00:18.000Z",
@@ -159,10 +158,10 @@
       "author": "Future Keepers Mandarin"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "亚洲清洁技术制造：占全球75%的秘密",
       "link": "https://www.youtube.com/shorts/SrKBtga4qeE",
       "publishDate": "2026-06-20T01:00:17.000Z",
@@ -171,10 +170,10 @@
       "author": "Future Keepers Mandarin"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "中国太阳能：月出口39吉瓦，亚洲第三大电力来源",
       "link": "https://www.youtube.com/shorts/Lqoj2ifEyQg",
       "publishDate": "2026-06-19T01:00:21.000Z",
@@ -183,39 +182,15 @@
       "author": "Future Keepers Mandarin"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "未来不是骗局！地球VS火星，你的钱投哪儿？",
       "link": "https://www.youtube.com/shorts/qzSBIKtQmfM",
       "publishDate": "2026-06-18T01:00:17.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/qzSBIKtQmfM/hqdefault.jpg",
       "description": "你还在梦想着逃离地球，把钱投向火星吗？这个视频将揭示为什么真正的未来不在太空，而在我们脚下的这颗星球。 你知道吗？有人建议花费万亿购买火星上的红色岩石，而地球上的清洁能源转型成本却在持续下降。 视频中，我们看到两种截然不同的未来愿景。一边是鼓吹把退休金投入火星殖民的激进投资者，他们只关心个人利益和遥不可及的梦想。另一边是致力于地球可持续发展的环保主义者，他们通过太阳能、电动汽车和社区合作，为我们共同的家园创造一个更光明、更清洁的未来。 ",
-      "author": "Future Keepers Mandarin"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "2026年4月：风能与太阳能发电量历史性超越天然气",
-      "link": "https://www.youtube.com/watch?v=7P43XkqYXIM",
-      "publishDate": "2026-06-13T01:00:17.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/7P43XkqYXIM/hqdefault.jpg",
-      "description": "欢迎收看本期深度解析，今天我们来聊聊全球能源未来演进中的一个惊人现实：能源转型不仅已经到来，而且正在以超乎想象的速度改变世界。一个关键里程碑是：**2026年4月，全球风能和太阳能的总发电量达到了531太瓦时，首次超越了天然气的477太瓦时。** 故事要从印度尼西亚婆罗洲的一个水上村庄说起。以前，这里完全与现代电网隔绝，供电依赖昂贵、嘈杂且不可靠的柴油发电机，一升油甚至撑不了一小时。但从2015年起，这个村庄通过安装太阳能电池板和关键的",
-      "author": "Future Keepers Mandarin"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "厨房台面上的革命：一个搅拌机如何改变生活",
-      "link": "https://www.youtube.com/watch?v=RZyNAAPyphg",
-      "publishDate": "2026-06-12T01:00:18.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/RZyNAAPyphg/hqdefault.jpg",
-      "description": "欢迎来到FutureKeepers的深度解析，今天我们不谈遥远的未来，而是聚焦当下，看看一场真实的“厨房台面上的革命”是如何在亚洲偏远地区上演的。想象一下，在印度尼西亚婆罗洲的一个水上村庄，一位母亲如何利用太阳能，将一台小小的电动搅拌机变成她创业的“印钞机”。 2026年4月，风能和太阳能的全球发电份额首次超越天然气，达到22%。 阿斯尼亚，这位三个孩子的母亲，曾依赖一台老旧、嘈杂且耗油的柴油发电机，每天只有短暂的供电时间。但自从201",
       "author": "Future Keepers Mandarin"
     },
     {
@@ -252,18 +227,6 @@
       "publishDate": "2026-06-03T01:00:17.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/ARTgQaT85dY/hqdefault.jpg",
       "description": "这段视频展示了燃油车在能源短缺时的困境，以及熊猫驾驶的太阳能电动车如何凭借其独特的能源解决方案，实现24小时不间断的无限续航。 太阳能和蓄电池组合，为电动车提供24小时不间断的电力供应，无需加油。 在一个能源供应受限的世界里，传统的燃油汽车面临着燃料耗尽的挑战。视频中的黑烟男爵驾驶的巨型卡车，在霍尔木兹海峡被封锁后，很快就失去了动力。然而，由美琳驾驶的太阳能电动车“伏特赛车98”却能依靠车顶的太阳能电池板和内置蓄电池，持续获得能量。这不",
-      "author": "Future Keepers Mandarin"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "油价暴涨110%！这两个国家如何绝地求生？",
-      "link": "https://www.youtube.com/watch?v=kTuuk2hb5Vc",
-      "publishDate": "2026-06-01T01:00:24.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/kTuuk2hb5Vc/hqdefault.jpg",
-      "description": "想象一下，在老挝，排队加油的车辆绵延三个街区，等待时长无法预测。这并非科幻电影，而是2026年3月老挝能源危机下的真实写照。当柴油价格在一周内暴涨110%，近一半加油站被迫关闭，整个国家的交通和物流瞬间瘫痪，经济生存命悬一线。面对如此严峻的挑战，老挝和埃塞俄比亚等发展中国家，没有选择等待，而是采取了堪称激进的策略，率先在全球范围内对燃油车进口说“不”，开启了一场由经济危机驱动的能源转型革命。 据统计，埃塞俄比亚每年在化石燃料进口上花费近",
       "author": "Future Keepers Mandarin"
     },
     {
@@ -336,42 +299,6 @@
       "publishDate": "2026-05-24T01:00:19.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/Ilj-oD-jwiY/hqdefault.jpg",
       "description": "想知道如何摆脱传统电网束缚，实现24小时不间断的能源供应吗？太阳能和电池的结合，让您的家园在任何时候都充满光明！ 关键在于：白天太阳能板充电，夜晚电池供电，实现真正的能源独立。 在这个充满不确定性的时代，能源独立变得前所未有的重要。传统的电网系统容易受到各种因素的影响，导致停电和能源短缺。而通过安装太阳能板和储能电池，您不仅可以在白天充分利用太阳能发电，还能将多余的电能储存起来，供夜晚或阴天使用。这意味着您的家庭将拥有一个稳定、可靠且环",
-      "author": "Future Keepers Mandarin"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "游击太阳能：亚洲屋顶革命",
-      "link": "https://www.youtube.com/watch?v=ua2eqJdA2W0",
-      "publishDate": "2026-05-17T01:00:16.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/ua2eqJdA2W0/hqdefault.jpg",
-      "description": "大家好！今天我们深入探讨FutureKeepers的这份信号简报，揭示一场悄然却震撼人心的革命正在亚洲各地屋顶上演。这场革命的核心是中国制造的高效、经济的太阳能电池板。 面对全球宏观因素（如中东冲突）对亚洲能源市场造成的剧烈冲击，液化天然气价格飙升91%，煤炭价格上涨17%，普通家庭的电费账单苦不堪言。我们的解读将带大家看看，庞大的中国太阳能制造业如何在海外市场催生出引人入胜的下游延伸故事。 以巴基斯坦为例，面对反应迟缓的官僚机构和脆弱",
-      "author": "Future Keepers Mandarin"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "电费飙升？屋顶太阳能如何帮普通家庭省钱，改变经济格局！",
-      "link": "https://www.youtube.com/watch?v=Y_A3vJSCIvE",
-      "publishDate": "2026-05-16T09:00:16.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/Y_A3vJSCIvE/hqdefault.jpg",
-      "description": "面对不断上涨的电费账单，普通家庭如何才能摆脱能源成本的困境？答案可能就在你家的屋顶上！ 本视频深入探讨了全球冲突如何推高进口化石燃料成本，导致家庭电费飙升（例如，菲律宾Meralco用户每度电多支付5比索）。接着，介绍了中国在分布式屋顶太阳能设备大规模制造方面的领先地位，这使得太阳能变得经济实惠，并在整个亚洲引发了一股太阳能热潮。视频解释了“游击太阳能”的概念——未经注册的屋顶太阳能系统直接连接到家庭电网，旨在绕过缓慢且昂贵的电力公司审",
-      "author": "Future Keepers Mandarin"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "游击太阳能：亚洲屋顶革命",
-      "link": "https://www.youtube.com/watch?v=tNZZVE4Y2DY",
-      "publishDate": "2026-05-16T05:00:16.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/tNZZVE4Y2DY/hqdefault.jpg",
-      "description": "亚洲屋顶正在经历一场悄然但震撼的革命，而中国制造的太阳能板正是这场变革的核心驱动力。面对飙升的能源账单，从巴基斯坦到菲律宾的普通家庭正在积极行动，绕过缓慢的官僚系统和脆弱的电网，直接将清洁、经济的太阳能安装在自家屋顶上。 本期FutureKeepers信号简报将深入解读这一现象。数据显示，受全球宏观因素冲击，亚洲液化天然气基准价格暴涨91%，全球煤炭基准价格也跳涨17%。高昂的进口燃料成本最终都转嫁到了普通家庭的电费账单上，让民众苦不堪",
       "author": "Future Keepers Mandarin"
     }
   ]
