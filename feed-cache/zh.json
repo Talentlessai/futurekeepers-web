@@ -1,14 +1,18 @@
 {
-  "generatedAt": "2026-08-03T07:43:27.512Z",
+  "generatedAt": "2026-08-04T06:41:11.057Z",
   "locale": "zh",
   "counts": {
     "ytLongForm": 15,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 15,
-    "ytShorts": 15
+    "ytLongForm": 0,
+    "ytShorts": 0
   },
+  "rescuedSources": [
+    "ytLongForm",
+    "ytShorts"
+  ],
   "items": [
     {
       "source": "ytLongForm",
