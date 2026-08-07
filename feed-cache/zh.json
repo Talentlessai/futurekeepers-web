@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T06:44:38.724Z",
+  "generatedAt": "2026-08-07T05:49:48.678Z",
   "locale": "zh",
   "counts": {
     "ytLongForm": 15,
@@ -7,13 +7,24 @@
   },
   "freshCounts": {
     "ytLongForm": 0,
-    "ytShorts": 0
+    "ytShorts": 15
   },
   "rescuedSources": [
-    "ytLongForm",
-    "ytShorts"
+    "ytLongForm"
   ],
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "熊猫绿能：美林如何将污染能源变为清洁能源！",
+      "link": "https://www.youtube.com/shorts/X89lbam7qYE",
+      "publishDate": "2026-08-04T01:00:18.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/X89lbam7qYE/hqdefault.jpg",
+      "description": "有没有想过一只小熊猫如何改变世界？这段视频展示了我们可爱的未来守护者美林，踏上了一场史诗般的旅程，将清洁能源带到世界的每一个角落。观看他如何将冒着浓烟的工厂转变为充满活力的绿色能源中心，用可再生能源为家庭和社区供电。 从偏远村庄到繁华都市，美林直接应对能源挑战。他用创新的绿色解决方案取代了旧的、污染严重的系统，确保每个人都能获得可靠、环保的电力。这是一场关于转型、希望和社区赋能的旅程，证明了即使是最小的英雄也能创造最大的不同。加入美林，",
+      "author": "Future Keepers Mandarin"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -324,18 +335,6 @@
       "publishDate": "2026-05-25T01:00:23.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/X56NtOH-tnU/hqdefault.jpg",
       "description": "面对能源供应冲击和数据中心对电力日益增长的需求，亚洲多国正重新审视其能源战略。然而，一项关键研究指出，东南亚国家联盟（东盟）若能优先发展太阳能而非其庞大的天然气发电扩张计划，有望节省数百亿美元。 专家估算，东盟地区优先发展太阳能，而非计划中的天然气发电扩张，可节省约670亿美元。 各国应对方式迥异：印尼政府虽面临森林砍伐的证据，仍在加大对生物燃料的投入；日本在福岛核灾难后，也开始重启或恢复核电站计划。此外，东盟有5个从未生产过核电的国家",
-      "author": "Future Keepers Mandarin"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "太阳能与电池：掌控黑夜！",
-      "link": "https://www.youtube.com/shorts/Ilj-oD-jwiY",
-      "publishDate": "2026-05-24T01:00:19.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/Ilj-oD-jwiY/hqdefault.jpg",
-      "description": "想知道如何摆脱传统电网束缚，实现24小时不间断的能源供应吗？太阳能和电池的结合，让您的家园在任何时候都充满光明！ 关键在于：白天太阳能板充电，夜晚电池供电，实现真正的能源独立。 在这个充满不确定性的时代，能源独立变得前所未有的重要。传统的电网系统容易受到各种因素的影响，导致停电和能源短缺。而通过安装太阳能板和储能电池，您不仅可以在白天充分利用太阳能发电，还能将多余的电能储存起来，供夜晚或阴天使用。这意味着您的家庭将拥有一个稳定、可靠且环",
       "author": "Future Keepers Mandarin"
     },
     {

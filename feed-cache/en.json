@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-06T06:43:39.402Z",
+  "generatedAt": "2026-08-07T05:48:58.367Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 10,
-    "ytShorts": 15,
+    "ytShorts": 10,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
@@ -11,16 +11,25 @@
   },
   "freshCounts": {
     "ytLongForm": 10,
-    "ytShorts": 0,
+    "ytShorts": 10,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
-  "rescuedSources": [
-    "ytShorts"
-  ],
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Panda's Green Power: See How Mei-Lin Transforms Dirty Energy!",
+      "link": "https://www.youtube.com/shorts/voEGcrV8tOM",
+      "publishDate": "2026-08-03T17:24:35.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/voEGcrV8tOM/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
     {
       "source": "fkSignal",
       "sourceLabel": "FutureKeepers Signal",
@@ -42,7 +51,7 @@
       "link": "https://www.youtube.com/shorts/kWrTSOfLhpk",
       "publishDate": "2026-07-30T14:00:29.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/kWrTSOfLhpk/hqdefault.jpg",
-      "description": "Imagine a remote Thai village where children study by the flickering light of candles, and daily life grinds to a halt after sunset. This was the reality for a community without reliable electricity, until a transformati",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -186,7 +195,7 @@
       "link": "https://www.youtube.com/shorts/KtVJWLksUUY",
       "publishDate": "2026-07-18T14:00:17.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/KtVJWLksUUY/hqdefault.jpg",
-      "description": "The electric vehicle transition is accelerating faster than anyone predicted, but the surprising truth is that it's not the expensive luxury sedans in the West leading the charge. Instead, the real revolution is happenin",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -222,7 +231,7 @@
       "link": "https://www.youtube.com/shorts/BozwfJNfzmE",
       "publishDate": "2026-07-16T14:00:34.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/BozwfJNfzmE/hqdefault.jpg",
-      "description": "The grumpy barrel robot struggles to keep up, emitting smoke and fumes, while our cheerful panda glides effortlessly through vibrant, clean cities. This video beautifully illustrates the stark contrast between outdated f",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -270,7 +279,7 @@
       "link": "https://www.youtube.com/shorts/a_YrqNmmx0M",
       "publishDate": "2026-07-04T14:00:24.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/a_YrqNmmx0M/hqdefault.jpg",
-      "description": "The world is quietly walking off the away pitch and building at home, with five key signals showing clean energy is winning globally. Clean power was the single biggest source of new energy on the planet last year, ahead",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -282,7 +291,7 @@
       "link": "https://www.youtube.com/shorts/qbgvawFjzgU",
       "publishDate": "2026-07-03T14:00:23.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/qbgvawFjzgU/hqdefault.jpg",
-      "description": "Clean energy isn't just a choice anymore; it's a winning strategy. The global shift to clean power is accelerating, with the 'home team' consistently outperforming traditional energy sources. Last year, clean power was t",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -294,7 +303,7 @@
       "link": "https://www.youtube.com/shorts/SwipwUtiZfs",
       "publishDate": "2026-07-02T14:00:30.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/SwipwUtiZfs/hqdefault.jpg",
-      "description": "While the world's cameras were pointed at the Strait of Hormuz this week, fixated on the 'away game' of fossil fuels, the real, untelivised energy revolution is happening at home, where we can truly win. Did you know tha",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -378,7 +387,7 @@
       "link": "https://www.youtube.com/shorts/NcioDoziStA",
       "publishDate": "2026-06-09T14:00:29.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/NcioDoziStA/hqdefault.jpg",
-      "description": "In a village built over the water in Borneo, electricity used to be a luxury, lasting only from dusk to dawn. For Aznaya, a mother, this meant relying on an expensive, fuel-guzzling diesel generator. But with the arrival",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -390,7 +399,7 @@
       "link": "https://www.youtube.com/shorts/cb2srFoy6y0",
       "publishDate": "2026-06-05T14:00:29.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/cb2srFoy6y0/hqdefault.jpg",
-      "description": "In a world where traditional fuel sources are becoming unreliable, a gas-guzzling monster truck finds itself in a bind, running completely out of steam. Who comes to the rescue? None other than Mei-Lin, the intrepid pand",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -402,7 +411,7 @@
       "link": "https://www.youtube.com/shorts/XXznrXwt0o0",
       "publishDate": "2026-05-30T14:00:31.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/XXznrXwt0o0/hqdefault.jpg",
-      "description": "Last week, Laos became the second country on Earth to ban gas-powered cars, a bold move that positions it ahead of many wealthier nations in the global energy transition. In March, Vientiane saw gas queues wrap around th",
+      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -430,18 +439,6 @@
       "author": "Steve Mudd"
     },
     {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Clean Energy Just Hit a Tipping Point! Solar & Wind Overtake Gas #shorts",
-      "link": "https://www.youtube.com/shorts/bdy4sdB0eEM",
-      "publishDate": "2026-05-28T21:34:24.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/bdy4sdB0eEM/hqdefault.jpg",
-      "description": "The clean energy transition has reached an unprecedented milestone! For the first time in history, solar and wind power have generated more electricity globally than natural gas for an entire month. This isn't a forecast",
-      "author": "FutureKeepers"
-    },
-    {
       "source": "ccAsia",
       "sourceLabel": "Climate & Capital Asia",
       "taxonomy": "ccasia",
@@ -452,66 +449,6 @@
       "thumbnail": null,
       "description": "Four initial investments are expected to avoid over a million tons of carbon dioxide emissions annually. The post Singapore’s blended finance fund secures US$800 million for energy transition appeared first on Climate an",
       "author": "Gabrielle See"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Vietnam's Solar Boom: Powering Local Businesses & Energy Independence #shorts",
-      "link": "https://www.youtube.com/shorts/8TH9LAwioxo",
-      "publishDate": "2026-05-27T19:21:27.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/8TH9LAwioxo/hqdefault.jpg",
-      "description": "While global headlines often focus on energy shocks and geopolitical tensions, a powerful story of progress is unfolding in Vietnam. Solar energy developer SkyX Solar has just secured a $15 million investment to accelera",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Hong Kong: The Bridge for Global Clean Energy?",
-      "link": "https://www.youtube.com/shorts/OzHBGjGvX6Q",
-      "publishDate": "2026-05-27T14:00:17.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/OzHBGjGvX6Q/hqdefault.jpg",
-      "description": "Hong Kong finds itself at a unique crossroads in the global energy transition, poised to bridge the fragmented efforts between Chinese manufacturing might and Western financial and regulatory standards. Despite a world d",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Have you noticed that lately, the prices of various basic necessities have been on the rise?",
-      "link": "https://www.youtube.com/shorts/VDd5IXikcbQ",
-      "publishDate": "2026-05-26T22:21:04.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/VDd5IXikcbQ/hqdefault.jpg",
-      "description": "One of the reasons for this is the ongoing energy crisis. 😱 When fuel prices go up, transportation, food, and the overall cost of living are all impacted. In Indonesia, many small islands still rely on diesel fuel. On t",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "The coral reefs in the Gili Islands are in trouble!",
-      "link": "https://www.youtube.com/shorts/tJUPRT5zsxk",
-      "publishDate": "2026-05-26T20:57:18.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/tJUPRT5zsxk/hqdefault.jpg",
-      "description": "Part of the problem is fossil fuels, which Indonesia relies on. But solutions are possible! The shift to solar power has begun. Here's how YOU can help save the coral reefs:",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Fukushima Fallout: Japan, ASEAN Restart Nuclear Plans",
-      "link": "https://www.youtube.com/shorts/0SK_-W0lSEI",
-      "publishDate": "2026-05-25T18:00:13.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/0SK_-W0lSEI/hqdefault.jpg",
-      "description": "Japan, which suffered a nuclear disaster at Fukushima just 15 years ago, is restarting its nuclear power plants, and five ASEAN nations, which have never produced nuclear power, are now pursuing it. This unexpected shift",
-      "author": "FutureKeepers"
     },
     {
       "source": "fkSignal",
