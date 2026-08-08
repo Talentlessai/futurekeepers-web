@@ -1,19 +1,30 @@
 {
-  "generatedAt": "2026-08-07T05:52:14.903Z",
+  "generatedAt": "2026-08-08T05:12:40.829Z",
   "locale": "hi",
   "counts": {
     "ytLongForm": 15,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 0,
+    "ytLongForm": 15,
     "ytShorts": 0
   },
   "rescuedSources": [
-    "ytLongForm",
     "ytShorts"
   ],
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "पांडा की हरित ऊर्जा: देखें कैसे मेई-लिन गंदी ऊर्जा को बदलता है!",
+      "link": "https://www.youtube.com/shorts/Me86sUboI1s",
+      "publishDate": "2026-08-03T17:23:14.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/Me86sUboI1s/hqdefault.jpg",
+      "description": "कभी सोचा है कि एक छोटा पांडा दुनिया को कैसे बदल सकता है? यह वीडियो हमारे प्यारे फ्यूचरकीपर, मेई-लिन को हर कोने में स्वच्छ ऊर्जा लाने के एक महाकाव्य मिशन पर दिखाता है। देखें कि वह धुआं उगलने वाली फैक्ट्रियों को कैसे जीवंत",
+      "author": "Future Keepers Hindi"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -51,10 +62,10 @@
       "author": "Future Keepers Hindi"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "गैस आउट: जीवाश्म ईंधन का अंत, स्वच्छ ऊर्जा का उदय!",
       "link": "https://www.youtube.com/shorts/ipN_8HqNrts",
       "publishDate": "2026-07-15T03:30:17.000Z",
@@ -99,10 +110,10 @@
       "author": "Future Keepers Hindi"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "दिल्ली का मास्टरस्ट्रोक: 2028 तक पेट्र",
       "link": "https://www.youtube.com/shorts/gqxhixj5-HU",
       "publishDate": "2026-07-05T03:30:20.000Z",
@@ -111,10 +122,10 @@
       "author": "Future Keepers Hindi"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "पेट्रोल पंप पर पैसे क्यों गंवाते हो?",
       "link": "https://www.youtube.com/shorts/tHP0Ni-5cWo",
       "publishDate": "2026-07-04T03:30:20.000Z",
@@ -123,10 +134,10 @@
       "author": "Future Keepers Hindi"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "भारत का होम-पिच एडवांटेज: ऊर्जा में आ",
       "link": "https://www.youtube.com/shorts/R9soXV6tvPs",
       "publishDate": "2026-07-03T03:30:19.000Z",
@@ -171,10 +182,10 @@
       "author": "Future Keepers Hindi"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "सूरज नहीं भेजता invoice, सरकार भी न भेजे!",
       "link": "https://www.youtube.com/shorts/Zhe-iBTG7og",
       "publishDate": "2026-06-20T03:30:17.000Z",
@@ -192,42 +203,6 @@
       "publishDate": "2026-06-19T03:30:17.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/grzAKAnBkmc/hqdefault.jpg",
       "description": "क्या आप जानते हैं कि छत पर सौर ऊर्जा पर कर लगाने से देश को कितना नुकसान हो सकता है? यह सुनने में अजीब लग सकता है, लेकिन जो समाधान समस्या को ठीक करता है, उस पर कर लगाना वास्तव में समस्या को और महंगा बना देता है। एक चौंकान",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "ब्लेंडर और बोर्डरूम: एशिया की ऊर्जा",
-      "link": "https://www.youtube.com/watch?v=HGo1txux910",
-      "publishDate": "2026-06-13T03:30:16.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/HGo1txux910/hqdefault.jpg",
-      "description": "क्या आप जानते हैं कि जब दुनिया के बोर्डरूम अभी भी 2040 के ऊर्जा लक्ष्यों पर बहस कर रहे हैं, एशिया के गाँव और कारखाने आज ही सोलर क्रांति से जगमगा रहे हैं? यह वीडियो दिखाता है कि एसी कमरों में बैठे एक्सपर्ट्स और ज़मीन पर ह",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "किचन काउंटर क्रांति: रोशनी पर अपना ह",
-      "link": "https://www.youtube.com/watch?v=X74-VHlCDM0",
-      "publishDate": "2026-06-12T03:30:18.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/X74-VHlCDM0/hqdefault.jpg",
-      "description": "इंडोनेशियाई बोर्नियो के एक दूरदराज के जल-ग्राम से लेकर वैश्विक ऊर्जा बाजार तक, एक मज़ेदार कहानी चल रही है। कल्पना कीजिए: एयर कंडीशन कमरों में बैठे नीति-निर्माता 2040 के परमाणु ऊर्जा लक्ष्यों पर बहस कर रहे हैं, जबकि जमीन प",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "ऊर्जा क्रांति: सौर और पवन ऊर्जा ने गै",
-      "link": "https://www.youtube.com/watch?v=aE1u0MAg7jQ",
-      "publishDate": "2026-06-11T03:30:25.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/aE1u0MAg7jQ/hqdefault.jpg",
-      "description": "दुनिया की ऊर्जा दुनिया में एक ऐतिहासिक बदलाव आ गया है! अप्रैल 2026 में पहली बार, पवन और सौर ऊर्जा ने मिलकर गैस से ज़्यादा बिजली पैदा की। पवन और सौर ऊर्जा से 531 टेरावाट घंटे की क्लीन एनर्जी मिली, जबकि गैस से सिर्फ 477 टे",
       "author": "Future Keepers Hindi"
     },
     {
@@ -252,42 +227,6 @@
       "publishDate": "2026-06-04T03:30:26.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/zIxI1IFh0uc/hqdefault.jpg",
       "description": "कल्पना कीजिए एक ऐसी दुनिया जहाँ एक तरफ पेट्रोल से चलने वाला मॉन्स्टर ट्रक है, जो सिर्फ धुआँ और प्रदूषण फैलाता है, और दूसरी तरफ एक सोलर कार है, जो सूरज की रोशनी से चलती है और कभी रुकती नहीं। इस वीडियो में देखें कि कैसे बै",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "पेट्रोल इंजन का अंत: भारत बनेगा सबसे",
-      "link": "https://www.youtube.com/watch?v=tOvvIAw2wUs",
-      "publishDate": "2026-06-03T03:30:16.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/tOvvIAw2wUs/hqdefault.jpg",
-      "description": "क्या आप जानते हैं कि विकासशील देश पेट्रोल इंजन को अलविदा कह रहे हैं, लेकिन इसका कारण पर्यावरण प्रेम नहीं, बल्कि शुद्ध आर्थिक मजबूरी है? लाओस और इथियोपिया जैसे देशों में पेट्रोल और डीजल वाहनों पर प्रतिबंध लगने से दुनिया भ",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "अमीर देशों से आगे, गरीब देश क्यों चुन",
-      "link": "https://www.youtube.com/watch?v=AQTuJpN8m8c",
-      "publishDate": "2026-06-02T03:30:16.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/AQTuJpN8m8c/hqdefault.jpg",
-      "description": "आपको जानकर हैरानी होगी कि दुनिया की ऊर्जा क्रांति की दिशा गरीब देश तय कर रहे हैं, न कि अमीर। आर्थिक मजबूरी और राष्ट्रीय सुरक्षा ने उन्हें सबसे पहले जीवाश्म ईंधन से दूर जाने पर मजबूर किया। अप्रैल 2026 में, पहली बार हवा और",
-      "author": "Future Keepers Hindi"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "लाओस ने ईंधन वाहनों पर बैन लगाया: आर्थिक मजबूरी ने बदली दिशा!",
-      "link": "https://www.youtube.com/watch?v=TlR-Nk38I54",
-      "publishDate": "2026-05-31T03:30:24.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/TlR-Nk38I54/hqdefault.jpg",
-      "description": "दुनिया भर में एक खामोश लेकिन बहुत ही विशाल ऊर्जा क्रांति चल रही है। सबसे दिलचस्प बात यह है कि यह बदलाव पर्यावरण बचाने की बड़ी-बड़ी बातों से नहीं, बल्कि आम घरों के बजट और एकदम शुद्ध आर्थिक मजबूरियों से आ रहा है। इथियोपिया",
       "author": "Future Keepers Hindi"
     },
     {
