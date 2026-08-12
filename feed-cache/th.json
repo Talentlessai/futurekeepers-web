@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-11T05:22:57.193Z",
+  "generatedAt": "2026-08-12T05:47:55.276Z",
   "locale": "th",
   "counts": {
     "ytLongForm": 10,
-    "ytShorts": 15
+    "ytShorts": 11
   },
   "freshCounts": {
     "ytLongForm": 10,
@@ -13,18 +13,6 @@
     "ytShorts"
   ],
   "items": [
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "พลังงานสีเขียวของแพนด้า: เหมยหลินเปลี่ยนพลังงานสกปรกได้อย่างไร!",
-      "link": "https://www.youtube.com/shorts/dK5XC7x3KPY",
-      "publishDate": "2026-08-04T02:15:17.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/dK5XC7x3KPY/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers Thai"
-    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -46,18 +34,6 @@
       "link": "https://www.youtube.com/watch?v=i51jdgi0yzU",
       "publishDate": "2026-07-17T02:15:15.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/i51jdgi0yzU/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "ลาก่อนเชื้อเพลิง! พลังงานสะอาดเปลี่ยนโลกการเดินทาง!",
-      "link": "https://www.youtube.com/shorts/cj0NdpIMBFU",
-      "publishDate": "2026-07-16T02:15:17.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/cj0NdpIMBFU/hqdefault.jpg",
       "description": "",
       "author": "FutureKeepers Thai"
     },
@@ -102,34 +78,34 @@
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "signal",
       "format": "video",
-      "title": "พลังงานสะอาด ขึ้นแท่นอันดับ 1 ของโ",
-      "link": "https://www.youtube.com/shorts/1FYL_CcWh0k",
-      "publishDate": "2026-07-04T02:15:19.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/1FYL_CcWh0k/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "ติดตั้งโซลาร์: รัฐช่วย 10,000 บาท! คุ้ม",
-      "link": "https://www.youtube.com/shorts/8uf6lXCnueM",
-      "publishDate": "2026-07-03T02:15:17.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/8uf6lXCnueM/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers Thai"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
       "title": "จุดเปลี่ยนพลังงานโลก: เอเชียกำลัง",
       "link": "https://www.youtube.com/watch?v=bAJbW-pnFiA",
       "publishDate": "2026-06-24T02:15:15.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/bAJbW-pnFiA/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "ยุคทองพลังงานไฟฟ้า: โซลาร์เซลล์แซ",
+      "link": "https://www.youtube.com/watch?v=X6AXuZP_I1Q",
+      "publishDate": "2026-06-23T02:00:18.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/X6AXuZP_I1Q/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "เอเชียพลิกเกมพลังงาน: มีน้ำมันแค่",
+      "link": "https://www.youtube.com/watch?v=WotLcHia6GQ",
+      "publishDate": "2026-06-22T02:00:17.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/WotLcHia6GQ/hqdefault.jpg",
       "description": "",
       "author": "FutureKeepers Thai"
     },
@@ -179,6 +155,30 @@
       "publishDate": "2026-06-18T02:15:16.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/vS9avfQJvZg/hqdefault.jpg",
       "description": "อีลอน มัสก์ ชวนคุณไปดาวอังคาร แต่บาร์บี้กับแพนด้ามีข้อเสนอที่ดีกว่าสำหรับอนาคตของคุณบนโลกใบนี้ การลงทุนในพลังงานสะอาดบนโลกสามารถให้ผลตอบแทน 24/7 และสร้างอนาคตที่ยั่งยืนสำหรับทุกคน วิดีโอนี้ใช้ฟิกเกอร์ของเล่นยอดนิยมเพื่อท",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "พลังงานแสงอาทิตย์และลมแซงก๊าซธร",
+      "link": "https://www.youtube.com/watch?v=dS8AsMubovg",
+      "publishDate": "2026-06-12T02:00:30.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/dS8AsMubovg/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers Thai"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "เป็นเจ้าของแสงสว่าง: พลังงานแสงอา",
+      "link": "https://www.youtube.com/watch?v=ZBo6oqJEzTw",
+      "publishDate": "2026-06-11T02:15:17.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/ZBo6oqJEzTw/hqdefault.jpg",
+      "description": "",
       "author": "FutureKeepers Thai"
     },
     {
