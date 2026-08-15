@@ -1,43 +1,18 @@
 {
-  "generatedAt": "2026-08-14T05:46:23.710Z",
+  "generatedAt": "2026-08-15T04:48:13.353Z",
   "locale": "ur",
   "counts": {
     "ytLongForm": 10,
     "ytShorts": 5
   },
   "freshCounts": {
-    "ytLongForm": 0,
+    "ytLongForm": 10,
     "ytShorts": 0
   },
   "rescuedSources": [
-    "ytLongForm",
     "ytShorts"
   ],
   "items": [
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "پینڈا کی ہری توانائی: دیکھیں کیسے میئی-لن آلودہ توانائی کو بدلتا ہے!",
-      "link": "https://www.youtube.com/shorts/xvhJ8YefUwc",
-      "publishDate": "2026-08-03T17:22:35.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/xvhJ8YefUwc/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "لاؤس: یکم جون سے پٹرول گاڑیوں پر پابندی",
-      "link": "https://www.youtube.com/shorts/Z-bWD_PdSgo",
-      "publishDate": "2026-08-03T17:22:22.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/Z-bWD_PdSgo/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers Urdu"
-    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -79,18 +54,6 @@
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "signal",
       "format": "video",
-      "title": "گیس آؤٹ: پرانے ایندھن کا اختتام، نئی توانائی کا آغاز!",
-      "link": "https://www.youtube.com/shorts/TOcEfzAINjE",
-      "publishDate": "2026-07-15T04:00:17.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/TOcEfzAINjE/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
       "title": "پاکستان: عوام نے بجلی کے بل کیسے ختم کیے؟",
       "link": "https://www.youtube.com/watch?v=-EFP-bSHnN4",
       "publishDate": "2026-07-07T04:00:27.000Z",
@@ -111,30 +74,6 @@
       "author": "FutureKeepers Urdu"
     },
     {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "صاف توانائی نے ریکارڈ توڑ دیا: دنیا کی سب سے بڑی انرج",
-      "link": "https://www.youtube.com/shorts/P-1QZ8HmkSY",
-      "publishDate": "2026-07-05T04:00:21.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/P-1QZ8HmkSY/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "پاکستان بنا آف گرڈ کا بادشاہ: 27 گیگا واٹس سولر چھتوں",
-      "link": "https://www.youtube.com/shorts/sS2CsfOm6A4",
-      "publishDate": "2026-07-04T04:00:22.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/sS2CsfOm6A4/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers Urdu"
-    },
-    {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "noise",
@@ -143,6 +82,30 @@
       "link": "https://www.youtube.com/shorts/VNkfyMNzywQ",
       "publishDate": "2026-07-03T04:00:21.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/VNkfyMNzywQ/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers Urdu"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "پاکستان کا سولر انقلاب: امریکہ بھی پیچھے رہ گیا",
+      "link": "https://www.youtube.com/watch?v=WOuHjZRrRtQ",
+      "publishDate": "2026-06-24T04:00:27.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/WOuHjZRrRtQ/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers Urdu"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "ایشیا کی الیکٹرک چھلانگ: 5 لاکھ میں EV، سولر نے گیس کو",
+      "link": "https://www.youtube.com/watch?v=bydSKS9h6RY",
+      "publishDate": "2026-06-23T04:00:23.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/bydSKS9h6RY/hqdefault.jpg",
       "description": "",
       "author": "FutureKeepers Urdu"
     },
@@ -191,6 +154,42 @@
       "link": "https://www.youtube.com/shorts/Z3k8ESB5J1g",
       "publishDate": "2026-06-19T04:00:22.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/Z3k8ESB5J1g/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers Urdu"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "بلینڈر اور بورڈ روم: ایک چھوٹی مشین، بڑی تبدیلی",
+      "link": "https://www.youtube.com/watch?v=i9zYcBaPl5k",
+      "publishDate": "2026-06-14T04:00:24.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/i9zYcBaPl5k/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers Urdu"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "بلینڈر اور بورڈ روم: شمسی توانائی کا خاموش انقلاب",
+      "link": "https://www.youtube.com/watch?v=NR8gRC_h-Ec",
+      "publishDate": "2026-06-13T04:00:17.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/NR8gRC_h-Ec/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers Urdu"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "اپریل 2026: ہوا اور سورج نے عالمی بجلی میں گیس کو پیچھے",
+      "link": "https://www.youtube.com/watch?v=_oNjvDK4Xcw",
+      "publishDate": "2026-06-12T04:00:18.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/_oNjvDK4Xcw/hqdefault.jpg",
       "description": "",
       "author": "FutureKeepers Urdu"
     }

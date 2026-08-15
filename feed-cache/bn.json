@@ -1,29 +1,28 @@
 {
-  "generatedAt": "2026-08-14T05:45:49.154Z",
+  "generatedAt": "2026-08-15T04:47:26.972Z",
   "locale": "bn",
   "counts": {
     "ytLongForm": 10,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 0,
+    "ytLongForm": 10,
     "ytShorts": 0
   },
   "rescuedSources": [
-    "ytLongForm",
     "ytShorts"
   ],
   "items": [
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "পান্ডার সবুজ শক্তি: দেখুন কিভাবে মেই-লিন দূষিত শক্তিকে বদলে দেয়!",
       "link": "https://www.youtube.com/shorts/4ufy6LzXZMc",
       "publishDate": "2026-08-03T17:23:53.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/4ufy6LzXZMc/hqdefault.jpg",
-      "description": "কখনো ভেবে দেখেছেন একটি ছোট্ট পান্ডা কিভাবে বিশ্বকে বদলে দিতে পারে? এই ভিডিওতে আমাদের প্রিয় ফিউচারকিপার মেই-লিনকে দেখা যাচ্ছে, যিনি প্রতিটি কোণে পরিচ্ছন্ন শক্তি পৌঁছে দেওয়ার এক মহৎ অভিযানে নেমেছেন। দেখুন কিভাবে তিনি ধোঁ",
+      "description": "",
       "author": "Future Keepers Bengali"
     },
     {
@@ -63,15 +62,15 @@
       "author": "Future Keepers Bengali"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "গ্যাস আউট: জীবাশ্ম জ্বালানির শেষ, পরিচ্ছন্ন শক্তির শুরু!",
       "link": "https://www.youtube.com/shorts/0Yh1g7o8OTU",
       "publishDate": "2026-07-15T03:00:17.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/0Yh1g7o8OTU/hqdefault.jpg",
-      "description": "এই ভিডিওতে, আমাদের প্রফুল্ল পান্ডা অনায়াসে প্রাণবন্ত, পরিচ্ছন্ন শহরগুলিতে ঘুরে বেড়াচ্ছে, যেখানে রাগান্বিত ব্যারেল রোবট ধোঁয়া ছাড়তে ছাড়তে পিছিয়ে পড়ছে। এটি পুরোনো জীবাশ্ম জ্বালানি প্রযুক্তি এবং পরিচ্ছন্ন শক্তির উত্ত",
+      "description": "",
       "author": "Future Keepers Bengali"
     },
     {
@@ -111,27 +110,27 @@
       "author": "Future Keepers Bengali"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "বাংলাদেশে EV কর প্রত্যাহার: ক্লিন এনা",
       "link": "https://www.youtube.com/shorts/cXzMsFZGQA4",
       "publishDate": "2026-07-05T03:00:20.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/cXzMsFZGQA4/hqdefault.jpg",
-      "description": "শুনুন! এই সপ্তাহে বাংলাদেশের এনার্জি আর জলবায়ু নিয়ে সবচেয়ে বড় খবর হলো, সরকার হঠাৎ করেই ইলেকট্রিক গাড়ির (EV) উপর থেকে সব অ্যান্টি-ট্যাক্স সরিয়ে ফেলেছে। এর ফলে ইলেকট্রিক বাস, ট্রাক এবং অন্যান্য EV-এর জন্য বিশাল সব সু",
+      "description": "",
       "author": "Future Keepers Bengali"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "জ্বালানি খরচ? আর না! নিজের ছাদে সৌরশক",
       "link": "https://www.youtube.com/shorts/MswWiyorOM4",
       "publishDate": "2026-07-04T03:00:20.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/MswWiyorOM4/hqdefault.jpg",
-      "description": "আপনি কি অন্যের পকেটে টাকা ভরে ক্লান্ত? আপনার গাড়িতে তেল ভরা বা বাড়িতে বিদ্যুৎ বিল পরিশোধ করা মানেই কি আপনার কষ্টার্জিত টাকা অন্যের হাতে তুলে দেওয়া? এবার সময় এসেছে নিজের পাওয়ার হাউসের মালিক হওয়ার! প্রতিবার যখন আপনি ফুয়েল",
+      "description": "",
       "author": "Future Keepers Bengali"
     },
     {
@@ -144,42 +143,6 @@
       "publishDate": "2026-07-03T03:00:21.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/Tx3yyAZNQ9M/hqdefault.jpg",
       "description": "তেলের বিশ্বকাপ নিয়ে বিশ্ব যখন ব্যস্ত, তখন বাংলাদেশ নিজস্ব মাঠে খেলছে অন্য এক খেলা! বৈদ্যুতিক গাড়ির উপর ট্যাক্স শূন্য করে আমরা জ্বালানি স্বাধীনতা অর্জনের এক নতুন সুযোগ তৈরি করেছি। বৈদ্যুতিক গাড়ির উপর ট্যাক্স এখন 0%। বর",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "এশিয়ার ইলেক্ট্রটেক বুম: ৩৯ গিগাওয়া",
-      "link": "https://www.youtube.com/watch?v=fNW_Lztx81s",
-      "publishDate": "2026-06-25T03:00:18.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/fNW_Lztx81s/hqdefault.jpg",
-      "description": "",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "এশিয়ার জ্বালানি বিপ্লব: সৌরবিদ্যু",
-      "link": "https://www.youtube.com/watch?v=eKiRK7lmWUQ",
-      "publishDate": "2026-06-24T03:00:25.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/eKiRK7lmWUQ/hqdefault.jpg",
-      "description": "",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "জীবাশ্ম জ্বালানির মিথ: ৭ গুণ বেশি বি",
-      "link": "https://www.youtube.com/watch?v=9gTpKaZKZVw",
-      "publishDate": "2026-06-23T03:00:17.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/9gTpKaZKZVw/hqdefault.jpg",
-      "description": "",
       "author": "Future Keepers Bengali"
     },
     {
@@ -240,18 +203,6 @@
       "publishDate": "2026-06-18T03:00:17.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/NETuaKTS9xg/hqdefault.jpg",
       "description": "মঙ্গল গ্রহের জন্য ট্রিলিয়ন ডলার খরচ করা কি আদৌ বুদ্ধিমানের কাজ? নাকি পৃথিবীতেই আমাদের ভবিষ্যৎ গড়ার সুযোগ রয়েছে? এই ভিডিওতে, আমরা মঙ্গল যাত্রার উচ্চাকাঙ্ক্ষী পরিকল্পনার বিপরীতে পৃথিবীর জন্য টেকসই সমাধানের বাস্তবতাকে তু",
-      "author": "Future Keepers Bengali"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "বিশ্বে প্রথমবার: বায়ু ও সৌরবিদ্যুৎ",
-      "link": "https://www.youtube.com/watch?v=YlPEobB08HU",
-      "publishDate": "2026-06-13T03:00:22.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/YlPEobB08HU/hqdefault.jpg",
-      "description": "",
       "author": "Future Keepers Bengali"
     },
     {

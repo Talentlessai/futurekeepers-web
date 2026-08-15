@@ -1,33 +1,36 @@
 {
-  "generatedAt": "2026-08-14T05:44:05.420Z",
+  "generatedAt": "2026-08-15T04:45:28.956Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 10,
-    "ytShorts": 10,
+    "ytShorts": 15,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "freshCounts": {
-    "ytLongForm": 10,
-    "ytShorts": 10,
+    "ytLongForm": 0,
+    "ytShorts": 15,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
+  "rescuedSources": [
+    "ytLongForm"
+  ],
   "items": [
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "noise",
       "format": "short",
-      "title": "India's $160B Green Energy Gap: A Huge Opportunity",
-      "link": "https://www.youtube.com/shorts/3ui3pClPEj8",
-      "publishDate": "2026-08-13T19:00:18.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/3ui3pClPEj8/hqdefault.jpg",
-      "description": "",
+      "title": "5 Billion Tons of CO2 Cut: The Electrotech Revolution",
+      "link": "https://www.youtube.com/shorts/ymxdZp3B6PE",
+      "publishDate": "2026-08-14T19:00:18.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/ymxdZp3B6PE/hqdefault.jpg",
+      "description": "You might think all energy sources get more expensive as they're exploited, but clean energy is defying that logic. The \"Electrotech Revolution\" shows how renewables are not just cleaner but also smarter physics. By 2030",
       "author": "FutureKeepers"
     },
     {
@@ -39,7 +42,7 @@
       "link": "https://www.youtube.com/shorts/wSygWMl0Pz8",
       "publishDate": "2026-08-13T14:00:33.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/wSygWMl0Pz8/hqdefault.jpg",
-      "description": "",
+      "description": "This week, we're looking at the massive growth in electric vehicle sales and the significant investments flowing into renewable energy, especially in emerging markets. EV sales in Southeast Asia jumped an astounding 80% ",
       "author": "FutureKeepers"
     },
     {
@@ -47,11 +50,11 @@
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "noise",
       "format": "short",
-      "title": "Solar Wind Beat Gas Globally for First Time Ever",
+      "title": "Solar & Wind Beat Gas Globally for First Time Ever",
       "link": "https://www.youtube.com/shorts/UsbEwpsWH9s",
       "publishDate": "2026-08-12T17:00:27.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/UsbEwpsWH9s/hqdefault.jpg",
-      "description": "",
+      "description": "For the first time in history, solar and wind energy surpassed natural gas in global electricity production this April. Wind and solar produced 22% of the world's electricity in April, while gas produced 20%. This histor",
       "author": "FutureKeepers"
     },
     {
@@ -63,7 +66,7 @@
       "link": "https://www.youtube.com/shorts/YlarOd8tL1g",
       "publishDate": "2026-08-10T14:00:27.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/YlarOd8tL1g/hqdefault.jpg",
-      "description": "",
+      "description": "The fastest-growing AI hubs are already running on cheap renewables, not LNG, challenging the narrative that AI relies on fossil fuels. The global shift is undeniable. 92% of countries have renewable power potential over",
       "author": "FutureKeepers"
     },
     {
@@ -75,7 +78,7 @@
       "link": "https://www.youtube.com/shorts/voEGcrV8tOM",
       "publishDate": "2026-08-03T17:24:35.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/voEGcrV8tOM/hqdefault.jpg",
-      "description": "",
+      "description": "Ever wonder how one little panda could change the world? This video shows Mei-Lin, our adorable FutureKeeper, on an epic quest to bring clean energy to every corner. Watch as he transforms belching, smoke-filled factorie",
       "author": "FutureKeepers"
     },
     {
@@ -99,7 +102,7 @@
       "link": "https://www.youtube.com/shorts/kWrTSOfLhpk",
       "publishDate": "2026-07-30T14:00:29.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/kWrTSOfLhpk/hqdefault.jpg",
-      "description": "",
+      "description": "Imagine a remote Thai village where children study by the flickering light of candles, and daily life grinds to a halt after sunset. This was the reality for a community without reliable electricity, until a transformati",
       "author": "FutureKeepers"
     },
     {
@@ -243,7 +246,7 @@
       "link": "https://www.youtube.com/shorts/KtVJWLksUUY",
       "publishDate": "2026-07-18T14:00:17.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/KtVJWLksUUY/hqdefault.jpg",
-      "description": "",
+      "description": "The electric vehicle transition is accelerating faster than anyone predicted, but the surprising truth is that it's not the expensive luxury sedans in the West leading the charge. Instead, the real revolution is happenin",
       "author": "FutureKeepers"
     },
     {
@@ -279,7 +282,7 @@
       "link": "https://www.youtube.com/shorts/BozwfJNfzmE",
       "publishDate": "2026-07-16T14:00:34.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/BozwfJNfzmE/hqdefault.jpg",
-      "description": "",
+      "description": "The grumpy barrel robot struggles to keep up, emitting smoke and fumes, while our cheerful panda glides effortlessly through vibrant, clean cities. This video beautifully illustrates the stark contrast between outdated f",
       "author": "FutureKeepers"
     },
     {
@@ -327,7 +330,7 @@
       "link": "https://www.youtube.com/shorts/a_YrqNmmx0M",
       "publishDate": "2026-07-04T14:00:24.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/a_YrqNmmx0M/hqdefault.jpg",
-      "description": "",
+      "description": "The world is quietly walking off the away pitch and building at home, with five key signals showing clean energy is winning globally. Clean power was the single biggest source of new energy on the planet last year, ahead",
       "author": "FutureKeepers"
     },
     {
@@ -339,7 +342,19 @@
       "link": "https://www.youtube.com/shorts/qbgvawFjzgU",
       "publishDate": "2026-07-03T14:00:23.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/qbgvawFjzgU/hqdefault.jpg",
-      "description": "",
+      "description": "Clean energy isn't just a choice anymore; it's a winning strategy. The global shift to clean power is accelerating, with the 'home team' consistently outperforming traditional energy sources. Last year, clean power was t",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Forget Hormuz: The REAL Energy Game Is at Home",
+      "link": "https://www.youtube.com/shorts/SwipwUtiZfs",
+      "publishDate": "2026-07-02T14:00:30.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/SwipwUtiZfs/hqdefault.jpg",
+      "description": "While the world's cameras were pointed at the Strait of Hormuz this week, fixated on the 'away game' of fossil fuels, the real, untelivised energy revolution is happening at home, where we can truly win. Did you know tha",
       "author": "FutureKeepers"
     },
     {
@@ -415,6 +430,42 @@
       "author": "FutureKeepers"
     },
     {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Borneo: Solar Power Fuels One Mother's 3 Businesses",
+      "link": "https://www.youtube.com/shorts/NcioDoziStA",
+      "publishDate": "2026-06-09T14:00:29.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/NcioDoziStA/hqdefault.jpg",
+      "description": "In a village built over the water in Borneo, electricity used to be a luxury, lasting only from dusk to dawn. For Aznaya, a mother, this meant relying on an expensive, fuel-guzzling diesel generator. But with the arrival",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Gas-Guzzler STRANDED! Solar EV to the Rescue",
+      "link": "https://www.youtube.com/shorts/cb2srFoy6y0",
+      "publishDate": "2026-06-05T14:00:29.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/cb2srFoy6y0/hqdefault.jpg",
+      "description": "In a world where traditional fuel sources are becoming unreliable, a gas-guzzling monster truck finds itself in a bind, running completely out of steam. Who comes to the rescue? None other than Mei-Lin, the intrepid pand",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Laos Bans Gas Cars: Second Country on Earth to Do It",
+      "link": "https://www.youtube.com/shorts/XXznrXwt0o0",
+      "publishDate": "2026-05-30T14:00:31.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/XXznrXwt0o0/hqdefault.jpg",
+      "description": "Last week, Laos became the second country on Earth to ban gas-powered cars, a bold move that positions it ahead of many wealthier nations in the global energy transition. In March, Vientiane saw gas queues wrap around th",
+      "author": "FutureKeepers"
+    },
+    {
       "source": "ccAsia",
       "sourceLabel": "Climate & Capital Asia",
       "taxonomy": "ccasia",
@@ -437,6 +488,18 @@
       "thumbnail": "https://substackcdn.com/image/fetch/%24s_!Kk4i!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fabce7fb6-0543-485a-9e81-cc978b7301e7_1536x1024.png",
       "description": "America's war in Iran claims its first fossil-fuel casualty, as Laos outlaws the petrol engine.",
       "author": "Steve Mudd"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Clean Energy Just Hit a Tipping Point! Solar & Wind Overtake Gas #shorts",
+      "link": "https://www.youtube.com/shorts/bdy4sdB0eEM",
+      "publishDate": "2026-05-28T21:34:24.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/bdy4sdB0eEM/hqdefault.jpg",
+      "description": "The clean energy transition has reached an unprecedented milestone! For the first time in history, solar and wind power have generated more electricity globally than natural gas for an entire month. This isn't a forecast",
+      "author": "FutureKeepers"
     },
     {
       "source": "ccAsia",
