@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T04:48:13.844Z",
+  "generatedAt": "2026-08-17T04:55:29.545Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Harga Panel Surya Anjlok 90%? Ini Alasannya!",
+      "link": "https://www.youtube.com/shorts/613f0OUWfu8",
+      "publishDate": "2026-08-17T02:00:18.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/613f0OUWfu8/hqdefault.jpg",
+      "description": "Dulu, listrik tenaga surya sering dianggap sebagai barang mewah yang mahal dan hanya bisa dijangkau segelintir orang. Tapi, tahukah kamu kalau sekarang situasinya sudah sangat berbeda? Menurut Badan Energi Terbarukan Int",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -296,18 +308,6 @@
       "publishDate": "2026-06-19T02:00:23.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/eDnJo7gXp-s/hqdefault.jpg",
       "description": "Indonesia, negara kepulauan dengan sedikit minyak, kini memimpin revolusi energi bersih. Komunitas di seluruh negeri memilih tenaga surya, menciptakan transisi energi yang dibuat, bukan ditambang. Untuk pertama kalinya, ",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Masa Depan BUKAN Penipuan: Bumi adalah Rumah Kita, Bukan Mars!",
-      "link": "https://www.youtube.com/shorts/n8K9QPITZGU",
-      "publishDate": "2026-06-18T02:00:18.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/n8K9QPITZGU/hqdefault.jpg",
-      "description": "Apakah kita harus menyerahkan planet kita untuk mencari kehidupan di planet lain? Video ini dengan lugas menyatakan bahwa fokus pada Mars adalah pengalihan perhatian dari solusi energi bersih yang sudah ada di Bumi. Seti",
       "author": "FutureKeepers Indonesian"
     },
     {

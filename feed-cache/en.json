@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T04:48:10.370Z",
+  "generatedAt": "2026-08-17T04:55:25.901Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -52,18 +52,6 @@
       "publishDate": "2026-08-12T17:00:27.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/UsbEwpsWH9s/hqdefault.jpg",
       "description": "For the first time in history, solar and wind energy surpassed natural gas in global electricity production this April. Wind and solar produced 22% of the world's electricity in April, while gas produced 20%. This histor",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Impact of Scaling AI on Electrotech",
-      "link": "https://www.youtube.com/shorts/YlarOd8tL1g",
-      "publishDate": "2026-08-10T14:00:27.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/YlarOd8tL1g/hqdefault.jpg",
-      "description": "The fastest-growing AI hubs are already running on cheap renewables, not LNG, challenging the narrative that AI relies on fossil fuels. The global shift is undeniable. 92% of countries have renewable power potential over",
       "author": "FutureKeepers"
     },
     {
@@ -569,6 +557,18 @@
       "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/05/asia-renewable-investments-climate-capital-media-asia.jpg",
       "description": "Four initial investments are expected to avoid over a million tons of carbon dioxide emissions annually. The post Singapore’s blended finance fund secures US$800 million for energy transition appeared first on Climate an",
       "author": "Gabrielle See"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Vietnam's Solar Boom: Powering Local Businesses & Energy Independence #shorts",
+      "link": "https://www.youtube.com/shorts/8TH9LAwioxo",
+      "publishDate": "2026-05-27T19:21:27.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/8TH9LAwioxo/hqdefault.jpg",
+      "description": "While global headlines often focus on energy shocks and geopolitical tensions, a powerful story of progress is unfolding in Vietnam. Solar energy developer SkyX Solar has just secured a $15 million investment to accelera",
+      "author": "FutureKeepers"
     },
     {
       "source": "fkSignal",
