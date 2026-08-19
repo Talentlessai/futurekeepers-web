@@ -1,24 +1,35 @@
 {
-  "generatedAt": "2026-08-18T04:52:26.101Z",
+  "generatedAt": "2026-08-19T04:52:40.878Z",
   "locale": "ur",
   "counts": {
     "ytLongForm": 15,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 0,
+    "ytLongForm": 15,
     "ytShorts": 0
   },
   "rescuedSources": [
-    "ytLongForm",
     "ytShorts"
   ],
   "items": [
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "تاریخی سنگ میل: شمسی اور ہوا کی توانائی نے گیس کو پیچ",
+      "link": "https://www.youtube.com/shorts/-pkaKGuK6RE",
+      "publishDate": "2026-08-18T11:00:23.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/-pkaKGuK6RE/hqdefault.jpg",
+      "description": "اپریل میں، دنیا نے ایک تاریخی سنگ میل عبور کیا: شمسی اور ہوا کی توانائی نے پہلی بار عالمی سطح پر گیس سے زیادہ بجلی پیدا کی۔ یہ ایک ایسا لمحہ ہے جو ہمارے توانائی کے مستقبل کو بدل رہا ہے۔ سب سے زیادہ شیئر کرنے کے قابل اعدا",
+      "author": "FutureKeepers Urdu"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "الیکٹروٹیک انقلاب: شمسی اور ہوا کی طاقت کو کیوں روکا",
       "link": "https://www.youtube.com/shorts/NX7mMuOwDM0",
       "publishDate": "2026-08-15T11:00:18.000Z",
@@ -27,10 +38,10 @@
       "author": "FutureKeepers Urdu"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "پینڈا کی ہری توانائی: دیکھیں کیسے میئی-لن آلودہ توانائی کو بدلتا ہے!",
       "link": "https://www.youtube.com/shorts/xvhJ8YefUwc",
       "publishDate": "2026-08-03T17:22:35.000Z",
@@ -39,10 +50,10 @@
       "author": "FutureKeepers Urdu"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "لاؤس: یکم جون سے پٹرول گاڑیوں پر پابندی",
       "link": "https://www.youtube.com/shorts/Z-bWD_PdSgo",
       "publishDate": "2026-08-03T17:22:22.000Z",
@@ -87,10 +98,10 @@
       "author": "FutureKeepers Urdu"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "گیس آؤٹ: پرانے ایندھن کا اختتام، نئی توانائی کا آغاز!",
       "link": "https://www.youtube.com/shorts/TOcEfzAINjE",
       "publishDate": "2026-07-15T04:00:17.000Z",
@@ -123,10 +134,10 @@
       "author": "FutureKeepers Urdu"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "صاف توانائی نے ریکارڈ توڑ دیا: دنیا کی سب سے بڑی انرج",
       "link": "https://www.youtube.com/shorts/P-1QZ8HmkSY",
       "publishDate": "2026-07-05T04:00:21.000Z",
@@ -135,10 +146,10 @@
       "author": "FutureKeepers Urdu"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "پاکستان بنا آف گرڈ کا بادشاہ: 27 گیگا واٹس سولر چھتوں",
       "link": "https://www.youtube.com/shorts/sS2CsfOm6A4",
       "publishDate": "2026-07-04T04:00:22.000Z",
@@ -147,10 +158,10 @@
       "author": "FutureKeepers Urdu"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "پاکستان کی چھتوں پر 27 گیگا واٹ سولر: آپ کہاں ہیں؟",
       "link": "https://www.youtube.com/shorts/VNkfyMNzywQ",
       "publishDate": "2026-07-03T04:00:21.000Z",
@@ -243,42 +254,6 @@
       "author": "FutureKeepers Urdu"
     },
     {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "بلینڈر اور بورڈ روم: ایک چھوٹی مشین، بڑی تبدیلی",
-      "link": "https://www.youtube.com/watch?v=i9zYcBaPl5k",
-      "publishDate": "2026-06-14T04:00:24.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/i9zYcBaPl5k/hqdefault.jpg",
-      "description": "شروع کرتے ہیں آج کا یہ خاص تجزیہ۔ ہم سیدھا چلتے ہیں ایک ایسی جگہ جو شاید دنیا کے نقشے پر ڈھونڈنا مشکل ہو، لیکن اس کی کہانی بالکل ہمارے اپنے گھروں جیسی ہے۔ ذرا تصور میں لائیں، انڈونیشیا کے علاقے بورنیو میں پانی کے اوپر بس",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "بلینڈر اور بورڈ روم: شمسی توانائی کا خاموش انقلاب",
-      "link": "https://www.youtube.com/watch?v=NR8gRC_h-Ec",
-      "publishDate": "2026-06-13T04:00:17.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/NR8gRC_h-Ec/hqdefault.jpg",
-      "description": "انڈونیشیا کے ایک دور دراز گاؤں میں، ایک خستہ حال ڈیزل جنریٹر تھا جو وہاں کی زندگی کو کنٹرول کرتا تھا۔ اس کی وجہ سے، ایک بلینڈر کا استعمال بھی ایک مالیاتی جوا بن گیا تھا۔ لیکن جب شمسی توانائی آئی تو اس نے سب کچھ بدل دیا۔ ",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "اپریل 2026: ہوا اور سورج نے عالمی بجلی میں گیس کو پیچھے",
-      "link": "https://www.youtube.com/watch?v=_oNjvDK4Xcw",
-      "publishDate": "2026-06-12T04:00:18.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/_oNjvDK4Xcw/hqdefault.jpg",
-      "description": "آپ نے شاید سوچا ہوگا کہ عالمی توانائی کی تبدیلی کا سفر 2040 یا اس سے بھی آگے کی بات ہے، لیکن حقیقت یہ ہے کہ یہ پہلے ہی ہو چکا ہے۔ اپریل 2026 میں، ہوا اور سورج نے مل کر دنیا بھر میں گیس سے زیادہ بجلی پیدا کی۔ اس ایک ماہ م",
-      "author": "FutureKeepers Urdu"
-    },
-    {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "noise",
@@ -312,66 +287,6 @@
       "publishDate": "2026-06-04T04:00:28.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/nq4DJlL9Yj0/hqdefault.jpg",
       "description": "ایک ڈیزل مونسٹر ٹرک سولر سے چلنے والی الیکٹرک گاڑی کے خلاف دوڑ میں جیت کے لیے رشوت دینے کی کوشش کرتا ہے۔ کیا پیسہ شمسی طاقت کو ہرا سکتا ہے؟ شمسی توانائی اور بیٹریاں 24 گھنٹے بجلی فراہم کرتی ہیں، جس کا مطلب ہے کہ آپ کو کب",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "توانائی کا انقلاب: کنارے سے شروع ہوا اصل انقلاب",
-      "link": "https://www.youtube.com/watch?v=DNAADoY9Prg",
-      "publishDate": "2026-06-03T04:00:28.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/DNAADoY9Prg/hqdefault.jpg",
-      "description": "دوستو، اس وقت گلوبل ساؤتھ میں ایک ایسا زبردست توانائی کا انقلاب آ رہا ہے نا، جو توانائی کے پرانے اصولوں کو بالکل بدل کر رکھ دے گا۔ ترقی پذیر دنیا، جنہیں ہم اکثر پیچھے سمجھتے ہیں، دراصل اس انرجی ٹرانزیشن میں رولز کو نئے س",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "ایندھن کا بحران: لاؤس میں 110% قیمت میں اضافہ",
-      "link": "https://www.youtube.com/watch?v=9z1Nsq5nXuU",
-      "publishDate": "2026-06-02T04:00:17.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/9z1Nsq5nXuU/hqdefault.jpg",
-      "description": "جنوبی مشرقی ایشیا کی ایک ایسی کہانی جو پوری عالمی معیشت کا آئینہ بن چکی ہے۔ یہ کہانی صرف ماحولیاتی نہیں، بلکہ معاشی بقا کی جنگ ہے۔ لاؤس میں مارچ 2026 میں ڈیزل کی قیمتوں میں 110% کا اضافہ ہوا اور 40% پیٹرول پمپس بند پڑے۔ ",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "غریب ممالک پٹرول گاڑیوں پر پابندی کیوں لگا رہے ہیں؟",
-      "link": "https://www.youtube.com/watch?v=rRW6H7By1Zo",
-      "publishDate": "2026-06-01T04:00:26.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/rRW6H7By1Zo/hqdefault.jpg",
-      "description": "دنیا کے غریب ترین ممالک پٹرول گاڑیوں پر پابندی لگا رہے ہیں، اور اس کی وجہ ماحولیاتی نہیں بلکہ معاشی مجبوری ہے۔ ایتھوپیا میں الیکٹرک گاڑی چارج کرنے پر صرف $4 ماہانہ خرچ آتا ہے، جبکہ پٹرول گاڑی پر $27۔ یہ ویڈیو ایک دلچسپ ا",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "گوریلا سن: چھتوں پر توانائی کا خاموش انقلاب",
-      "link": "https://www.youtube.com/watch?v=1j3hgrdIi68",
-      "publishDate": "2026-05-16T04:00:16.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/1j3hgrdIi68/hqdefault.jpg",
-      "description": "یہ تجزیہ ایک ایسے زبردست اور خاموش انقلاب کا احاطہ کرتا ہے جو سڑکوں پر نہیں بلکہ عام لوگوں کے گھروں کی چھتوں پر آ رہا ہے – یہ ہے 'گوریلا سن' کی کہانی۔ ہم جانتے ہیں کہ کس طرح عام لوگ اپنے گھروں کی چھتوں پر سولر پینلز لگا ",
-      "author": "FutureKeepers Urdu"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "گوریلا سولر: گھریلو بجلی کے بلوں پر کنٹرول کا نیا انقلاب",
-      "link": "https://www.youtube.com/watch?v=jOQvFGVz1_o",
-      "publishDate": "2026-05-15T12:00:17.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/jOQvFGVz1_o/hqdefault.jpg",
-      "description": "کیا آپ جانتے ہیں کہ دنیا بھر میں توانائی کے بڑھتے ہوئے اخراجات سے عام شہری کس طرح خاموشی سے لڑ رہے ہیں؟ یہ صرف حکومتی پالیسیوں یا بڑی کمپنیوں کا معاملہ نہیں، بلکہ یہ ایک گھریلو انقلاب ہے جسے \"گوریلا سولر\" کہتے ہیں۔ فلپائ",
       "author": "FutureKeepers Urdu"
     }
   ]
