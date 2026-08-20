@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-19T04:49:55.604Z",
+  "generatedAt": "2026-08-20T04:51:05.069Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 10,
-    "ytShorts": 15,
+    "ytShorts": 8,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
@@ -22,54 +22,6 @@
   ],
   "items": [
     {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "5 Billion Tons of CO2 Cut: The Electrotech Revolution",
-      "link": "https://www.youtube.com/shorts/ymxdZp3B6PE",
-      "publishDate": "2026-08-14T19:00:18.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/ymxdZp3B6PE/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "India's $160 Billion Renewable Energy Gap Attracts Big Investment",
-      "link": "https://www.youtube.com/shorts/wSygWMl0Pz8",
-      "publishDate": "2026-08-13T14:00:33.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/wSygWMl0Pz8/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Solar Wind Beat Gas Globally for First Time Ever",
-      "link": "https://www.youtube.com/shorts/UsbEwpsWH9s",
-      "publishDate": "2026-08-12T17:00:27.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/UsbEwpsWH9s/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Panda's Green Power: See How Mei-Lin Transforms Dirty Energy!",
-      "link": "https://www.youtube.com/shorts/voEGcrV8tOM",
-      "publishDate": "2026-08-03T17:24:35.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/voEGcrV8tOM/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers"
-    },
-    {
       "source": "fkSignal",
       "sourceLabel": "FutureKeepers Signal",
       "taxonomy": "signal",
@@ -79,18 +31,6 @@
       "publishDate": "2026-08-03T15:35:31.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/%24s_!Ph80!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb98fbd4f-fc8f-44ec-b70e-80340ace8296_1280x720.png",
       "description": "Asia hit the accelerator. Now the IEA confirms it: renewables pass coal as the world's top power source this year.",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Darkness to Light: Solar Powers Remote Thai Village",
-      "link": "https://www.youtube.com/shorts/kWrTSOfLhpk",
-      "publishDate": "2026-07-30T14:00:29.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/kWrTSOfLhpk/hqdefault.jpg",
-      "description": "",
       "author": "FutureKeepers"
     },
     {
@@ -226,18 +166,6 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "The REAL EV Revolution: Two Wheels, Not Four Doors",
-      "link": "https://www.youtube.com/shorts/KtVJWLksUUY",
-      "publishDate": "2026-07-18T14:00:17.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/KtVJWLksUUY/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers"
-    },
-    {
       "source": "proElectrica",
       "sourceLabel": "ProElectrica",
       "taxonomy": "voices",
@@ -262,18 +190,6 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "From Gas Guzzlers to Green Rides: The Future of Transport is Here!",
-      "link": "https://www.youtube.com/shorts/BozwfJNfzmE",
-      "publishDate": "2026-07-16T14:00:34.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/BozwfJNfzmE/hqdefault.jpg",
-      "description": "",
-      "author": "FutureKeepers"
-    },
-    {
       "source": "fkSignal",
       "sourceLabel": "FutureKeepers Signal",
       "taxonomy": "signal",
@@ -294,6 +210,18 @@
       "link": "https://www.youtube.com/watch?v=-_om0jilLLU",
       "publishDate": "2026-07-06T14:00:20.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/-_om0jilLLU/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Thailand's $120M Solar Bet: Local Power vs. Global Grid",
+      "link": "https://www.youtube.com/watch?v=Y5juKsMQeWo",
+      "publishDate": "2026-07-05T14:00:22.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/Y5juKsMQeWo/hqdefault.jpg",
       "description": "",
       "author": "FutureKeepers"
     },
@@ -331,6 +259,78 @@
       "publishDate": "2026-07-02T14:00:30.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/SwipwUtiZfs/hqdefault.jpg",
       "description": "While the world's cameras were pointed at the Strait of Hormuz this week, fixated on the 'away game' of fossil fuels, the real, untelivised energy revolution is happening at home, where we can truly win. Did you know tha",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Asia's Clean Tech Dominance: Global South's Energy Freedom",
+      "link": "https://www.youtube.com/watch?v=sKpwNAOEGhQ",
+      "publishDate": "2026-06-22T14:00:20.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/sKpwNAOEGhQ/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Solar Bankruptcies? Why That's GOOD News for Asia's Energy",
+      "link": "https://www.youtube.com/watch?v=zI-sOqWLwEg",
+      "publishDate": "2026-06-21T14:00:17.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/zI-sOqWLwEg/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Asia's Solar Boom: How it Beat Gas Escaped Fuel Imports",
+      "link": "https://www.youtube.com/watch?v=9hV4MsE27lg",
+      "publishDate": "2026-06-20T14:00:20.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/9hV4MsE27lg/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Pakistan's Solar Boom Eclipses US",
+      "link": "https://www.youtube.com/watch?v=C5Z9weNq3dM",
+      "publishDate": "2026-06-19T14:00:25.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/C5Z9weNq3dM/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Cambodia Shattered Its Solar Targets Early",
+      "link": "https://www.youtube.com/watch?v=QSgJBEqZJZs",
+      "publishDate": "2026-06-14T14:00:26.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/QSgJBEqZJZs/hqdefault.jpg",
+      "description": "",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Solar's Silent Revolution: Renewables Overtake Gas",
+      "link": "https://www.youtube.com/watch?v=v-xX3LpQOiE",
+      "publishDate": "2026-06-13T14:00:24.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/v-xX3LpQOiE/hqdefault.jpg",
+      "description": "",
       "author": "FutureKeepers"
     },
     {

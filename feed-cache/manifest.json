@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-19T04:49:30.193Z",
+  "generatedAt": "2026-08-20T04:50:33.650Z",
   "locales": {
     "en": {
       "itemCount": 68,
       "counts": {
         "ytLongForm": 10,
-        "ytShorts": 15,
+        "ytShorts": 8,
         "fkSignal": 10,
         "proElectrica": 10,
         "ebirchy": 20,
@@ -22,7 +22,7 @@
       "rescuedSources": [
         "ytShorts"
       ],
-      "bytes": 41833
+      "bytes": 41796
     },
     "id": {
       "itemCount": 20,
@@ -76,16 +76,17 @@
       "itemCount": 23,
       "counts": {
         "ytLongForm": 15,
-        "ytShorts": 15
+        "ytShorts": 8
       },
       "freshCounts": {
-        "ytLongForm": 15,
+        "ytLongForm": 0,
         "ytShorts": 0
       },
       "rescuedSources": [
+        "ytLongForm",
         "ytShorts"
       ],
-      "bytes": 18398
+      "bytes": 18409
     },
     "th": {
       "itemCount": 30,
