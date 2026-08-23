@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-22T04:47:22.859Z",
+  "generatedAt": "2026-08-23T04:50:25.635Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
-    "ytShorts": 8,
+    "ytShorts": 15,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
@@ -11,21 +11,18 @@
   },
   "freshCounts": {
     "ytLongForm": 15,
-    "ytShorts": 0,
+    "ytShorts": 15,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
-  "rescuedSources": [
-    "ytShorts"
-  ],
   "items": [
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "5 Billion Tons of CO2 Cut: The Electrotech Revolution",
       "link": "https://www.youtube.com/shorts/ymxdZp3B6PE",
       "publishDate": "2026-08-14T19:00:18.000Z",
@@ -34,10 +31,10 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "India's $160 Billion Renewable Energy Gap Attracts Big Investment",
       "link": "https://www.youtube.com/shorts/wSygWMl0Pz8",
       "publishDate": "2026-08-13T14:00:33.000Z",
@@ -46,10 +43,10 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "Solar & Wind Beat Gas Globally for First Time Ever",
       "link": "https://www.youtube.com/shorts/UsbEwpsWH9s",
       "publishDate": "2026-08-12T17:00:27.000Z",
@@ -58,10 +55,10 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "Panda's Green Power: See How Mei-Lin Transforms Dirty Energy!",
       "link": "https://www.youtube.com/shorts/voEGcrV8tOM",
       "publishDate": "2026-08-03T17:24:35.000Z",
@@ -82,10 +79,10 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "Darkness to Light: Solar Powers Remote Thai Village",
       "link": "https://www.youtube.com/shorts/kWrTSOfLhpk",
       "publishDate": "2026-07-30T14:00:29.000Z",
@@ -226,10 +223,10 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "The REAL EV Revolution: Two Wheels, Not Four Doors",
       "link": "https://www.youtube.com/shorts/KtVJWLksUUY",
       "publishDate": "2026-07-18T14:00:17.000Z",
@@ -262,10 +259,10 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "From Gas Guzzlers to Green Rides: The Future of Transport is Here!",
       "link": "https://www.youtube.com/shorts/BozwfJNfzmE",
       "publishDate": "2026-07-16T14:00:34.000Z",
@@ -310,10 +307,10 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "5 Signals the 'Home Team' is Winning Globally",
       "link": "https://www.youtube.com/shorts/a_YrqNmmx0M",
       "publishDate": "2026-07-04T14:00:24.000Z",
@@ -322,10 +319,10 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "Clean Energy is Winning: Even Toyota Sees 170% EV Growth",
       "link": "https://www.youtube.com/shorts/qbgvawFjzgU",
       "publishDate": "2026-07-03T14:00:23.000Z",
@@ -334,10 +331,10 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "Forget Hormuz: The REAL Energy Game Is at Home",
       "link": "https://www.youtube.com/shorts/SwipwUtiZfs",
       "publishDate": "2026-07-02T14:00:30.000Z",
@@ -355,6 +352,102 @@
       "publishDate": "2026-06-22T14:00:20.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/sKpwNAOEGhQ/hqdefault.jpg",
       "description": "For the last century, global energy has operated on a system of perpetual rent, where nations pay a continuous toll for fuel they will never own. This model creates profound physical and economic vulnerability, especiall",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Solar Bankruptcies? Why That's GOOD News for Asia's Energy",
+      "link": "https://www.youtube.com/watch?v=zI-sOqWLwEg",
+      "publishDate": "2026-06-21T14:00:17.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/zI-sOqWLwEg/hqdefault.jpg",
+      "description": "Reports of falling solar panel prices and corporate bankruptcies might sound like bad news for the clean energy sector. However, this video reveals why these trends are actually a sign of a rapidly maturing and scaling i",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Asia's Solar Boom: How it Beat Gas & Escaped Fuel Imports",
+      "link": "https://www.youtube.com/watch?v=9hV4MsE27lg",
+      "publishDate": "2026-06-20T14:00:20.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/9hV4MsE27lg/hqdefault.jpg",
+      "description": "Solar power isn't just growing in Asia; it's fundamentally reshaping the continent's energy landscape, outperforming traditional fossil fuels and offering a path to unprecedented energy independence. Since 2020, solar ge",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Pakistan's Solar Boom Eclipses US",
+      "link": "https://www.youtube.com/watch?v=C5Z9weNq3dM",
+      "publishDate": "2026-06-19T14:00:25.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/C5Z9weNq3dM/hqdefault.jpg",
+      "description": "Walk through a bustling street market in South Asia today, and you'll notice a quiet shift: millions of everyday citizens are bypassing traditional power grids entirely, powering their homes and shops independently with ",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Cambodia Shattered Its Solar Targets Early",
+      "link": "https://www.youtube.com/watch?v=QSgJBEqZJZs",
+      "publishDate": "2026-06-14T14:00:26.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/QSgJBEqZJZs/hqdefault.jpg",
+      "description": "Did you know a single policy change in Cambodia led to them blowing past their renewable energy targets years ahead of schedule? It's a powerful lesson in how quickly clean energy can grow when artificial barriers are re",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Solar's Silent Revolution: Renewables Overtake Gas",
+      "link": "https://www.youtube.com/watch?v=v-xX3LpQOiE",
+      "publishDate": "2026-06-13T14:00:24.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/v-xX3LpQOiE/hqdefault.jpg",
+      "description": "In the village of Moara and Glum, Indonesian Borneo, electricity was once limited to a few hours a day, powered by an expensive, fuel-thirsty diesel generator. But in 2015, solar arrays and battery banks arrived, transfo",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "April 2026: Wind & Solar Overtake Gas Globally",
+      "link": "https://www.youtube.com/watch?v=B3Cw3OD_azE",
+      "publishDate": "2026-06-12T14:00:29.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/B3Cw3OD_azE/hqdefault.jpg",
+      "description": "The global energy landscape quietly shifted in April 2026, when wind and solar energy collectively surpassed natural gas in electricity generation worldwide. This monumental crossover saw wind and solar produce 531 Teraw",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Renewables SURPASS Gas Globally: The Reality Gap Explained",
+      "link": "https://www.youtube.com/watch?v=VTIryvncEPk",
+      "publishDate": "2026-06-11T14:00:43.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/VTIryvncEPk/hqdefault.jpg",
+      "description": "While experts in high-end finance and philanthropy conferences debate long-term energy transition targets for 2050, a significant shift is already happening on the ground. In April 2026, wind and solar produced 531 Teraw",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Remote Village Is *Ahead* of Global Energy Leaders on Solar",
+      "link": "https://www.youtube.com/watch?v=xd0WdIgQ1X4",
+      "publishDate": "2026-06-10T14:00:21.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/xd0WdIgQ1X4/hqdefault.jpg",
+      "description": "While global energy leaders discuss renewable power as a distant 2040 goal, a remote village in Indonesian Borneo is already operating in the future, showcasing a profound global inversion. In April 2026, wind and solar ",
       "author": "FutureKeepers"
     },
     {
@@ -379,6 +472,30 @@
       "publishDate": "2026-06-05T14:00:29.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/cb2srFoy6y0/hqdefault.jpg",
       "description": "In a world where traditional fuel sources are becoming unreliable, a gas-guzzling monster truck finds itself in a bind, running completely out of steam. Who comes to the rescue? None other than Mei-Lin, the intrepid pand",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "First Countries to Ban Gas Cars: How & Why",
+      "link": "https://www.youtube.com/watch?v=vdaTIWcruWY",
+      "publishDate": "2026-06-04T14:00:32.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/vdaTIWcruWY/hqdefault.jpg",
+      "description": "Ethiopia and Laos have become the first countries globally to ban the import of gas-powered vehicles. This bold move, driven by economic necessity rather than distant climate goals, marks a significant shift in the globa",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Developing Nations BAN Gas Cars for Economic Survival",
+      "link": "https://www.youtube.com/watch?v=0lpOwkmMhVE",
+      "publishDate": "2026-06-03T14:00:30.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/0lpOwkmMhVE/hqdefault.jpg",
+      "description": "Developing nations like Ethiopia and Laos are taking drastic steps to ditch fossil fuels, not because of climate mandates, but because relying on imported oil and gas has become an unbearable economic burden. They're lit",
       "author": "FutureKeepers"
     },
     {
