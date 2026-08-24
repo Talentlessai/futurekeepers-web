@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T04:50:28.872Z",
+  "generatedAt": "2026-08-24T04:58:46.278Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "PLTS Terapung Cirata: Terbesar se-Asia Tenggara, Baru 4%!",
+      "link": "https://www.youtube.com/shorts/K1-adZNKFvM",
+      "publishDate": "2026-08-24T02:00:28.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/K1-adZNKFvM/hqdefault.jpg",
+      "description": "Tahukah kamu, salah satu kebanggaan energi bersih Asia Tenggara ada di Purwakarta, Jawa Barat? Ini adalah Pembangkit Listrik Tenaga Surya (PLTS) Terapung Cirata, yang bukan hanya terbesar di Asia Tenggara, tapi juga masu",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -248,18 +260,6 @@
       "publishDate": "2026-07-05T02:15:17.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/JMBTdqmnXas/hqdefault.jpg",
       "description": "Pernahkah Anda terpikir betapa mengerikannya efek guncangan harga bahan bakar fosil belakangan ini? Tahukah Anda bahwa India, dengan lebih dari 1 miliar penduduk, hanya memiliki cadangan minyak mentah strategis untuk 8 h",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Dibuang, Dibayar! Beralih ke Energi Hijau Itu Cuan!",
-      "link": "https://www.youtube.com/shorts/IrgiZLCvQJc",
-      "publishDate": "2026-07-04T02:00:21.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/IrgiZLCvQJc/hqdefault.jpg",
-      "description": "Halo teman-teman! Capek dengar berita buruk soal iklim? Tenang, ada kabar baik dari dunia energi bersih yang bikin kantong tebal dan bumi bernapas lega! Tahu enggak, penjualan mobil listrik Toyota melonjak 170%! Ini rang",
       "author": "FutureKeepers Indonesian"
     },
     {
