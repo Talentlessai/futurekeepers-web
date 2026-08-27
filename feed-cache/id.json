@@ -1,19 +1,51 @@
 {
-  "generatedAt": "2026-08-26T04:54:49.847Z",
+  "generatedAt": "2026-08-27T15:13:06.800Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 0,
-    "ytShorts": 0
+    "ytLongForm": 15,
+    "ytShorts": 15
   },
-  "rescuedSources": [
-    "ytLongForm",
-    "ytShorts"
-  ],
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Asia Kuasai 88% Chip & Baterai Global!",
+      "link": "https://www.youtube.com/shorts/-uPQ_vFHYeU",
+      "publishDate": "2026-08-27T02:00:18.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/-uPQ_vFHYeU/hqdefault.jpg",
+      "description": "Tahukah Anda bahwa empat komponen kunci yang menggerakkan hampir setiap perangkat elektronik di bumi kini sebagian besar dikendalikan oleh satu wilayah: Asia? Dari baterai hingga chip, kawasan ini telah menjadi pusat kek",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Terungkap! Pengeluaran Tersembunyi Mobil Bensinmu Setahun!",
+      "link": "https://www.youtube.com/shorts/yg8otr6vOn0",
+      "publishDate": "2026-08-26T02:00:21.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/yg8otr6vOn0/hqdefault.jpg",
+      "description": "Tahukah kamu, ada pengeluaran yang diam-diam menyedot hampir 20 juta rupiah setahun dari kantongmu, dan kamu nyaris tidak merasakannya? Ini adalah biaya tersembunyi dari penggunaan mobil bensin harianmu. Faktanya, untuk ",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Asia: Impor $1T Fosil, Punya 14x Potensi Energi Bersih!",
+      "link": "https://www.youtube.com/shorts/qkdOSOyb5EA",
+      "publishDate": "2026-08-25T02:00:31.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/qkdOSOyb5EA/hqdefault.jpg",
+      "description": "Asia mengimpor lebih dari 1 triliun dolar bahan bakar fosil setiap tahunnya. Namun, laporan terbaru dari Ember menunjukkan bahwa benua ini memiliki potensi energi terbarukan yang luar biasa besar, setidaknya 14 kali lipa",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -159,30 +191,6 @@
       "author": "FutureKeepers Indonesian"
     },
     {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Batu Bara Kalah! Tenaga Surya Jadi Raja Listrik Dunia",
-      "link": "https://www.youtube.com/shorts/4Jp6e0VhzNQ",
-      "publishDate": "2026-08-01T19:00:20.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/4Jp6e0VhzNQ/hqdefault.jpg",
-      "description": "Batu bara sudah jadi raja listrik dunia selama 100 tahun, tapi sebentar lagi takhta itu akan direbut. Tahun 2025, energi bersih diprediksi akan mengalahkan batu bara sebagai sumber listrik utama global! Listrik dari tena",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Mati Lampu Bergilir di Jawa? Rumah Ini Tetap Terang Tanpa Genset!",
-      "link": "https://www.youtube.com/shorts/F-ezsKxfnXQ",
-      "publishDate": "2026-08-01T09:00:21.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/F-ezsKxfnXQ/hqdefault.jpg",
-      "description": "Listrik di Pulau Jawa sedang mengalami pemadaman bergilir akibat kerusakan dua pembangkit besar. Namun, ada satu rumah yang tetap terang benderang, bahkan tanpa genset! Menurut Kementerian ESDM, pemasangan panel surya di",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "signal",
@@ -228,18 +236,6 @@
       "publishDate": "2026-07-17T02:00:18.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/0x2xITAMIFo/hqdefault.jpg",
       "description": "Seringkali kita berpikir transisi energi adalah tentang mobil listrik mewah terbaru, tapi Asia telah menunjukkan bahwa revolusi hijau sebenarnya terjadi di jalanan kita setiap hari, melalui kendaraan-kendaraan sederhana ",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Era Bahan Bakar Fosil Berakhir? Lihat Perjalanan Energi Bersih!",
-      "link": "https://www.youtube.com/shorts/OUMY1594Sas",
-      "publishDate": "2026-07-16T02:00:19.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/OUMY1594Sas/hqdefault.jpg",
-      "description": "Dalam video ini, panda kita yang ceria dengan mudah melaju melalui kota-kota bersih dengan teknologi energi terbarukan, sementara robot tong minyak yang pemarah tertinggal jauh, mengeluarkan asap. Ini adalah gambaran men",
       "author": "FutureKeepers Indonesian"
     },
     {
