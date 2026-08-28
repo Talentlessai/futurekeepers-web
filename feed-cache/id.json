@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T15:13:06.800Z",
+  "generatedAt": "2026-08-28T16:36:00.398Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Solar Malam Hari? Kok Bisa Sih?!",
+      "link": "https://www.youtube.com/shorts/rfY3IoimglU",
+      "publishDate": "2026-08-28T02:00:17.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/rfY3IoimglU/hqdefault.jpg",
+      "description": "Dulu sering banget mikir, \"buat apa pasang panel surya kalau malam hari listriknya mati?\" Ternyata, itu salah total! Di California, baterai-baterai sebesar gudang udah ngalirin listrik tenaga surya ke jutaan rumah setiap",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -176,18 +188,6 @@
       "publishDate": "2026-08-10T02:00:18.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/L6aiNBtEe_Y/hqdefault.jpg",
       "description": "Saat listrik Pulau Jawa padam bergilir, ada satu rumah yang tetap terang benderang tanpa genset. Penasaran rahasianya? Ini adalah solusi yang makin banyak diadopsi di Indonesia. Menurut Kementerian ESDM, pemasangan panel",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Kekuatan Hijau Panda: Mei-Lin Mengubah Energi Kotor Jadi Bersih!",
-      "link": "https://www.youtube.com/shorts/U2CadPcXTZ0",
-      "publishDate": "2026-08-04T02:00:20.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/U2CadPcXTZ0/hqdefault.jpg",
-      "description": "Pernahkah Anda bertanya-tanya bagaimana seekor panda kecil bisa mengubah dunia? Video ini menampilkan Mei-Lin, FutureKeeper kami yang menggemaskan, dalam misi epik untuk membawa energi bersih ke setiap sudut. Saksikan ba",
       "author": "FutureKeepers Indonesian"
     },
     {
