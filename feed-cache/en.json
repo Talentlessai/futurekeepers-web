@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T09:22:58.522Z",
+  "generatedAt": "2026-09-02T08:44:59.562Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,18 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Solar is already beating LNG in the world's richest ocean",
+      "link": "https://www.youtube.com/shorts/VbC1zRA-NbU",
+      "publishDate": "2026-09-02T07:14:30.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/VbC1zRA-NbU/hqdefault.jpg",
+      "description": "Thirty insurers were asked to stop underwriting fossil fuel expansion in the Coral Triangle. One said yes. The Coral Triangle spans Indonesia, Malaysia, Papua New Guinea, the Philippines, Solomon Islands and Timor-Leste.",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -557,18 +569,6 @@
       "thumbnail": "https://images.weserv.nl/?url=www.climateandcapitalmedia.com/wp-content/uploads/2026/05/asia-renewable-investments-climate-capital-media-asia.jpg",
       "description": "Four initial investments are expected to avoid over a million tons of carbon dioxide emissions annually. The post Singapore’s blended finance fund secures US$800 million for energy transition appeared first on Climate an",
       "author": "Gabrielle See"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Vietnam's Solar Boom: Powering Local Businesses & Energy Independence #shorts",
-      "link": "https://www.youtube.com/shorts/8TH9LAwioxo",
-      "publishDate": "2026-05-27T19:21:27.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/8TH9LAwioxo/hqdefault.jpg",
-      "description": "While global headlines often focus on energy shocks and geopolitical tensions, a powerful story of progress is unfolding in Vietnam. Solar energy developer SkyX Solar has just secured a $15 million investment to accelera",
-      "author": "FutureKeepers"
     },
     {
       "source": "fkSignal",
