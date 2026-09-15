@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T09:49:12.276Z",
+  "generatedAt": "2026-09-15T09:23:30.427Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 12,
@@ -18,6 +18,18 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "What Changed and What Didn’t While I Was on Leave!",
+      "link": "https://proelectrica.substack.com/p/what-changed-and-what-didnt-while",
+      "publishDate": "2026-09-14T16:01:32.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!VTSW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2728380-cde2-47f8-9186-ea4807408553_844x838.png",
+      "description": "Back on the Solar Coaster",
+      "author": "Danny Kennedy"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -160,18 +172,6 @@
       "publishDate": "2026-07-20T20:52:04.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/%24s_!6mXW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96dc047a-8175-45f3-8411-7b1f7ea16c68_1448x1086.png",
       "description": "توانائی کی مثالیں: جنوبی اور جنوب مشرقی ایشیا کی توانائی کی منتقلی کا پوشیدہ نصف",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "Code Not Concrete: Why Storage's Next Constraint Is Software, Not Steel",
-      "link": "https://proelectrica.substack.com/p/code-not-concrete-why-storages-next",
-      "publishDate": "2026-07-17T15:47:20.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!t2bG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f18ad20-513d-4acb-b949-9a1cee98195d_1080x1350.png",
-      "description": "Deep Dive: The Intelligence Layer of the Grid",
       "author": "Danny Kennedy"
     },
     {
