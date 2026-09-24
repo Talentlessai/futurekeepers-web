@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T09:17:10.144Z",
+  "generatedAt": "2026-09-24T09:16:37.764Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 12,
@@ -12,15 +12,24 @@
   "freshCounts": {
     "ytLongForm": 12,
     "ytShorts": 15,
-    "fkSignal": 0,
+    "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
-  "rescuedSources": [
-    "fkSignal"
-  ],
   "items": [
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "Assaad Razzouk: The Angry Clean Energy Guy Behind Gurin Energy",
+      "link": "https://proelectrica.substack.com/p/assaad-razzouk-the-angry-clean-energy",
+      "publishDate": "2026-09-23T15:38:05.000Z",
+      "thumbnail": null,
+      "description": "Watch now (48 mins) | Episode #1: Danny Kennedy sits down with Gurin Energy CEO Assaad Razzouk to unpack Asia’s solar boom, and the financial, political, and cultural forces accelerating or holding it back.",
+      "author": "Danny Kennedy"
+    },
     {
       "source": "proElectrica",
       "sourceLabel": "ProElectrica",
@@ -163,18 +172,6 @@
       "publishDate": "2026-07-21T01:00:38.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/%24s_!Phr2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe71a4419-b8a1-4475-9734-96f0b31a1abe_1448x1086.png",
       "description": "Mga Analohiya sa Enerhiya: Ang Nakatagong Kalahati ng Transisyon ng Enerhiya sa Timog at Timog-Silangang Asya",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "وہ جھُنڈ جسے ہم دیکھ نہیں پاتے",
-      "link": "https://proelectrica.substack.com/p/d99",
-      "publishDate": "2026-07-20T20:52:04.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!6mXW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96dc047a-8175-45f3-8411-7b1f7ea16c68_1448x1086.png",
-      "description": "توانائی کی مثالیں: جنوبی اور جنوب مشرقی ایشیا کی توانائی کی منتقلی کا پوشیدہ نصف",
       "author": "Danny Kennedy"
     },
     {
