@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T09:35:09.244Z",
+  "generatedAt": "2026-09-26T09:19:48.769Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 12,
@@ -12,15 +12,24 @@
   "freshCounts": {
     "ytLongForm": 12,
     "ytShorts": 15,
-    "fkSignal": 0,
+    "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
-  "rescuedSources": [
-    "fkSignal"
-  ],
   "items": [
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "Chindia Is on a Roll!",
+      "link": "https://proelectrica.substack.com/p/chindia-is-on-a-roll",
+      "publishDate": "2026-09-25T16:03:13.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!vT_Y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e48e319-f8ef-40bc-ac0b-77862db8154c_2048x1320.png",
+      "description": "Data Drop: India Flattens, China Crosses Over",
+      "author": "Danny Kennedy"
+    },
     {
       "source": "proElectrica",
       "sourceLabel": "ProElectrica",
@@ -163,18 +172,6 @@
       "publishDate": "2026-07-21T01:00:42.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/%24s_!68pk!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3db36d10-e7c4-46a9-8625-f1dc15374247_1448x1086.png",
       "description": "能源类比：南亚与东南亚能源转型中被忽视的一半",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "Ang Kawan na Hindi Natin Nakikita",
-      "link": "https://proelectrica.substack.com/p/ang-kawan-na-hindi-natin-nakikita",
-      "publishDate": "2026-07-21T01:00:38.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!Phr2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe71a4419-b8a1-4475-9734-96f0b31a1abe_1448x1086.png",
-      "description": "Mga Analohiya sa Enerhiya: Ang Nakatagong Kalahati ng Transisyon ng Enerhiya sa Timog at Timog-Silangang Asya",
       "author": "Danny Kennedy"
     },
     {
