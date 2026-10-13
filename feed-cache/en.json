@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T11:54:31.183Z",
+  "generatedAt": "2026-10-13T11:44:02.672Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 12,
@@ -12,13 +12,13 @@
   "freshCounts": {
     "ytLongForm": 12,
     "ytShorts": 15,
-    "fkSignal": 10,
-    "proElectrica": 0,
+    "fkSignal": 0,
+    "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "rescuedSources": [
-    "proElectrica"
+    "fkSignal"
   ],
   "items": [
     {
