@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T09:07:42.561Z",
+  "generatedAt": "2026-10-16T08:59:42.680Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 12,
@@ -12,16 +12,24 @@
   "freshCounts": {
     "ytLongForm": 12,
     "ytShorts": 15,
-    "fkSignal": 0,
-    "proElectrica": 0,
+    "fkSignal": 10,
+    "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
-  "rescuedSources": [
-    "fkSignal",
-    "proElectrica"
-  ],
   "items": [
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "Waqas Moosa: The Man Behind Pakistan’s Solar Rush",
+      "link": "https://proelectrica.substack.com/p/waqas-moosa-the-man-behind-pakistans",
+      "publishDate": "2026-10-15T14:09:52.000Z",
+      "thumbnail": null,
+      "description": "Watch now (43 mins) | Episode #2: Danny Kennedy sits down with Hadron Solar CEO, Waqas Moosa, to unpack Pakistan’s solar boom, from energy security to the batteries shaping what comes next.",
+      "author": "Danny Kennedy"
+    },
     {
       "source": "proElectrica",
       "sourceLabel": "ProElectrica",
@@ -164,18 +172,6 @@
       "publishDate": "2026-07-21T02:01:18.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/%24s_!Mss3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4fa4d04-7b6d-4b4c-83f1-6c235cb1e9bc_1448x1086.png",
       "description": "Những Phép So Sánh Về Năng Lượng: Nửa Câu Chuyện Ít Được Biết Đến Của Quá Trình Chuyển Đổi Năng Lượng Ở Nam Á Và Đông Nam Á",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "Kawanan yang Tak Terlihat",
-      "link": "https://proelectrica.substack.com/p/kawanan-yang-tak-terlihat",
-      "publishDate": "2026-07-21T02:01:12.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!pBNG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bd81648-fded-4947-a60c-f84f5c69f3cd_1448x1086.png",
-      "description": "Analogi Energi: Separuh Tersembunyi dari Transisi Energi Asia Selatan Asia Tenggara",
       "author": "Danny Kennedy"
     },
     {
