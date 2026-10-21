@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T09:23:58.594Z",
+  "generatedAt": "2026-10-21T09:19:46.457Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Pertama dalam sejarah, listrik lebih banyak dibikin dari energi bersih dari pada batu bara",
+      "link": "https://www.youtube.com/shorts/M_DmYeupcPY",
+      "publishDate": "2026-10-21T01:12:41.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/M_DmYeupcPY/hqdefault.jpg",
+      "description": "Pertama dalam sejarah, listrik lebih banyak dibikin dari energi bersih dari pada batu bara. Kedepannya, udah pasti kebutuhan listrik bakal naik karena sekarang semua udah serba digital dan AI. Bagusnya, Indonesia punya p",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -176,18 +188,6 @@
       "publishDate": "2025-12-05T05:00:20.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/KCUgqZpGX9c/hqdefault.jpg",
       "description": "FutureKeepers adalah sumber energi dan optimisme Anda. #energiBersih #India #tenagaSurya #tenagaAngin #penyimpananBaterai #energiTerbarukan #teknologiIklim #FutureKeepers #transisiEnergi #jaringanBersih #AIgenerated",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Lebah Sudah Punya Desain Grid Efisien Jauh Sebelum Kita! 🐝⚡",
-      "link": "https://www.youtube.com/shorts/QtvtF8tXFy0",
-      "publishDate": "2025-12-04T15:46:25.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/QtvtF8tXFy0/hqdefault.jpg",
-      "description": "Lebah sudah membuat “desain grid” yang efisien jauh sebelum kita. 🐝⚡ Bentuk segi enam = kekuatan maksimum, limbah minimum. Alam sudah lama menyelesaikan masalah skala — kita baru mulai mengejarnya sekarang.",
       "author": "FutureKeepers Indonesian"
     }
   ]
