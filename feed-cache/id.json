@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T09:19:46.457Z",
+  "generatedAt": "2026-10-22T09:22:28.067Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,30 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Banyak orang ragu mau pakai panel surya karena malem nggak ada matahari",
+      "link": "https://www.youtube.com/shorts/t0bKapE0-4o",
+      "publishDate": "2026-10-22T01:12:26.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/t0bKapE0-4o/hqdefault.jpg",
+      "description": "Banyak orang ragu mau pakai panel surya karena malem nggak ada matahari. Pahadal kalau dibarengin dengan batre, bisa banyak banget manfaatnya. Siang panen listrik dan dipakai, sisanya bisa disimpan di batre dan dipakai u",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Singapura mau beli matahari Indonesia",
+      "link": "https://www.youtube.com/shorts/-pb7m0CaFCM",
+      "publishDate": "2026-10-21T12:22:59.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/-pb7m0CaFCM/hqdefault.jpg",
+      "description": "Singapura mau beli matahari Indonesia. Dan Indonesia jual mahal. Follow buat cerita energi bersih lainnya. Shine on ☀️",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -164,30 +188,6 @@
       "publishDate": "2025-12-08T06:00:57.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/unyKAp0s05A/hqdefault.jpg",
       "description": "#aigenerated",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Tenaga Surya Menguasai Amerika… Angin Tak Pernah Menyangka!",
-      "link": "https://www.youtube.com/shorts/1q3A0bG_R_8",
-      "publishDate": "2025-12-06T05:45:00.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/1q3A0bG_R_8/hqdefault.jpg",
-      "description": "#aigenerated",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Terobosan Baru India: Listrik Bersih 24/7",
-      "link": "https://www.youtube.com/shorts/KCUgqZpGX9c",
-      "publishDate": "2025-12-05T05:00:20.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/KCUgqZpGX9c/hqdefault.jpg",
-      "description": "FutureKeepers adalah sumber energi dan optimisme Anda. #energiBersih #India #tenagaSurya #tenagaAngin #penyimpananBaterai #energiTerbarukan #teknologiIklim #FutureKeepers #transisiEnergi #jaringanBersih #AIgenerated",
       "author": "FutureKeepers Indonesian"
     }
   ]

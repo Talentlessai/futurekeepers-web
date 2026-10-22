@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-21T09:19:43.193Z",
+  "generatedAt": "2026-10-22T09:22:24.659Z",
   "locale": "en",
   "counts": {
-    "ytLongForm": 12,
-    "ytShorts": 15,
+    "ytLongForm": 4,
+    "ytShorts": 4,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "freshCounts": {
-    "ytLongForm": 12,
-    "ytShorts": 15,
+    "ytLongForm": 4,
+    "ytShorts": 4,
     "fkSignal": 0,
     "proElectrica": 0,
     "ebirchy": 20,
@@ -22,6 +22,30 @@
     "proElectrica"
   ],
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Indonesia is really good at making a product so much more expensive",
+      "link": "https://www.youtube.com/shorts/jAq-q7SnIlU",
+      "publishDate": "2026-10-22T01:12:29.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/jAq-q7SnIlU/hqdefault.jpg",
+      "description": "Indonesia is really good at making a product so much more expensive. Follow FutureKeepers for more clean energy stories. Shine on ☀️",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Singapore is shopping for sunshine, and the seller is haggling",
+      "link": "https://www.youtube.com/shorts/7-bmLMBwB4M",
+      "publishDate": "2026-10-21T12:22:41.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/7-bmLMBwB4M/hqdefault.jpg",
+      "description": "Singapore is shopping for sunshine, and the seller is haggling. Follow for more clean energy stories. Shine on ☀️",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -371,18 +395,6 @@
       "author": "Kari Huus"
     },
     {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Amazon's Green Energy Shift: Why Renewables Beat Fossil Fuels #shorts",
-      "link": "https://www.youtube.com/shorts/T5GFUhKcbCs",
-      "publishDate": "2026-04-15T22:09:00.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/T5GFUhKcbCs/hqdefault.jpg",
-      "description": "Soaring fuel prices are hitting businesses hard! Petrol is up 40%, diesel 80%, and jet fuel has more than doubled, forcing companies like Qantas to cut flights. Every business reliant on imported fuel is feeling the pinc",
-      "author": "FutureKeepers"
-    },
-    {
       "source": "fkSignal",
       "sourceLabel": "FutureKeepers Signal",
       "taxonomy": "signal",
@@ -455,30 +467,6 @@
       "author": "Andrew Birch (\"Birchy\")"
     },
     {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Despite Uncertainty, US Solar Is Charging Ahead!!! #shorts",
-      "link": "https://www.youtube.com/shorts/MkC6jgEsRuA",
-      "publishDate": "2026-02-12T22:00:21.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/MkC6jgEsRuA/hqdefault.jpg",
-      "description": "#aigenerated",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Pakistan Hits the Solar Sweet Spot — 25% Power & a New Panel Factory on the Horizon!! #shorts",
-      "link": "https://www.youtube.com/shorts/AhdmDzxzdok",
-      "publishDate": "2026-02-11T22:30:06.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/AhdmDzxzdok/hqdefault.jpg",
-      "description": "#aigenerated",
-      "author": "FutureKeepers"
-    },
-    {
       "source": "ebirchy",
       "sourceLabel": "Andrew Birch",
       "taxonomy": "voices",
@@ -501,18 +489,6 @@
       "thumbnail": "https://static.wixstatic.com/media/415bc9_2dd40012937d43a99db2bacf9b763887~mv2.webp/v1/fit/w_1000,h_576,al_c,q_80/file.png",
       "description": "I read the Great British Energy strategy paper this week — what a disaster. It’s big, top-down, 20th-century, communist-era thinking on energy. Whenever a government says it wants to “shape markets” and “respond to marke",
       "author": "Andrew Birch (\"Birchy\")"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Pakistan’s Solar Boom Needs a Battery Breakthrough",
-      "link": "https://www.youtube.com/shorts/NSose0pXq44",
-      "publishDate": "2025-12-03T19:00:26.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/NSose0pXq44/hqdefault.jpg",
-      "description": "FutureKeepers is your source for energy and optimism. #aigenerated #futurekeepers #pakistan #cleanenergy #solarpower #batteries #energystorage #renewables #climateaction #solarrevolution #sustainability",
-      "author": "FutureKeepers"
     },
     {
       "source": "ebirchy",
@@ -539,102 +515,6 @@
       "author": "Andrew Birch (\"Birchy\")"
     },
     {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Farming Smarter for a Changing Climate 🌾",
-      "link": "https://www.youtube.com/shorts/GtpUibdsShk",
-      "publishDate": "2025-10-21T18:00:14.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/GtpUibdsShk/hqdefault.jpg",
-      "description": "FutureKeepers is your source for energy and optimism. #AIGenerated #ClimateSmartFarming #BangkokClimateActionWeek #FutureKeepers #SustainableAgriculture #ClimateAction #CleanEnergy #FoodSecurity #GreenFuture #SoutheastAs",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "America’s Clean Energy Boom Is Unstoppable — Even Under Trump",
-      "link": "https://www.youtube.com/shorts/I-6b0TEzkjE",
-      "publishDate": "2025-10-19T21:00:18.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/I-6b0TEzkjE/hqdefault.jpg",
-      "description": "FutureKeepers is your source for energy and optimism. #AIGenerated #CleanEnergyBoom #FutureKeepers #RenewableEnergy #USAEnergy #ClimateAction #GreenTransition #Innovation #Sustainability #EnergyFuture",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "🌞 Pakistan’s Solar Boom: 18,000MW and Rising!",
-      "link": "https://www.youtube.com/shorts/-qIftoeeX3A",
-      "publishDate": "2025-10-18T21:15:00.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/-qIftoeeX3A/hqdefault.jpg",
-      "description": "#aigenerated",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "600 Homes Powered by New Illinois Solar Farm ☀️🌿",
-      "link": "https://www.youtube.com/shorts/sqnvOVIVfp4",
-      "publishDate": "2025-10-17T21:01:05.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/sqnvOVIVfp4/hqdefault.jpg",
-      "description": "#aigenerated",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Clean Energy Myths BUSTED: The Truth About Renewables",
-      "link": "https://www.youtube.com/shorts/Q_RWy7snRxE",
-      "publishDate": "2025-10-17T18:00:28.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/Q_RWy7snRxE/hqdefault.jpg",
-      "description": "FutureKeepers is your source for energy and optimism. #AIGenerated #CleanEnergyMythsBusted #RenewableRevolution #EnergyTransition #ClimateHope #FutureKeepers #SolarPower #WindEnergy #CleanTech #GreenFuture #Sustainabilit",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "The Philippines’ Central Bank is Going Green! 💰🌏",
-      "link": "https://www.youtube.com/shorts/4BaIX-eORF8",
-      "publishDate": "2025-10-16T18:00:08.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/4BaIX-eORF8/hqdefault.jpg",
-      "description": "FutureKeepers is your source for energy and optimism. #AIGenerated #GreenFinance #ClimateAction #FutureKeepers #SustainableBanking #CleanEnergy #Philippines #ClimateHope #RenewableFuture #EcoInvestment #FinanceForGood #R",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Solar Energy Meets Wildlife Conservation in Illinois",
-      "link": "https://www.youtube.com/shorts/gUfI-_vhncY",
-      "publishDate": "2025-10-15T21:15:03.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/gUfI-_vhncY/hqdefault.jpg",
-      "description": "#aigenerated #solarenergy #renewableenergy",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "This Tiny Organism Could Fight Climate Change 🌍🔥",
-      "link": "https://www.youtube.com/shorts/_J1bYLYQcrw",
-      "publishDate": "2025-10-15T18:00:50.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/_J1bYLYQcrw/hqdefault.jpg",
-      "description": "FutureKeepers is your source for energy and optimism. #AIGenerated #MethaneEaters #ClimateHope #FutureKeepers #CleanTech #NatureBasedSolutions #MicrobesForChange #ClimateAction #Sustainability #Innovation #RenewableFutur",
-      "author": "FutureKeepers"
-    },
-    {
       "source": "ebirchy",
       "sourceLabel": "Andrew Birch",
       "taxonomy": "voices",
@@ -645,18 +525,6 @@
       "thumbnail": "https://static.wixstatic.com/media/415bc9_cea44a1fa78f4775b8f367b9d6a08b5b~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
       "description": "We’ve recently completed a $20 million equity raise from leading technology investors including Titanium Ventures, Google, and 2150 Sustainability Fund, among others, who share our belief that clean-energy progress comes",
       "author": "Andrew Birch (\"Birchy\")"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "The TRIPLE threat no one is talking about",
-      "link": "https://www.youtube.com/shorts/1t0GP_LKsjY",
-      "publishDate": "2025-10-14T04:30:01.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/1t0GP_LKsjY/hqdefault.jpg",
-      "description": "Australia's government has issued an urgent warning, and the world should listen up. Fueled by climate change, natural disasters are more likely to strike together, making responding to them more difficult. Heat waves, s",
-      "author": "FutureKeepers"
     },
     {
       "source": "ebirchy",
