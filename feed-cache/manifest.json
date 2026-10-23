@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-22T09:22:24.119Z",
+  "generatedAt": "2026-10-23T09:18:30.956Z",
   "locales": {
     "en": {
-      "itemCount": 54,
+      "itemCount": 55,
       "counts": {
-        "ytLongForm": 4,
-        "ytShorts": 4,
+        "ytLongForm": 5,
+        "ytShorts": 5,
         "fkSignal": 10,
         "proElectrica": 10,
         "ebirchy": 20,
         "ccAsia": 10
       },
       "freshCounts": {
-        "ytLongForm": 4,
-        "ytShorts": 4,
+        "ytLongForm": 5,
+        "ytShorts": 5,
         "fkSignal": 0,
         "proElectrica": 0,
         "ebirchy": 20,
@@ -23,19 +23,19 @@
         "fkSignal",
         "proElectrica"
       ],
-      "bytes": 35387
+      "bytes": 35887
     },
     "id": {
-      "itemCount": 15,
+      "itemCount": 5,
       "counts": {
-        "ytLongForm": 15,
-        "ytShorts": 15
+        "ytLongForm": 5,
+        "ytShorts": 5
       },
       "freshCounts": {
-        "ytLongForm": 15,
-        "ytShorts": 15
+        "ytLongForm": 5,
+        "ytShorts": 5
       },
-      "bytes": 8461
+      "bytes": 3021
     },
     "zh": {
       "itemCount": 30,
@@ -44,10 +44,14 @@
         "ytShorts": 15
       },
       "freshCounts": {
-        "ytLongForm": 15,
-        "ytShorts": 15
+        "ytLongForm": 0,
+        "ytShorts": 0
       },
-      "bytes": 30659
+      "rescuedSources": [
+        "ytLongForm",
+        "ytShorts"
+      ],
+      "bytes": 30700
     },
     "bn": {
       "itemCount": 30,
@@ -56,10 +60,14 @@
         "ytShorts": 15
       },
       "freshCounts": {
-        "ytLongForm": 15,
-        "ytShorts": 15
+        "ytLongForm": 0,
+        "ytShorts": 0
       },
-      "bytes": 30636
+      "rescuedSources": [
+        "ytLongForm",
+        "ytShorts"
+      ],
+      "bytes": 30677
     },
     "ur": {
       "itemCount": 1,
@@ -96,10 +104,14 @@
         "ytShorts": 15
       },
       "freshCounts": {
-        "ytLongForm": 15,
-        "ytShorts": 15
+        "ytLongForm": 0,
+        "ytShorts": 0
       },
-      "bytes": 29644
+      "rescuedSources": [
+        "ytLongForm",
+        "ytShorts"
+      ],
+      "bytes": 29685
     }
   }
 }

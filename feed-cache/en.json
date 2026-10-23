@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-22T09:22:24.659Z",
+  "generatedAt": "2026-10-23T09:18:31.327Z",
   "locale": "en",
   "counts": {
-    "ytLongForm": 4,
-    "ytShorts": 4,
+    "ytLongForm": 5,
+    "ytShorts": 5,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "freshCounts": {
-    "ytLongForm": 4,
-    "ytShorts": 4,
+    "ytLongForm": 5,
+    "ytShorts": 5,
     "fkSignal": 0,
     "proElectrica": 0,
     "ebirchy": 20,
@@ -22,6 +22,18 @@
     "proElectrica"
   ],
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "AC, refrigerators, we need more and more electricity everyday",
+      "link": "https://www.youtube.com/shorts/ganwOg02NB4",
+      "publishDate": "2026-10-23T01:12:32.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/ganwOg02NB4/hqdefault.jpg",
+      "description": "AC, refrigerators, we need more and more electricity everyday. Follow FutureKeepers for more clean energy stories. Shine on ☀️",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
