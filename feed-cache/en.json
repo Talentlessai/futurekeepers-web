@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-23T09:18:31.327Z",
+  "generatedAt": "2026-10-24T08:50:40.780Z",
   "locale": "en",
   "counts": {
-    "ytLongForm": 5,
-    "ytShorts": 5,
+    "ytLongForm": 6,
+    "ytShorts": 6,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "freshCounts": {
-    "ytLongForm": 5,
-    "ytShorts": 5,
+    "ytLongForm": 6,
+    "ytShorts": 6,
     "fkSignal": 0,
     "proElectrica": 0,
     "ebirchy": 20,
@@ -22,6 +22,18 @@
     "proElectrica"
   ],
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "The way we’ve been building so far still using benchmarks that are starting to become outdated",
+      "link": "https://www.youtube.com/shorts/LQp2wtR5PxY",
+      "publishDate": "2026-10-24T01:12:12.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/LQp2wtR5PxY/hqdefault.jpg",
+      "description": "The way we’ve been building so far still using benchmarks that are starting to become outdated. Follow FutureKeepers for more clean energy news. Shine on ☀️",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",

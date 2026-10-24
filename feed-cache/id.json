@@ -1,15 +1,39 @@
 {
-  "generatedAt": "2026-10-23T09:18:34.498Z",
+  "generatedAt": "2026-10-24T08:50:43.942Z",
   "locale": "id",
   "counts": {
-    "ytLongForm": 5,
-    "ytShorts": 5
+    "ytLongForm": 7,
+    "ytShorts": 7
   },
   "freshCounts": {
-    "ytLongForm": 5,
-    "ytShorts": 5
+    "ytLongForm": 7,
+    "ytShorts": 7
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Banyak yang ngeluh tagihan listrik naik, padahal PLN gak naikin tarif",
+      "link": "https://www.youtube.com/shorts/g2XvicY2n2A",
+      "publishDate": "2026-10-24T01:12:21.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/g2XvicY2n2A/hqdefault.jpg",
+      "description": "Banyak yang ngeluh tagihan listrik naik, padahal PLN gak naikin tarif. Ternyata memang kalau cuaca lagi panas ac dan barang elektronik kita lebih boros pakai listrik. Tapi kalau pakai PLTS atap, kita bisa panen listrik s",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Taman kamu paling cantik justru pas nggak ada matahari",
+      "link": "https://www.youtube.com/shorts/Oi9QXMQ2rIs",
+      "publishDate": "2026-10-23T16:26:53.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/Oi9QXMQ2rIs/hqdefault.jpg",
+      "description": "Taman kamu paling cantik justru pas nggak ada matahari. Follow FutureKeepers buat cerita energi bersih lainnya. Shine on ☀️",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
