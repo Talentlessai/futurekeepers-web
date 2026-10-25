@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-24T08:50:40.780Z",
+  "generatedAt": "2026-10-25T09:06:51.074Z",
   "locale": "en",
   "counts": {
-    "ytLongForm": 6,
-    "ytShorts": 6,
+    "ytLongForm": 7,
+    "ytShorts": 7,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "freshCounts": {
-    "ytLongForm": 6,
-    "ytShorts": 6,
+    "ytLongForm": 7,
+    "ytShorts": 7,
     "fkSignal": 0,
     "proElectrica": 0,
     "ebirchy": 20,
@@ -22,6 +22,18 @@
     "proElectrica"
   ],
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Asia has already changed jobs twice, and we’re still imagining the first one",
+      "link": "https://www.youtube.com/shorts/F3BXKUCQTho",
+      "publishDate": "2026-10-25T01:08:17.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/F3BXKUCQTho/hqdefault.jpg",
+      "description": "Asia has already changed jobs twice, and we’re still imagining the first one. Follow FutureKeepers for more clean energy stories. Shine on ☀️",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",

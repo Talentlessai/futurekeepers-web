@@ -1,15 +1,27 @@
 {
-  "generatedAt": "2026-10-24T08:50:43.942Z",
+  "generatedAt": "2026-10-25T09:06:54.608Z",
   "locale": "id",
   "counts": {
-    "ytLongForm": 7,
-    "ytShorts": 7
+    "ytLongForm": 8,
+    "ytShorts": 8
   },
   "freshCounts": {
-    "ytLongForm": 7,
-    "ytShorts": 7
+    "ytLongForm": 8,
+    "ytShorts": 8
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Sukuk mungkin udah banyak yang denger, tapi Green Sukuk? Kaya sukuk biasa, kupon nya juga ikutin",
+      "link": "https://www.youtube.com/shorts/-Qoy1PDIV-s",
+      "publishDate": "2026-10-25T01:08:25.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/-Qoy1PDIV-s/hqdefault.jpg",
+      "description": "Sukuk mungkin udah banyak yang denger, tapi Green Sukuk? Kaya sukuk biasa, kupon nya juga ikutin suku bunga BI. Tapi, 100% dananya dipakai untuk proyek hijau contoh nya bangun panel surya di Pulau Selayar Sulawesi Selata",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
