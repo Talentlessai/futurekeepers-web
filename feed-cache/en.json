@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-25T09:06:51.074Z",
+  "generatedAt": "2026-10-26T10:02:58.990Z",
   "locale": "en",
   "counts": {
-    "ytLongForm": 7,
-    "ytShorts": 7,
+    "ytLongForm": 8,
+    "ytShorts": 8,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "freshCounts": {
-    "ytLongForm": 7,
-    "ytShorts": 7,
+    "ytLongForm": 8,
+    "ytShorts": 8,
     "fkSignal": 0,
     "proElectrica": 0,
     "ebirchy": 20,
@@ -22,6 +22,18 @@
     "proElectrica"
   ],
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Indonesia has already beaten America",
+      "link": "https://www.youtube.com/shorts/M7CRmIU8rvc",
+      "publishDate": "2026-10-26T01:12:33.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/M7CRmIU8rvc/hqdefault.jpg",
+      "description": "Indonesia has already beaten America. Follow FutureKeepers for more clean energy stories. Shine on ☀️",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
