@@ -1,15 +1,39 @@
 {
-  "generatedAt": "2026-10-26T10:03:02.261Z",
+  "generatedAt": "2026-10-27T09:46:33.640Z",
   "locale": "id",
   "counts": {
-    "ytLongForm": 9,
-    "ytShorts": 9
+    "ytLongForm": 11,
+    "ytShorts": 11
   },
   "freshCounts": {
-    "ytLongForm": 9,
-    "ytShorts": 9
+    "ytLongForm": 11,
+    "ytShorts": 11
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Harga pasang panel surya udah turun 90%! Nggak heran kalau sekarang makin banyak orang pasang PLTS",
+      "link": "https://www.youtube.com/shorts/oOJEvGLUKEA",
+      "publishDate": "2026-10-27T01:12:41.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/oOJEvGLUKEA/hqdefault.jpg",
+      "description": "Harga pasang panel surya udah turun 90%! Nggak heran kalau sekarang makin banyak orang pasang PLTS atap di rumahnya. Bikin listrik sendiri dari matahari lama lama bakal jadi makin murah dan makin efisien. Ini bakal jadi ",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Kafe ini bisa nyamperin kamu",
+      "link": "https://www.youtube.com/shorts/JrLlTNnjfKU",
+      "publishDate": "2026-10-26T10:24:34.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/JrLlTNnjfKU/hqdefault.jpg",
+      "description": "Kafe ini bisa nyamperin kamu. Follow FutureKeepers buat cerita energi bersih lainnya. Shine on ☀️",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",

@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-26T10:02:58.990Z",
+  "generatedAt": "2026-10-27T09:46:30.308Z",
   "locale": "en",
   "counts": {
-    "ytLongForm": 8,
-    "ytShorts": 8,
+    "ytLongForm": 9,
+    "ytShorts": 9,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "freshCounts": {
-    "ytLongForm": 8,
-    "ytShorts": 8,
+    "ytLongForm": 9,
+    "ytShorts": 9,
     "fkSignal": 0,
     "proElectrica": 0,
     "ebirchy": 20,
@@ -22,6 +22,18 @@
     "proElectrica"
   ],
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Asia only holds 2% of the World’s oil reserves",
+      "link": "https://www.youtube.com/shorts/CZDfqDPXyXE",
+      "publishDate": "2026-10-27T01:12:43.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/CZDfqDPXyXE/hqdefault.jpg",
+      "description": "Asia only holds 2% of the World’s oil reserves. Follow for more clean energy news. Shine on ☀️",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
