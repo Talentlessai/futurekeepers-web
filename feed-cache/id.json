@@ -1,15 +1,39 @@
 {
-  "generatedAt": "2026-10-27T09:46:33.640Z",
+  "generatedAt": "2026-10-28T10:31:36.867Z",
   "locale": "id",
   "counts": {
-    "ytLongForm": 11,
-    "ytShorts": 11
+    "ytLongForm": 13,
+    "ytShorts": 13
   },
   "freshCounts": {
-    "ytLongForm": 11,
-    "ytShorts": 11
+    "ytLongForm": 13,
+    "ytShorts": 13
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "AI bikin Thailand sama Malaysia susah saling pinjem listrik",
+      "link": "https://www.youtube.com/shorts/ybj_uC6Govo",
+      "publishDate": "2026-10-28T10:20:45.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/ybj_uC6Govo/hqdefault.jpg",
+      "description": "AI bikin Thailand sama Malaysia susah saling pinjem listrik. Dan anehnya, yang ketiban rezeki malah panel surya. Follow buat cerita energi bersih lainnya. Shine on ☀️",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Jerman yang termasuk negara paling mendung di Eropa aja bisa jadi raja panel surya",
+      "link": "https://www.youtube.com/shorts/bWptQJ0w0YU",
+      "publishDate": "2026-10-28T01:13:45.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/bWptQJ0w0YU/hqdefault.jpg",
+      "description": "Jerman yang termasuk negara paling mendung di Eropa aja bisa jadi raja panel surya. Indonesia yang kebanjiran matahari, gimana? Potensi kita besar banget, dan kalau digarap semua harusnya udah gak ada lagi masalah listri",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",

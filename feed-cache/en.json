@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-27T09:46:30.308Z",
+  "generatedAt": "2026-10-28T10:31:33.562Z",
   "locale": "en",
   "counts": {
-    "ytLongForm": 9,
-    "ytShorts": 9,
+    "ytLongForm": 10,
+    "ytShorts": 10,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "freshCounts": {
-    "ytLongForm": 9,
-    "ytShorts": 9,
+    "ytLongForm": 10,
+    "ytShorts": 10,
     "fkSignal": 0,
     "proElectrica": 0,
     "ebirchy": 20,
@@ -22,6 +22,18 @@
     "proElectrica"
   ],
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Thailand and Malaysia have traded electricity for over twenty years, and one trick was a clock",
+      "link": "https://www.youtube.com/shorts/M0lPDMIMj2c",
+      "publishDate": "2026-10-28T10:20:50.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/M0lPDMIMj2c/hqdefault.jpg",
+      "description": "Thailand and Malaysia have traded electricity for over twenty years, and one trick was a clock. Follow for more clean energy stories. Shine on ☀️",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
