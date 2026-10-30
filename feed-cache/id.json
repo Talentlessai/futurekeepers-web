@@ -1,15 +1,27 @@
 {
-  "generatedAt": "2026-10-29T10:51:41.198Z",
+  "generatedAt": "2026-10-30T10:51:23.523Z",
   "locale": "id",
   "counts": {
-    "ytLongForm": 13,
-    "ytShorts": 13
+    "ytLongForm": 14,
+    "ytShorts": 14
   },
   "freshCounts": {
-    "ytLongForm": 13,
-    "ytShorts": 13
+    "ytLongForm": 14,
+    "ytShorts": 14
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Salah satu kebanggaan energi Asia Tenggara ada di Jawa Barat 🇮🇩 Ada 340 ribu panel surya yang",
+      "link": "https://www.youtube.com/shorts/nDw1f2R3NmU",
+      "publishDate": "2026-10-30T01:16:55.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/nDw1f2R3NmU/hqdefault.jpg",
+      "description": "Salah satu kebanggaan energi Asia Tenggara ada di Jawa Barat 🇮🇩 Ada 340 ribu panel surya yang ngambang di atas Waduk Cirata, dan ini cukup buat 50 ribu rumah. Panel surya ini sengaja dibiarkan mengambang biar lebih ade",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",

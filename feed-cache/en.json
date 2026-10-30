@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T10:51:37.960Z",
+  "generatedAt": "2026-10-30T10:50:56.448Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 10,
@@ -12,15 +12,11 @@
   "freshCounts": {
     "ytLongForm": 10,
     "ytShorts": 10,
-    "fkSignal": 0,
-    "proElectrica": 0,
+    "fkSignal": 10,
+    "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
-  "rescuedSources": [
-    "fkSignal",
-    "proElectrica"
-  ],
   "items": [
     {
       "source": "ytLongForm",
@@ -83,6 +79,18 @@
       "author": "FutureKeepers"
     },
     {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "Nham Bui: The Physics Lover Bringing Solar to Vietnam’s Forgotten Rooftops",
+      "link": "https://proelectrica.substack.com/p/nham-bui-the-physics-lover-bringing",
+      "publishDate": "2026-10-23T13:03:52.000Z",
+      "thumbnail": null,
+      "description": "Episode #2: Danny Kennedy sits down with XSolar CEO Nham Bui to explore how no-money-down solar, smart software, and a few hundred small rooftops are reshaping energy for Vietnam’s small businesses.",
+      "author": "Danny Kennedy"
+    },
+    {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "signal",
@@ -93,6 +101,18 @@
       "thumbnail": "https://i4.ytimg.com/vi/ganwOg02NB4/hqdefault.jpg",
       "description": "AC, refrigerators, we need more and more electricity everyday. Follow FutureKeepers for more clean energy stories. Shine on ☀️",
       "author": "FutureKeepers"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "PolyOpportunity? Notes from Bangkok Climate Action Week",
+      "link": "https://proelectrica.substack.com/p/polyopportunity-notes-from-bangkok",
+      "publishDate": "2026-10-22T13:03:23.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!xA9g!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2685dca0-f084-4ec0-9758-b0eff43cf250_1671x941.png",
+      "description": "“Asia as Method” for the Energy Transformation",
+      "author": "Danny Kennedy"
     },
     {
       "source": "ytLongForm",
@@ -260,30 +280,6 @@
       "publishDate": "2026-07-21T03:31:22.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/%24s_!0wTp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e32d198-1269-466c-b48b-7724849c9ce7_1448x1086.png",
       "description": "শক্তি-উপমা: দক্ষিণ ও দক্ষিণ-পূর্ব এশিয়ার জ্বালানি রূপান্তরের অদৃশ্য অর্ধেক",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "যে ঝাঁককে আমরা দেখতে পাই না",
-      "link": "https://proelectrica.substack.com/p/94b",
-      "publishDate": "2026-07-21T03:00:39.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!fbqJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfde726d-c02c-448b-b197-105d01cd966f_1448x1086.png",
-      "description": "শক্তি-উপমা: দক্ষিণ ও দক্ষিণ-পূর্ব এশিয়ার জ্বালানি রূপান্তরের অদৃশ্য অর্ধেক",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "Bầy Đàn Vô Hình",
-      "link": "https://proelectrica.substack.com/p/bay-an-vo-hinh",
-      "publishDate": "2026-07-21T02:01:18.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!Mss3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4fa4d04-7b6d-4b4c-83f1-6c235cb1e9bc_1448x1086.png",
-      "description": "Những Phép So Sánh Về Năng Lượng: Nửa Câu Chuyện Ít Được Biết Đến Của Quá Trình Chuyển Đổi Năng Lượng Ở Nam Á Và Đông Nam Á",
       "author": "Danny Kennedy"
     },
     {
