@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-30T10:50:56.448Z",
+  "generatedAt": "2026-10-31T10:20:51.128Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 10,
     "ytShorts": 10,
-    "fkSignal": 10,
-    "proElectrica": 10,
+    "fkSignal": 15,
+    "proElectrica": 20,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "freshCounts": {
     "ytLongForm": 10,
     "ytShorts": 10,
-    "fkSignal": 10,
-    "proElectrica": 10,
+    "fkSignal": 15,
+    "proElectrica": 20,
     "ebirchy": 20,
     "ccAsia": 10
   },
@@ -87,7 +87,7 @@
       "link": "https://proelectrica.substack.com/p/nham-bui-the-physics-lover-bringing",
       "publishDate": "2026-10-23T13:03:52.000Z",
       "thumbnail": null,
-      "description": "Episode #2: Danny Kennedy sits down with XSolar CEO Nham Bui to explore how no-money-down solar, smart software, and a few hundred small rooftops are reshaping energy for Vietnam’s small businesses.",
+      "description": "Episode #2: Danny Kennedy sits down with XSolar CEO Nham Bui to explore how no-money-down solar, smart software, and a few hundred small rooftops are reshaping energy for Vietnam s small businesses.",
       "author": "Danny Kennedy"
     },
     {
@@ -110,8 +110,8 @@
       "title": "PolyOpportunity? Notes from Bangkok Climate Action Week",
       "link": "https://proelectrica.substack.com/p/polyopportunity-notes-from-bangkok",
       "publishDate": "2026-10-22T13:03:23.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!xA9g!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2685dca0-f084-4ec0-9758-b0eff43cf250_1671x941.png",
-      "description": "“Asia as Method” for the Energy Transformation",
+      "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/39d58221-69f2-4ebb-b26b-d9366654f729_1671x941.png",
+      "description": "Asia as Method for the Energy Transformation",
       "author": "Danny Kennedy"
     },
     {
@@ -159,7 +159,7 @@
       "link": "https://proelectrica.substack.com/p/waqas-moosa-the-man-behind-pakistans",
       "publishDate": "2026-10-15T14:09:52.000Z",
       "thumbnail": null,
-      "description": "Watch now (43 mins) | Episode #2: Danny Kennedy sits down with Hadron Solar CEO, Waqas Moosa, to unpack Pakistan’s solar boom, from energy security to the batteries shaping what comes next.",
+      "description": "Watch now (43 mins) | Episode #2: Danny Kennedy sits down with Hadron Solar CEO, Waqas Moosa, to unpack Pakistan s solar boom, from energy security to the batteries shaping what comes next.",
       "author": "Danny Kennedy"
     },
     {
@@ -170,8 +170,8 @@
       "title": "That’s not a Knife: An Aussie perspective on NY Climate Week",
       "link": "https://proelectrica.substack.com/p/thats-not-a-knife-an-aussie-perspective",
       "publishDate": "2026-09-28T19:49:10.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!s3x8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91db5b3f-25da-4347-91d9-d30689965615_1382x980.png",
-      "description": "Note from the Field: How Australia’s solar and battery boom is pushing gas out and power prices down",
+      "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/2769b809-5ed6-4f17-8188-1164c567f3aa_1728x910.png",
+      "description": "Note from the Field: How Australia s solar and battery boom is pushing gas out and power prices down",
       "author": "Danny Kennedy"
     },
     {
@@ -182,7 +182,7 @@
       "title": "Chindia Is on a Roll!",
       "link": "https://proelectrica.substack.com/p/chindia-is-on-a-roll",
       "publishDate": "2026-09-25T16:03:13.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!vT_Y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e48e319-f8ef-40bc-ac0b-77862db8154c_2048x1320.png",
+      "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/af449f2f-b0a8-401d-8d42-dfa85b793850_1729x910.png",
       "description": "Data Drop: India Flattens, China Crosses Over",
       "author": "Danny Kennedy"
     },
@@ -195,7 +195,7 @@
       "link": "https://proelectrica.substack.com/p/assaad-razzouk-the-angry-clean-energy",
       "publishDate": "2026-09-23T15:38:05.000Z",
       "thumbnail": null,
-      "description": "Watch now (48 mins) | Episode #1: Danny Kennedy sits down with Gurin Energy CEO Assaad Razzouk to unpack Asia’s solar boom, and the financial, political, and cultural forces accelerating or holding it back.",
+      "description": "Watch now (48 mins) | Episode #1: Danny Kennedy sits down with Gurin Energy CEO Assaad Razzouk to unpack Asia s solar boom, and the financial, political, and cultural forces accelerating or holding it back.",
       "author": "Danny Kennedy"
     },
     {
@@ -206,7 +206,7 @@
       "title": "What Changed and What Didn’t While I Was on Leave!",
       "link": "https://proelectrica.substack.com/p/what-changed-and-what-didnt-while",
       "publishDate": "2026-09-14T16:01:32.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!VTSW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2728380-cde2-47f8-9186-ea4807408553_844x838.png",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!VTSW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2728380-cde2-47f8-9186-ea4807408553_844x838.png",
       "description": "Back on the Solar Coaster",
       "author": "Danny Kennedy"
     },
@@ -230,7 +230,7 @@
       "title": "The Signal Turns Green",
       "link": "https://futurekeepers.substack.com/p/the-signal-turns-green",
       "publishDate": "2026-08-03T15:35:31.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!Ph80!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb98fbd4f-fc8f-44ec-b70e-80340ace8296_1280x720.png",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!Ph80!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb98fbd4f-fc8f-44ec-b70e-80340ace8296_1280x720.png",
       "description": "Asia hit the accelerator. Now the IEA confirms it: renewables pass coal as the world's top power source this year.",
       "author": "FutureKeepers"
     },
@@ -242,7 +242,7 @@
       "title": "The Beer That Bitcoin Brewed",
       "link": "https://proelectrica.substack.com/p/the-beer-that-bitcoin-brewed",
       "publishDate": "2026-07-28T20:19:17.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!qy09!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5b09a33-c407-4e18-80f3-d11f5816bbb1_1402x1122.png",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!qy09!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5b09a33-c407-4e18-80f3-d11f5816bbb1_1402x1122.png",
       "description": "Case Study: What to Do With Too Much Sunshine",
       "author": "Danny Kennedy"
     },
@@ -266,7 +266,7 @@
       "title": "Deep (Seek) Sneak Preview: It’s the Cost of Electricity, Stupid!",
       "link": "https://proelectrica.substack.com/p/deep-seek-sneak-preview-its-the-cost",
       "publishDate": "2026-07-21T14:04:33.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!uMo6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F254dc920-5556-41cc-908c-3478929f46b4_624x416.png",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!uMo6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F254dc920-5556-41cc-908c-3478929f46b4_624x416.png",
       "description": "Deep Dive: The AI War Will Be Won on the Power Grid",
       "author": "Danny Kennedy"
     },
@@ -278,8 +278,116 @@
       "title": "যে ঝাঁককে আমরা দেখতে পাই না",
       "link": "https://proelectrica.substack.com/p/1bb",
       "publishDate": "2026-07-21T03:31:22.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!0wTp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e32d198-1269-466c-b48b-7724849c9ce7_1448x1086.png",
-      "description": "শক্তি-উপমা: দক্ষিণ ও দক্ষিণ-পূর্ব এশিয়ার জ্বালানি রূপান্তরের অদৃশ্য অর্ধেক",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!0wTp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e32d198-1269-466c-b48b-7724849c9ce7_1448x1086.png",
+      "description": "- : -",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "যে ঝাঁককে আমরা দেখতে পাই না",
+      "link": "https://proelectrica.substack.com/p/94b",
+      "publishDate": "2026-07-21T03:00:39.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!fbqJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfde726d-c02c-448b-b197-105d01cd966f_1448x1086.png",
+      "description": "- : -",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "Bầy Đàn Vô Hình",
+      "link": "https://proelectrica.substack.com/p/bay-an-vo-hinh",
+      "publishDate": "2026-07-21T02:01:18.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!Mss3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4fa4d04-7b6d-4b4c-83f1-6c235cb1e9bc_1448x1086.png",
+      "description": "Nh ng Ph p So S nh V N ng L ng: N a C u Chuy n t c Bi t n C a Qu Tr nh Chuy n i N ng L ng Nam V ng Nam",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "Kawanan yang Tak Terlihat",
+      "link": "https://proelectrica.substack.com/p/kawanan-yang-tak-terlihat",
+      "publishDate": "2026-07-21T02:01:12.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!pBNG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bd81648-fded-4947-a60c-f84f5c69f3cd_1448x1086.png",
+      "description": "Analogi Energi: Separuh Tersembunyi dari Transisi Energi Asia Selatan & Asia Tenggara",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "看不见的蜂群",
+      "link": "https://proelectrica.substack.com/p/29e",
+      "publishDate": "2026-07-21T01:00:42.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!68pk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3db36d10-e7c4-46a9-8625-f1dc15374247_1448x1086.png",
+      "description": "",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "Ang Kawan na Hindi Natin Nakikita",
+      "link": "https://proelectrica.substack.com/p/ang-kawan-na-hindi-natin-nakikita",
+      "publishDate": "2026-07-21T01:00:38.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!Phr2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe71a4419-b8a1-4475-9734-96f0b31a1abe_1448x1086.png",
+      "description": "Mga Analohiya sa Enerhiya: Ang Nakatagong Kalahati ng Transisyon ng Enerhiya sa Timog at Timog-Silangang Asya",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "وہ جھُنڈ جسے ہم دیکھ نہیں پاتے",
+      "link": "https://proelectrica.substack.com/p/d99",
+      "publishDate": "2026-07-20T20:52:04.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!6mXW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96dc047a-8175-45f3-8411-7b1f7ea16c68_1448x1086.png",
+      "description": ":",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "Code Not Concrete: Why Storage's Next Constraint Is Software, Not Steel",
+      "link": "https://proelectrica.substack.com/p/code-not-concrete-why-storages-next",
+      "publishDate": "2026-07-17T15:47:20.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!t2bG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f18ad20-513d-4acb-b949-9a1cee98195d_1080x1350.png",
+      "description": "Deep Dive: The Intelligence Layer of the Grid",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "বাংলাদেশের ‘লিপফ্রগ’ মুহূর্ত: রোদ, রিকশা, আর আমদানিনির্ভর জ্বালানি থেকে মুক্তির পথ",
+      "link": "https://proelectrica.substack.com/p/dd1",
+      "publishDate": "2026-07-15T03:00:39.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!mG5w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9ffcb68-0f4b-434f-99b3-bee2dffe020c_1046x850.png",
+      "description": ":",
+      "author": "Danny Kennedy"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "Bangladesh's Leapfrog Moment: Sunshine, Rickshaws, and a Way Off the Import Bill",
+      "link": "https://proelectrica.substack.com/p/bangladeshs-leapfrog-moment-sunshine",
+      "publishDate": "2026-07-14T19:48:50.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!mG5w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9ffcb68-0f4b-434f-99b3-bee2dffe020c_1046x850.png",
+      "description": "Field Note: How Bangladesh Is Solving \"A Crying Need of the Time\"",
       "author": "Danny Kennedy"
     },
     {
@@ -290,9 +398,21 @@
       "title": "The World's Biggest EV Fleet(s)",
       "link": "https://futurekeepers.substack.com/p/the-worlds-biggest-ev-fleets",
       "publishDate": "2026-07-14T15:01:27.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!YH7K!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F080b950c-68fc-4a9b-94fb-dd0ae2fc0891_1376x768.png",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!YH7K!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F080b950c-68fc-4a9b-94fb-dd0ae2fc0891_1376x768.png",
       "description": "Picture the world's biggest fleet of electric vehicles. You're picturing the wrong one, and probably just one. It's dozens of fleets at once, on two wheels, three wheels, water, and rail.",
       "author": "FutureKeepers"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "The Swarm We Can't See",
+      "link": "https://proelectrica.substack.com/p/the-swarm-we-cant-see",
+      "publishDate": "2026-07-03T20:21:17.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!72js!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb016e546-462d-4fdc-b99a-ae78a3dfa748_1448x1086.png",
+      "description": "Energy Analogies: The Hidden Half of South & Southeast Asia's Energy Transition",
+      "author": "Danny Kennedy"
     },
     {
       "source": "ccAsia",
@@ -314,9 +434,9 @@
       "title": "Sabaidee, Sunshine",
       "link": "https://futurekeepers.substack.com/p/sabaidee-sunshine",
       "publishDate": "2026-05-29T13:37:43.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!Kk4i!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fabce7fb6-0543-485a-9e81-cc978b7301e7_1536x1024.png",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!Kk4i!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fabce7fb6-0543-485a-9e81-cc978b7301e7_1536x1024.png",
       "description": "America's war in Iran claims its first fossil-fuel casualty, as Laos outlaws the petrol engine.",
-      "author": "Steve Mudd"
+      "author": null
     },
     {
       "source": "ccAsia",
@@ -338,9 +458,9 @@
       "title": "Batteries Included",
       "link": "https://futurekeepers.substack.com/p/batteries-included",
       "publishDate": "2026-05-20T18:14:48.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!UnKA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba666630-b7fc-4417-b693-3417639e21fc_1376x768.jpeg",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!UnKA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba666630-b7fc-4417-b693-3417639e21fc_1376x768.jpeg",
       "description": "An ode to the thing that used to be sold separately.",
-      "author": "Steve Mudd"
+      "author": null
     },
     {
       "source": "fkSignal",
@@ -350,9 +470,9 @@
       "title": "Guerilla Sun",
       "link": "https://futurekeepers.substack.com/p/guerilla-sun",
       "publishDate": "2026-05-11T16:59:36.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!REpM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f4ba2dc-7739-41f3-b854-6c60768188cf_1456x816.png",
-      "description": "I don’t know who needs to hear this. But you don’t have to wait for policy to gain energy independence.",
-      "author": "Steve Mudd"
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!REpM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f4ba2dc-7739-41f3-b854-6c60768188cf_1456x816.png",
+      "description": "I don t know who needs to hear this. But you don t have to wait for policy to gain energy independence.",
+      "author": null
     },
     {
       "source": "ccAsia",
@@ -467,10 +587,10 @@
       "sourceLabel": "FutureKeepers Signal",
       "taxonomy": "signal",
       "format": "newsletter",
-      "title": "692 479",
+      "title": "692 > 479",
       "link": "https://futurekeepers.substack.com/p/692-479",
       "publishDate": "2026-04-12T03:45:00.000Z",
-      "thumbnail": null,
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!SObr!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f159255-f476-4e14-91a2-f91297a79b9b_394x394.png",
       "description": "While 479 oil and gas ships sit in the Gulf, the world quietly crossed a threshold.",
       "author": "Steve Mudd"
     },
@@ -482,7 +602,7 @@
       "title": "How to Power a Country During (and After) a Crisis",
       "link": "https://futurekeepers.substack.com/p/how-to-power-a-country-during-and",
       "publishDate": "2026-04-05T15:03:22.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!6Gfy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3779b97-0be7-48eb-889a-fbbb9edb2374_2816x1536.jpeg",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!6Gfy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3779b97-0be7-48eb-889a-fbbb9edb2374_2816x1536.jpeg",
       "description": "What Pakistan can teach the world in this crisis.",
       "author": "Steve Mudd"
     },
@@ -494,7 +614,7 @@
       "title": "Burning It Off",
       "link": "https://futurekeepers.substack.com/p/burning-it-off",
       "publishDate": "2026-03-28T14:00:00.000Z",
-      "thumbnail": null,
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!SObr!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f159255-f476-4e14-91a2-f91297a79b9b_394x394.png",
       "description": "The US fossil fuel industry's contradictions, all visible at once.",
       "author": "Steve Mudd"
     },
@@ -506,7 +626,7 @@
       "title": "The Exit Ramp",
       "link": "https://futurekeepers.substack.com/p/the-exit-ramp",
       "publishDate": "2026-03-21T03:54:00.000Z",
-      "thumbnail": null,
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!SObr!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f159255-f476-4e14-91a2-f91297a79b9b_394x394.png",
       "description": "Solar, EVs, and heat pumps are already replacing fossil fuel imports. The math says take the ramp.",
       "author": "Steve Mudd"
     },
@@ -518,8 +638,32 @@
       "title": "The Strait Story",
       "link": "https://futurekeepers.substack.com/p/the-strait-story",
       "publishDate": "2026-03-08T03:49:00.000Z",
-      "thumbnail": null,
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!SObr!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f159255-f476-4e14-91a2-f91297a79b9b_394x394.png",
       "description": "One missile, one facility, one fifth of the world's oil. There is no Ras Laffan of renewables.",
+      "author": "Steve Mudd"
+    },
+    {
+      "source": "fkSignal",
+      "sourceLabel": "FutureKeepers Signal",
+      "taxonomy": "signal",
+      "format": "newsletter",
+      "title": "Who Powers AI Right?",
+      "link": "https://futurekeepers.substack.com/p/who-powers-ai-right",
+      "publishDate": "2026-03-01T03:37:11.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!hNh3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F452f08e5-53f0-4f59-99ab-2712ebb08088_2634x1517.jpeg",
+      "description": "The AI boom needs power. Here's who's building clean and who's not.",
+      "author": "Steve Mudd"
+    },
+    {
+      "source": "fkSignal",
+      "sourceLabel": "FutureKeepers Signal",
+      "taxonomy": "signal",
+      "format": "newsletter",
+      "title": "Giddy Up, Planet Earth 🐴",
+      "link": "https://futurekeepers.substack.com/p/giddy-up-planet-earth",
+      "publishDate": "2026-02-21T22:36:50.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!LUiM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F831c57a8-3a61-4144-8ae9-2434e67fa2c2_1456x816.png",
+      "description": "The Wood Snake reshaped the world quietly. Now the Fire Horse is running. Here's what that means for the energy transition.",
       "author": "Steve Mudd"
     },
     {
@@ -559,6 +703,18 @@
       "author": "Andrew Birch (\"Birchy\")"
     },
     {
+      "source": "fkSignal",
+      "sourceLabel": "FutureKeepers Signal",
+      "taxonomy": "signal",
+      "format": "newsletter",
+      "title": "The Point of Forgetting Fossil Fuels",
+      "link": "https://futurekeepers.substack.com/p/the-point-of-forgetting-fossil-fuels",
+      "publishDate": "2025-12-06T15:09:08.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!nlrL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc53463b-84bb-4f30-9a2c-8df8d300e761_1456x816.png",
+      "description": "What memory teaches us about a bright future, India's solar milestone, the best solar view in the world, a new Solar Panda movie, and Signal and Chill",
+      "author": "Steve Mudd"
+    },
+    {
       "source": "ebirchy",
       "sourceLabel": "Andrew Birch",
       "taxonomy": "voices",
@@ -583,6 +739,18 @@
       "author": "Andrew Birch (\"Birchy\")"
     },
     {
+      "source": "fkSignal",
+      "sourceLabel": "FutureKeepers Signal",
+      "taxonomy": "signal",
+      "format": "newsletter",
+      "title": "This Week at COP30: What the Future Is Telling Us",
+      "link": "https://futurekeepers.substack.com/p/this-week-at-cop30-what-the-future",
+      "publishDate": "2025-11-22T16:41:59.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!_7-a!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb79bf5d-0c52-494a-85dd-8781ea9b401d_2752x1536.png",
+      "description": "What s really happening beneath the negotiation noise and why economic momentum is shifting faster than the politics around it",
+      "author": "Steve Mudd"
+    },
+    {
       "source": "ebirchy",
       "sourceLabel": "Andrew Birch",
       "taxonomy": "voices",
@@ -593,6 +761,18 @@
       "thumbnail": "https://static.wixstatic.com/media/415bc9_cea44a1fa78f4775b8f367b9d6a08b5b~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
       "description": "We’ve recently completed a $20 million equity raise from leading technology investors including Titanium Ventures, Google, and 2150 Sustainability Fund, among others, who share our belief that clean-energy progress comes",
       "author": "Andrew Birch (\"Birchy\")"
+    },
+    {
+      "source": "fkSignal",
+      "sourceLabel": "FutureKeepers Signal",
+      "taxonomy": "signal",
+      "format": "newsletter",
+      "title": "Top Energy Stories from Climate Week NYC",
+      "link": "https://futurekeepers.substack.com/p/top-energy-stories-from-climate-week",
+      "publishDate": "2025-09-29T02:47:15.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!9vqB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49b004c0-3ead-47bf-be2d-5fd270aefd62_1456x816.png",
+      "description": "FutureKeepers tracked the action, from the press rooms to the power plays",
+      "author": "Steve Mudd"
     },
     {
       "source": "ebirchy",

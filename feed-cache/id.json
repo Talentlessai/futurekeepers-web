@@ -1,15 +1,27 @@
 {
-  "generatedAt": "2026-10-30T10:51:23.523Z",
+  "generatedAt": "2026-10-31T10:21:40.250Z",
   "locale": "id",
   "counts": {
-    "ytLongForm": 14,
-    "ytShorts": 14
+    "ytLongForm": 15,
+    "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 14,
-    "ytShorts": 14
+    "ytLongForm": 15,
+    "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Pengeluaran paling gede emang sering yang paling nggak kerasa",
+      "link": "https://www.youtube.com/shorts/jN3b_83W-VU",
+      "publishDate": "2026-10-31T01:16:21.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/jN3b_83W-VU/hqdefault.jpg",
+      "description": "Pengeluaran paling gede emang sering yang paling nggak kerasa. Masih tim bensin, atau udah kepikiran pindah ke listrik? 👇 Follow FutureKeepers buat tau kabar energi bersih lainnya. Shine on ☀️ Konten ini didukung oleh A",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
