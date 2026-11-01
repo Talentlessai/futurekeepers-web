@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T10:21:40.250Z",
+  "generatedAt": "2026-11-01T11:14:39.629Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Banyak orang ragu mau pakai panel surya karena malem nggak ada matahari",
+      "link": "https://www.youtube.com/shorts/cxlmcIu31uY",
+      "publishDate": "2026-11-01T01:12:10.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/cxlmcIu31uY/hqdefault.jpg",
+      "description": "Banyak orang ragu mau pakai panel surya karena malem nggak ada matahari. Pahadal kalau dibarengin dengan batre, bisa banyak banget manfaatnya. Siang panen listrik dan dipakai, sisanya bisa disimpan di batre dan dipakai u",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -176,18 +188,6 @@
       "publishDate": "2026-08-28T02:00:17.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/rfY3IoimglU/hqdefault.jpg",
       "description": "Dulu sering banget mikir, \"buat apa pasang panel surya kalau malam hari listriknya mati?\" Ternyata, itu salah total! Di California, baterai-baterai sebesar gudang udah ngalirin listrik tenaga surya ke jutaan rumah setiap",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Asia Kuasai 88% Chip & Baterai Global!",
-      "link": "https://www.youtube.com/shorts/-uPQ_vFHYeU",
-      "publishDate": "2026-08-27T02:00:18.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/-uPQ_vFHYeU/hqdefault.jpg",
-      "description": "Tahukah Anda bahwa empat komponen kunci yang menggerakkan hampir setiap perangkat elektronik di bumi kini sebagian besar dikendalikan oleh satu wilayah: Asia? Dari baterai hingga chip, kawasan ini telah menjadi pusat kek",
       "author": "FutureKeepers Indonesian"
     }
   ]
