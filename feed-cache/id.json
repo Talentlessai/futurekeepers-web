@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T11:14:39.629Z",
+  "generatedAt": "2026-11-02T12:18:45.341Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Pernah bayangkan, omzet usaha anjlok 15-20% tiap kali listrik padam mendadak? Follow FutureKeepers",
+      "link": "https://www.youtube.com/shorts/Aci0aqTvrK4",
+      "publishDate": "2026-11-02T01:13:28.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/Aci0aqTvrK4/hqdefault.jpg",
+      "description": "Pernah bayangkan, omzet usaha anjlok 15-20% tiap kali listrik padam mendadak? Follow FutureKeepers buat info energi bersih lainnya. Shine on ☀️",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -176,18 +188,6 @@
       "publishDate": "2026-10-21T01:12:41.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/M_DmYeupcPY/hqdefault.jpg",
       "description": "Pertama dalam sejarah, listrik lebih banyak dibikin dari energi bersih dari pada batu bara. Kedepannya, udah pasti kebutuhan listrik bakal naik karena sekarang semua udah serba digital dan AI. Bagusnya, Indonesia punya p",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Solar Malam Hari? Kok Bisa Sih?!",
-      "link": "https://www.youtube.com/shorts/rfY3IoimglU",
-      "publishDate": "2026-08-28T02:00:17.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/rfY3IoimglU/hqdefault.jpg",
-      "description": "Dulu sering banget mikir, \"buat apa pasang panel surya kalau malam hari listriknya mati?\" Ternyata, itu salah total! Di California, baterai-baterai sebesar gudang udah ngalirin listrik tenaga surya ke jutaan rumah setiap",
       "author": "FutureKeepers Indonesian"
     }
   ]

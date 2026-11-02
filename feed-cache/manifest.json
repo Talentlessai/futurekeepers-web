@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T11:13:51.443Z",
+  "generatedAt": "2026-11-02T12:17:56.205Z",
   "locales": {
     "en": {
       "itemCount": 60,
@@ -14,12 +14,16 @@
       "freshCounts": {
         "ytLongForm": 10,
         "ytShorts": 10,
-        "fkSignal": 10,
-        "proElectrica": 10,
+        "fkSignal": 0,
+        "proElectrica": 0,
         "ebirchy": 20,
         "ccAsia": 10
       },
-      "bytes": 38155
+      "rescuedSources": [
+        "fkSignal",
+        "proElectrica"
+      ],
+      "bytes": 38198
     },
     "id": {
       "itemCount": 15,
@@ -31,7 +35,7 @@
         "ytLongForm": 15,
         "ytShorts": 15
       },
-      "bytes": 8948
+      "bytes": 8939
     },
     "zh": {
       "itemCount": 30,
