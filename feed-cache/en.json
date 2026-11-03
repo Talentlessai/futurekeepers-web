@@ -1,27 +1,35 @@
 {
-  "generatedAt": "2026-11-02T12:18:19.234Z",
+  "generatedAt": "2026-11-03T11:53:16.446Z",
   "locale": "en",
   "counts": {
-    "ytLongForm": 10,
-    "ytShorts": 10,
+    "ytLongForm": 11,
+    "ytShorts": 11,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "freshCounts": {
-    "ytLongForm": 10,
-    "ytShorts": 10,
-    "fkSignal": 0,
-    "proElectrica": 0,
+    "ytLongForm": 11,
+    "ytShorts": 11,
+    "fkSignal": 10,
+    "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
-  "rescuedSources": [
-    "fkSignal",
-    "proElectrica"
-  ],
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Skip your first hotel night, and still wake up in Milan",
+      "link": "https://www.youtube.com/shorts/lF9bow6b33Y",
+      "publishDate": "2026-11-02T13:22:31.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/lF9bow6b33Y/hqdefault.jpg",
+      "description": "Skip your first hotel night, and still wake up in Milan. Follow for more clean energy stories. Shine on ☀️",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
