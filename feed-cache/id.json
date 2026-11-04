@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T11:53:42.412Z",
+  "generatedAt": "2026-11-04T12:03:58.990Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,42 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Open kitchen itu sebenernya bukan soal dapur",
+      "link": "https://www.youtube.com/shorts/zXEZp_ZMtRE",
+      "publishDate": "2026-11-04T10:21:21.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/zXEZp_ZMtRE/hqdefault.jpg",
+      "description": "Open kitchen itu sebenernya bukan soal dapur. Follow FutureKeepers buat cerita energi bersih lainnya. Shine on ☀️",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Gedung pemerintahan di Bangladesh bakal punya kerjaan kedua",
+      "link": "https://www.youtube.com/shorts/Ir93JjJSKc4",
+      "publishDate": "2026-11-04T10:21:06.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/Ir93JjJSKc4/hqdefault.jpg",
+      "description": "Gedung pemerintahan di Bangladesh bakal punya kerjaan kedua. Follow FutureKeepers buat kabar energi bersih lainnya. Shine on ☀️",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Mending pasang PLTS on-grid vs off-grid? Follow FutureKeepers buat info energi bersih lainnya",
+      "link": "https://www.youtube.com/shorts/6XmOKZWtFkw",
+      "publishDate": "2026-11-04T01:12:39.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/6XmOKZWtFkw/hqdefault.jpg",
+      "description": "Mending pasang PLTS on-grid vs off-grid? Follow FutureKeepers buat info energi bersih lainnya. Shine on ☀️",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -152,42 +188,6 @@
       "publishDate": "2026-10-23T16:26:53.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/Oi9QXMQ2rIs/hqdefault.jpg",
       "description": "Taman kamu paling cantik justru pas nggak ada matahari. Follow FutureKeepers buat cerita energi bersih lainnya. Shine on ☀️",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Banyak orang ragu mau pakai panel surya karena malem nggak ada matahari",
-      "link": "https://www.youtube.com/shorts/t0bKapE0-4o",
-      "publishDate": "2026-10-22T01:12:26.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/t0bKapE0-4o/hqdefault.jpg",
-      "description": "Banyak orang ragu mau pakai panel surya karena malem nggak ada matahari. Pahadal kalau dibarengin dengan batre, bisa banyak banget manfaatnya. Siang panen listrik dan dipakai, sisanya bisa disimpan di batre dan dipakai u",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Singapura mau beli matahari Indonesia",
-      "link": "https://www.youtube.com/shorts/-pb7m0CaFCM",
-      "publishDate": "2026-10-21T12:22:59.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/-pb7m0CaFCM/hqdefault.jpg",
-      "description": "Singapura mau beli matahari Indonesia. Dan Indonesia jual mahal. Follow buat cerita energi bersih lainnya. Shine on ☀️",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Pertama dalam sejarah, listrik lebih banyak dibikin dari energi bersih dari pada batu bara",
-      "link": "https://www.youtube.com/shorts/M_DmYeupcPY",
-      "publishDate": "2026-10-21T01:12:41.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/M_DmYeupcPY/hqdefault.jpg",
-      "description": "Pertama dalam sejarah, listrik lebih banyak dibikin dari energi bersih dari pada batu bara. Kedepannya, udah pasti kebutuhan listrik bakal naik karena sekarang semua udah serba digital dan AI. Bagusnya, Indonesia punya p",
       "author": "FutureKeepers Indonesian"
     }
   ]

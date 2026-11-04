@@ -1,23 +1,35 @@
 {
-  "generatedAt": "2026-11-03T11:53:16.446Z",
+  "generatedAt": "2026-11-04T12:03:33.234Z",
   "locale": "en",
   "counts": {
-    "ytLongForm": 11,
-    "ytShorts": 11,
+    "ytLongForm": 12,
+    "ytShorts": 12,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "freshCounts": {
-    "ytLongForm": 11,
-    "ytShorts": 11,
+    "ytLongForm": 12,
+    "ytShorts": 12,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Bangladesh wants solar on government roofs, but the bigger shift is underneath",
+      "link": "https://www.youtube.com/shorts/pYyTwN_6g0s",
+      "publishDate": "2026-11-04T10:21:16.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/pYyTwN_6g0s/hqdefault.jpg",
+      "description": "Bangladesh wants solar on government roofs, but the bigger shift is underneath. Follow FutureKeepers for more clean energy stories. Shine on ☀️",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
