@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T12:15:53.177Z",
+  "generatedAt": "2026-11-06T12:02:35.540Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,42 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Naik Whoosh ke Bandung? Salah pilih gerbong, kamu bisa berdiri hampir dua puluh menit di kereta",
+      "link": "https://www.youtube.com/shorts/OFOA1mXfRIs",
+      "publishDate": "2026-11-06T10:23:09.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/OFOA1mXfRIs/hqdefault.jpg",
+      "description": "Naik Whoosh ke Bandung? Salah pilih gerbong, kamu bisa berdiri hampir dua puluh menit di kereta feeder. Follow buat cerita energi bersih lainnya. Shine on ☀️",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Kafe ini bisa nyamperin kamu",
+      "link": "https://www.youtube.com/shorts/ypY2obZj2zE",
+      "publishDate": "2026-11-06T10:22:39.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/ypY2obZj2zE/hqdefault.jpg",
+      "description": "Kafe ini bisa nyamperin kamu. Follow FutureKeepers buat cerita energi bersih lainnya. Shine on ☀️",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Mau pasang solar panel? Ada dua pilihan utama: on-grid atau off-grid! Bedanya? Cuma satu kabel! Tapi",
+      "link": "https://www.youtube.com/shorts/37LWBB7b6oQ",
+      "publishDate": "2026-11-06T01:12:57.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/37LWBB7b6oQ/hqdefault.jpg",
+      "description": "Mau pasang solar panel? Ada dua pilihan utama: on-grid atau off-grid! Bedanya? Cuma satu kabel! Tapi dampaknya besar. Follow FutureKeepers buat info energi bersih lainnya. Shine on ☀️",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -152,42 +188,6 @@
       "publishDate": "2026-10-27T01:12:41.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/oOJEvGLUKEA/hqdefault.jpg",
       "description": "Harga pasang panel surya udah turun 90%! Nggak heran kalau sekarang makin banyak orang pasang PLTS atap di rumahnya. Bikin listrik sendiri dari matahari lama lama bakal jadi makin murah dan makin efisien. Ini bakal jadi ",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Kafe ini bisa nyamperin kamu",
-      "link": "https://www.youtube.com/shorts/JrLlTNnjfKU",
-      "publishDate": "2026-10-26T10:24:34.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/JrLlTNnjfKU/hqdefault.jpg",
-      "description": "Kafe ini bisa nyamperin kamu. Follow FutureKeepers buat cerita energi bersih lainnya. Shine on ☀️",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Sukuk mungkin udah banyak yang denger, tapi Green Sukuk? Kaya sukuk biasa, kupon nya juga ikutin",
-      "link": "https://www.youtube.com/shorts/EBARCq9tww4",
-      "publishDate": "2026-10-26T01:12:40.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/EBARCq9tww4/hqdefault.jpg",
-      "description": "Sukuk mungkin udah banyak yang denger, tapi Green Sukuk? Kaya sukuk biasa, kupon nya juga ikutin suku bunga BI. Tapi, 100% dananya dipakai untuk proyek hijau contoh nya bangun panel surya di Pulau Selayar Sulawesi Selata",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Sukuk mungkin udah banyak yang denger, tapi Green Sukuk? Kaya sukuk biasa, kupon nya juga ikutin",
-      "link": "https://www.youtube.com/shorts/-Qoy1PDIV-s",
-      "publishDate": "2026-10-25T01:08:25.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/-Qoy1PDIV-s/hqdefault.jpg",
-      "description": "Sukuk mungkin udah banyak yang denger, tapi Green Sukuk? Kaya sukuk biasa, kupon nya juga ikutin suku bunga BI. Tapi, 100% dananya dipakai untuk proyek hijau contoh nya bangun panel surya di Pulau Selayar Sulawesi Selata",
       "author": "FutureKeepers Indonesian"
     }
   ]
