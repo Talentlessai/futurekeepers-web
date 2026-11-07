@@ -1,26 +1,47 @@
 {
-  "generatedAt": "2026-11-06T12:02:31.595Z",
+  "generatedAt": "2026-11-07T11:00:16.901Z",
   "locale": "en",
   "counts": {
-    "ytLongForm": 12,
-    "ytShorts": 12,
+    "ytLongForm": 13,
+    "ytShorts": 13,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "freshCounts": {
-    "ytLongForm": 12,
-    "ytShorts": 12,
+    "ytLongForm": 13,
+    "ytShorts": 13,
     "fkSignal": 10,
-    "proElectrica": 0,
+    "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
-  "rescuedSources": [
-    "proElectrica"
-  ],
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "In Bangkok, you can book a boat like you’d book an Uber",
+      "link": "https://www.youtube.com/shorts/mxO_1gaG77k",
+      "publishDate": "2026-11-06T13:18:59.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/mxO_1gaG77k/hqdefault.jpg",
+      "description": "In Bangkok, you can book a boat like you’d book an Uber. Follow for more clean energy stories. Shine on ☀️",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "Trump Still Gets a Prize",
+      "link": "https://proelectrica.substack.com/p/trump-still-gets-a-prize",
+      "publishDate": "2026-11-04T19:01:23.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!XMFL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47860c3f-be5b-4211-8e9d-e0eecb118679_1066x558.png",
+      "description": "This President did more for Renewable Electrification than any leader",
+      "author": "Danny Kennedy"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -295,18 +316,6 @@
       "publishDate": "2026-07-21T14:04:33.000Z",
       "thumbnail": "https://substackcdn.com/image/fetch/%24s_!uMo6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F254dc920-5556-41cc-908c-3478929f46b4_624x416.png",
       "description": "Deep Dive: The AI War Will Be Won on the Power Grid",
-      "author": "Danny Kennedy"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "যে ঝাঁককে আমরা দেখতে পাই না",
-      "link": "https://proelectrica.substack.com/p/1bb",
-      "publishDate": "2026-07-21T03:31:22.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!0wTp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e32d198-1269-466c-b48b-7724849c9ce7_1448x1086.png",
-      "description": "শক্তি-উপমা: দক্ষিণ ও দক্ষিণ-পূর্ব এশিয়ার জ্বালানি রূপান্তরের অদৃশ্য অর্ধেক",
       "author": "Danny Kennedy"
     },
     {

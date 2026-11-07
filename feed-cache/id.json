@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T12:02:35.540Z",
+  "generatedAt": "2026-11-07T11:00:20.285Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Perusahaan teknologi raksasa sibuk rebutan chip paling canggih",
+      "link": "https://www.youtube.com/shorts/GIp7P-KNvak",
+      "publishDate": "2026-11-07T01:12:30.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/GIp7P-KNvak/hqdefault.jpg",
+      "description": "Perusahaan teknologi raksasa sibuk rebutan chip paling canggih. Padahal, pemenang sebenarnya balapan AI itu yang bisa amanin listrik! Follow FutureKeepers buat info energi bersih lainnya. Shine on ☀️",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -176,18 +188,6 @@
       "publishDate": "2026-10-28T01:13:45.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/bWptQJ0w0YU/hqdefault.jpg",
       "description": "Jerman yang termasuk negara paling mendung di Eropa aja bisa jadi raja panel surya. Indonesia yang kebanjiran matahari, gimana? Potensi kita besar banget, dan kalau digarap semua harusnya udah gak ada lagi masalah listri",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Harga pasang panel surya udah turun 90%! Nggak heran kalau sekarang makin banyak orang pasang PLTS",
-      "link": "https://www.youtube.com/shorts/oOJEvGLUKEA",
-      "publishDate": "2026-10-27T01:12:41.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/oOJEvGLUKEA/hqdefault.jpg",
-      "description": "Harga pasang panel surya udah turun 90%! Nggak heran kalau sekarang makin banyak orang pasang PLTS atap di rumahnya. Bikin listrik sendiri dari matahari lama lama bakal jadi makin murah dan makin efisien. Ini bakal jadi ",
       "author": "FutureKeepers Indonesian"
     }
   ]

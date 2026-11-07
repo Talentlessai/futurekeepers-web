@@ -1,28 +1,25 @@
 {
-  "generatedAt": "2026-11-06T12:01:45.038Z",
+  "generatedAt": "2026-11-07T11:00:15.445Z",
   "locales": {
     "en": {
-      "itemCount": 62,
+      "itemCount": 63,
       "counts": {
-        "ytLongForm": 12,
-        "ytShorts": 12,
+        "ytLongForm": 13,
+        "ytShorts": 13,
         "fkSignal": 10,
         "proElectrica": 10,
         "ebirchy": 20,
         "ccAsia": 10
       },
       "freshCounts": {
-        "ytLongForm": 12,
-        "ytShorts": 12,
+        "ytLongForm": 13,
+        "ytShorts": 13,
         "fkSignal": 10,
-        "proElectrica": 0,
+        "proElectrica": 10,
         "ebirchy": 20,
         "ccAsia": 10
       },
-      "rescuedSources": [
-        "proElectrica"
-      ],
-      "bytes": 39196
+      "bytes": 39480
     },
     "id": {
       "itemCount": 15,
@@ -34,7 +31,7 @@
         "ytLongForm": 15,
         "ytShorts": 15
       },
-      "bytes": 8544
+      "bytes": 8491
     },
     "zh": {
       "itemCount": 30,
