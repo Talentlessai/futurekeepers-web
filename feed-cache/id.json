@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T12:47:05.378Z",
+  "generatedAt": "2026-11-10T12:33:57.218Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "AI bikin Thailand sama Malaysia susah saling pinjem listrik",
+      "link": "https://www.youtube.com/shorts/YbeW1zqbnY4",
+      "publishDate": "2026-11-10T10:16:58.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/YbeW1zqbnY4/hqdefault.jpg",
+      "description": "AI bikin Thailand sama Malaysia susah saling pinjem listrik. Dan anehnya, yang ketiban rezeki malah panel surya. Follow buat cerita energi bersih lainnya. Shine on ☀️",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -176,18 +188,6 @@
       "publishDate": "2026-11-01T01:12:10.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/cxlmcIu31uY/hqdefault.jpg",
       "description": "Banyak orang ragu mau pakai panel surya karena malem nggak ada matahari. Pahadal kalau dibarengin dengan batre, bisa banyak banget manfaatnya. Siang panen listrik dan dipakai, sisanya bisa disimpan di batre dan dipakai u",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Pengeluaran paling gede emang sering yang paling nggak kerasa",
-      "link": "https://www.youtube.com/shorts/jN3b_83W-VU",
-      "publishDate": "2026-10-31T01:16:21.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/jN3b_83W-VU/hqdefault.jpg",
-      "description": "Pengeluaran paling gede emang sering yang paling nggak kerasa. Masih tim bensin, atau udah kepikiran pindah ke listrik? 👇 Follow FutureKeepers buat tau kabar energi bersih lainnya. Shine on ☀️ Konten ini didukung oleh A",
       "author": "FutureKeepers Indonesian"
     }
   ]
