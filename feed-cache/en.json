@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-10T12:33:53.802Z",
+  "generatedAt": "2026-11-11T11:50:11.072Z",
   "locale": "en",
   "counts": {
-    "ytLongForm": 13,
-    "ytShorts": 13,
+    "ytLongForm": 1,
+    "ytShorts": 14,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "freshCounts": {
-    "ytLongForm": 13,
-    "ytShorts": 13,
+    "ytLongForm": 1,
+    "ytShorts": 14,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
@@ -23,6 +23,30 @@
       "sourceLabel": "FutureKeepers Channel",
       "taxonomy": "signal",
       "format": "video",
+      "title": "If you haven’t seen Uluru, you haven’t seen Australia",
+      "link": "https://www.youtube.com/shorts/vYMbfsmlPeI",
+      "publishDate": "2026-11-11T11:16:48.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/vYMbfsmlPeI/hqdefault.jpg",
+      "description": "If you haven’t seen Uluru, you haven’t seen Australia. Follow FutureKeepers for more clean energy stories. Shine on ☀️",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "Bangladesh wants solar on government roofs, but the bigger shift is underneath",
+      "link": "https://www.youtube.com/shorts/HO9lj3iH_0A",
+      "publishDate": "2026-11-11T11:16:45.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/HO9lj3iH_0A/hqdefault.jpg",
+      "description": "Bangladesh wants solar on government roofs, but the bigger shift is underneath. Follow FutureKeepers for more clean energy stories. Shine on ☀️",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "In Bangkok, you can book a boat like you’d book an Uber",
       "link": "https://www.youtube.com/shorts/mxO_1gaG77k",
       "publishDate": "2026-11-06T13:18:59.000Z",
@@ -43,10 +67,10 @@
       "author": "Danny Kennedy"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "Bangladesh wants solar on government roofs, but the bigger shift is underneath",
       "link": "https://www.youtube.com/shorts/pYyTwN_6g0s",
       "publishDate": "2026-11-04T10:21:16.000Z",
@@ -55,10 +79,10 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "Skip your first hotel night, and still wake up in Milan",
       "link": "https://www.youtube.com/shorts/lF9bow6b33Y",
       "publishDate": "2026-11-02T13:22:31.000Z",
@@ -67,10 +91,10 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "Thailand and Malaysia have traded electricity for over twenty years, and one trick was a clock",
       "link": "https://www.youtube.com/shorts/M0lPDMIMj2c",
       "publishDate": "2026-10-28T10:20:50.000Z",
@@ -79,10 +103,10 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "Asia only holds 2% of the World’s oil reserves",
       "link": "https://www.youtube.com/shorts/CZDfqDPXyXE",
       "publishDate": "2026-10-27T01:12:43.000Z",
@@ -91,10 +115,10 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "Indonesia has already beaten America",
       "link": "https://www.youtube.com/shorts/M7CRmIU8rvc",
       "publishDate": "2026-10-26T01:12:33.000Z",
@@ -103,10 +127,10 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "Asia has already changed jobs twice, and we’re still imagining the first one",
       "link": "https://www.youtube.com/shorts/F3BXKUCQTho",
       "publishDate": "2026-10-25T01:08:17.000Z",
@@ -115,10 +139,10 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "The way we’ve been building so far still using benchmarks that are starting to become outdated",
       "link": "https://www.youtube.com/shorts/LQp2wtR5PxY",
       "publishDate": "2026-10-24T01:12:12.000Z",
@@ -139,10 +163,10 @@
       "author": "Danny Kennedy"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "AC, refrigerators, we need more and more electricity everyday",
       "link": "https://www.youtube.com/shorts/ganwOg02NB4",
       "publishDate": "2026-10-23T01:12:32.000Z",
@@ -163,10 +187,10 @@
       "author": "Danny Kennedy"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "Indonesia is really good at making a product so much more expensive",
       "link": "https://www.youtube.com/shorts/jAq-q7SnIlU",
       "publishDate": "2026-10-22T01:12:29.000Z",
@@ -175,10 +199,10 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "Singapore is shopping for sunshine, and the seller is haggling",
       "link": "https://www.youtube.com/shorts/7-bmLMBwB4M",
       "publishDate": "2026-10-21T12:22:41.000Z",
@@ -187,10 +211,10 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "Picture the concert you keep talking about afterwards",
       "link": "https://www.youtube.com/shorts/LO2OLU4zyZA",
       "publishDate": "2026-10-21T01:12:39.000Z",
@@ -259,10 +283,10 @@
       "author": "Danny Kennedy"
     },
     {
-      "source": "ytLongForm",
+      "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
+      "taxonomy": "noise",
+      "format": "short",
       "title": "Solar is already beating LNG in the world's richest ocean",
       "link": "https://www.youtube.com/shorts/VbC1zRA-NbU",
       "publishDate": "2026-09-02T07:14:30.000Z",
