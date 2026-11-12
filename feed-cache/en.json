@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-11T11:50:11.072Z",
+  "generatedAt": "2026-11-12T12:37:36.638Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 1,
-    "ytShorts": 14,
+    "ytShorts": 15,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
@@ -11,13 +11,25 @@
   },
   "freshCounts": {
     "ytLongForm": 1,
-    "ytShorts": 14,
+    "ytShorts": 15,
     "fkSignal": 10,
     "proElectrica": 10,
     "ebirchy": 20,
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "If you haven’t seen Uluru, you haven’t seen Australia",
+      "link": "https://www.youtube.com/shorts/4GSXdQ0qg3c",
+      "publishDate": "2026-11-11T12:20:41.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/4GSXdQ0qg3c/hqdefault.jpg",
+      "description": "If you haven’t seen Uluru, you haven’t seen Australia. Follow FutureKeepers for more clean energy stories. Shine on ☀️",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -281,18 +293,6 @@
       "thumbnail": "https://substackcdn.com/image/fetch/%24s_!VTSW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2728380-cde2-47f8-9186-ea4807408553_844x838.png",
       "description": "Back on the Solar Coaster",
       "author": "Danny Kennedy"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Solar is already beating LNG in the world's richest ocean",
-      "link": "https://www.youtube.com/shorts/VbC1zRA-NbU",
-      "publishDate": "2026-09-02T07:14:30.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/VbC1zRA-NbU/hqdefault.jpg",
-      "description": "Thirty insurers were asked to stop underwriting fossil fuel expansion in the Coral Triangle. One said yes. The Coral Triangle spans Indonesia, Malaysia, Papua New Guinea, the Philippines, Solomon Islands and Timor-Leste.",
-      "author": "FutureKeepers"
     },
     {
       "source": "fkSignal",

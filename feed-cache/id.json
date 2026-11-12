@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T11:50:14.305Z",
+  "generatedAt": "2026-11-12T12:37:39.798Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 1,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytShorts",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "noise",
+      "format": "short",
+      "title": "PP Jakarta-Bandung pos paling mahal di perjalanan bukan bahan bakar, tapi tolnya",
+      "link": "https://www.youtube.com/shorts/u-lOwSlmqD4",
+      "publishDate": "2026-11-12T01:11:54.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/u-lOwSlmqD4/hqdefault.jpg",
+      "description": "PP Jakarta-Bandung pos paling mahal di perjalanan bukan bahan bakar, tapi tolnya. Follow FutureKeepers buat info energi bersih lainnya. Shine on ☀️",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytShorts",
       "sourceLabel": "FutureKeepers Channel",
@@ -176,18 +188,6 @@
       "publishDate": "2026-11-04T10:21:21.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/zXEZp_ZMtRE/hqdefault.jpg",
       "description": "Open kitchen itu sebenernya bukan soal dapur. Follow FutureKeepers buat cerita energi bersih lainnya. Shine on ☀️",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Gedung pemerintahan di Bangladesh bakal punya kerjaan kedua",
-      "link": "https://www.youtube.com/shorts/Ir93JjJSKc4",
-      "publishDate": "2026-11-04T10:21:06.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/Ir93JjJSKc4/hqdefault.jpg",
-      "description": "Gedung pemerintahan di Bangladesh bakal punya kerjaan kedua. Follow FutureKeepers buat kabar energi bersih lainnya. Shine on ☀️",
       "author": "FutureKeepers Indonesian"
     }
   ]
