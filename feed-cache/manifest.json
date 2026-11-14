@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T12:07:39.224Z",
+  "generatedAt": "2026-11-14T11:25:24.226Z",
   "locales": {
     "en": {
       "itemCount": 65,
@@ -19,19 +19,19 @@
         "ebirchy": 20,
         "ccAsia": 10
       },
-      "bytes": 40460
+      "bytes": 40405
     },
     "id": {
       "itemCount": 15,
       "counts": {
-        "ytLongForm": 1,
+        "ytLongForm": 15,
         "ytShorts": 15
       },
       "freshCounts": {
-        "ytLongForm": 1,
+        "ytLongForm": 15,
         "ytShorts": 15
       },
-      "bytes": 8003
+      "bytes": 7992
     },
     "zh": {
       "itemCount": 30,

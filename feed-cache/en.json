@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T12:07:39.633Z",
+  "generatedAt": "2026-11-14T11:25:24.977Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -53,6 +53,18 @@
       "thumbnail": "https://i2.ytimg.com/vi/MOtsqJ6u25A/hqdefault.jpg",
       "description": "If you haven’t seen Uluru, you haven’t seen Australia. Follow FutureKeepers for more clean energy stories. Shine on ☀️",
       "author": "FutureKeepers"
+    },
+    {
+      "source": "proElectrica",
+      "sourceLabel": "ProElectrica",
+      "taxonomy": "voices",
+      "format": "newsletter",
+      "title": "Good contagion starts here",
+      "link": "https://proelectrica.substack.com/p/good-contagion-starts-here",
+      "publishDate": "2026-11-12T20:35:35.000Z",
+      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!EX7o!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ad51925-5174-47f8-97d5-4500d138a7d3_1240x650.png",
+      "description": "Field Notes from the Green City under the Sun",
+      "author": "Danny Kennedy"
     },
     {
       "source": "ytLongForm",
@@ -329,18 +341,6 @@
       "thumbnail": "https://static.wixstatic.com/media/415bc9_e339eba17f954417875d76a582b06295~mv2.png/v1/fit/w_1000,h_720,al_c,q_80/file.png",
       "description": "The question I've been asked more than any other over the past few months is whether US solar can continue to grow without tax credits. It's a fair question! The policy landscape has changed, financing has become more ch",
       "author": "Andrew Birch (\"Birchy\")"
-    },
-    {
-      "source": "proElectrica",
-      "sourceLabel": "ProElectrica",
-      "taxonomy": "voices",
-      "format": "newsletter",
-      "title": "Deep (Seek) Sneak Preview: It’s the Cost of Electricity, Stupid!",
-      "link": "https://proelectrica.substack.com/p/deep-seek-sneak-preview-its-the-cost",
-      "publishDate": "2026-07-21T14:04:33.000Z",
-      "thumbnail": "https://substackcdn.com/image/fetch/%24s_!uMo6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F254dc920-5556-41cc-908c-3478929f46b4_624x416.png",
-      "description": "Deep Dive: The AI War Will Be Won on the Power Grid",
-      "author": "Danny Kennedy"
     },
     {
       "source": "fkSignal",

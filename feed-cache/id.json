@@ -1,20 +1,32 @@
 {
-  "generatedAt": "2026-11-13T12:07:42.831Z",
+  "generatedAt": "2026-11-14T11:25:28.656Z",
   "locale": "id",
   "counts": {
-    "ytLongForm": 1,
+    "ytLongForm": 15,
     "ytShorts": 15
   },
   "freshCounts": {
-    "ytLongForm": 1,
+    "ytLongForm": 15,
     "ytShorts": 15
   },
   "items": [
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Di Jerman ada satu koma tiga juta panel surya yang tinggal dicolok ke stopkontak",
+      "link": "https://www.youtube.com/shorts/ZPWqJD25C30",
+      "publishDate": "2026-11-14T01:12:36.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/ZPWqJD25C30/hqdefault.jpg",
+      "description": "Di Jerman ada satu koma tiga juta panel surya yang tinggal dicolok ke stopkontak. Follow FutureKeepers buat kabar energi bersih lainnya. Shine on ☀️",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "Dua trik yang aku lakuin biar dapur apartemenku Pinterest-worthy, tapi tetap fungsional",
       "link": "https://www.youtube.com/shorts/fTRVhhoBlug",
       "publishDate": "2026-11-13T10:23:00.000Z",
@@ -23,10 +35,10 @@
       "author": "FutureKeepers Indonesian"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "AI bikin Thailand sama Malaysia susah saling pinjem listrik",
       "link": "https://www.youtube.com/shorts/fJ8-68Boi5A",
       "publishDate": "2026-11-13T10:22:39.000Z",
@@ -35,10 +47,10 @@
       "author": "FutureKeepers Indonesian"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "Indonesia udah menang dari Amerika",
       "link": "https://www.youtube.com/shorts/gBzZDCZf0ys",
       "publishDate": "2026-11-13T01:12:32.000Z",
@@ -59,10 +71,10 @@
       "author": "FutureKeepers Indonesian"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "Gedung pemerintahan di Bangladesh bakal punya kerjaan kedua",
       "link": "https://www.youtube.com/shorts/HSpBIEy_SNQ",
       "publishDate": "2026-11-11T10:17:01.000Z",
@@ -71,10 +83,10 @@
       "author": "FutureKeepers Indonesian"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "Gedung pemerintahan di Bangladesh bakal punya kerjaan kedua",
       "link": "https://www.youtube.com/shorts/vBPpTJM9LgE",
       "publishDate": "2026-11-11T10:16:41.000Z",
@@ -83,10 +95,10 @@
       "author": "FutureKeepers Indonesian"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "Gara-gara air fryer, gue berubah pikiran soal panel surya",
       "link": "https://www.youtube.com/shorts/39n1rtBcgAk",
       "publishDate": "2026-11-11T10:16:38.000Z",
@@ -95,10 +107,10 @@
       "author": "FutureKeepers Indonesian"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "AI bikin Thailand sama Malaysia susah saling pinjem listrik",
       "link": "https://www.youtube.com/shorts/YbeW1zqbnY4",
       "publishDate": "2026-11-10T10:16:58.000Z",
@@ -107,10 +119,10 @@
       "author": "FutureKeepers Indonesian"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "Singapura mau beli matahari Indonesia",
       "link": "https://www.youtube.com/shorts/lYviRzwhJjk",
       "publishDate": "2026-11-09T10:17:02.000Z",
@@ -119,10 +131,10 @@
       "author": "FutureKeepers Indonesian"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "Singapura mau beli matahari Indonesia",
       "link": "https://www.youtube.com/shorts/YX8dLlmCp9I",
       "publishDate": "2026-11-09T10:17:00.000Z",
@@ -131,10 +143,10 @@
       "author": "FutureKeepers Indonesian"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "Hidden gem buat healing kamu berikutnya: ketenangan maksimal di Bawah",
       "link": "https://www.youtube.com/shorts/Xxv86Hz8EU4",
       "publishDate": "2026-11-09T10:16:51.000Z",
@@ -143,10 +155,10 @@
       "author": "FutureKeepers Indonesian"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "Perusahaan teknologi raksasa sibuk rebutan chip paling canggih",
       "link": "https://www.youtube.com/shorts/GIp7P-KNvak",
       "publishDate": "2026-11-07T01:12:30.000Z",
@@ -155,10 +167,10 @@
       "author": "FutureKeepers Indonesian"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "Naik Whoosh ke Bandung? Salah pilih gerbong, kamu bisa berdiri hampir dua puluh menit di kereta",
       "link": "https://www.youtube.com/shorts/OFOA1mXfRIs",
       "publishDate": "2026-11-06T10:23:09.000Z",
@@ -167,27 +179,15 @@
       "author": "FutureKeepers Indonesian"
     },
     {
-      "source": "ytShorts",
+      "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
+      "taxonomy": "signal",
+      "format": "video",
       "title": "Kafe ini bisa nyamperin kamu",
       "link": "https://www.youtube.com/shorts/ypY2obZj2zE",
       "publishDate": "2026-11-06T10:22:39.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/ypY2obZj2zE/hqdefault.jpg",
       "description": "Kafe ini bisa nyamperin kamu. Follow FutureKeepers buat cerita energi bersih lainnya. Shine on ☀️",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytShorts",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "noise",
-      "format": "short",
-      "title": "Mau pasang solar panel? Ada dua pilihan utama: on-grid atau off-grid! Bedanya? Cuma satu kabel! Tapi",
-      "link": "https://www.youtube.com/shorts/37LWBB7b6oQ",
-      "publishDate": "2026-11-06T01:12:57.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/37LWBB7b6oQ/hqdefault.jpg",
-      "description": "Mau pasang solar panel? Ada dua pilihan utama: on-grid atau off-grid! Bedanya? Cuma satu kabel! Tapi dampaknya besar. Follow FutureKeepers buat info energi bersih lainnya. Shine on ☀️",
       "author": "FutureKeepers Indonesian"
     }
   ]
