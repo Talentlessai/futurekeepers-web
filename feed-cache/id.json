@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T11:25:28.656Z",
+  "generatedAt": "2026-11-15T11:54:54.411Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Ngecas mobil listrik lima menit",
+      "link": "https://www.youtube.com/shorts/oxykhfLzLjk",
+      "publishDate": "2026-11-15T01:12:39.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/oxykhfLzLjk/hqdefault.jpg",
+      "description": "Ngecas mobil listrik lima menit. Bukan lima jam, lima menit. Follow FutureKeepers buat kabar energi bersih lainnya. Shine on ☀️",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -176,18 +188,6 @@
       "publishDate": "2026-11-06T10:23:09.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/OFOA1mXfRIs/hqdefault.jpg",
       "description": "Naik Whoosh ke Bandung? Salah pilih gerbong, kamu bisa berdiri hampir dua puluh menit di kereta feeder. Follow buat cerita energi bersih lainnya. Shine on ☀️",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Kafe ini bisa nyamperin kamu",
-      "link": "https://www.youtube.com/shorts/ypY2obZj2zE",
-      "publishDate": "2026-11-06T10:22:39.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/ypY2obZj2zE/hqdefault.jpg",
-      "description": "Kafe ini bisa nyamperin kamu. Follow FutureKeepers buat cerita energi bersih lainnya. Shine on ☀️",
       "author": "FutureKeepers Indonesian"
     }
   ]
