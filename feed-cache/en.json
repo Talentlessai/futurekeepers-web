@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T11:54:50.252Z",
+  "generatedAt": "2026-11-16T12:40:23.364Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,30 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "The panels were never the hard part",
+      "link": "https://www.youtube.com/shorts/V-MZ4tM-5e8",
+      "publishDate": "2026-11-16T10:17:12.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/V-MZ4tM-5e8/hqdefault.jpg",
+      "description": "The panels were never the hard part. ☀️ Launched at COP31, the Global Rooftop Solar Declaration is a shared pledge to make home solar easier and more affordable. Want your country in? Ask your government to sign at 300mi",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Skip your first hotel night, and still wake up in Milan",
+      "link": "https://www.youtube.com/shorts/FyeQi-Xw_Qw",
+      "publishDate": "2026-11-16T10:17:00.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/FyeQi-Xw_Qw/hqdefault.jpg",
+      "description": "Skip your first hotel night, and still wake up in Milan. Follow for more clean energy stories. Shine on ☀️",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -199,18 +223,6 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "The way we’ve been building so far still using benchmarks that are starting to become outdated",
-      "link": "https://www.youtube.com/shorts/LQp2wtR5PxY",
-      "publishDate": "2026-10-24T01:12:12.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/LQp2wtR5PxY/hqdefault.jpg",
-      "description": "The way we’ve been building so far still using benchmarks that are starting to become outdated. Follow FutureKeepers for more clean energy news. Shine on ☀️",
-      "author": "FutureKeepers"
-    },
-    {
       "source": "proElectrica",
       "sourceLabel": "ProElectrica",
       "taxonomy": "voices",
@@ -221,18 +233,6 @@
       "thumbnail": null,
       "description": "Episode #2: Danny Kennedy sits down with XSolar CEO Nham Bui to explore how no-money-down solar, smart software, and a few hundred small rooftops are reshaping energy for Vietnam’s small businesses.",
       "author": "Danny Kennedy"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "AC, refrigerators, we need more and more electricity everyday",
-      "link": "https://www.youtube.com/shorts/ganwOg02NB4",
-      "publishDate": "2026-10-23T01:12:32.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/ganwOg02NB4/hqdefault.jpg",
-      "description": "AC, refrigerators, we need more and more electricity everyday. Follow FutureKeepers for more clean energy stories. Shine on ☀️",
-      "author": "FutureKeepers"
     },
     {
       "source": "proElectrica",
