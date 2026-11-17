@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T12:40:26.647Z",
+  "generatedAt": "2026-11-17T13:16:15.018Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Media heboh Indonesia mau jual listrik matahari ke Singapura",
+      "link": "https://www.youtube.com/shorts/mXiOD8KJCe0",
+      "publishDate": "2026-11-17T01:11:30.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/mXiOD8KJCe0/hqdefault.jpg",
+      "description": "Media heboh Indonesia mau jual listrik matahari ke Singapura. Follow FutureKeepers buat cerita energi bersih lainnya. Shine on ☀️",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -175,18 +187,6 @@
       "link": "https://www.youtube.com/shorts/lYviRzwhJjk",
       "publishDate": "2026-11-09T10:17:02.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/lYviRzwhJjk/hqdefault.jpg",
-      "description": "Singapura mau beli matahari Indonesia. Dan Indonesia jual mahal. Follow buat cerita energi bersih lainnya. Shine on ☀️",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Singapura mau beli matahari Indonesia",
-      "link": "https://www.youtube.com/shorts/YX8dLlmCp9I",
-      "publishDate": "2026-11-09T10:17:00.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/YX8dLlmCp9I/hqdefault.jpg",
       "description": "Singapura mau beli matahari Indonesia. Dan Indonesia jual mahal. Follow buat cerita energi bersih lainnya. Shine on ☀️",
       "author": "FutureKeepers Indonesian"
     }
