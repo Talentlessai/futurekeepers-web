@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T12:49:26.886Z",
+  "generatedAt": "2026-11-21T12:34:48.236Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Satu taksi listrik di Jakarta udah keliling bumi dua belas kali",
+      "link": "https://www.youtube.com/shorts/bQTGAizTrLQ",
+      "publishDate": "2026-11-21T01:11:13.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/bQTGAizTrLQ/hqdefault.jpg",
+      "description": "Satu taksi listrik di Jakarta udah keliling bumi dua belas kali. Follow FutureKeepers buat kabar energi bersih lainnya. Shine on ☀️",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -176,18 +188,6 @@
       "publishDate": "2026-11-13T01:12:32.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/gBzZDCZf0ys/hqdefault.jpg",
       "description": "Indonesia udah menang dari Amerika. Kaya yang salah ngomong ya? Follow FutureKeepers buat info energi bersih lainnya. Shine on ☀️",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "PP Jakarta-Bandung pos paling mahal di perjalanan bukan bahan bakar, tapi tolnya",
-      "link": "https://www.youtube.com/shorts/u-lOwSlmqD4",
-      "publishDate": "2026-11-12T01:11:54.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/u-lOwSlmqD4/hqdefault.jpg",
-      "description": "PP Jakarta-Bandung pos paling mahal di perjalanan bukan bahan bakar, tapi tolnya. Follow FutureKeepers buat info energi bersih lainnya. Shine on ☀️",
       "author": "FutureKeepers Indonesian"
     }
   ]

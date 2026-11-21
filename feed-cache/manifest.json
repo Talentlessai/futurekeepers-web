@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T12:49:23.180Z",
+  "generatedAt": "2026-11-21T12:34:44.357Z",
   "locales": {
     "en": {
       "itemCount": 65,
@@ -31,7 +31,7 @@
         "ytLongForm": 15,
         "ytShorts": 15
       },
-      "bytes": 8154
+      "bytes": 8121
     },
     "zh": {
       "itemCount": 30,
