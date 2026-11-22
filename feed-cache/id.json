@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T12:34:48.236Z",
+  "generatedAt": "2026-11-22T12:31:07.779Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Orang ragu beli motor listrik karena ngira pasti harus naik daya",
+      "link": "https://www.youtube.com/shorts/aVUgEEtYLx0",
+      "publishDate": "2026-11-22T01:11:09.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/aVUgEEtYLx0/hqdefault.jpg",
+      "description": "Orang ragu beli motor listrik karena ngira pasti harus naik daya. Follow FutureKeepers buat cerita energi bersih lainnya. Shine on ☀️",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -176,18 +188,6 @@
       "publishDate": "2026-11-13T10:22:39.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/fJ8-68Boi5A/hqdefault.jpg",
       "description": "AI bikin Thailand sama Malaysia susah saling pinjem listrik. Dan anehnya, yang ketiban rezeki malah panel surya. Follow buat cerita energi bersih lainnya. Shine on ☀️",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Indonesia udah menang dari Amerika",
-      "link": "https://www.youtube.com/shorts/gBzZDCZf0ys",
-      "publishDate": "2026-11-13T01:12:32.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/gBzZDCZf0ys/hqdefault.jpg",
-      "description": "Indonesia udah menang dari Amerika. Kaya yang salah ngomong ya? Follow FutureKeepers buat info energi bersih lainnya. Shine on ☀️",
       "author": "FutureKeepers Indonesian"
     }
   ]
