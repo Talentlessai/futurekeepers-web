@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T12:31:07.779Z",
+  "generatedAt": "2026-11-23T14:30:42.406Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,42 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Want solar panels without the install hassle? Follow for more clean energy stories",
+      "link": "https://www.youtube.com/shorts/TMISARwk67g",
+      "publishDate": "2026-11-23T11:18:50.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/TMISARwk67g/hqdefault.jpg",
+      "description": "Want solar panels without the install hassle? Follow for more clean energy stories. Shine on ☀️",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Berapa lembar panel surya yang cocok untuk rumah kamu? Dari tagihan listrik, kamu bisa tahu sendiri",
+      "link": "https://www.youtube.com/shorts/lB2XZ9TfVIk",
+      "publishDate": "2026-11-23T10:16:39.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/lB2XZ9TfVIk/hqdefault.jpg",
+      "description": "Berapa lembar panel surya yang cocok untuk rumah kamu? Dari tagihan listrik, kamu bisa tahu sendiri. Kamu pun bisa memilih panel surya on-grid yang terhubung langsung ke jaringan listrik PLN, sehingga saat daya surya kur",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Satu telur, dua kompor",
+      "link": "https://www.youtube.com/shorts/1m7VVKtN0Tc",
+      "publishDate": "2026-11-23T01:11:02.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/1m7VVKtN0Tc/hqdefault.jpg",
+      "description": "Satu telur, dua kompor. Yang satu sembilan menit, satunya sembilan belas. Follow FutureKeepers buat kabar energi bersih lainnya. Shine on ☀️",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -152,42 +188,6 @@
       "publishDate": "2026-11-15T01:12:39.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/oxykhfLzLjk/hqdefault.jpg",
       "description": "Ngecas mobil listrik lima menit. Bukan lima jam, lima menit. Follow FutureKeepers buat kabar energi bersih lainnya. Shine on ☀️",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Di Jerman ada satu koma tiga juta panel surya yang tinggal dicolok ke stopkontak",
-      "link": "https://www.youtube.com/shorts/ZPWqJD25C30",
-      "publishDate": "2026-11-14T01:12:36.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/ZPWqJD25C30/hqdefault.jpg",
-      "description": "Di Jerman ada satu koma tiga juta panel surya yang tinggal dicolok ke stopkontak. Follow FutureKeepers buat kabar energi bersih lainnya. Shine on ☀️",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Dua trik yang aku lakuin biar dapur apartemenku Pinterest-worthy, tapi tetap fungsional",
-      "link": "https://www.youtube.com/shorts/fTRVhhoBlug",
-      "publishDate": "2026-11-13T10:23:00.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/fTRVhhoBlug/hqdefault.jpg",
-      "description": "Dua trik yang aku lakuin biar dapur apartemenku Pinterest-worthy, tapi tetap fungsional. Follow buat cerita energi bersih lainnya. Shine on ☀️",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "AI bikin Thailand sama Malaysia susah saling pinjem listrik",
-      "link": "https://www.youtube.com/shorts/fJ8-68Boi5A",
-      "publishDate": "2026-11-13T10:22:39.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/fJ8-68Boi5A/hqdefault.jpg",
-      "description": "AI bikin Thailand sama Malaysia susah saling pinjem listrik. Dan anehnya, yang ketiban rezeki malah panel surya. Follow buat cerita energi bersih lainnya. Shine on ☀️",
       "author": "FutureKeepers Indonesian"
     }
   ]
