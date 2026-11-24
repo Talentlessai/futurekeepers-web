@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T14:30:42.406Z",
+  "generatedAt": "2026-11-24T14:48:19.709Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,30 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Sebelum beli mobil, kamu test drive dulu kan? Nah, panel surya juga bisa",
+      "link": "https://www.youtube.com/shorts/vX4idUbFxUc",
+      "publishDate": "2026-11-24T11:12:48.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/vX4idUbFxUc/hqdefault.jpg",
+      "description": "Sebelum beli mobil, kamu test drive dulu kan? Nah, panel surya juga bisa. Follow buat cerita energi bersih lainnya. Shine on ☀️",
+      "author": "FutureKeepers Indonesian"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Banjir setinggi betis, orang ngira mobil listrik nggak akan kuat",
+      "link": "https://www.youtube.com/shorts/BEZp48dheuc",
+      "publishDate": "2026-11-24T01:11:26.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/BEZp48dheuc/hqdefault.jpg",
+      "description": "Banjir setinggi betis, orang ngira mobil listrik nggak akan kuat. Ternyata kebalik. Follow buat cerita energi bersih lainnya. Shine on ☀️",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -164,30 +188,6 @@
       "publishDate": "2026-11-16T10:16:59.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/Fp0bFrFCS7E/hqdefault.jpg",
       "description": "Semua orang bilang Vespa antik itu motor hobi. Nggak ada yang bilang dia bisa jadi motor harian. Follow buat cerita energi bersih lainnya. Shine on ☀️",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Inilah Segitiga Terumbu Karang, bentangan laut terkaya di Bumi",
-      "link": "https://www.youtube.com/shorts/SdiIM-0ogbw",
-      "publishDate": "2026-11-16T01:10:26.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/SdiIM-0ogbw/hqdefault.jpg",
-      "description": "Inilah Segitiga Terumbu Karang, bentangan laut terkaya di Bumi. 76% spesies karang dunia. Sumber pangan bagi 360 juta orang. Dan 19 terminal gas sudah berdiri di atasnya, 27 lagi menyusul. Insure Our Future meminta 30 pe",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Ngecas mobil listrik lima menit",
-      "link": "https://www.youtube.com/shorts/oxykhfLzLjk",
-      "publishDate": "2026-11-15T01:12:39.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/oxykhfLzLjk/hqdefault.jpg",
-      "description": "Ngecas mobil listrik lima menit. Bukan lima jam, lima menit. Follow FutureKeepers buat kabar energi bersih lainnya. Shine on ☀️",
       "author": "FutureKeepers Indonesian"
     }
   ]

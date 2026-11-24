@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T14:30:38.616Z",
+  "generatedAt": "2026-11-24T14:48:15.979Z",
   "locales": {
     "en": {
       "itemCount": 65,
@@ -19,7 +19,7 @@
         "ebirchy": 20,
         "ccAsia": 10
       },
-      "bytes": 40245
+      "bytes": 40159
     },
     "id": {
       "itemCount": 15,
@@ -31,7 +31,7 @@
         "ytLongForm": 15,
         "ytShorts": 15
       },
-      "bytes": 8127
+      "bytes": 8091
     },
     "zh": {
       "itemCount": 30,

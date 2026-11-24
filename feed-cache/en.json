@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T14:30:39.046Z",
+  "generatedAt": "2026-11-24T14:48:16.444Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,42 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Want solar panels without the install hassle? Follow for more clean energy stories",
+      "link": "https://www.youtube.com/shorts/8-T5G-xA86g",
+      "publishDate": "2026-11-24T13:18:40.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/8-T5G-xA86g/hqdefault.jpg",
+      "description": "Want solar panels without the install hassle? Follow for more clean energy stories. Shine on ☀️",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Want solar panels, but your roof can’t take the weight? Follow for more clean energy stories",
+      "link": "https://www.youtube.com/shorts/tzkoSkI_e-I",
+      "publishDate": "2026-11-24T10:12:46.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/tzkoSkI_e-I/hqdefault.jpg",
+      "description": "Want solar panels, but your roof can’t take the weight? Follow for more clean energy stories. Shine on ☀️",
+      "author": "FutureKeepers"
+    },
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Maldives is your dream trip? Follow for more clean energy stories",
+      "link": "https://www.youtube.com/shorts/Ark2wxdPJE8",
+      "publishDate": "2026-11-24T10:12:44.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/Ark2wxdPJE8/hqdefault.jpg",
+      "description": "Maldives is your dream trip? Follow for more clean energy stories. Shine on ☀️",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -175,30 +211,6 @@
       "author": "FutureKeepers"
     },
     {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Bangladesh wants solar on government roofs, but the bigger shift is underneath",
-      "link": "https://www.youtube.com/shorts/HO9lj3iH_0A",
-      "publishDate": "2026-11-11T11:16:45.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/HO9lj3iH_0A/hqdefault.jpg",
-      "description": "Bangladesh wants solar on government roofs, but the bigger shift is underneath. Follow FutureKeepers for more clean energy stories. Shine on ☀️",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "In Bangkok, you can book a boat like you’d book an Uber",
-      "link": "https://www.youtube.com/shorts/mxO_1gaG77k",
-      "publishDate": "2026-11-06T13:18:59.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/mxO_1gaG77k/hqdefault.jpg",
-      "description": "In Bangkok, you can book a boat like you’d book an Uber. Follow for more clean energy stories. Shine on ☀️",
-      "author": "FutureKeepers"
-    },
-    {
       "source": "proElectrica",
       "sourceLabel": "ProElectrica",
       "taxonomy": "voices",
@@ -209,18 +221,6 @@
       "thumbnail": "https://substackcdn.com/image/fetch/%24s_!XMFL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47860c3f-be5b-4211-8e9d-e0eecb118679_1066x558.png",
       "description": "This President did more for Renewable Electrification than any leader",
       "author": "Danny Kennedy"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Bangladesh wants solar on government roofs, but the bigger shift is underneath",
-      "link": "https://www.youtube.com/shorts/pYyTwN_6g0s",
-      "publishDate": "2026-11-04T10:21:16.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/pYyTwN_6g0s/hqdefault.jpg",
-      "description": "Bangladesh wants solar on government roofs, but the bigger shift is underneath. Follow FutureKeepers for more clean energy stories. Shine on ☀️",
-      "author": "FutureKeepers"
     },
     {
       "source": "proElectrica",
