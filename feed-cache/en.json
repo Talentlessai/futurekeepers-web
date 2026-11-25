@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T14:48:16.444Z",
+  "generatedAt": "2026-11-25T14:15:05.572Z",
   "locale": "en",
   "counts": {
     "ytLongForm": 15,
@@ -18,6 +18,18 @@
     "ccAsia": 10
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Maldives is your dream trip? Follow for more clean energy stories",
+      "link": "https://www.youtube.com/shorts/fsRTUtpDU4U",
+      "publishDate": "2026-11-25T10:16:44.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/fsRTUtpDU4U/hqdefault.jpg",
+      "description": "Maldives is your dream trip? Follow for more clean energy stories. Shine on ☀️",
+      "author": "FutureKeepers"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -195,18 +207,6 @@
       "link": "https://www.youtube.com/shorts/4GSXdQ0qg3c",
       "publishDate": "2026-11-11T12:20:41.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/4GSXdQ0qg3c/hqdefault.jpg",
-      "description": "If you haven’t seen Uluru, you haven’t seen Australia. Follow FutureKeepers for more clean energy stories. Shine on ☀️",
-      "author": "FutureKeepers"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "If you haven’t seen Uluru, you haven’t seen Australia",
-      "link": "https://www.youtube.com/shorts/vYMbfsmlPeI",
-      "publishDate": "2026-11-11T11:16:48.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/vYMbfsmlPeI/hqdefault.jpg",
       "description": "If you haven’t seen Uluru, you haven’t seen Australia. Follow FutureKeepers for more clean energy stories. Shine on ☀️",
       "author": "FutureKeepers"
     },

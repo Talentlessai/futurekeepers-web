@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T14:48:19.709Z",
+  "generatedAt": "2026-11-25T14:15:08.899Z",
   "locale": "id",
   "counts": {
     "ytLongForm": 15,
@@ -10,6 +10,18 @@
     "ytShorts": 15
   },
   "items": [
+    {
+      "source": "ytLongForm",
+      "sourceLabel": "FutureKeepers Channel",
+      "taxonomy": "signal",
+      "format": "video",
+      "title": "Tanpa sadar, kamu itu akuntan listrik di rumah kamu sendiri",
+      "link": "https://www.youtube.com/shorts/9mM9mahxFN4",
+      "publishDate": "2026-11-25T01:11:13.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/9mM9mahxFN4/hqdefault.jpg",
+      "description": "Tanpa sadar, kamu itu akuntan listrik di rumah kamu sendiri. Follow FutureKeepers buat cerita energi bersih lainnya. Shine on ☀️",
+      "author": "FutureKeepers Indonesian"
+    },
     {
       "source": "ytLongForm",
       "sourceLabel": "FutureKeepers Channel",
@@ -176,18 +188,6 @@
       "publishDate": "2026-11-16T12:24:07.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/UyAiAZzSSTg/hqdefault.jpg",
       "description": "Di Jerman ada satu koma tiga juta panel surya yang tinggal dicolok ke stopkontak. Follow FutureKeepers buat kabar energi bersih lainnya. Shine on ☀️",
-      "author": "FutureKeepers Indonesian"
-    },
-    {
-      "source": "ytLongForm",
-      "sourceLabel": "FutureKeepers Channel",
-      "taxonomy": "signal",
-      "format": "video",
-      "title": "Semua orang bilang Vespa antik itu motor hobi",
-      "link": "https://www.youtube.com/shorts/Fp0bFrFCS7E",
-      "publishDate": "2026-11-16T10:16:59.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/Fp0bFrFCS7E/hqdefault.jpg",
-      "description": "Semua orang bilang Vespa antik itu motor hobi. Nggak ada yang bilang dia bisa jadi motor harian. Follow buat cerita energi bersih lainnya. Shine on ☀️",
       "author": "FutureKeepers Indonesian"
     }
   ]
